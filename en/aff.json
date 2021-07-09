@@ -61,18 +61,6 @@
                     "type": "Free"
                 }
             ]
-        },
-        {
-            "platform": "iOS",
-            "softwares": []
-        },
-        {
-            "platform": "Android",
-            "softwares": []
-        },
-        {
-            "platform": "ChromeOS",
-            "softwares": []
         }
     ]
 }

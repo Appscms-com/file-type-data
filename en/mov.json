@@ -142,10 +142,6 @@
                     "type": "Free"
                 }
             ]
-        },
-        {
-            "platform": "ChromeOS",
-            "softwares": []
         }
     ]
 }
