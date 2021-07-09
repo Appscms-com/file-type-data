@@ -12,10 +12,6 @@
     "DetailedInformation": "ACC files contain financial account data for graphics accounts. They can be opened in conjunction with a budget (.BGT) file.",
     "Softwaresused": [
         {
-            "platform": "Linux",
-            "softwares": []
-        },
-        {
             "platform": "Windows",
             "softwares": [
                 {
@@ -25,22 +21,6 @@
                     "type": "Free"
                 }
             ]
-        },
-        {
-            "platform": "Mac",
-            "softwares": []
-        },
-        {
-            "platform": "iOS",
-            "softwares": []
-        },
-        {
-            "platform": "Android",
-            "softwares": []
-        },
-        {
-            "platform": "ChromeOS",
-            "softwares": []
         }
     ]
 }
