@@ -1,0 +1,88 @@
+{
+    "Format": "OPUS",
+    "ShortName": "OPUS",
+    "FullName": "Opus Audio File",
+    "Category": "Ses dosyası",
+    "Pros": "Birkaç kanal üzerinden daha hızlı veri aktarımı sağlar. Ses kalitesi testleri, orijinal sesi çeşitli bit hızlarında ve örnekleme hızlarında daha verimli bir şekilde geri yüklediğini ortaya koymaktadır. Çeşitli durumlarda tutarlı performans sağlar. Çok sayıda telekom hizmeti için geleceğe yönelik bir yapı. Ses bilgi türüne uyarlanabilir. İletim sırasında kalite kayıplarını kısmen telafi edebilir ve kesintisiz sürekli canlı veri aktarımına olanak tanır. ",
+    "Cons": "Birden fazla uygulama tarafından desteklenmez. Opus codec bileşeni naderdir.",
+    "Createdby": "Xiph.Org ",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "2012",
+    "BasicInformation": "Opus, Xiph.Org Vakfı (Mozilla Corporation) ve Skype Technologies S.A. (Microsoft) uzmanlarından oluşan bir ekip tarafından üretilen yeni bir codec bileşenidir. Kusurlarını en aza indirirken MP3'in tüm avantajlarına sahiptir. Opus, CELT ve SILK codec bileşenlerini birleştirir.",
+    "DetailedInformation": "OPUS dosyası, İnternet akışı için tasarlanmış Opus formatında (bazen “Ogg Opus” olarak da bilinir) oluşturulan kayıplı bir ses dosyasıdır. 6 kb/s ila 510 kb/s arasında değişen bit hızlarını destekler ve hem SILK (Skype tarafından kullanılır) hem de CELT (Xiph.Organ'dan) codec bileşenlerini kullanır. IP üzerinden ses (VoIP), görüntülü konferans ve oyun içi sohbetlerin tümü Opus codec bileşenini kullanır. IETF, yaygın olarak kullanılan Opus formatını tanımladı. IETF, Xiph.Org tarafından muhafaza edilen Opus formatını standartlaştırdı. Opus codec bileşeni çoğunlukla akış için kullanıldığından, .opus uzantılı dosyalar nadirdir.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC Medya Oynatıcı",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Microsoft'tan edinin",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "VideoLan VLC Medya Oynatıcı",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "NİŞAN",
+                    "link": "http://www.aimp2.us/",
+                    "image": "/assets/fileimg/sOBpiyF.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Foobar2000",
+                    "link": "https://www.foobar2000.org/",
+                    "image": "/assets/fileimg/c2PuNRk.jpeg"
+                },
+                {
+                    "name": "Opus Araçları",
+                    "link": "https://www.opus-codec.org/downloads/",
+                    "image": "/assets/fileimg/7xNWYRA.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC Medya Oynatıcı",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Android için dosya görüntüleyici",
+                    "link": "",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Opus Oyuncu",
+                    "link": "https://play.google.com/store/apps/details?id=com.littlepako.opusplayer3&hl=en_US&gl=US",
+                    "image": "/assets/fileimg/irCSU4s.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        }
+    ]
+}

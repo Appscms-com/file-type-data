@@ -1,0 +1,48 @@
+{
+    "Format": "VMV",
+    "ShortName": "VMV",
+    "FullName": "VisualBoyAdvance Recording",
+    "Category": "แฟ้มเกม",
+    "Pros": "n/a",
+    "Cons": "n/a",
+    "Createdby": "วิชวลบอยแอดวานซ์",
+    "CreatedbyLink": "https://visualboyadvance.en.softonic.com/",
+    "CreatedInYear": "N/A",
+    "BasicInformation": "VisualBoyAdvance ซึ่งเป็นโปรแกรมจำลองเกมบอยแอดวานซ์ สร้างการบันทึกเกมที่บันทึกการกดแป้นพิมพ์และข้อมูลอื่น ๆ ที่ช่วยให้การบันทึกสามารถเล่นอีกครั้งบนโปรแกรมจำลองได้การบันทึกจะถูกเก็บบันทึกไว้ในฟอร์แมทที่เป็นกรรมสิทธิ์ที่ไม่สามารถเล่นโดยเครื่องเล่นวิดีโอมาตรฐานได้.",
+    "DetailedInformation": "รูปแบบ VMV ที่ใช้โดย VisualBoyAdvance ใช้เข้ากันไม่ได้กับรูปแบบ VMV ที่เวอร์ชวลใช้",
+    "Softwaresused": [
+        {
+            "platform": "ลินุกซ์",
+            "softwares": [
+                {
+                    "name": "วิชวลบอยแอดวานซ์",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "วิชวลบอยแอดวานซ์",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "วิชวลบอยแอดวานซ์",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        }
+    ]
+}

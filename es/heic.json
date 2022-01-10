@@ -1,0 +1,182 @@
+{
+    "Format": "HEIC",
+    "ShortName": "HEIC",
+    "FullName": "High Efficiency Image Format",
+    "Category": "Archivos de imagen ráster",
+    "Pros": "Imágenes de gran calidad. Ocupa menos espacio de almacenamiento. Puede almacenar varias imágenes en un archivo. También puede almacenar derivaciones de imágenes.",
+    "Cons": "No es compatible con todos los sistemas y dispositivos. No es muy popular. Tiene problemas con la patente. ",
+    "Createdby": "Grupo de expertos en imágenes en movimiento",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "2001",
+    "BasicInformation": "Una o más fotografías almacenadas en el formato de imagen de alta eficiencia (HEIF), un formato de archivo que se utiliza con mayor frecuencia para guardar fotos en dispositivos iOS, se encuentran en un archivo HEIC. Comprende una imagen o serie de imágenes, así como metadatos que caracterizan cada imagen, que probablemente se crearon con la aplicación Cámara en un iPhone o iPad. Los archivos HEIC se suelen guardar como archivos.heic, aunque también se pueden guardar como archivos.heif.",
+    "DetailedInformation": "HEIF, o H.265, es un estándar de almacenamiento de imágenes digitales que conserva las fotos con una calidad superior y en archivos más bajos que el. JPEG es un formato de imagen digital. Esto ahorra espacio en tarjetas de memoria y dispositivos móviles al reducir el tamaño de las fotos. Apple introdujo HEIF, el formato de almacenamiento de fotos predeterminado para dispositivos iOS con el lanzamiento de iOS 11 en 2017. Como resultado de este ajuste, los iPhones y iPads comenzaron a guardar las imágenes de los usuarios como HEIC. Con la introducción de High Sierra, Apple habilitó la compatibilidad HEIF tanto para iOS como para macOS. Google amplió la compatibilidad con HEIF a Android en 2018, y Microsoft llevó la compatibilidad con HEIF a Windows en 2018. Los usuarios deben instalar explícitamente los paquetes de extensiones de imagen HEIF de Microsoft y extensiones de video HEVC de Microsoft Store para poder abrir archivos HEIC en aplicaciones de Microsoft. Cuando exporta o comparte una foto tomada con la aplicación Cámara en un dispositivo iOS a un dispositivo o aplicación que no sea iOS, normalmente se convierte de un formato HEIC a un archivo JPEG or.JPG.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "COJO",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Libre "
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Visor de archivos Plus: obténgalo de Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Categoría: Freemium"
+                },
+                {
+                    "name": "COJO",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Libre "
+                },
+                {
+                    "name": "Adobe Premiere Rush",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "Prueba gratuita"
+                },
+                {
+                    "name": "Fotos de Microsoft Windows con paquetes de extensiones de imagen HEIF y extensiones de vídeo HEVC instalados",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab&ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-Tcw4tJawHA2VbfUU47cFuA&epi=4LioSo.jxMc-Tcw4tJawHA2VbfUU47cFuA&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xurhnaenupuk000%29%287593%29%281243925%29%284LioSo.jxMc-Tcw4tJawHA2VbfUU47cFuA%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xurhnaenupuk000",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg"
+                },
+                {
+                    "name": "Convertidor HEIC de TunesBro",
+                    "link": "https://www.tunesbro.com/heic-converter.html",
+                    "image": "/assets/fileimg/7eQehmc.jpeg",
+                    "type": "Prueba gratuita"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Vista previa de Apple",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Gratis, incluido con el sistema operativo"
+                },
+                {
+                    "name": "Fotos de Apple",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Gratis, incluido con el sistema operativo"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Prueba gratuita"
+                },
+                {
+                    "name": "COJO",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Libre "
+                },
+                {
+                    "name": "Convertidor HEIC de TunesBro",
+                    "link": "https://www.tunesbro.com/heic-converter.html",
+                    "image": "/assets/fileimg/7eQehmc.jpeg",
+                    "type": "Prueba gratuita"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Fotos de Apple",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Gratis, incluido con el sistema operativo"
+                },
+                {
+                    "name": "Buzón",
+                    "link": "https://www.dropbox.com/?landing=dbv2",
+                    "image": "/assets/fileimg/ovQYI78.jpeg",
+                    "type": "Categoría: Freemium"
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Categoría: Freemium"
+                },
+                {
+                    "name": "Fotos de Google",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Libre  "
+                },
+                {
+                    "name": "Adobe Premiere Rush",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "Prueba gratuita"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Visor de archivos para Android",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Categoría: Freemium"
+                },
+                {
+                    "name": "Fotos de Google",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Libre  "
+                },
+                {
+                    "name": "Adobe Premiere Rush",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "Prueba gratuita"
+                },
+                {
+                    "name": "Buzón",
+                    "link": "https://www.dropbox.com/?landing=dbv2",
+                    "image": "/assets/fileimg/ovQYI78.jpeg",
+                    "type": "Categoría: Freemium"
+                },
+                {
+                    "name": "Simple Soft Alliance Luma: visor y convertidor HEIF",
+                    "link": "https://play.google.com/store/apps/details?id=luma.hevc.heif.image.viewer.converter",
+                    "image": "/assets/fileimg/1o2rNBD.jpeg",
+                    "type": "Categoría: Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Sistema operativo ChromeOS",
+            "softwares": [
+                {
+                    "name": "Fotos de Google",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Libre  "
+                },
+                {
+                    "name": "Decodificador de visor de imágenes HEIC",
+                    "link": "https://speedtesting.herokuapp.com/heicviewer/",
+                    "image": "/assets/fileimg/KXTzTK7.jpeg",
+                    "type": "Libre"
+                }
+            ]
+        }
+    ]
+}

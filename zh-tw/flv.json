@@ -1,0 +1,135 @@
+{
+    "Format": "FLV",
+    "ShortName": "FLV",
+    "FullName": "Flash Video File",
+    "Category": "視頻文件",
+    "Pros": "電影、在線演示文稿、橫幅廣告、互聯網動畫以及 Flash 的其他用途只是幾個例子。超過 90% 的網站訪問者將能夠看到它。Flash 文件通常很小且易於下載。閃存可以在寬帶和撥號連接上看到，也可以在較舊的較慢系統上看到閃存。廣泛的視頻文件可以輕鬆地轉換為 Flash 格式。",
+    "Cons": "創建 Flash 內容可能非常昂貴且耗時。由於搜索引擎蜘蛛不能識別 Flash 文件，因此它們無助於網站優化。訪問包含 Flash 的網頁時，訪問者可能會遇到更長的等待時間，特別是當他們使用撥號連接時。",
+    "Createdby": "Adobe 系統",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "2003",
+    "BasicInformation": "以 Adobe Flash 視頻 (FLV) 容器格式保存的視頻文件稱為 FLV 文件。一個簡短的報頭、同步的音頻和視頻數據流（以與標準 Flash.SWF 格式的流編碼相同的方式編碼）和元數據包都存儲。",
+    "DetailedInformation": "Adobe Systems 的 Flash 視頻格式廣泛用於網站上的在線視頻，如 YouTube，葫蘆，Vevo，以及各種其他流媒體視頻服務。Adobe Flash Player（包括瀏覽器插件）和第三方軟件可以讀取和觀看幾乎每個操作系統上的 FLV 文件（iOS 除外）。隨着 2003 年發佈的閃存播放器 7，FLV 格式被推出。Adobe Flash 播放器主要用於提供在線視頻內容，如電影和電視劇集。另一方面，FLV 是一種由各種非 Adobe/ 宏媒體應用程序支持的開放格式。Flash 視頻導出器插件（與 Adobe Animate 一起使用）或任何支持 FLV 文件的程序都可用於生成 Flash Video 內容並將其導出為 FLV 文件。使用 Adobe 媒體編碼器，用户現在可以對各種視頻格式進行編碼，如快速時間或 Windows 媒體。隨着 2010 年代在線技術的發展，Flash 的缺陷（包括性能和安全漏洞）變得越來越明顯。Adobe 和眾多在線瀏覽器製造商於 2020 年 12 月 31 日正式停止對 Flash 的支持，因為 Flash 播放器的使用和 FLV 格式的使用大幅下降。",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "視頻網絡 VLC 媒體播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "真實網絡真實玩家雲",
+                    "link": "https://www.real.com/in",
+                    "image": "/assets/fileimg/FdqTl1x.jpeg",
+                    "type": "免費增值"
+                }
+            ]
+        },
+        {
+            "platform": "視窗",
+            "softwares": [
+                {
+                    "name": "文件查看器加 — 從微軟獲取",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "視頻網絡 VLC 媒體播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "Xilisoft 視頻轉換器終極",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg",
+                    "type": "免費試用"
+                },
+                {
+                    "name": "諾爾軟件酒莊",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "媒體播放器經典",
+                    "link": "https://github.com/clsid2/mpc-hc/",
+                    "image": "/assets/fileimg/PLx4Opv.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "蘋果快速播放器",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                },
+                {
+                    "name": "動畫抄送",
+                    "link": "https://www.adobe.com/products/animate.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/pqcWQ2F.jpeg",
+                    "type": "免費試用"
+                },
+                {
+                    "name": "艾蒂瑪埃爾媒體播放器",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "視頻網絡 VLC 媒體播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "iOS版",
+            "softwares": [
+                {
+                    "name": "真實網絡實時：視頻製作",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "免費增值"
+                }
+            ]
+        },
+        {
+            "platform": "安卓",
+            "softwares": [
+                {
+                    "name": "位實驗室簡單的 MP4 視頻播放器",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "對手媒體轉換器",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "J2 互動 MX 播放器",
+                    "link": "https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en",
+                    "image": "/assets/fileimg/Cjoa7OB.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "真實網絡實時視頻製作器",
+                    "link": "https://play.google.com/store/apps/details?id=com.real.RealPlayerCloud",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "免費增值"
+                }
+            ]
+        }
+    ]
+}

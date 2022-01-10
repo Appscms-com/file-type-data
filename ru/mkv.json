@@ -1,0 +1,159 @@
+{
+    "Format": "MKV",
+    "ShortName": "MKV",
+    "FullName": "Matroska Video File",
+    "Category": "Видео файл",
+    "Pros": "Очень гибкий. Имеет как с потерями, так и без потерь. Хорошо документировано. Непатентованные. Допускается добавление метаданных.",
+    "Cons": "В настоящее время нет автономного аппаратного проигрывателя, который может воспроизводить файлы MKV. Увеличенный размер файла. Все еще находится в стадии разработки. ",
+    "Createdby": "Матроска",
+    "CreatedbyLink": "https://www.matroska.org/",
+    "CreatedInYear": "2002",
+    "BasicInformation": "Видеофайл, сохраненный в формате мультимедийного контейнера Matroska, известен как файл MKV. Он может обрабатывать различные аудио и видео кодеки, включая .srt, .SSA, .USF (универсальный формат субтитров) и субтитры VobSub. Короткие видеоклипы, телешоу и фильмы обычно хранятся в виде файлов MKV.",
+    "DetailedInformation": "Мультимедийный контейнер Matroska (MKV) — это открытый и бесплатный стандарт хранения видеоданных. Файл может содержать неограниченное количество дорожек аудио, видео, изображений и субтитров, что делает его удобным способом сохранения фильмов, телепрограмм и многого другого. Пользователь может перейти ко всем различным трекам данных в необработанном формате. Он сопоставим с форматами the.AVI, .ASF, and.MOV тем, что может иметь множество дорожек видео, аудио, изображений и субтитров. Видеофайлы Matroska — это мультимедийные файлы, которые используют формат контейнера Matroska для хранения одной или нескольких видеодорожек и идентифицируются расширением файла the.mkv. Формат MKV, который обычно используется для сохранения коротких фрагментов видео, сериалов и фильмов, приобрел популярность среди фанатов аниме. Многие из этих пользователей добавляют субтитры, и формат MKV особенно удобен, поскольку он позволяет объединить несколько звуковых дорожек и дорожек субтитров в одном файле.",
+    "Softwaresused": [
+        {
+            "platform": "Линукс",
+            "softwares": [
+                {
+                    "name": "Медиаплеер VLC VLC VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Ручной тормоз",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Просмотрщик файлов Plus — получите его от корпорации Майкрософт",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Фримиум"
+                },
+                {
+                    "name": "Медиаплеер VLC VLC VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Ручной тормоз",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Классический медиаплеер",
+                    "link": "https://github.com/clsid2/mpc-hc/",
+                    "image": "/assets/fileimg/PLx4Opv.jpeg"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "Мак",
+            "softwares": [
+                {
+                    "name": "Эльтима Элмедиа Плеер",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Умный конвертер ShedWorx",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "Бесплатная пробная версия"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Ручной тормоз",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Медиаплеер VLC VLC VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "IOS",
+            "softwares": [
+                {
+                    "name": "Олимсофт Плеер",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Оплаченный"
+                },
+                {
+                    "name": "VLC Videolan для мобильных устройств",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Ока Приложения Омни Плеер",
+                    "link": "https://apps.apple.com/us/app/omni-player-mkv-video-player/id1470926410",
+                    "image": "/assets/fileimg/TmHdEAq.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Проигрыватель пенталупЭкстрим Медиа Плеер",
+                    "link": "https://apps.apple.com/us/app/playerxtreme-media-player/id456584471?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/uoX9gqI.jpeg",
+                    "type": "Фримиум"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "BIT Лаборатории Простой MP4 видеоплеер",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Видеолаборатории VLC для Андроид",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Просмотрщик файлов для Android",
+                    "link": "https://play.google.com/store/apps/details?id=com.sharpened.androidfileviewer",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Фримиум"
+                }
+            ]
+        }
+    ]
+}

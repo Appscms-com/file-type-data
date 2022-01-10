@@ -1,0 +1,164 @@
+{
+    "Format": "AVI",
+    "ShortName": "AVI",
+    "FullName": "Audio Video Interleave File",
+    "Category": "Video-Datei",
+    "Pros": "Bemerkenswert hervorragende Klangqualität. Es gibt zahlreiche Codecs, die verwendet werden können, um beim Online-Komprimieren von Dateien das entsprechende Verhältnis zu erreichen. Da es von Microsoft entwickelt wurde, kann es auf allen gängigen Microsoft- und Nicht-Microsoft-Betriebssystemen abgespielt werden. Im Gegensatz zu anderen Audio-/Videoformaten kann der DV-AVI-Standard komprimiert werden. Es erfordert nicht die Verwendung einer bestimmten Hardware oder Software. Aufgrund seiner Komprimierungsmöglichkeiten wird das AVI-Videoformat am häufigsten für Promos, Kurzfilme und Werbung verwendet. Bei Stammdaten ist die mit AVI beibehaltene Qualität gut.",
+    "Cons": "Viele Menschen sind frustriert, wenn sie den Codec nicht aus einer sicheren, seriösen Quelle finden können. Benutzer können die Unterbrechung ihrer Erfahrung als unerwünscht empfinden, selbst wenn diese Quellen verfügbar sind. Im Vergleich zu anderen Dateiformaten können AVI-Dateien ziemlich groß sein, wenn sie nicht komprimiert sind. Wenn Sie eine AVI-Datei über bestimmte Grenzen hinaus online komprimieren, leidet die Videoqualität. Benutzerinteraktion wird nicht unterstützt. Unterstützt keine Softsubs.",
+    "Createdby": "Microsoft",
+    "CreatedbyLink": "https://developer.microsoft.com/en-us/",
+    "CreatedInYear": "1992",
+    "BasicInformation": "Eine AVI-Datei ist eine Videodatei, die im von Microsoft erstellten Multimedia-Containerformat Audio Video Interleave (AVI) gespeichert ist. Es enthält Video- und Audiodateien, die in einer Vielzahl von Codecs codiert sind, einschließlich DivX und XviD. AVI-Dateien können mit einer Vielzahl von Videoplayern abgespielt werden, darunter Microsoft Movies & TV, Windows Media Player und Apple QuickTime Player, die alle mit ihren jeweiligen Betriebssystemen vorinstalliert sind.",
+    "DetailedInformation": "Das AVI-Format basiert auf dem Resource Interchange File Format (RIFF), einem Containerformat zum Speichern von Multimedia, das 1991 erstmals veröffentlicht wurde. Microsoft hat das AVI-Format ein Jahr später im Jahr 1992 erstellt und ist bis heute weit verbreitet. Es wird von einer Vielzahl von Videoplayern unterstützt. Damit das Video jedoch erfolgreich abgespielt werden kann, muss der Player den Codec unterstützen, mit dem die Videodaten codiert werden. Um die gleichzeitige Wiedergabe zu unterstützen, kombiniert AVI Audio und Video in einer einzigen Datei in einem gemeinsamen Container. Sein Vorteil ist seine einfache Architektur, die es ermöglicht, auf einer Vielzahl von Betriebssystemen, einschließlich Windows, Macs, Linux und Unix, zu funktionieren und von allen gängigen Webbrowsern unterstützt wird. Es kann Video und Audio in hoher Qualität speichern und benötigt weniger Kompression als andere Videoformate like.MPEG and.MOV.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLAN VLC Mediaplayer",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Xine",
+                    "link": "https://sourceforge.net/projects/xine/",
+                    "image": "/assets/fileimg/11To9CR.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Kodi",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Holen Sie es sich von Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft Windows Media Player",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Kostenlos, im Betriebssystem enthalten"
+                },
+                {
+                    "name": "Filme und Fernsehen von Microsoft",
+                    "link": "https://www.microsoft.com/en-us/p/movies-tv/9wzdncrfj3p2?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/fVyIEs4.jpeg",
+                    "type": "Kostenlos, im Betriebssystem enthalten"
+                },
+                {
+                    "name": "VideoLAN VLC Mediaplayer",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "Kodi",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple QuickTime-Spieler",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Kostenlos, im Betriebssystem enthalten"
+                },
+                {
+                    "name": "VideoLAN VLC Mediaplayer",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Kodi",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Adobe Premieren",
+                    "link": "https://www.adobe.com/products/premiere.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/RUVWLwB.jpeg",
+                    "type": "Kostenlose Testversion"
+                },
+                {
+                    "name": "Eltima Elmedia Spieler",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Videolan VLC für Handys",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Olimsoft-Spieler",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Bezahlt"
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Google Drive",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Videolabs VLC für Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "BIT Labs Einfacher MP4-Videoplayer",
+                    "link": "https://play.google.com/store/apps/details?id=air.br.com.bitlabs.VideoPlayer&hl=en",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

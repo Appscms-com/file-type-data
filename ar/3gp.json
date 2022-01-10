@@ -1,0 +1,141 @@
+{
+    "Format": "3GP",
+    "ShortName": "3GP",
+    "FullName": "3rd Generation Partnership Project",
+    "Category": "ملف فيديو",
+    "Pros": "حجم ملف صغير، لذلك يوفر مساحة القرص. يتطلب بيانات أقل للجوال. بالنسبة للمؤسسات، فإنه يولد بيئات متصلة. أمر بالغ الأهمية للتواصل (عبر الرسائل النصية).",
+    "Cons": "قد لا تصل الجودة إلى العلامة. لا يمكن تشغيل مقاطع فيديو عالية الدقة. غير مدعوم من قبل العديد من البرامج. ",
+    "Createdby": "مشروع شراكة الجيل الثالث",
+    "CreatedbyLink": "https://www.3gpp.org/",
+    "CreatedInYear": "1998",
+    "BasicInformation": "ملف 3GP هو ملف وسائط متعددة يتم حفظه في تنسيق حاوية الصوت والفيديو لمشروع شراكة الجيل الثالث (3GPP). يحفظ تدفقات الفيديو والصوت التي يتم إرسالها عبر الإنترنت وبين الهواتف المحمولة 3G.",
+    "DetailedInformation": "3GP عبارة عن حاوية ملفات وسائط متعددة تم تطويرها بواسطة 3GPP (مشروع شراكة الجيل الثالث) لاستخدام الفيديو والصوت على الأجهزة المحمولة القادرة على الجيل الثالث مثل iPhone. يمكن أيضًا عرض هذه الملفات على الهواتف بدون 3G (2G و 4G)، على الرغم من وجود قيود معينة. على الأجهزة المحمولة ذات إمكانات تسجيل الفيديو، يمكن تحرير ملفات 3GP وتصديرها وعرضها. ملف 3G2 مطابق لملف 3GP، ومع ذلك فهو يحتوي على حدود وامتدادات مميزة. يتم استخدام هياكل MPEG-14 لإنشاء نوع ملف 3GP. قامت 3GP بتخفيض متطلبات النطاق الترددي والتخزين، مما يسمح لمستخدمي الهاتف بنقل الملفات وتحريرها وتخزينها عبر الإنترنت. وهو يدعم H.263 و H.264 تيارات الفيديو، وكذلك AMR-WB، AMR-WB+، عمر-نب، هي-آك v1، AAC-LC، وتحسن aacPlus تيارات الصوت.",
+    "Softwaresused": [
+        {
+            "platform": "لينكس",
+            "softwares": [
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "Mplayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "شبابيك",
+            "softwares": [
+                {
+                    "name": "عارض الملفات بلس - احصل عليه من Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "ميكروسوفت ويندوز ميديا بلاير",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "أفلام مايكروسوفت والتلفزيون",
+                    "link": "https://www.microsoft.com/en-us/p/movies-tv/9wzdncrfj3p2?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/fVyIEs4.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "محول فيديو Xilisoft في نهاية المطاف",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                }
+            ]
+        },
+        {
+            "platform": "رفيق",
+            "softwares": [
+                {
+                    "name": "أبل كويك تايم بلاير",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "مشغل ألتيما الميديا",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "روكسيو توست 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "مدفوعة"
+                },
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "Mplayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "أوليمسفت أوبلاير",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "مدفوعة"
+                }
+            ]
+        },
+        {
+            "platform": "أندرويد",
+            "softwares": [
+                {
+                    "name": "عارض الملفات لنظام Android",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "BIT Labs بسيط مشغل فيديو MP4",
+                    "link": "https://play.google.com/store/apps/details?id=air.br.com.bitlabs.VideoPlayer&hl=en",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "مشغل J2 التفاعلي MX",
+                    "link": "https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en",
+                    "image": "/assets/fileimg/Cjoa7OB.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "PANDORA.TV KMPLayer",
+                    "link": "https://play.google.com/store/apps/details?id=com.kmplayer",
+                    "image": "/assets/fileimg/hnkzD4T.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        }
+    ]
+}

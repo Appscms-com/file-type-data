@@ -1,0 +1,26 @@
+{
+    "Format": "ACC",
+    "ShortName": "ACC",
+    "FullName": "Graphics Accounts Data File",
+    "Category": "डाटा फाइल्स",
+    "Pros": "एन/ए",
+    "Cons": "एन/ए",
+    "Createdby": "FKJ सॉफ्टवेयर",
+    "CreatedbyLink": "https://download.cnet.com/developer/fkj-software/i-6201467/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "एसीसी फ़ाइल ग्राफ़िक्स खाता डेटा फ़ाइल स्वरूप है। ग्राफ़िक खातों के लिए, इस फ़ाइल में वित्तीय खाता जानकारी है। यह एक उपकरण है जो आपको व्यक्तिगत बजट बनाने और प्रबंधित करने में मदद करता है। इसमें एक या अधिक बैंक खातों की जानकारी हो सकती है।",
+    "DetailedInformation": "ACC फ़ाइलों में ग्राफिक्स खातों के लिए वित्तीय खाता डेटा होता है। उन्हें बजट (.BGT) फ़ाइल के साथ खोला जा सकता है।",
+    "Softwaresused": [
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "FKJ सॉफ्टवेयर ग्राफिक अकाउंट्स",
+                    "link": "https://download.cnet.com/developer/fkj-software/i-6201467/",
+                    "image": "https://image.flaticon.com/icons/png/512/1063/1063308.png",
+                    "type": "मुफ़्त"
+                }
+            ]
+        }
+    ]
+}

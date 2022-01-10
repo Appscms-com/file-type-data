@@ -1,0 +1,159 @@
+{
+    "Format": "MKV",
+    "ShortName": "MKV",
+    "FullName": "Matroska Video File",
+    "Category": "Video dosyası",
+    "Pros": "Çok esnek. Kayıpsız yanı sıra kayıpsız seçeneği vardır. İyi belgelenmiş. Tescilli olmayan. Meta veri eklenmesine izin verilir.",
+    "Cons": "Şu anda MKV dosyalarını oynatabilen bağımsız bir donanım oynatıcı yoktur. Daha büyük dosya boyutu. Hala gelişmekte. ",
+    "Createdby": "Matroska",
+    "CreatedbyLink": "https://www.matroska.org/",
+    "CreatedInYear": "2002",
+    "BasicInformation": "Matroska multimedya kapsayıcı biçiminde kaydedilen bir video dosyası MKV dosyası olarak bilinir. SRT, .SSA, .USF (Evrensel Altyazı Biçimi) ve VobSub altyazıları dahil olmak üzere çeşitli ses ve video codec bileşenlerini işleyebilir. Kısa video klipler, TV şovları ve filmler genellikle MKV dosyaları olarak saklanır.",
+    "DetailedInformation": "Matroska Multimedya Konteyner (MKV), video veri depolama için açık ve ücretsiz bir standarttır. Dosya, sınırsız sayıda ses, video, görüntü ve altyazı parçaları içerebilir, böylece filmleri, tam TV programlarını ve daha fazlasını kaydetmenin kullanışlı bir yolu olabilir. Kullanıcı ham formatta farklı veri parçalarının tümüne atlayabilir. Çeşitli video, ses, görüntü ve altyazı parçalarına sahip olabileceğini.AVI, .ASF ve.MOV formatlarıyla karşılaştırılabilir. Matroska Video dosyaları, bir veya daha fazla video parçasını depolamak için Matroska konteyner biçimini kullanan ve the.mkv dosya uzantısıyla tanımlanan multimedya dosyalarıdır. Kısa video parçacıklarını, TV dizilerini ve filmleri kaydetmek için yaygın olarak kullanılan MKV formatı, anime fansubbers arasında popülerlik kazandı. Bu kullanıcıların çoğu altyazı ekler ve MKV formatı özellikle kullanışlıdır, çünkü birkaç ses ve altyazı parçasının tek bir dosyada birleştirilmesine izin verir.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC Medya Oynatıcı",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "El Freni",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Microsoft'tan edinin",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "VideoLan VLC Medya Oynatıcı",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "El Freni",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Media Player klasiği",
+                    "link": "https://github.com/clsid2/mpc-hc/",
+                    "image": "/assets/fileimg/PLx4Opv.jpeg"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Eltima Elmedia Oynatıcı",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "ShedWorx Akıllı Dönüştürücü",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "Ücretsiz deneme"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "El Freni",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "VideoLan VLC Medya Oynatıcı",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Ücretli"
+                },
+                {
+                    "name": "Mobil cihazlar için Videolan VLC",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Oka Uygulamalar Omni Oyuncu",
+                    "link": "https://apps.apple.com/us/app/omni-player-mkv-video-player/id1470926410",
+                    "image": "/assets/fileimg/TmHdEAq.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Pentaloop PlayerXtreme Medya Oynatıcı",
+                    "link": "https://apps.apple.com/us/app/playerxtreme-media-player/id456584471?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/uoX9gqI.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "BIT Labs Basit MP4 Video Oynatıcı",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Android için Videolabs VLC",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Android için dosya görüntüleyici",
+                    "link": "https://play.google.com/store/apps/details?id=com.sharpened.androidfileviewer",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

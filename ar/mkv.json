@@ -1,0 +1,159 @@
+{
+    "Format": "MKV",
+    "ShortName": "MKV",
+    "FullName": "Matroska Video File",
+    "Category": "ملف فيديو",
+    "Pros": "مرنة للغاية. لديه خيار ضياع وكذلك بدون خسارة. موثق جيدًا. غير مملوكة. يسمح بإضافة البيانات الوصفية.",
+    "Cons": "لا يوجد حاليًا مشغل أجهزة مستقل يمكنه تشغيل ملفات MKV. حجم ملف أكبر. لا يزال قيد التطوير. ",
+    "Createdby": "ماتروسكا",
+    "CreatedbyLink": "https://www.matroska.org/",
+    "CreatedInYear": "2002",
+    "BasicInformation": "يُعرف ملف الفيديو المحفوظ بتنسيق حاوية الوسائط المتعددة Matroska باسم ملف MKV. يمكنه التعامل مع مجموعة متنوعة من برامج ترميز الصوت والفيديو، بما في ذلك.SRT و .SSA و .USF (تنسيق الترجمة العالمي) وترجمات VobSub. يتم تخزين مقاطع الفيديو القصيرة والبرامج التلفزيونية والأفلام بشكل شائع كملفات MKV.",
+    "DetailedInformation": "حاوية Matroska Multimedia (MKV) هي معيار مفتوح ومجاني لتخزين بيانات الفيديو. يمكن أن يحتوي الملف على عدد غير محدود من مسارات الصوت والفيديو والصور والعناوين الفرعية، مما يجعله طريقة سهلة لحفظ الأفلام والبرامج التلفزيونية الكاملة والمزيد. يمكن للمستخدم الانتقال إلى جميع مسارات البيانات المختلفة بالتنسيق الخام. يمكن مقارنته بتنسيقات.AVI و .ASF و.MOV من حيث أنه قد يحتوي على مجموعة متنوعة من مسارات الفيديو والصوت والصور والعنوان الفرعي. ملفات Matroska Video هي ملفات الوسائط المتعددة التي تستخدم تنسيق حاوية Matroska لتخزين واحد أو أكثر من مسارات الفيديو ويتم تحديدها بواسطة امتداد ملف the.mkv. اكتسب تنسيق MKV، الذي يستخدم بشكل شائع لحفظ مقتطفات الفيديو القصيرة والمسلسلات التلفزيونية والأفلام، شعبية بين معجبي الرسوم المتحركة. يضيف العديد من هؤلاء المستخدمين ترجمات، ويكون تنسيق MKV مفيدًا بشكل خاص لأنه يسمح بدمج العديد من مسارات الصوت والترجمة في ملف واحد.",
+    "Softwaresused": [
+        {
+            "platform": "لينكس",
+            "softwares": [
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "Mplayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "فرملة اليد",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "شبابيك",
+            "softwares": [
+                {
+                    "name": "عارض الملفات بلس - احصل عليه من Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "فرملة اليد",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "ميديا بلاير كلاسيك",
+                    "link": "https://github.com/clsid2/mpc-hc/",
+                    "image": "/assets/fileimg/PLx4Opv.jpeg"
+                },
+                {
+                    "name": "Mplayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "رفيق",
+            "softwares": [
+                {
+                    "name": "مشغل ألتيما الميديا",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "محول ShedWorx الذكي",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "Mplayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "فرملة اليد",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "أوليمسفت أوبلاير",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "مدفوعة"
+                },
+                {
+                    "name": "Videolan VLC للجوال",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "أوكا أبس أومني بلاير",
+                    "link": "https://apps.apple.com/us/app/omni-player-mkv-video-player/id1470926410",
+                    "image": "/assets/fileimg/TmHdEAq.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "Pentaloop بلاير إكستريم ميديا بلاير بلاير",
+                    "link": "https://apps.apple.com/us/app/playerxtreme-media-player/id456584471?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/uoX9gqI.jpeg",
+                    "type": "فريميوم"
+                }
+            ]
+        },
+        {
+            "platform": "أندرويد",
+            "softwares": [
+                {
+                    "name": "BIT Labs بسيط مشغل فيديو MP4",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "Videolabs VLC لالروبوت",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "عارض الملفات لنظام Android",
+                    "link": "https://play.google.com/store/apps/details?id=com.sharpened.androidfileviewer",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "فريميوم"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "Format": "FLAC",
+    "ShortName": "FLAC",
+    "FullName": "Free Lossless Audio Codec",
+    "Category": "แฟ้มเสียง",
+    "Pros": "คุณภาพเสียงที่ยอดเยี่ยมในขนาดไฟล์ขนาดเล็กหลายระบบเข้ากันได้กับมันซอร์สโค้ดเปิดอยู่และใบอนุญาตฟรีความช่วยเหลือด้านฮาร์ดแวร์ (PhatBox, Kenwood Musickeg, ริโอกรรม, เป็นต้น) ใช้ได้.การสนับสนุนสำหรับการสตรีมมิ่งการถอดรหัสมันเร็วมากรองรับฟีดแบบหลายช่องและความละเอียดสูงReplay Gain ได้รับการสนับสนุนสนับสนุนการใช้แผ่นคิว (มีข้อ จำกัด บางอย่าง) เพื่อทดแทนการตัดทอนก็กำลังได้รับความนิยม",
+    "Cons": "คอมเพรสเซอร์ปัจจุบันที่โดดเด่นอื่น ๆ (ลิงเสียง, LPAC, OptimFrog) บีบอัดได้อย่างมีประสิทธิภาพมากขึ้น.ตัวเลือกการบีบอัดที่สูงขึ้นจะซบเซาและให้การปรับปรุงน้อยที่สุดมากกว่าการตั้งค่าเริ่มต้น",
+    "Createdby": "มูลนิธิ Xiph.Org",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "2001",
+    "BasicInformation": "ตัวย่อ FLAC หมายถึงตัวแปลงสัญญาณเสียงฟรี LosslessFLAC เป็นรูปแบบ MP3 แบบไม่สูญเสียข้อมูลFLAC นิยมใช้ในดนตรีคลาสสิกซึ่งคุณภาพเสียงเป็นสิ่งสำคัญFLAC ได้เติบโตขึ้นค่อนข้างเป็นที่นิยมอันเป็นผลมาจากคุณภาพเสียงไฟล์ FLAC ตอนนี้สามารถเล่นได้ในเครื่องเล่นโปรดของคุณ (หรือในรถยนต์หรือเครื่องเสียงในบ้านของคุณ) เหมือนกับไฟล์ MP3",
+    "DetailedInformation": "FLAC เป็นรูปแบบการบีบอัดเสียงที่พัฒนาโดยสมาชิกของ Xiph.orgการบีบอัดจะไม่สูญเสียซึ่งหมายความว่าไม่มีข้อมูลสูญหายและไม่มีคุณภาพเสียสละFLAC ช่วยให้ผู้ใช้สามารถบันทึกไฟล์ที่มีคุณภาพของสื่อต้นฉบับได้ ทำให้สามารถสำรองข้อมูลเสียงได้ดีเยี่ยม เพราะสำเนาของไฟล์เสียงที่จับต้องได้มีแนวโน้มที่จะถูกทำลายFLAC เป็นรูปแบบที่ได้รับการยอมรับอย่างกว้างขวางซึ่งลดขนาดของเสียงดิจิตอลลงประมาณ 60% และได้รับการสนับสนุนโดยทั่วไปในแพลตฟอร์มที่สำคัญที่สุดมูลนิธิ Xiph.Org สร้างรูปแบบซึ่งเป็นโอเพนซอร์สพร้อมกับไฟล์ FLAC ไฟล์ลายนิ้วมือ FLAC ซึ่งประกอบด้วยชื่อไฟล์และข้อมูลการตรวจสอบสำหรับไฟล์ FLAC สามารถสร้างได้ไฟล์ FLAC มักใช้สำหรับการสตรีมและถอดรหัสแบบเรียลไทม์โครงการ FLAC ประกอบด้วยองค์ประกอบหลายอย่างรวมถึงรูปแบบสตรีมรูปแบบคอนเทนเนอร์การเข้ารหัสและถอดรหัสไลบรารีอ้างอิงและปลั๊กอินการป้อนข้อมูล",
+    "Softwaresused": [
+        {
+            "platform": "ลินุกซ์",
+            "softwares": [
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ความกล้าราว",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "อะตูน",
+                    "link": "http://www.atunes.org/",
+                    "image": "/assets/fileimg/U6hLUgu.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์พลัส — รับได้จากไมโครซอฟท์",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ความกล้าราว",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg"
+                },
+                {
+                    "name": "อะโดบี ออดิชั่น CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ความกล้าราว",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "อะตูน",
+                    "link": "http://www.atunes.org/",
+                    "image": "/assets/fileimg/U6hLUgu.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "อะโดบี ออดิชั่น CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "VLC Videolan สำหรับมือถือ",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "หูทอง",
+                    "link": "https://apps.apple.com/us/app/golden-ear/id407945101?ign-mpt=uo%3D8",
+                    "image": "/assets/fileimg/upbts7y.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "โมลีเพลเยอร์",
+                    "link": "https://apps.apple.com/us/app/moli-player-hd-free-movie-music-player-for-network/id598886783?ign-mpt=uo%3D8",
+                    "image": "/assets/fileimg/FAo0QEL.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์สำหรับ Android",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "วีดีโอแลบ VLC สำหรับ Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "เจตาอูดิโอ",
+                    "link": "https://play.google.com/store/apps/details?id=com.jetappfactory.jetaudio",
+                    "image": "/assets/fileimg/jcTagMw.jpeg",
+                    "type": "ฟรีเมียม"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "โครเมี่ยมเวอร์ชันเบต้า",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        }
+    ]
+}

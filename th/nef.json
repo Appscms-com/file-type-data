@@ -1,0 +1,164 @@
+{
+    "Format": "NEF",
+    "ShortName": "NEF",
+    "FullName": "Nikon Electronic Format RAW Image",
+    "Category": "ไฟล์ Raw ของกล้อง",
+    "Pros": "เมื่อการประมวลผลคอมพิวเตอร์ของมนุษย์เป็นสิ่งจำเป็น ไฟล์ NEF จะเป็นประโยชน์มากกว่าวิธีนี้จะเปิดโอกาสมากมายสำหรับการปรับปรุงคุณภาพของภาพ ซึ่งไม่สามารถทำได้กับไฟล์ JPEGเนื่องจากข้อมูลพิกเซลเดิมจะถูกเก็บรักษาไว้ในไฟล์ NEF, คุณภาพของภาพจึงดีขึ้นอย่างมาก.พวกเขาจะถูกบีบอัดโดยใช้เทคนิค lossless หรือไม่ถูกบีบอัดเลยภาพ JPEG และ TIFF มีช่วงโทนสีและความแม่นยำของสีที่แคบกว่าภาพ NEF",
+    "Cons": "เนื่องจากไฟล์ NEF มีขนาดใหญ่กว่าไฟล์ JPEG อย่างมาก จึงมีจำนวนน้อยกว่าที่สามารถบันทึกลงในการ์ดได้นี่เป็นเหตุผลว่าทำไมกล้อง Nikon ใช้เวลานานกว่าในการบันทึกไฟล์ RAW ไปยังการ์ดเมโมรี่ด้วย.มีรูปแบบไฟล์ RAW จำนวนมากและผู้เชี่ยวชาญกำลังประสบปัญหาในการกำหนดมาตรฐานไฟล์ RAW แบบครบวงจรNikon ยังได้รับการตำหนิจากการใช้การลดสัญญาณรบกวน ซึ่งได้รับการแสดงว่าเป็นการลดคุณภาพของภาพลง",
+    "Createdby": "นิคอน",
+    "CreatedbyLink": "https://www.nikon.co.in/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "ภาพถ่ายดิบที่ถ่ายด้วยกล้องดิจิตอล Nikon จะถูกบันทึกเป็นไฟล์ NEFโดยบันทึกไว้ในรูปแบบ Nikon Electronic Format (NEF) ซึ่งบันทึกข้อมูลในรูปแบบที่ไม่มีการบีบอัดเหมือนกับ CCDข้อมูลเมตาของภาพ เช่น ID ของกล้องและเลนส์ที่ใช้ก็รวมอยู่ในไฟล์ NEF ด้วยข้อมูลเมตาประกอบด้วยรายละเอียดเกี่ยวกับเลนส์ การตั้งค่า กล้อง และอื่นๆ",
+    "DetailedInformation": "ไฟล์ NEF ใช้กันมากที่สุดโดยนักกีฬา Nikonช่างภาพเหล่านี้อาจเป็นมืออาชีพหรือมือสมัครเล่นที่ใช้กล้อง Nikon ในการถ่ายภาพและบันทึกข้อมูลดิบเป็นไฟล์ NEFไฟล์ Raw คือรูปถ่ายที่ยังไม่ได้รับการประมวลผล พิมพ์ หรือแก้ไขด้วยโปรแกรมแก้ไขกราฟิกบิตแมปไฟล์ดิบจะพยายามจำลองฉากให้เกือบเท่าที่จะทำได้ รวมถึงแสง ความเข้ม และสีสันข้อมูลที่ถ่ายโดยเซนเซอร์ของกล้องจะถูกบันทึกไว้ในภาพข้อมูลดิบไฟล์ NEF สามารถบันทึกได้ในฟอร์แมทบีบอัดที่ไม่มีการบีบอัดหรือไม่สูญเสียในการ์ดหน่วยความจำของกล้องไฟล์ NEF มีความคล้ายคลึงกับ “เชิงลบดิจิตอล.”แม้ว่าจะไม่มีการอภิปรายเกี่ยวกับคุณภาพของภาพของไฟล์ NEF แต่นักพัฒนาซอฟต์แวร์ไม่ได้เลือกรูปแบบนี้เนื่องจากไม่มีมาตรฐานทั่วไป",
+    "Softwaresused": [
+        {
+            "platform": "ลินุกซ์",
+            "softwares": [
+                {
+                    "name": "Corel อาฟเตอร์ช็อต โปร 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์พลัส — รับได้จากไมโครซอฟท์",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "รูปภาพของ Microsoft",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "อะโดบี โฟโตช็อป 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "นิคอน วิวX2",
+                    "link": "https://imaging.nikon.com/lineup/software/viewnx2/",
+                    "image": "/assets/fileimg/pgXaxjb.jpeg"
+                },
+                {
+                    "name": "Corel อาฟเตอร์ช็อต โปร 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "ตัวอย่างแอปเปิ้ล",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "แอปเปิลรูปภาพ",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "อะโดบี โฟโตช็อป 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "นิคอน วิวX2",
+                    "link": "https://imaging.nikon.com/lineup/software/viewnx2/",
+                    "image": "/assets/fileimg/pgXaxjb.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "Corel อาฟเตอร์ช็อต โปร 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "แอปเปิลรูปภาพ",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "อะโดบี โฟโตช็อ ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "กูเกิ้ล รูปภาพ",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "ฟรี  "
+                },
+                {
+                    "name": "Google สแนปซีด",
+                    "link": "https://apps.apple.com/us/app/snapseed/id439438619?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/p5rWIzT.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์สำหรับ Android",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "อะโดบี โฟโต้ช็อป",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "กูเกิ้ล รูปภาพ",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "ฟรี  "
+                },
+                {
+                    "name": "Google สแนปซีด",
+                    "link": "https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en_US",
+                    "image": "/assets/fileimg/p5rWIzT.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "กูเกิ้ล รูปภาพ",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "ฟรี  "
+                }
+            ]
+        }
+    ]
+}

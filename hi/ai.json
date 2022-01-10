@@ -1,0 +1,164 @@
+{
+    "Format": "AI",
+    "ShortName": "AI",
+    "FullName": "Adobe Illustrator File",
+    "Category": "सदिश छवि फ़ाइल",
+    "Pros": "परतों का समर्थन करता है। इसमें टेक्स्ट एलिमेंट्स हो सकते हैं। संकल्प अनंत है। पारदर्शिता प्रदान करता है। वे आकार में तुलनात्मक रूप से छोटे होते हैं।",
+    "Cons": "यह सॉफ्टवेयर पर निर्भर है। पिक्सेल के साथ काम करने के लिए उपयुक्त नहीं है।",
+    "Createdby": "एडोब सिस्टम्स",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "2000",
+    "BasicInformation": "Adobe Illustrator, एक वेक्टर ग्राफिक्स संपादन अनुप्रयोग के साथ उत्पन्न एक डिज़ाइन को AI फ़ाइल के रूप में जाना जाता है। बिटमैप छवि डेटा के बजाय, यह बिंदुओं से जुड़े मार्गों से बना है। AI फ़ाइलों को छवि गुणवत्ता का त्याग किए बिना आकार दिया जा सकता है क्योंकि वे एक वेक्टर प्रारूप में सहेजे जाते हैं।",
+    "DetailedInformation": "Adobe Illustrator Artwork (AI) फाइलें वेक्टर ग्राफिक्स हैं जो एक पृष्ठ पर फिट होती हैं और एडोब इलस्ट्रेटर के लिए एडोब सिस्टम्स द्वारा बनाई गई थीं। वे आमतौर पर EPS या PDF फ़ाइल स्वरूपों में सहेजे जाते हैं। Illustrator का उपयोग आमतौर पर ग्राफिक डिज़ाइनर द्वारा आइकन, लोगो, संकेत और मॉकअप जैसे वेक्टर कलाकृति बनाने के लिए किया जाता है। इलस्ट्रेटर डिजिटल आर्टवर्क की सामग्री को संग्रहीत करते समय उसे संग्रहीत करने के लिए एक AI फ़ाइल बनाता है। आप फ़ाइल को बंद कर सकते हैं, उसे फिर से खोल सकते हैं, और उसे सहेजने के बाद कलाकृति को बदलना जारी रख सकते हैं। एडोब इलस्ट्रेटर इन डिज़ाइनों को AI फ़ाइल एक्सटेंशन के साथ सहेजता है यदि वे भविष्य के संपादन के लिए सहेजे जाते हैं।",
+    "Softwaresused": [
+        {
+            "platform": "लिनक्स",
+            "softwares": [
+                {
+                    "name": "जिम्प",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "मुफ़्त "
+                },
+                {
+                    "name": "एसके1",
+                    "link": "https://github.com/sk1project/sk1-wx",
+                    "image": "/assets/fileimg/MX9qrvZ.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "इंकस्केप",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "एडोब एक्रोबैट डीसी",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "इंकस्केप",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "एडोब फोटोशॉप 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "एडोब इलस्ट्रेटर 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg"
+                },
+                {
+                    "name": "आइडियाएमके एआई व्यूअर",
+                    "link": "https://aiviewer.com/",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "मैक",
+            "softwares": [
+                {
+                    "name": "Apple प्रीव्यू",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "एडोब इलस्ट्रेटर 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "एडोब एक्रोबैट डीसी",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "एडोब फोटोशॉप 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "इंकस्केप",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "आईओएस",
+            "softwares": [
+                {
+                    "name": "एडोब इलस्ट्रेटर ड्रा",
+                    "link": "https://apps.apple.com/in/app/adobe-illustrator-draw/id911156590",
+                    "image": "/assets/fileimg/YaqCA2d.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "एआई व्यूअर",
+                    "link": "https://apps.apple.com/us/app/ai-viewer/id1505083223",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "एडोब फोटोशॉप ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "फ़्रीमियम"
+                }
+            ]
+        },
+        {
+            "platform": "एंड्रॉयड",
+            "softwares": [
+                {
+                    "name": "एआई व्यूअर",
+                    "link": "https://apps.apple.com/in/app/adobe-illustrator-draw/id911156590",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "एडोब फोटोशॉप एक्सप्रेस",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "एडोब इलस्ट्रेटर ड्रा",
+                    "link": "https://adobe-illustrator-draw.en.uptodown.com/android#:~:text=Adobe%20Illustrator%20Draw%20is%20a,in%20a%20good%20drawing%20application.",
+                    "image": "/assets/fileimg/YaqCA2d.jpeg",
+                    "type": "फ़्रीमियम"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "AI दर्शक ऑनलाइन",
+                    "link": "https://aiviewer.com/onlineviewer.aspx",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        }
+    ]
+}

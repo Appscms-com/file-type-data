@@ -1,0 +1,164 @@
+{
+    "Format": "NEF",
+    "ShortName": "NEF",
+    "FullName": "Nikon Electronic Format RAW Image",
+    "Category": "Camera Raw Dosyaları",
+    "Pros": "İnsan bilgisayar işleme gerektiğinde, NEF dosyaları daha faydalıdır. Bu, JPEG dosyalarıyla mümkün olmayan görüntü kalitesini artırmak için birçok olasılık açar. Orijinal piksel verileri NEF dosyalarında korunduğUNDAN, görüntü kalitesi önemli ölçüde daha iyidir. Kayıpsız teknikler kullanılarak sıkıştırılırlar ya da hiç sıkıştırılmazlar. JPEG ve TIFF fotoğrafları NEF görüntülerinden daha dar bir ton aralığına ve renk hassasiyetine sahiptir.",
+    "Cons": "NEF dosyaları JPEG dosyalarından önemli ölçüde daha büyük olduğundan, bir karta kaydedilebilecek daha azı vardır. Bu nedenle bir Nikon kameranın RAW dosyalarını hafıza kartına kaydetmesi daha uzun sürüyor. Çok sayıda RAW dosya formatı vardır ve uzmanlar birleşik bir RAW dosya standardını tanımlamada güçlük çekiyor. Nikon, görüntü kalitesini düşürdüğü gösterilen gürültü azaltma özelliğine sahip olduğu için de cezasını çekti.",
+    "Createdby": "Nikon",
+    "CreatedbyLink": "https://www.nikon.co.in/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "Nikon dijital fotoğraf makinesi ile çekilen ham fotoğraf, NEF dosyası olarak kaydedilir. Verileri CCD ile aynı sıkıştırılmamış formatta kaydeden Nikon Electronic Format (NEF) ile kaydedilir. Kullanılan kamera kimliği ve lens gibi görüntü meta verileri NEF dosyalarında da bulunur. Meta veriler mercek, ayarları, kamera ve daha fazlasıyla ilgili ayrıntıları içerir.",
+    "DetailedInformation": "NEF dosyaları en yaygın Nikon shooters tarafından kullanılır. Bu fotoğrafçılar fotoğraf çekmek ve ham verileri NEF dosyaları olarak kaydetmek için Nikon kameraları kullanan profesyoneller veya amatörler olabilir. Hak dosyalar henüz bitmap grafik düzenleyicileriyle işlenmemiş, yazdırılmamış veya düzenlenmemiş fotoğraflardır. Hak dosya, aydınlatma, yoğunluk ve renkler de dahil olmak üzere sahneyi olabildiğince çoğaltmaya çalışır. Kameranın sensörü tarafından yakalanan veriler ham veri resimlerine kaydedilir. NEF dosyaları bir kamera bellek kartında sıkıştırılmamış veya kayıpsız sıkıştırılmış formatta kaydedilebilir. NEF dosyaları benzer “dijital negatifler.” NEF dosyalarının görüntü kalitesi hakkında herhangi bir tartışma olmamasına rağmen, yazılım geliştiricileri ortak bir standardın olmaması nedeniyle bu formatı seçmezler.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Corel AfterShot Pro 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "Ücretsiz deneme"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Microsoft'tan edinin",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft Fotoğrafları",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Ücretsiz deneme"
+                },
+                {
+                    "name": "Nikon ViewNX2",
+                    "link": "https://imaging.nikon.com/lineup/software/viewnx2/",
+                    "image": "/assets/fileimg/pgXaxjb.jpeg"
+                },
+                {
+                    "name": "Corel AfterShot Pro 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "Ücretsiz deneme"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple Önizlemesi",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "Apple Fotoğrafları",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Ücretsiz deneme"
+                },
+                {
+                    "name": "Nikon ViewNX2",
+                    "link": "https://imaging.nikon.com/lineup/software/viewnx2/",
+                    "image": "/assets/fileimg/pgXaxjb.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Corel AfterShot Pro 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "Ücretsiz deneme"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Apple Fotoğrafları",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "Adobe Photoshop ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Fotoğraflar",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Ücretsiz  "
+                },
+                {
+                    "name": "Google Snapseed",
+                    "link": "https://apps.apple.com/us/app/snapseed/id439438619?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/p5rWIzT.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Android için dosya görüntüleyici",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Adobe Photoshop Express",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Fotoğraflar",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Ücretsiz  "
+                },
+                {
+                    "name": "Google Snapseed",
+                    "link": "https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en_US",
+                    "image": "/assets/fileimg/p5rWIzT.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Fotoğraflar",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Ücretsiz  "
+                }
+            ]
+        }
+    ]
+}

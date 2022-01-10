@@ -1,0 +1,170 @@
+{
+    "Format": "GIF",
+    "ShortName": "GIF",
+    "FullName": "Graphical Interchange Format File",
+    "Category": "ملفات الصور النقطية",
+    "Pros": "حجم الملف صغير. الصور التي تبدو احترافية. يفضل تحسين شفافية نقل الرسائل.",
+    "Cons": "نمط مع لوحة ألوان محدودة. لا يمكن التعديل. من المهم أن يكون لديك اتصال جيد بالإنترنت.",
+    "Createdby": "كومبيوسيرف",
+    "CreatedbyLink": "https://www.compuserve.com/",
+    "CreatedInYear": "1987",
+    "BasicInformation": "ملف GIF هو ملف رسومي تم تخزينه في تنسيق التبادل الرسومي (GIF) (GIF). يمكن أن تحتوي على ما يصل إلى 256 لونًا مفهرسًا ولوحة ألوان يمكن أن تكون مجموعة ألوان محددة مسبقًا أو مخصصة لألوان الصورة. يتم الاحتفاظ بملفات GIF بتنسيق بدون فقدان، مما يعني أن حدة الصورة لا تتأثر بضغط GIF.",
+    "DetailedInformation": "نظرًا لقدرته على نقل الصور، فإن GIF هو نوع ملف الصور الأكثر استخدامًا على الإنترنت. ملفات GIF هي تنسيق رسومات ويب شائع، خاصة للصور الصغيرة والصور ذات النص، مثل أزرار التنقل. من ناحية أخرى، تعد صور JPEG (.JPG) أفضل لعرض الصور نظرًا لأن عدد الألوان التي قد تعرضها غير محدود. يمكن تحريك صور GIF وتخزينها على أنها «صور GIF متحركة»، والتي تستخدم بشكل متكرر على مواقع الويب لعرض الرسوم المتحركة البدائية. قد تحتوي أيضًا على وحدات بكسل شفافة، مما يسمح لها بالاندماج مع مجموعة متنوعة من الخلفيات الملونة. ومع ذلك، على عكس صورة PNG، يجب أن تكون وحدات البكسل في صورة GIF إما شفافة تمامًا أو معتمة تمامًا، وبالتالي لا يمكن تلاشي الشفافية.",
+    "Softwaresused": [
+        {
+            "platform": "لينكس",
+            "softwares": [
+                {
+                    "name": "جيمب",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "مجاني "
+                },
+                {
+                    "name": "جوجل كروم",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "ميكروسوفت إيدج",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "موزيلا فايرفوكس",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "شبابيك",
+            "softwares": [
+                {
+                    "name": "عارض الملفات بلس - احصل عليه من Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "صور ميكروسوفت",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "عارض صور مايكروسوفت ويندوز",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "مايكروسوفت بينت",
+                    "link": "https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9",
+                    "image": "/assets/fileimg/AuNqAKT.jpeg"
+                },
+                {
+                    "name": "أدوبي إيلوستراتور 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                }
+            ]
+        },
+        {
+            "platform": "رفيق",
+            "softwares": [
+                {
+                    "name": "آبل سفاري",
+                    "link": "https://www.apple.com/safari/",
+                    "image": "/assets/fileimg/PePZ5cb.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "معاينة أبل",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "أدوبي فوتوشوب 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "مجموعة رسومات CorelDRAW 2021",
+                    "link": "https://www.coreldraw.com/en/product/coreldraw/purchase.html?AID=10816204&PID=3081440&cjevent=51885051cce111eb80d1d3470a180510&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&x-vehicle=cj",
+                    "image": "/assets/fileimg/cfwD39J.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "أدوبي إيلوستراتور 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "صور جوجل",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "مجاني  "
+                },
+                {
+                    "name": "محرك جوجل",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "فريميوم"
+                }
+            ]
+        },
+        {
+            "platform": "أندرويد",
+            "softwares": [
+                {
+                    "name": "عارض الملفات لنظام Android",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "صور جوجل",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "مجاني  "
+                },
+                {
+                    "name": "محرك جوجل",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "فريميوم"
+                }
+            ]
+        },
+        {
+            "platform": "نظام كرومي أوس",
+            "softwares": [
+                {
+                    "name": "صور جوجل",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "مجاني  "
+                },
+                {
+                    "name": "محرك جوجل",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "فريميوم"
+                }
+            ]
+        }
+    ]
+}

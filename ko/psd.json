@@ -1,0 +1,129 @@
+{
+    "Format": "PSD",
+    "ShortName": "PSD",
+    "FullName": "Adobe Photoshop Document",
+    "Category": "래스터 이미지 파일",
+    "Pros": "포토샵의 기능을 최대한 활용하세요.긴밀한 연결 덕분에 포토샵 파일을 일러스트레이터, InDesign 및 기타 Adobe 프로그램으로 직접 가져올 수 있습니다.저장된 파일을 레이어 모드로 엽니다.투명하게 유지해야 하는 경우 이 도구를 사용하는 것이 좋습니다.",
+    "Cons": "파일이 상당히 큽니다.Adobe는 PSD 형식을 소유합니다.따라서 다른 앱에서는 광범위하게 사용되지 않습니다.",
+    "Createdby": "어도비 시스템즈",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "PSD는 파일을 저장하기 위한 포토샵의 기본 파일 형식입니다.PDD라고도 합니다.PDD라고도 하는 PSD는 일반적으로 사용되는 파일 형식입니다.PSD는 모든 이미지 모드 (비트맵, 회색 음영, 이중톤, 인덱스 색상, RGB, CMYK, Lab 및 다중 채널) 와 호환됩니다.디지털 사진을 개선하고 웹 그래픽을 만드는 데 일반적으로 사용되는 전문 이미지 편집 도구 인 Adobe Photoshop에서 만든 그림 파일입니다.",
+    "DetailedInformation": "이미지 레이어, 조정 레이어, 레이어 마스크, 주석, 파일 정보, 키워드 및 기타 Photoshop 관련 구성 요소는 모두 PSD 파일에서 찾을 수 있습니다.그래픽 디자이너가 자주 제작하고 공유합니다.PSD 파일은 다양한 Photoshop 도구를 사용하여 열고 다른 이미지 형식 (예: PNG, JPEG 및 GIF) 으로 병합하여 업로드, 전송 및 저장할 수 있습니다. 모든 레이어는 PSD에서 다른 파일 형식으로 변환 된 후 하나의 단일 레이어로 병합됩니다.PSD 파일 확장자로 저장하면 레이어가 저장되고 액세스 가능하며 편집 가능합니다.이러한 파일은 최종 이미지 제작 및 전달이 아닌 작업 진행 중인 문서로 자주 사용됩니다.PSD 레이어뿐만 아니라 사진, 모양, 텍스트 및 효과와 같은 기타 요소를 수정할 수 있습니다.RGB, CMYK, 회색조, 단색, 이중톤, 인덱스 색상, Lab 색상 및 다중 채널 색상 모드는 모두 PSD 형식에서 지원됩니다.PSD 파일 확장명을 가진 포토샵 파일은 이미지를 보유하면서 어도비 포토샵 제품에서 다양한 편집 옵션을 허용합니다.마스크, 투명도, 이중톤 설정, 그라디언트, 색상 균형, 혼합 및 클리핑 패스는 사용 가능한 편집 도구 중 일부에 불과합니다.",
+    "Softwaresused": [
+        {
+            "platform": "리눅스",
+            "softwares": [
+                {
+                    "name": "김프",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "무료 "
+                }
+            ]
+        },
+        {
+            "platform": "윈도우",
+            "softwares": [
+                {
+                    "name": "파일 뷰어 플러스 — 마이크로소프트에서 다운로드",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "어도비 포토샵 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "무료 평가판"
+                },
+                {
+                    "name": "어도비 일러스트레이터 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "무료 평가판"
+                },
+                {
+                    "name": "김프",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg"
+                },
+                {
+                    "name": "코렐드로우 그래픽 스위트 2021",
+                    "link": "https://www.coreldraw.com/en/product/coreldraw/purchase.html?AID=10816204&PID=3081440&cjevent=51885051cce111eb80d1d3470a180510&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&x-vehicle=cj",
+                    "image": "/assets/fileimg/cfwD39J.jpeg",
+                    "type": "무료 평가판"
+                }
+            ]
+        },
+        {
+            "platform": "맥",
+            "softwares": [
+                {
+                    "name": "애플 프리뷰",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "어도비 일러스트레이터 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "무료 평가판"
+                },
+                {
+                    "name": "어도비 포토샵 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "무료 평가판"
+                },
+                {
+                    "name": "김프",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "무료 "
+                },
+                {
+                    "name": "픽셀메이터",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id407963104?ign-mpt=uo%3D4&mt=12",
+                    "image": "/assets/fileimg/0RX6D8V.jpeg",
+                    "type": "유료"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "픽셀메이터 2",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/HmizpGb.jpeg",
+                    "type": "유료"
+                },
+                {
+                    "name": "어도비 포토샵 ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "부분 유료화"
+                }
+            ]
+        },
+        {
+            "platform": "기계적 인조 인간",
+            "softwares": [
+                {
+                    "name": "안드로이드용 파일 뷰어",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "어도비 포토샵 익스프레스",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "부분 유료화"
+                }
+            ]
+        }
+    ]
+}

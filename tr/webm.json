@@ -1,0 +1,158 @@
+{
+    "Format": "WEBM",
+    "ShortName": "WEBM",
+    "FullName": "WebM Video File",
+    "Category": "Video dosyası",
+    "Pros": "Mükemmel kalitede videolar. Ücretsiz ve halka açık olan bu etkinliğe herkes katılabilirler. Popüler siteler YouTube, 4chan, Vimeo ve diğerleri içerir.",
+    "Cons": "Yalnızca birkaç tarayıcı ve medya oynatıcı desteklenir. Çoğu mobil cihazda oynayamazsınız.",
+    "Createdby": "Google",
+    "CreatedbyLink": "https://developers.google.com/",
+    "CreatedInYear": "2010",
+    "BasicInformation": "WEBM dosyası, açık, telifsiz bir video paylaşım standardı olan WebM formatında kaydedilmiş bir videodur. WebM, hem ses hem de video verilerini Matroska (.MKV) video formatıyla karşılaştırılabilir bir konteyner yapısında tutar. VP8 veya VP9 video codec bileşenleri, videoyu sıkıştırmak için kullanılır ve ses sıkıştırmak için Vorbis veya Opus ses codec bileşenleri kullanılır.",
+    "DetailedInformation": "WEBM dosya türleri, Matroska dosya konteynerini kullanan ve telifsiz HTML5 videolarında kullanılmak üzere tasarlanmıştır. WEBM video oynatımı Mozilla Firefox, Opera ve Google Chrome tarafından desteklenir, ancak Internet Explorer 9 ve Safari, WEBM ortamını oynatmak için genellikle üçüncü taraf yardımına (QuickTime gibi) ihtiyaç duyar. HTML5 oynatıcı deneylerinin bir parçası olarak YouTube WEBM dosyalarını kullanır. WebM medya dosyalarını oynatmak için tarayıcınız desteklemiyorsa (Safari veya Internet Explorer gibi) bir WebM eklentisini indirmeniz gerekir. WebM, patentli H.264 ve H.265 standartları için telifsiz, açık kaynaklı bir yedek üründür. Teknoloji hem iş hem de ticari olmayan amaçlar için uygundur, çünkü tamamen ücretsizdir.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC Medya Oynatıcı",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "El Freni",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Ffmpeg",
+                    "link": "http://ffmpeg.org/",
+                    "image": "/assets/fileimg/wAHKc6t.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Microsoft'tan edinin",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft Windows Media Player",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "VideoLan VLC Medya Oynatıcı",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "El Freni",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC Medya Oynatıcı",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "El Freni",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Eltima Elmedia Oynatıcı",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "ShedWorx Akıllı Dönüştürücü",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "Ücretsiz deneme"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Ücretli"
+                },
+                {
+                    "name": "Pentaloop PlayerXtreme Medya Oynatıcı",
+                    "link": "https://apps.apple.com/us/app/playerxtreme-media-player/id456584471?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/uoX9gqI.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Android için dosya görüntüleyici",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        }
+    ]
+}

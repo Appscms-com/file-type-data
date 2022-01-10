@@ -1,0 +1,141 @@
+{
+    "Format": "AIFF",
+    "ShortName": "AIFF",
+    "FullName": "Audio Interchange File Format",
+    "Category": "Plik audio",
+    "Pros": "Bardzo wysoka jakość. ",
+    "Cons": "Wymagają dużej przestrzeni magazynowej. ",
+    "Createdby": "Apple",
+    "CreatedbyLink": "https://developer.apple.com/",
+    "CreatedInYear": "1998",
+    "BasicInformation": "Rozszerzenie AIFF (Audio Interchange File Format) jest standardem przechowywania danych dźwiękowych dla różnych elektronicznych urządzeń audio. Zawiera dźwięk o wysokiej rozdzielczości, który został zachowany w nieskompresowanym, bezstratnym formacie. Pliki AIFF mogą być również zapisywane w formacie. Pliki kończące się na AIFC są znane jako pliki AIF (jeśli są skompresowane).",
+    "DetailedInformation": "Firma Apple użyła formatu wymiany plików Electronic Art. do produkcji go w 1988 roku. (IFF). Pliki AIFF są nieskompresowane (bezstratne) i znacznie większe niż popularne pliki MP3, które są skompresowane i stratne. W plikach AIFF możliwe są zarówno informacje o pętli, jak i próbki dźwiękowe. Pliki AIFF są szeroko widoczne na komputerach z systemem MAC OS. Profesjonalni muzycy ceniący wysoką jakość plików i radzą sobie z wysokimi wymaganiami dotyczącymi pamięci masowej są najczęstszymi odbiorcami plików AIFF. Pomimo niewielkich różnic w mechanizmie przechowywania i niewielkich różnic w jakości, kilka odmian plików AIFF jest często przechowywanych w tym samym rozszerzeniu pliku. Pliki AIFF, unlike.MP3 i wiele innych popularnych plików audio są nieskompresowane. Pliki AIFF często zawierają dźwięk wyższej jakości niż równoważne pliki MP3, ponieważ ich dane nie są skompresowane. Jednak ponieważ pliki zawierają więcej danych, zajmują więcej miejsca.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Odtwarzacz multimedialny VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Amarok",
+                    "link": "https://amarok.kde.org/",
+                    "image": "/assets/fileimg/Dh0nFk6.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Audacity",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Darmowy"
+                }
+            ]
+        },
+        {
+            "platform": "Okna",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Pobierz go od firmy Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft Windows Media Player",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Bezpłatny, dołączony do systemu operacyjnego"
+                },
+                {
+                    "name": "Odtwarzacz multimedialny VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Bezpłatne wersje próbne"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple QuickTime Player",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Bezpłatny, dołączony do systemu operacyjnego"
+                },
+                {
+                    "name": "Odtwarzacz multimedialny VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Apple Music",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Bezpłatny, dołączony do systemu operacyjnego"
+                },
+                {
+                    "name": "Audacity",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Bezpłatne wersje próbne"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Apple Music",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Bezpłatny, dołączony do systemu operacyjnego"
+                },
+                {
+                    "name": "olimsoft Olayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Płatne"
+                },
+                {
+                    "name": "Videolan VLC dla urządzeń przenośnych",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Darmowy"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Videolabs VLC dla Androida",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Darmowy"
+                }
+            ]
+        }
+    ]
+}

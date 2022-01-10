@@ -1,0 +1,141 @@
+{
+    "Format": "AIFF",
+    "ShortName": "AIFF",
+    "FullName": "Audio Interchange File Format",
+    "Category": "音声ファイル",
+    "Pros": "非常に高品質。 ",
+    "Cons": "膨大なストレージ容量が必要。 ",
+    "Createdby": "アップル",
+    "CreatedbyLink": "https://developer.apple.com/",
+    "CreatedInYear": "1998",
+    "BasicInformation": "AIFF (Audio Interchange File Format) エクステンションは、さまざまな電子オーディオデバイス用のサウンドデータストレージ標準です。これには、非圧縮のロスレス形式で保存された高解像度オーディオが含まれます。AIFF ファイルは、次の形式で保存することもできます。.aifc で終わるファイルは AIF ファイルと呼ばれます (圧縮されている場合)。",
+    "DetailedInformation": "Appleは1988年にElectronic Artのインターチェンジファイル形式を使用して制作しました。(IFF)。AIFF ファイルは非圧縮 (可逆) で、一般的な MP3 ファイルよりも大幅にサイズが大きく、圧縮されて非可逆です。AIFF ファイルでは、ループ情報とサウンドサンプルの両方を使用できます。AIFF ファイルは MAC OS マシンで広く見られます。AIFFファイルの最も一般的な消費者は、ファイルの高品質を重視し、大量のストレージ要件を処理できるプロのミュージシャンです。保存メカニズムのわずかな違いと品質の違いはほとんどありませんが、いくつかの種類のAIFFファイルが同じファイル拡張子で保存されることがよくあります。AIFF ファイル、unlike.MP3、その他多くの一般的なオーディオファイルは圧縮されません。AIFF ファイルは、データが圧縮されていないため、同等の MP3 ファイルよりも高品質のオーディオが含まれることがよくあります。ただし、ファイルにはより多くのデータが含まれているため、より多くのストレージ領域を占有します。",
+    "Softwaresused": [
+        {
+            "platform": "リナックス",
+            "softwares": [
+                {
+                    "name": "VideoLAN VLC メディアプレーヤー",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "アマロク",
+                    "link": "https://amarok.kde.org/",
+                    "image": "/assets/fileimg/Dh0nFk6.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "Audacity",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "ファイルビューアープラス — マイクロソフトから入手",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "マイクロソフトウィンドウズメディアプレーヤー",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "VideoLAN VLC メディアプレーヤー",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "アドビオーディション CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "フリートライアル"
+                }
+            ]
+        },
+        {
+            "platform": "マック",
+            "softwares": [
+                {
+                    "name": "Apple QuickTime プレイヤー",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "VideoLAN VLC メディアプレーヤー",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "アップルミュージック",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "Audacity",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "アドビオーディション CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "フリートライアル"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "アップルミュージック",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "有料"
+                },
+                {
+                    "name": "Videolan モバイル用 VLC",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "アンドロイド",
+            "softwares": [
+                {
+                    "name": "Videolabs アンドロイド用 VLC",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "無料"
+                }
+            ]
+        }
+    ]
+}

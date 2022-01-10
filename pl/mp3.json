@@ -1,0 +1,188 @@
+{
+    "Format": "MP3",
+    "ShortName": "MP3",
+    "FullName": "MPEG-1 Audio Layer III or MPEG-2 Audio Layer III",
+    "Category": "Plik audio",
+    "Pros": "Zaakceptowany przez wszystkich. Praktycznie wszystkie sprzętowe odtwarzacze audio i gadżety go obsługują. Bardzo wysokie wskaźniki kompresji oferowanych. Może być dekodowany dość szybko i w bardziej wyrafinowany sposób. Norma ISO, która jest częścią specyfikacji MPEG. Każdy może umieścić własną wersję razem z dostępnymi źródłami demo. Sieci wymagające licencjonowania są zrelaksowane. Zapewnia wsparcie dla plików wielokanałowych. ",
+    "Cons": "Wydajność i wydajność są niższe niż obecne kodeki. Maksymalna szybkość transmisji bitów (320 kb/s) nie zawsze jest wystarczająca.Nie są jeszcze dostępne żadne implementacje wielokanałowe. Niekompatybilny z dźwiękiem o wysokiej rozdzielczości (częstotliwość próbkowania wyższa niż 48 kHz). Powoduje wzrost piractwa muzycznego ze względu na większą dostępność i łatwość użytkowania.",
+    "Createdby": "Grupa Ekspertów ds. Obrazów",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "1987",
+    "BasicInformation": "Format pliku MP3 to skompresowany plik audio, który używa kompresji dźwięku „Layer 3\". Został wyprodukowany przez Moving Picture Experts Group (MPEG) (MP3). Nagrania audio, podcasty, ścieżki dźwiękowe, kazania, audiobooki, wykłady itp są szeroko przechowywane jako pliki MP3.",
+    "DetailedInformation": "MPEG wydał format MP3 w 1993 roku, po opracowaniu go na początku lat dziewięćdziesiątych. Może to skondensować dźwięk do ułamka rozmiaru innych typowych typów plików audio w tym czasie (około 1/10 rozmiaru pliku uncompressed.WAV or.AIF). Tak więc ten format szybko stał się standardem przechowywania muzyki i wzrósł ponad pozostałe istniejące. W tym czasie komputery zapewniały bardzo mniej miejsca do przechowywania. Tak więc deveopment formatu MP3 był bardzo krytycznym wydarzeniem. Obecnie MP3 jest najczęściej używanym formatem plików audio. Rozmiar pliku multimedialnego może być znacznie zmniejszony dzięki kompresji MPEG, przy minimalnej wykrywalnej utracie jakości. Poprawia to efektywność przesyłania plików przez Internet. W latach dziewięćdziesiątych i 2000 roku technologia MP3 zrewolucjonizowała koncepcję strumieniowego przesyłania muzyki, umożliwiając ludziom prostsze i szybsze pobieranie muzyki z Internetu.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Odtwarzacz multimedialny VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "XMMS",
+                    "link": "http://www.xmms.org/",
+                    "image": "/assets/fileimg/hodO9zz.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Amarok",
+                    "link": "https://amarok.kde.org/",
+                    "image": "/assets/fileimg/Dh0nFk6.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Audacity",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Klementyna",
+                    "link": "https://www.clementine-player.org/about",
+                    "image": "/assets/fileimg/F87GDJM.jpeg",
+                    "type": "Darmowy"
+                }
+            ]
+        },
+        {
+            "platform": "Okna",
+            "softwares": [
+                {
+                    "name": "Odtwarzacz multimedialny VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Microsoft Windows Media Player",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Bezpłatny, dołączony do systemu operacyjnego"
+                },
+                {
+                    "name": "Audacity",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "File Viewer Plus — Pobierz go od firmy Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg"
+                },
+                {
+                    "name": "Apple iTunes",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Darmowy"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Bezpłatne wersje próbne"
+                },
+                {
+                    "name": "Apple Music",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Bezpłatny, dołączony do systemu operacyjnego"
+                },
+                {
+                    "name": "Audacity",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Odtwarzacz multimedialny VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Roxio toast",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/vyEg9wb.jpeg",
+                    "type": "Płatne"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Apple Music",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Bezpłatny, dołączony do systemu operacyjnego"
+                },
+                {
+                    "name": "Odtwarzacz multimedialny VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "olimsoft Olayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Płatne"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Przeglądarka plików dla Androida",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Konwerter multimediów antvplayer",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Dysk Google",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Dysk Google",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Chrome OS",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "Bezpłatny, dołączony do systemu operacyjnego"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Darmowy"
+                }
+            ]
+        }
+    ]
+}

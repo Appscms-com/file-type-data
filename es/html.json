@@ -1,0 +1,212 @@
+{
+    "Format": "HTML",
+    "ShortName": "HTML",
+    "FullName": "Hypertext Markup Language File",
+    "Category": "Archivo web",
+    "Pros": "El HTML es un lenguaje de uso común. Todos los navegadores admiten HTML. Es fácil de aprender y utilizar. HTML es un lenguaje ligero y de carga rápida. No necesita comprar ningún software.",
+    "Cons": "Como es un lenguaje estático, no puede producir resultados dinámicos por sí solo. La estructura de los documentos HTML es cada vez más difícil de comprender. Los errores pueden resultar costosos. Lleva mucho tiempo. HTML tiene un conjunto limitado de medidas de seguridad.",
+    "Createdby": "Tim Berners-Lee en el CERN",
+    "CreatedbyLink": "https://home.cern/",
+    "CreatedInYear": "1989",
+    "BasicInformation": "El lenguaje de marcado de hipertexto (HTML) es un lenguaje de marcado que se utiliza para formatear la estructura de una página web. Se guarda en un formato de texto estándar y contiene etiquetas que especifican el diseño y el contenido de la página web, como el texto, las tablas, las imágenes y los hipervínculos. Los archivos HTML se utilizan a menudo en Internet y se pueden ver en navegadores web.",
+    "DetailedInformation": "El estándar para crear sitios web es HTML (Lenguaje de marcado de hipertexto). Tim Berners-Lee, físico del CERN, propuso la idea en 1989. Los navegadores web pueden leer este idioma y traducirlo a diferentes textos, colores, formularios (encabezados, párrafos, citas y otra semántica), hipervínculos e incrustación de URL para insertar imágenes o audio. Los componentes HTML se utilizan para construir la estructura de las páginas web en el lenguaje de marcado. Por lo general, cada elemento contiene una etiqueta de apertura entre corchetes angulares (etiqueta>) y una etiqueta de cierre entre corchetes angulares, pero precedida de una barra inclinada (/etiqueta>). Los usuarios pueden ver la codificación HTML en la pestaña «Ver código» de su navegador. El HTML se puede usar para dar formato al texto de un documento en algunas aplicaciones de correo electrónico. Aunque HTML y XHTML son similares, no son lo mismo.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Libre"
+                },
+                {
+                    "name": "Ópera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Libre"
+                },
+                {
+                    "name": "Amaya",
+                    "link": "https://www.w3.org/Amaya/",
+                    "image": "/assets/fileimg/e9cgmZo.jpeg",
+                    "type": "Libre"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Libre"
+                },
+                {
+                    "name": "KompoZer",
+                    "link": "https://sourceforge.net/projects/kompozer/",
+                    "image": "/assets/fileimg/8aN9yEj.jpeg",
+                    "type": "Libre"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Visor de archivos Plus: obténgalo de Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Categoría: Freemium"
+                },
+                {
+                    "name": "Bloc de notas Microsoft",
+                    "link": "https://www.microsoft.com/en-us/p/windows-notepad/9msmlrh6lzf3#activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/82vepge.jpeg",
+                    "type": "Libre"
+                },
+                {
+                    "name": "Wordpad",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/word?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-xMQ4Sl1Ik8DLCMUAH94NdQ&epi=4LioSo.jxMc-xMQ4Sl1Ik8DLCMUAH94NdQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xurkqpvnupuk000%29%287593%29%281243925%29%284LioSo.jxMc-xMQ4Sl1Ik8DLCMUAH94NdQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xurkqpvnupuk000",
+                    "image": "/assets/fileimg/Kp0egqG.jpeg",
+                    "type": "Libre"
+                },
+                {
+                    "name": "KompoZer",
+                    "link": "https://sourceforge.net/projects/kompozer/",
+                    "image": "/assets/fileimg/8aN9yEj.jpeg"
+                },
+                {
+                    "name": "Código de Microsoft Visual Studio",
+                    "link": "https://code.visualstudio.com/",
+                    "image": "/assets/fileimg/51PJjGr.jpeg",
+                    "type": "Libre"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Amaya",
+                    "link": "https://www.w3.org/Amaya/",
+                    "image": "/assets/fileimg/e9cgmZo.jpeg",
+                    "type": "Libre"
+                },
+                {
+                    "name": "Código de Microsoft Visual Studio",
+                    "link": "https://code.visualstudio.com/",
+                    "image": "/assets/fileimg/51PJjGr.jpeg",
+                    "type": "Libre"
+                },
+                {
+                    "name": "KompoZer",
+                    "link": "https://sourceforge.net/projects/kompozer/",
+                    "image": "/assets/fileimg/8aN9yEj.jpeg",
+                    "type": "Libre"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Libre"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Libre"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Libre"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Libre"
+                },
+                {
+                    "name": "Ópera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Libre"
+                },
+                {
+                    "name": "Fornace Espresso HTML",
+                    "link": "https://apps.apple.com/us/app/espresso-html/id487303069?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/t2WljZe.jpeg",
+                    "type": "Libre"
+                },
+                {
+                    "name": "Editor de código textástico de Alexander Blach",
+                    "link": "https://apps.apple.com/us/app/textastic-code-editor-6/id1049254261?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/d5byEov.jpeg",
+                    "type": "Libre"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Visor de archivos para Android",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Categoría: Freemium"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Libre"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Libre"
+                },
+                {
+                    "name": "Ópera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Libre"
+                }
+            ]
+        },
+        {
+            "platform": "Sistema operativo ChromeOS",
+            "softwares": [
+                {
+                    "name": "Texto de Google Chrome",
+                    "link": "https://chrome.google.com/webstore/detail/text/mmfbcljfglbokpmkimbfghdkjmjhdgbg",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis, incluido con el sistema operativo"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Libre"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Libre"
+                },
+                {
+                    "name": "Ópera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Libre"
+                }
+            ]
+        }
+    ]
+}

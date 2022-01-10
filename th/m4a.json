@@ -1,0 +1,123 @@
+{
+    "Format": "M4A",
+    "ShortName": "M4A",
+    "FullName": "MPEG-4 Audio File",
+    "Category": "แฟ้มเสียง",
+    "Pros": "แม้ว่าไฟล์ M4A จะถูกบีบอัด, คุณภาพยังคงไม่เปลี่ยนแปลง.ความจริงที่ว่าไฟล์เสียง M4A ไม่ได้รับการป้องกันโดย Digital Rights Management (DRM) หมายความว่าไฟล์เหล่านี้สามารถแก้ไขและส่งข้อมูลได้อย่างอิสระมากขึ้น",
+    "Cons": "M4A เป็นรูปแบบไฟล์ที่เป็นที่รู้จักกันดีใน iTunes, iPod และอุปกรณ์อื่น ๆ ของ Appleอย่างไรก็ตามเมื่อเทียบกับไฟล์ MP3 การเล่นเสียง M4A มีปัญหาเนื่องจากขาดความเข้ากันได้กับอุปกรณ์อื่น",
+    "Createdby": "แอปเปิ้ล",
+    "CreatedbyLink": "https://developer.apple.com/",
+    "CreatedInYear": "2004",
+    "BasicInformation": "ไฟล์ M4A คือไฟล์เสียง MPEG-4 ที่ได้รับการเข้ารหัสด้วยการเข้ารหัสเสียงขั้นสูง (AAC) หรือ Apple Lossless Audio Codec (ALAC)มันอาจจะเก็บไฟล์เสียงที่หลากหลาย รวมถึงเพลง พอดคาสต์ และหนังสือเสียง",
+    "DetailedInformation": "MPEG-4 เป็นรูปแบบคอนเทนเนอร์มัลติมีเดียสำหรับข้อมูลเสียงและวิดีโอที่ถูกบีบอัด ไฟล์. MP4 ซึ่งเก็บข้อมูลเสียงและวิดีโอใช้รูปแบบนี้คำต่อท้าย.m4a ซึ่งย่อมาจาก “MPEG-4 Audio” ถูกสร้างขึ้นตั้งแต่ไฟล์ M4A มีข้อมูลเสียงโดยเฉพาะการเปลี่ยนชื่อนี้ทำให้ง่ายต่อการบอกความแตกต่างระหว่างวิดีโอ MPEG-4 และไฟล์เสียงเท่านั้น MPEG-4มีตัวเลือกการบีบอัดแบบ lossy เช่นเดียวกับไฟล์เสียงประเภทอื่น ๆ และสามารถทำได้โดยใช้การเข้ารหัส AACรูปแบบ Apple Lossless ช่วยให้สามารถบีบอัดแบบไม่สูญเสียซึ่งไม่สามารถทำได้กับรูปแบบเสียงอื่น ๆ",
+    "Softwaresused": [
+        {
+            "platform": "ลินุกซ์",
+            "softwares": [
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์พลัส — รับได้จากไมโครซอฟท์",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "โปรแกรมเล่นสื่อ Windows ของ Microsoft",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "นัลล์ซอฟท์ วินแอมป์",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "อะโดบี ออดิชั่น CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "แอปเปิ้ลไอทูนส์",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "โปรแกรมเล่น Apple QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "อะโดบี ออดิชั่น CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "เอลติมาเอลมีเดียเพลเยอร์",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "VLC Videolan สำหรับมือถือ",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์สำหรับ Android",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "วีดีโอแลบ VLC สำหรับ Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        }
+    ]
+}

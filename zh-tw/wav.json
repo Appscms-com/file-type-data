@@ -1,0 +1,176 @@
+{
+    "Format": "WAV",
+    "ShortName": "WAV",
+    "FullName": "WAVE Audio File",
+    "Category": "音頻文件",
+    "Pros": "幾乎所有支持聲音的 Windows 應用程序都可以播放它。趕時間解碼",
+    "Cons": "文件大小非常巨大。",
+    "Createdby": "IBM 和微軟",
+    "CreatedbyLink": "https://www.ni.com/en-in/support/downloads/dataplugins/download.microsoft-ibm-dataplugin-for-audio.html",
+    "CreatedInYear": "1991",
+    "BasicInformation": "微軟為音頻文件創建了 WAV 文件格式。由於其廣泛使用，它現在被稱為標準的 PC 音頻文件格式。WAV 是標識 Wave 文件 (.wav) 的文件擴展名。Wave 文件格式主要用於 PC，已被批準為其他計算機平台（包括 Macintosh）的合法交換媒體。",
+    "DetailedInformation": "WAV 文件是以 WAVE 格式保存的音頻文件，是波形數據存儲的常見數字音頻文件格式。WAV 文件可以包括具有各種採樣速率和比特率的錄音，儘管它們通常採用 44.1 kHz 16 位立體聲格式保存，這是 CD 音頻的標準。這使內容創建者能夠輕鬆地在平台之間移動音頻文件，例如用於處理。這使內容創建者能夠輕鬆地在平台之間移動音頻文件，例如用於處理。聽起來像效果，音樂和錄音可以在它們中找到。WAV 文件可以通過多媒體播放器（如 Windows 媒體播放器、QuickTime 等）打開和播放。WAVE 格式基於資源交換文件格式 (RIFF)，該格式主要用於保存視頻和音頻文件。在 20 世紀 90 年代初，微軟和 IBM 合作創建了 WAVE 格式，該格式成為在微軟視窗中存儲原始、未壓縮音頻的標準。",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "視頻網絡 VLC 媒體播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "XMMS",
+                    "link": "http://www.xmms.org/",
+                    "image": "/assets/fileimg/hodO9zz.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "克萊門汀",
+                    "link": "https://www.clementine-player.org/about",
+                    "image": "/assets/fileimg/F87GDJM.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "視窗",
+            "softwares": [
+                {
+                    "name": "文件查看器加 — 從微軟獲取",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "微軟視窗媒體播放器",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                },
+                {
+                    "name": "視頻網絡 VLC 媒體播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "試鏡 CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg"
+                },
+                {
+                    "name": "克萊門汀",
+                    "link": "https://www.clementine-player.org/about",
+                    "image": "/assets/fileimg/F87GDJM.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "蘋果快速播放器",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                },
+                {
+                    "name": "蘋果伊圖尼斯",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "視頻網絡 VLC 媒體播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "羅克西奧吐司 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "已付費"
+                },
+                {
+                    "name": "試鏡 CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "免費試用"
+                }
+            ]
+        },
+        {
+            "platform": "iOS版",
+            "softwares": [
+                {
+                    "name": "奧姆軟膠光層",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "已付費"
+                },
+                {
+                    "name": "視頻移動 VLC",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "安卓",
+            "softwares": [
+                {
+                    "name": "安卓文件查看器",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "適用於安卓系統的 VLC",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "對手媒體轉換器",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "谷歌驅動器",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "免費增值"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "谷歌驅動器",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "鉻操作系統",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                },
+                {
+                    "name": "谷歌瀏覽器",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "免費"
+                }
+            ]
+        }
+    ]
+}

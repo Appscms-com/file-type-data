@@ -1,0 +1,212 @@
+{
+    "Format": "JPG",
+    "ShortName": "JPG",
+    "FullName": "Joint Photographics Expert Group",
+    "Category": "Bestandsindeling van afbeelding",
+    "Pros": "Een zeer populair formaat. Compressie op een hoog, gecontroleerd niveau resulterend in een kleine bestandsgrootte. formaat is compatibel en wordt correct weergegeven in alle browsers, tekst- en grafische programma's, op alle computers, tablets en mobiele apparaten. Ondersteunt realistische afbeeldingen in kleur met veel kleur- en contrastovergangen. Hoge beeldkwaliteit met een kleine mate van samenhang.",
+    "Cons": "Wanneer u de afbeelding comprimeert, kan deze „uit elkaar vallen” in afzonderlijke vierkanten - blokken van 808 pixels. Dit gebeurt omdat het compressiealgoritme naburige pixels analyst. vloeiende kleur - overgangen kunnen hard worden of gewoon verdwijnen. JPEG is minder geschikt voor het werken met tekst- of monochrome afbeeldingen met duidelijke grenzen. Dit formaat ondersteunt geen transparantie, ook al is dit vereist bij het maken van sjablonen, logo's en knoppen. De kwaliteit van de afbeelding neemt af bij elke volgende compressiestap.",
+    "Createdby": "ITU-T en gezamenlijke deskundigengroep voor fotografische afbeeldingen",
+    "CreatedbyLink": "https://www.itu.int/en/ITU-T/studygroups/2009-2012/Pages/16/jpeg1x.aspx",
+    "CreatedInYear": "1992",
+    "BasicInformation": "Een JPG-bestand is een afbeelding die is opgeslagen in het gecomprimeerde afbeeldingsformaat (JPEG) van de Joint Photographic Experts Group. Het wordt veel gebruikt voor het opslaan van digitale foto's en wordt ondersteund door de meeste digitale camera's. JPG-bestanden behoren tot de meest gebruikte afbeeldingsindelingen. Het is een gebruikelijke techniek voor het comprimeren van fotografiefoto's. JPEG is ook de naam van het bestandsformaat dat dit type compressie gebruikt. Compressie met verlies is onomkeerbaar en hoe lager de compressiesnelheid, hoe scherper het beeld.",
+    "DetailedInformation": "In het begin van de jaren tachtig was er geen technologie waarmee mensen gemakkelijk digitale foto's konden comprimeren en uitwisselen. In 1982 begon de JPEG-werkgroep met het ontwikkelen van een compressiestandaard om de grootte van afbeeldingsbestanden te verkleinen met behoud van zoveel mogelijk kwaliteit, waardoor ze gemakkelijker te delen zijn. Het JPEG-bestandsformaat werd in 1992 door de werkgroep ontworpen. JPEG-bestanden, die meestal worden opgeslagen met de extensie the.jpg of.JPEG, zijn afbeeldingen die worden gegenereerd met behulp van een compressieproces met verlies dat een deel van de gegevens in het bronafbeeldingsbestand vernietigt. Dit gegevensverlies is echter over het algemeen niet detecteerbaar voor het blote oog. JPG-bestanden zijn ideaal voor eindproducten, terwijl bestanden zonder verlies het beste zijn om te bewerken. De JPEG-standaard is nog steeds het meest populaire beeldcompressieformaat dat tegenwoordig wordt gebruikt, omdat het gebruikers in staat stelt om deelbare, hoogwaardige afbeeldingsbestanden te maken en omdat het zo diep is ingebed in technologie die wordt gebruikt om foto's te maken en uit te wisselen.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Microsoft Edge",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Gratis "
+                },
+                {
+                    "name": "Shotwell",
+                    "link": "https://wiki.gnome.org/Apps/Shotwell",
+                    "image": "/assets/fileimg/wJy7aoh.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Ramen",
+            "softwares": [
+                {
+                    "name": "Microsoft-foto's",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "Microsoft Windows-fotoviewer",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "Microsoft OneDrive",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "Gratis proefversie"
+                },
+                {
+                    "name": "Microsoft Paint",
+                    "link": "https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9",
+                    "image": "/assets/fileimg/AuNqAKT.jpeg"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple Preview",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "foto's van Apple",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Gratis proefversie"
+                },
+                {
+                    "name": "ACD Systems ACDSee Photo Studio voor Mac",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-mac/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "Gratis proefversie"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "foto's van Apple",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google foto's",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Gratis  "
+                },
+                {
+                    "name": "Adobe Photoshop Express",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop-express/id331975235?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Gratis proefversie"
+                },
+                {
+                    "name": "Microsoft OneDrive",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google foto's",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Gratis  "
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Microsoft OneDrive",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Bestandsviewer voor Android",
+                    "link": "https://play.google.com/store/apps/details?id=com.sharpened.androidfileviewer",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google foto's",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Gratis  "
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Chrome-besturingssysteem",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                }
+            ]
+        }
+    ]
+}

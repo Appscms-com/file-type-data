@@ -1,0 +1,158 @@
+{
+    "Format": "WEBM",
+    "ShortName": "WEBM",
+    "FullName": "WebM Video File",
+    "Category": "Видео файл",
+    "Pros": "Видео отличного качества. Приглашаются все желающие принять участие в этом бесплатном и открытом для общественности мероприятии. Популярные сайты включают YouTube, 4chan, Vimeo и другие.",
+    "Cons": "Поддерживается только несколько браузеров и медиаплееров. На большинстве мобильных устройств вы не сможете играть.",
+    "Createdby": "Google",
+    "CreatedbyLink": "https://developers.google.com/",
+    "CreatedInYear": "2010",
+    "BasicInformation": "Файл WEBM — это видео, сохраненное в формате WebM, который является открытым стандартом обмена видео без лицензионных платежей. WebM хранит аудио и видеоданные в контейнерной структуре, сопоставимой с видеоформатом Matroska (.MKV). Видеокодеки VP8 или VP9 используются для сжатия видео, а аудиокодеки Vorbis или Opus используются для сжатия звука.",
+    "DetailedInformation": "Типы файлов WEBM предназначены для использования в видеороликах HTML5, которые используют файловый контейнер Matroska и не требуют оплаты роялти. Воспроизведение видео в формате WEBM поддерживается Mozilla Firefox, Opera и Google Chrome, однако Internet Explorer 9 и Safari обычно требуют сторонней помощи (например, QuickTime) для воспроизведения медиафайлов WEBM. В рамках эксперимента с HTML5-плеером YouTube использует файлы WEBM. Для воспроизведения медиафайлов WebM необходимо загрузить плагин WebM, если ваш браузер не поддерживает его (например, Safari или Internet Explorer). WebM является бесплатной заменой запатентованных стандартов H.264 и H.265 с открытым исходным кодом. Технология подходит как для деловых, так и для некоммерческих целей, потому что она полностью бесплатна.",
+    "Softwaresused": [
+        {
+            "platform": "Линукс",
+            "softwares": [
+                {
+                    "name": "Медиаплеер VLC VLC VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Ручной тормоз",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Мозилла Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "опера",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "FFmpeg",
+                    "link": "http://ffmpeg.org/",
+                    "image": "/assets/fileimg/wAHKc6t.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Просмотрщик файлов Plus — получите его от корпорации Майкрософт",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Фримиум"
+                },
+                {
+                    "name": "Медиа-проигрыватель Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Бесплатно, в комплекте с ОС"
+                },
+                {
+                    "name": "Медиаплеер VLC VLC VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Ручной тормоз",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg"
+                },
+                {
+                    "name": "Google Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "Мак",
+            "softwares": [
+                {
+                    "name": "Медиаплеер VLC VLC VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Ручной тормоз",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Эльтима Элмедиа Плеер",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Умный конвертер ShedWorx",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "Бесплатная пробная версия"
+                },
+                {
+                    "name": "Мозилла Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "IOS",
+            "softwares": [
+                {
+                    "name": "Олимсофт Плеер",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Оплаченный"
+                },
+                {
+                    "name": "Проигрыватель пенталупЭкстрим Медиа Плеер",
+                    "link": "https://apps.apple.com/us/app/playerxtreme-media-player/id456584471?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/uoX9gqI.jpeg",
+                    "type": "Фримиум"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Просмотрщик файлов для Android",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Фримиум"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        }
+    ]
+}

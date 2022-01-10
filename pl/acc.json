@@ -1,0 +1,26 @@
+{
+    "Format": "ACC",
+    "ShortName": "ACC",
+    "FullName": "Graphics Accounts Data File",
+    "Category": "Pliki danych",
+    "Pros": "n/d",
+    "Cons": "n/d",
+    "Createdby": "Oprogramowanie FKJ",
+    "CreatedbyLink": "https://download.cnet.com/developer/fkj-software/i-6201467/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "Plik ACC jest formatem pliku danych konta graficznego. W przypadku kont graficznych ten plik zawiera informacje o kontach finansowych. To narzędzie, które pomaga w tworzeniu budżetów osobistych i zarządzaniu nimi. Może zawierać informacje z jednego lub więcej kont bankowych.",
+    "DetailedInformation": "Pliki ACC zawierają dane konta finansowego dla kont graficznych. Można je otworzyć w połączeniu z plikiem budżetu (.BGT).",
+    "Softwaresused": [
+        {
+            "platform": "Okna",
+            "softwares": [
+                {
+                    "name": "Konta graficzne FKJ Software",
+                    "link": "https://download.cnet.com/developer/fkj-software/i-6201467/",
+                    "image": "https://image.flaticon.com/icons/png/512/1063/1063308.png",
+                    "type": "Darmowy"
+                }
+            ]
+        }
+    ]
+}

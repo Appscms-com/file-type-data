@@ -1,0 +1,212 @@
+{
+    "Format": "HTML",
+    "ShortName": "HTML",
+    "FullName": "Hypertext Markup Language File",
+    "Category": "वेब फ़ाइल",
+    "Pros": "HTML आमतौर पर इस्तेमाल की जाने वाली भाषा है। HTML सभी ब्राउज़रों द्वारा समर्थित है। सीखना और उपयोग करना आसान है। HTML एक हल्के वजन और त्वरित लोड करने वाली भाषा है। आपको कोई सॉफ्टवेयर खरीदने की जरूरत नहीं है।",
+    "Cons": "क्योंकि यह एक स्थिर भाषा है, यह अपने आप गतिशील आउटपुट का उत्पादन नहीं कर सकती है। HTML दस्तावेज़ों की संरचना को समझना अधिक कठिन होता जा रहा है। त्रुटियां महंगी हो सकती हैं। इसमें काफी समय लगता है। HTML में सुरक्षा उपायों का एक सीमित सेट है।",
+    "Createdby": "सर्न में टिम बर्नर्स-ली",
+    "CreatedbyLink": "https://home.cern/",
+    "CreatedInYear": "1989",
+    "BasicInformation": "हाइपरटेक्स्ट मार्कअप लैंग्वेज (HTML) एक मार्कअप लैंग्वेज है जिसका उपयोग वेबपेज की संरचना को प्रारूपित करने के लिए किया जाता है। यह एक मानक पाठ प्रारूप में सहेजा जाता है और इसमें ऐसे टैग होते हैं जो वेबपृष्ठ के लेआउट और सामग्री को निर्दिष्ट करते हैं, जैसे पाठ, टेबल, चित्र और हाइपरलिंक। HTML फ़ाइलों का उपयोग अक्सर इंटरनेट पर किया जाता है और उन्हें वेब ब्राउज़र में देखा जा सकता है।",
+    "DetailedInformation": "वेबसाइटों के निर्माण के लिए मानक HTML (हाइपरटेक्स्ट मार्कअप लैंग्वेज) है। सर्न के एक भौतिक विज्ञानी टिम बर्नर्स-ली ने 1989 में इस विचार का प्रस्ताव रखा था। वेब ब्राउज़र इस भाषा को पढ़ सकते हैं और छवियों या ऑडियो को सम्मिलित करने के लिए इसे विभिन्न ग्रंथों, रंगों, रूपों (शीर्षकों, पैराग्राफ, कोटेशन और अन्य शब्दार्थ), हाइपरलिंक और URL एम्बेडिंग में अनुवाद कर सकते हैं। HTML घटकों का उपयोग मार्कअप भाषा में वेबपृष्ठों की संरचना के निर्माण के लिए किया जाता है। प्रत्येक तत्व में आम तौर पर कोण ब्रैकेट (टैग>) में संलग्न एक उद्घाटन टैग होता है और कोण ब्रैकेट में संलग्न एक समापन टैग होता है, लेकिन फॉरवर्ड स्लैश (/टैग>) से पहले होता है। उपयोगकर्ता अपने ब्राउज़र के “व्यू सोर्स” टैब पर जाकर HTML कोडिंग देख सकते हैं। HTML का उपयोग कुछ ईमेल अनुप्रयोगों में दस्तावेज़ के पाठ को प्रारूपित करने के लिए किया जा सकता है। हालांकि HTML और XHTML समान हैं, वे समान नहीं हैं।",
+    "Softwaresused": [
+        {
+            "platform": "लिनक्स",
+            "softwares": [
+                {
+                    "name": "मोज़िला फ़ायरफ़ॉक्स",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "ओपेरा",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "W3C अमाया",
+                    "link": "https://www.w3.org/Amaya/",
+                    "image": "/assets/fileimg/e9cgmZo.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "गूगल क्रोम",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "कम्पोज़र",
+                    "link": "https://sourceforge.net/projects/kompozer/",
+                    "image": "/assets/fileimg/8aN9yEj.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "फ़ाइल व्यूअर प्लस - इसे Microsoft से प्राप्त करें",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट नोटपैड",
+                    "link": "https://www.microsoft.com/en-us/p/windows-notepad/9msmlrh6lzf3#activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/82vepge.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट वर्डपैड",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/word?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-xMQ4Sl1Ik8DLCMUAH94NdQ&epi=4LioSo.jxMc-xMQ4Sl1Ik8DLCMUAH94NdQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xurkqpvnupuk000%29%287593%29%281243925%29%284LioSo.jxMc-xMQ4Sl1Ik8DLCMUAH94NdQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xurkqpvnupuk000",
+                    "image": "/assets/fileimg/Kp0egqG.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "कम्पोज़र",
+                    "link": "https://sourceforge.net/projects/kompozer/",
+                    "image": "/assets/fileimg/8aN9yEj.jpeg"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट विजुअल स्टूडियो कोड",
+                    "link": "https://code.visualstudio.com/",
+                    "image": "/assets/fileimg/51PJjGr.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "मैक",
+            "softwares": [
+                {
+                    "name": "W3C अमाया",
+                    "link": "https://www.w3.org/Amaya/",
+                    "image": "/assets/fileimg/e9cgmZo.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट विजुअल स्टूडियो कोड",
+                    "link": "https://code.visualstudio.com/",
+                    "image": "/assets/fileimg/51PJjGr.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "कम्पोज़र",
+                    "link": "https://sourceforge.net/projects/kompozer/",
+                    "image": "/assets/fileimg/8aN9yEj.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "मोज़िला फ़ायरफ़ॉक्स",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "गूगल क्रोम",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "आईओएस",
+            "softwares": [
+                {
+                    "name": "मोज़िला फ़ायरफ़ॉक्स",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "गूगल क्रोम",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "ओपेरा",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "फोर्नेस एस्प्रेसो एचटीएमएल",
+                    "link": "https://apps.apple.com/us/app/espresso-html/id487303069?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/t2WljZe.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "अलेक्जेंडर ब्लाच टेक्स्टास्टिक कोड एडिटर",
+                    "link": "https://apps.apple.com/us/app/textastic-code-editor-6/id1049254261?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/d5byEov.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "एंड्रॉयड",
+            "softwares": [
+                {
+                    "name": "Android के लिए फ़ाइल व्यूअर",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "मोज़िला फ़ायरफ़ॉक्स",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "गूगल क्रोम",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "ओपेरा",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "गूगल क्रोम टेक्स्ट",
+                    "link": "https://chrome.google.com/webstore/detail/text/mmfbcljfglbokpmkimbfghdkjmjhdgbg",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "मोज़िला फ़ायरफ़ॉक्स",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "गूगल क्रोम",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "ओपेरा",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        }
+    ]
+}

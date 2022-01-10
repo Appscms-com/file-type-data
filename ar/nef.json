@@ -1,0 +1,164 @@
+{
+    "Format": "NEF",
+    "ShortName": "NEF",
+    "FullName": "Nikon Electronic Format RAW Image",
+    "Category": "ملفات الكاميرا الخام",
+    "Pros": "عندما تكون معالجة الكمبيوتر البشري مطلوبة، تكون ملفات NEF أكثر فائدة. هذا يفتح الكثير من الاحتمالات لتحسين جودة الصورة، وهو أمر غير ممكن مع ملفات JPEG. نظرًا لأن بيانات البكسل الأصلية محفوظة في ملفات NEF، فإن جودة الصورة أفضل بشكل كبير. يتم ضغطها إما باستخدام تقنيات بدون فقدان أو لا يتم ضغطها على الإطلاق. تتمتع صور JPEG و TIFF بنطاق نغمة أضيق ودقة ألوان من صور NEF.",
+    "Cons": "نظرًا لأن ملفات NEF أكبر بكثير من ملفات JPEG، فهناك عدد أقل منها يمكن حفظها على البطاقة. هذا هو السبب أيضًا في أن كاميرا Nikon تستغرق وقتًا أطول لحفظ ملفات RAW على بطاقة ذاكرة. هناك العديد من تنسيقات ملفات RAW، ويواجه الخبراء صعوبة في تحديد معيار ملف RAW موحد. كما تم معاقبة نيكون بسبب استخدام الحد من الضوضاء، والذي ثبت أنه يؤدي إلى تدهور جودة الصورة.",
+    "Createdby": "نيكون",
+    "CreatedbyLink": "https://www.nikon.co.in/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "يتم حفظ صورة أولية تم التقاطها باستخدام كاميرا نيكون الرقمية كملف NEF. يتم حفظه في تنسيق نيكون الإلكتروني (NEF)، الذي يحفظ البيانات بنفس التنسيق غير المضغوط مثل CCD. كما يتم تضمين البيانات الوصفية للصورة، مثل معرف الكاميرا والعدسة المستخدمة، في ملفات NEF. تتضمن البيانات الوصفية تفاصيل حول العدسة وإعداداتها والكاميرا والمزيد.",
+    "DetailedInformation": "ملفات NEF هي الأكثر استخدامًا من قبل الرماة نيكون. قد يكون هؤلاء المصورون محترفين أو هواة يستخدمون كاميرات نيكون لالتقاط الصور وحفظ البيانات الأولية كملفات NEF. الملفات الأولية هي صور لم تتم معالجتها أو طباعتها أو تحريرها باستخدام برامج تحرير الرسومات النقطية حتى الآن. يحاول الملف الخام تكرار المشهد قدر الإمكان، بما في ذلك الإضاءة والكثافة والألوان. يتم تسجيل البيانات التي تم التقاطها بواسطة مستشعر الكاميرا في صور البيانات الأولية. يمكن حفظ ملفات NEF إما بتنسيق مضغوط أو مضغوط بدون فقدان على بطاقة ذاكرة الكاميرا. تشبه ملفات NEF «السلبيات الرقمية». على الرغم من عدم وجود جدل حول جودة صورة ملفات NEF، لا يختار مطورو البرامج هذا التنسيق بسبب عدم وجود معيار مشترك.",
+    "Softwaresused": [
+        {
+            "platform": "لينكس",
+            "softwares": [
+                {
+                    "name": "كوريل أفتر شوت برو 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                }
+            ]
+        },
+        {
+            "platform": "شبابيك",
+            "softwares": [
+                {
+                    "name": "عارض الملفات بلس - احصل عليه من Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "صور ميكروسوفت",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "أدوبي فوتوشوب 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "نيكون فيو NX2",
+                    "link": "https://imaging.nikon.com/lineup/software/viewnx2/",
+                    "image": "/assets/fileimg/pgXaxjb.jpeg"
+                },
+                {
+                    "name": "كوريل أفتر شوت برو 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                }
+            ]
+        },
+        {
+            "platform": "رفيق",
+            "softwares": [
+                {
+                    "name": "معاينة أبل",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "صور أبل",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "أدوبي فوتوشوب 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "نيكون فيو NX2",
+                    "link": "https://imaging.nikon.com/lineup/software/viewnx2/",
+                    "image": "/assets/fileimg/pgXaxjb.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "كوريل أفتر شوت برو 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "صور أبل",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "أدوبي فوتوشوب ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "صور جوجل",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "مجاني  "
+                },
+                {
+                    "name": "جوجل Snapseed",
+                    "link": "https://apps.apple.com/us/app/snapseed/id439438619?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/p5rWIzT.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "أندرويد",
+            "softwares": [
+                {
+                    "name": "عارض الملفات لنظام Android",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "أدوبي فوتوشوب إكسبريس",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "صور جوجل",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "مجاني  "
+                },
+                {
+                    "name": "جوجل Snapseed",
+                    "link": "https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en_US",
+                    "image": "/assets/fileimg/p5rWIzT.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "نظام كرومي أوس",
+            "softwares": [
+                {
+                    "name": "صور جوجل",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "مجاني  "
+                }
+            ]
+        }
+    ]
+}

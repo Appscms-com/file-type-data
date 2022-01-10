@@ -1,0 +1,176 @@
+{
+    "Format": "WAV",
+    "ShortName": "WAV",
+    "FullName": "WAVE Audio File",
+    "Category": "Audio-Datei",
+    "Pros": "Fast alle Windows-Anwendungen, die Sound unterstützen, können ihn abspielen. In Eile dekodieren.",
+    "Cons": "Die Dateigröße ist extrem groß.",
+    "Createdby": "IBM und Microsoft",
+    "CreatedbyLink": "https://www.ni.com/en-in/support/downloads/dataplugins/download.microsoft-ibm-dataplugin-for-audio.html",
+    "CreatedInYear": "1991",
+    "BasicInformation": "Microsoft hat das WAV-Dateiformat für Audiodateien erstellt. Aufgrund seiner weit verbreiteten Verwendung wird es jetzt als Standard-PC-Audiodateiformat bezeichnet. WAV ist die Dateierweiterung, die eine Wave-Datei (.wav) identifiziert. Das Wave-Dateiformat, das hauptsächlich auf PCs verwendet wird, wurde als legitimes Austauschmedium für andere Computerplattformen, einschließlich Macintosh, zugelassen.",
+    "DetailedInformation": "Eine WAV-Datei ist eine Audiodatei, die im WAVE-Format gespeichert ist, einem gängigen digitalen Audiodateiformat für die Wellenformdatenspeicherung. WAV-Dateien können Audioaufnahmen mit einer Vielzahl von Abtastraten und Bitraten enthalten, obwohl sie am häufigsten im 16-Bit-Stereoformat mit 44,1 kHz gespeichert werden, das der Standard für CD-Audio ist. Auf diese Weise können Ersteller von Inhalten problemlos Audiodateien zwischen Plattformen verschieben, z. B. zur Verarbeitung. Auf diese Weise können Ersteller von Inhalten problemlos Audiodateien zwischen Plattformen verschieben, z. B. zur Verarbeitung. Sounds wie Effekte, Musik und Sprachaufnahmen sind darin zu finden. WAV-Dateien können von Multimedia-Playern wie Windows Media Player, QuickTime und anderen geöffnet und wiedergegeben werden. Das WAVE-Format basiert auf dem Resource Interchange File Format (RIFF), das hauptsächlich zum Speichern von Video- und Audiodateien verwendet wird. In den frühen 1990er Jahren arbeiteten Microsoft und IBM zusammen, um das WAVE-Format zu entwickeln, das zum Standard für das Speichern von unkomprimiertem Rohaudio in Microsoft Windows wurde.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLAN VLC Mediaplayer",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "XMMS",
+                    "link": "http://www.xmms.org/",
+                    "image": "/assets/fileimg/hodO9zz.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Clementine",
+                    "link": "https://www.clementine-player.org/about",
+                    "image": "/assets/fileimg/F87GDJM.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Holen Sie es sich von Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft Windows Media Player",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Kostenlos, im Betriebssystem enthalten"
+                },
+                {
+                    "name": "VideoLAN VLC Mediaplayer",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Adobe Vorsprechen CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg"
+                },
+                {
+                    "name": "Clementine",
+                    "link": "https://www.clementine-player.org/about",
+                    "image": "/assets/fileimg/F87GDJM.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple QuickTime-Spieler",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Kostenlos, im Betriebssystem enthalten"
+                },
+                {
+                    "name": "Apple iTunes",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "VideoLAN VLC Mediaplayer",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Roxio Toast 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "Bezahlt"
+                },
+                {
+                    "name": "Adobe Vorsprechen CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Kostenlose Testversion"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Olimsoft-Spieler",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Bezahlt"
+                },
+                {
+                    "name": "Videolan VLC für Handys",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Dateibetrachter für Android",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Videolabs VLC für Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "antvplayer Medienkonverter",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Chrome OS",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "Kostenlos, im Betriebssystem enthalten"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        }
+    ]
+}

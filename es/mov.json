@@ -1,0 +1,147 @@
+{
+    "Format": "MOV",
+    "ShortName": "MOV",
+    "FullName": "Apple QuickTime Movie",
+    "Category": "Archivo de vídeo",
+    "Pros": "Puede almacenar referencias de datos abstractos para datos de medios. Se pueden modificar fácilmente sin tener que volver a escribir todos los datos de medios después. Para la edición de vídeo profesional, este es el estándar de la industria.",
+    "Cons": "Se utilizan principalmente para la edición, pero no son el estándar que se utilizará para fines reales. En los dispositivos reales, hay un bajo nivel de aceptación. ",
+    "Createdby": "Apple",
+    "CreatedbyLink": "https://developer.apple.com/",
+    "CreatedInYear": "1998",
+    "BasicInformation": "Un archivo MOV es un formato de archivo contenedor multimedia que guarda las películas en el formato de archivo QuickTime (QTFF). Tiene una o más pistas que contienen varios tipos de datos multimedia, incluidos vídeo, audio y texto (subtítulos). Las películas y otros archivos de vídeo suelen guardarse como archivos MOV.",
+    "DetailedInformation": "Apple desarrolló y lanzó QTFF en 1991. El formato contenedor está destinado a admitir una variedad de formatos de medios para facilitar la transmisión de multimedia entre dispositivos, sistemas operativos y aplicaciones. Los archivos multimedia QTFF a menudo son archivos as.mov almacenados, sin embargo, también se pueden guardar como archivos.qt. Las pistas de vídeo, audio, código de tiempo y texto se pueden encontrar en archivos MOV, que se pueden utilizar para almacenar y sincronizar varias formas de datos. Se pueden usar varios códecs alternativos para codificar cada pista de medios. El códec MPEG-4 se usa a menudo para comprimir archivos MOV. Cada contenedor de archivos puede contener una variedad de tipos de medios. En ellos se pueden almacenar vídeos, efectos de vídeo, texto, fotos, subtítulos y audio. Este tipo de archivo se utiliza con frecuencia en las aplicaciones de edición de vídeo. Los archivos MOV y QuickTime se utilizan con frecuencia en la edición de música y vídeo (o los dos combinados).",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Reproductor multimedia VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Libre"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Visor de archivos Plus: obténgalo de Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Categoría: Freemium"
+                },
+                {
+                    "name": "Reproductor multimedia de Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Gratis, incluido con el sistema operativo"
+                },
+                {
+                    "name": "Reproductor multimedia VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Libre"
+                },
+                {
+                    "name": "Winamp de Nullsoft",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "Xilisoft Video Converter Ultimate",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg",
+                    "type": "Prueba gratuita"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Reproductor QuickTime de Apple",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Gratis, incluido con el sistema operativo"
+                },
+                {
+                    "name": "Reproductor Eltima Elmedia",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Libre"
+                },
+                {
+                    "name": "Reproductor multimedia VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Libre"
+                },
+                {
+                    "name": "Tostadas Roxio 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "Pagado"
+                },
+                {
+                    "name": "Adobe Premiere Rush",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "Prueba gratuita"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Pagado"
+                },
+                {
+                    "name": "Videolan VLC para dispositivos móviles",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Libre"
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Categoría: Freemium"
+                },
+                {
+                    "name": "Adobe Premiere Rush",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "Prueba gratuita"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Google Drive",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Categoría: Freemium"
+                },
+                {
+                    "name": "Adobe Premiere Rush",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "Prueba gratuita"
+                },
+                {
+                    "name": "Videolabs VLC para Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Libre"
+                }
+            ]
+        }
+    ]
+}

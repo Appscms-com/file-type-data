@@ -1,0 +1,212 @@
+{
+    "Format": "JPG",
+    "ShortName": "JPG",
+    "FullName": "Joint Photographics Expert Group",
+    "Category": "圖像文件格式",
+    "Pros": "一個非常受歡迎的格式。在高、受控級別進行壓縮，導致文件大小較小。格式兼容並在所有瀏覽器、文本和圖形程序、所有計算機、平板電腦和移動設備上正確顯示。支持具有大量色彩和對比度過渡的全綵色逼真圖像。高質量的圖像，具有較小程度的一致性。",
+    "Cons": "當你壓縮圖像時，它可能會「崩潰」成單個正方塊-808 像素塊。出現這種情況的原因是壓縮算法分析相鄰像素。平滑的顏色 — 過渡可能變得苛刻或簡單地消失。JPEG 不太適合處理具有清晰邊界的文本或單色圖形。此格式不支持透明度，即使在創建模板、徽標和按鈕時是必需的。隨着每個後續壓縮步驟，圖像的質量都會下降。",
+    "Createdby": "ITU-T 和聯合攝影專家組",
+    "CreatedbyLink": "https://www.itu.int/en/ITU-T/studygroups/2009-2012/Pages/16/jpeg1x.aspx",
+    "CreatedInYear": "1992",
+    "BasicInformation": "JPG 文件是以聯合攝影專家組壓縮圖像格式 (JPEG) 保存的圖像。它被廣泛用於存儲數碼照片，並受到大多數數碼相機的支持。JPG 文件是最常用的圖像格式之一。這是壓縮攝影照片的常見技術。JPEG 也是使用此類壓縮的文件格式的名稱。有損壓縮是不可逆的，壓縮速率越低，圖像就越清晰。",
+    "DetailedInformation": "1980 年代初沒有任何技術能夠讓人們輕鬆地壓縮和交換數碼照片。1982 年，JPEG 工作組開始開發壓縮標準，以減少圖像文件的大小，同時保持儘可能多的質量，使其更易於共享。JPEG 文件格式由工作組於 1992 年設計。通常使用 the.jpg or.JPEG 擴展名保存的 JPEG 文件是利用有損壓縮過程生成的圖像，該過程會破壞源映像文件中的某些數據。然而，肉眼通常無法檢測到這種數據丟失。JPG 文件是最終產品的理想選擇，而無損文件最適合編輯。JPEG 標準仍然是目前使用的最流行的圖像壓縮格式，因為它允許用户創建可共享的高質量圖像文件，而且它深入嵌入了用於製作和交換照片的技術中。",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "谷歌瀏覽器",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "微軟邊緣",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "免費 "
+                },
+                {
+                    "name": "肖特威爾",
+                    "link": "https://wiki.gnome.org/Apps/Shotwell",
+                    "image": "/assets/fileimg/wJy7aoh.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "莫茲拉火狐",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "視窗",
+            "softwares": [
+                {
+                    "name": "微軟照片",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                },
+                {
+                    "name": "微軟視窗照片查看器",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                },
+                {
+                    "name": "微軟一驅動器",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "免費試用"
+                },
+                {
+                    "name": "微軟油漆",
+                    "link": "https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9",
+                    "image": "/assets/fileimg/AuNqAKT.jpeg"
+                },
+                {
+                    "name": "谷歌瀏覽器",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "蘋果預覽",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                },
+                {
+                    "name": "蘋果照片",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                },
+                {
+                    "name": "圖片店",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "免費試用"
+                },
+                {
+                    "name": "ACD 系統視圖片工作室適用於 Mac",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-mac/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "免費試用"
+                },
+                {
+                    "name": "谷歌瀏覽器",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "iOS版",
+            "softwares": [
+                {
+                    "name": "蘋果照片",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                },
+                {
+                    "name": "谷歌驅動器",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "谷歌照片",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "免費  "
+                },
+                {
+                    "name": "圖片店快捷",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop-express/id331975235?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "免費試用"
+                },
+                {
+                    "name": "微軟一驅動器",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "免費增值"
+                }
+            ]
+        },
+        {
+            "platform": "安卓",
+            "softwares": [
+                {
+                    "name": "谷歌驅動器",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "谷歌照片",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "免費  "
+                },
+                {
+                    "name": "谷歌瀏覽器",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "微軟一驅動器",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "安卓文件查看器",
+                    "link": "https://play.google.com/store/apps/details?id=com.sharpened.androidfileviewer",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "免費增值"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "谷歌照片",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "免費  "
+                },
+                {
+                    "name": "谷歌瀏覽器",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "鉻操作系統",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "Format": "FLV",
+    "ShortName": "FLV",
+    "FullName": "Flash Video File",
+    "Category": "ملف فيديو",
+    "Pros": "الأفلام والعروض التقديمية عبر الإنترنت وإعلانات البانر والرسوم المتحركة على الإنترنت والاستخدامات الأخرى لـ Flash ليست سوى أمثلة قليلة. سيتمكن أكثر من 90٪ من زوار الموقع من رؤيته. غالبًا ما تكون ملفات الفلاش صغيرة ومباشرة للتنزيل. يمكن رؤية الفلاش على كل من اتصالات النطاق العريض والاتصال الهاتفي، وكذلك على الأنظمة الأقدم والأبطأ. يمكن تحويل مجموعة واسعة من ملفات الفيديو إلى تنسيق Flash بسهولة.",
+    "Cons": "قد يكون إنشاء محتوى Flash مكلفًا ويستغرق وقتًا طويلاً. نظرًا لأن عناكب محرك البحث لا تحدد ملفات Flash، فإنها لا تساهم في تحسين الموقع. عند الوصول إلى صفحة ويب تحتوي على Flash، قد يواجه الزوار أوقات انتظار أطول، خاصة إذا كانوا يستخدمون اتصال الطلب الهاتفي.",
+    "Createdby": "أنظمة أدوبي",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "2003",
+    "BasicInformation": "يُعرف ملف الفيديو المحفوظ بتنسيق حاوية Adobe Flash Video (FLV) باسم ملف FLV. يتم تخزين كل رأس قصير وتدفقات بيانات الصوت والفيديو المتزامنة (المشفرة بنفس طريقة التدفقات بتنسيق Flash.SWF القياسي) وحزم البيانات الوصفية.",
+    "DetailedInformation": "يستخدم تنسيق فيديو فلاش أدوبي سيستمز على نطاق واسع لمقاطع الفيديو عبر الإنترنت على مواقع مثل YouTube و Hulu و Vevo ومجموعة متنوعة من خدمات الفيديو المتدفقة الأخرى. يمكن لبرنامج Adobe Flash Player (بما في ذلك المكونات الإضافية للمتصفح) وبرامج الطرف الثالث قراءة ومشاهدة ملفات FLV على كل نظام تشغيل تقريبًا (باستثناء iOS). مع إصدار Adobe Flash Player 7 في عام 2003، تم إطلاق تنسيق FLV. يستخدمه Adobe Flash Player بشكل أساسي لتقديم محتوى فيديو عبر الإنترنت مثل الأفلام والحلقات التلفزيونية. FLV، من ناحية أخرى، هو تنسيق مفتوح تدعمه مجموعة متنوعة من تطبيقات غير Adobe/Macromedia. يمكن استخدام المكون الإضافي Flash Video Exporter (متوفر مع Adobe Animate) أو أي برنامج يدعم ملفات FLV لإنتاج محتوى فيديو فلاش وتصديره كملفات FLV. باستخدام Adobe Media Encoder، يمكن للمستخدمين الآن ترميز تنسيقات الفيديو المختلفة مثل QuickTime أو Windows Media. مع تقدم التقنيات عبر الإنترنت في 2010، أصبحت عيوب Flash، التي تضمنت نقاط ضعف الأداء والأمان، واضحة بشكل متزايد. توقفت Adobe والعديد من صانعي المتصفحات عبر الإنترنت رسميًا عن دعم Flash في 31 ديسمبر 2020، حيث انخفض استخدام Flash Player وتنسيق FLV.",
+    "Softwaresused": [
+        {
+            "platform": "لينكس",
+            "softwares": [
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "سحابة لاعب حقيقي الشبكات الحقيقية",
+                    "link": "https://www.real.com/in",
+                    "image": "/assets/fileimg/FdqTl1x.jpeg",
+                    "type": "فريميوم"
+                }
+            ]
+        },
+        {
+            "platform": "شبابيك",
+            "softwares": [
+                {
+                    "name": "عارض الملفات بلس - احصل عليه من Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "محول فيديو Xilisoft في نهاية المطاف",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "نولسوفت وينامب",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "ميديا بلاير كلاسيك",
+                    "link": "https://github.com/clsid2/mpc-hc/",
+                    "image": "/assets/fileimg/PLx4Opv.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "رفيق",
+            "softwares": [
+                {
+                    "name": "أبل كويك تايم بلاير",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "أدوبي أنيميت CC 2019",
+                    "link": "https://www.adobe.com/products/animate.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/pqcWQ2F.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "مشغل ألتيما الميديا",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "RealNetworks RealTimes: صانع الفيديو",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "فريميوم"
+                }
+            ]
+        },
+        {
+            "platform": "أندرويد",
+            "softwares": [
+                {
+                    "name": "BIT Labs بسيط مشغل فيديو MP4",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "محول وسائل الإعلام antvplayer",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "مشغل J2 التفاعلي MX",
+                    "link": "https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en",
+                    "image": "/assets/fileimg/Cjoa7OB.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "صانع فيديو RealNetworks RealTimes",
+                    "link": "https://play.google.com/store/apps/details?id=com.real.RealPlayerCloud",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "فريميوم"
+                }
+            ]
+        }
+    ]
+}

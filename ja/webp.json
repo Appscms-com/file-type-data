@@ -1,0 +1,176 @@
+{
+    "Format": "WEBP",
+    "ShortName": "WEBP",
+    "FullName": "Web Picture",
+    "Category": "ラスターイメージファイル",
+    "Pros": "ファイルサイズは小さくなります。圧縮アルゴリズムが改善されました。より滑らかなカラーグラデーション。アルファチャンネルをマスキングする。",
+    "Cons": "ブラウザのサポートが不足しています。書き出し用のインタフェースが不良です。アーティファクトはプラスチックでできているようです。",
+    "Createdby": "グーグル",
+    "CreatedbyLink": "https://developers.google.com/",
+    "CreatedInYear": "2010",
+    "BasicInformation": "WEBPファイルは、WebP（「Weppy」と発音される）と呼ばれるウェブグラフィック用にGoogleが開発したラスターイメージ形式です。WebP 形式は、JPEG と同等またはそれ以上の画質を維持しながら、通常の JPEG 圧縮よりも効率的にファイルを圧縮します。to.PNG と同様に、非可逆圧縮と可逆圧縮が可能で、透明度用のアルファチャンネルが含まれています。",
+    "DetailedInformation": "Googleが2010年に作成したオープンスタンダードのWEBP画像形式では、ユーザーは非可逆圧縮と可逆圧縮の両方で写真を保存できます。Googleの開発者によると、圧縮効率により、写真をJPEGやPNG画像よりも最大34％小さいサイズに縮小しながら、優れた品質を維持できます。WebPフォーマットは、2009年にGoogleが購入した On2 Technologiesのテクノロジーに基づいています。2010 年に発表されたこの形式は、リソース交換ファイル形式 (RIFF) に基づくコンテナーを使用します。Apple Safari と Microsoft インターネットエクスプローラーを除き、2019 年以降、ほとんどの Web ブラウザーは WEBP ファイルを受け入れます。この仮説は、WEBP画像の作成に使用されている技術（広く採用されていると仮定）を使用することで、WEBP画像の保存容量が少なくて済み、世界中で大量の画像を同時に高速に表示できるため、インターネット全体の高速化が可能になるという仮説です。",
+    "Softwaresused": [
+        {
+            "platform": "リナックス",
+            "softwares": [
+                {
+                    "name": "グーグルクローム",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "オペラ",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "WebP コーデック",
+                    "link": "https://developers.google.com/speed/webp/download",
+                    "image": "/assets/fileimg/NY9GTXm.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "ImageMagick",
+                    "link": "https://imagemagick.org/index.php",
+                    "image": "/assets/fileimg/hJWCII5.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "ファイルビューアープラス — マイクロソフトから入手",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "マイクロソフトエッジ",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "グーグルクローム",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg"
+                },
+                {
+                    "name": "オペラ",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "マック",
+            "softwares": [
+                {
+                    "name": "グーグルクローム",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "オペラ",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "WebP コーデック",
+                    "link": "https://developers.google.com/speed/webp/download",
+                    "image": "/assets/fileimg/NY9GTXm.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "ImageMagick",
+                    "link": "https://imagemagick.org/index.php",
+                    "image": "/assets/fileimg/hJWCII5.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "グーグル・フォト",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "無料  "
+                }
+            ]
+        },
+        {
+            "platform": "アンドロイド",
+            "softwares": [
+                {
+                    "name": "アンドロイド用ファイルビューア",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "グーグル・フォト",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "無料  "
+                },
+                {
+                    "name": "グーグルクローム",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "グーグル・フォト",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "無料  "
+                },
+                {
+                    "name": "グーグルクローム",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "クロームOS",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "無料、OSに付属"
+                }
+            ]
+        }
+    ]
+}

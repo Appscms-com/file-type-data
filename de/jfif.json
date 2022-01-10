@@ -1,0 +1,95 @@
+{
+    "Format": "JFIF",
+    "ShortName": "JFIF",
+    "FullName": "JPEG File Interchange Format",
+    "Category": "Rasterbild-Dateien",
+    "Pros": "Ein sehr beliebtes Format. Kompression auf einem hohen, kontrollierten Niveau, was zu einer kleinen Dateigröße führt. Das Format ist kompatibel und wird in allen Browsern, Text- und Grafikprogrammen auf allen Computern, Tablets und Mobilgeräten korrekt angezeigt. Unterstützt realistische Vollfarbbilder mit vielen Farb- und Kontrastübergängen. Hohe Bildqualität mit geringer Kohärenz.",
+    "Cons": "Wenn Sie das Bild komprimieren, kann es in einzelne Quadrate „auseinanderfallen“ - Blöcke mit 808 Pixeln. Dies liegt daran, dass der Komprimierungsalgorithmus benachbarte Pixel analysiert. Glatte Farbübergänge können hart werden oder einfach verschwinden. JPEG eignet sich weniger für die Arbeit mit Text oder monochromen Grafiken mit klaren Grenzen. Dieses Format unterstützt keine Transparenz, obwohl es beim Erstellen von Vorlagen, Logos und Schaltflächen erforderlich ist. Die Bildqualität nimmt mit jedem nachfolgenden Komprimierungsschritt ab.",
+    "Createdby": "C-Cube-Mikrosysteme und gemeinsame fotografische Expertengruppe",
+    "CreatedbyLink": "https://jpeg.org/",
+    "CreatedInYear": "2011",
+    "BasicInformation": "Eine JFIF-Datei ist eine mit JPEG komprimierte Bitmap-Grafik. Es ist mit einer Variante des Standards erhalten. Das JPEG-Dateiformat wurde mit dem Ziel erstellt, eine kleine Datenmenge zu speichern und eine einfache Übertragung zwischen Plattformen und Apps zu ermöglichen. JPEG File Interchange Format ist die Abkürzung für JPEG File Interchange Format.",
+    "DetailedInformation": "Das JFIF-Format gibt viele Merkmale an, die im ursprünglichen JPEG-Format fehlten. Benutzer konnten Dateien mithilfe der JPEG-Komprimierung speichern und freigeben, nachdem sie diese Merkmale definiert hatten. Dazu gehörten eine Standardkopfzeile, Auflösung und Seitenverhältnis sowie ein Farbmodell. Viele Digitalkameras wurden verwendet, um Bilder im JFIF-Format zu speichern. Da sich das JPEG-Format jedoch im Laufe der Zeit verbesserte, wurde der JFIF-Standard weitgehend veraltet.",
+    "Softwaresused": [
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Microsoft-Fotos",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Kostenlos, im Betriebssystem enthalten"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg"
+                },
+                {
+                    "name": "ACD-Systeme | ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "Kostenlose Testversion"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple-Vorschau",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Kostenlos, im Betriebssystem enthalten"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "ACD-Systeme | ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "Kostenlose Testversion"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        }
+    ]
+}

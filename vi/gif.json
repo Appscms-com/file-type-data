@@ -1,0 +1,170 @@
+{
+    "Format": "GIF",
+    "ShortName": "GIF",
+    "FullName": "Graphical Interchange Format File",
+    "Category": "Tập tin ảnh Raster",
+    "Pros": "Kích thước tập tin là ít. Hình ảnh dường như là chuyên nghiệp. Thông điệp tốt hơn Transparency Conveyance được ưa chuộng.",
+    "Cons": "Hoa văn với một bảng màu hạn chế. Không thể chỉnh sửa. Điều quan trọng là phải có kết nối Internet tốt.",
+    "Createdby": "CompuServe",
+    "CreatedbyLink": "https://www.compuserve.com/",
+    "CreatedInYear": "1987",
+    "BasicInformation": "Tệp GIF là tệp đồ họa đã được lưu trữ trong Định dạng trao đổi đồ họa (GIF) (GIF). Nó có thể có tối đa 256 màu được lập chỉ mục và một bảng màu có thể là một bộ màu được xác định trước hoặc tùy chỉnh theo màu sắc của hình ảnh. Các tệp GIF được giữ ở định dạng không mất dữ liệu, có nghĩa là độ sắc nét của hình ảnh không bị ảnh hưởng bởi nén GIF.",
+    "DetailedInformation": "Do khả năng di chuyển hình ảnh, GIF là loại tệp hình ảnh được sử dụng nhiều nhất trên internet. GIF là một định dạng đồ họa web phổ biến, đặc biệt đối với hình ảnh nhỏ và hình ảnh có văn bản, chẳng hạn như các nút điều hướng. Mặt khác, hình ảnh JPEG (.JPG) tốt hơn để hiển thị ảnh vì số lượng màu mà chúng có thể hiển thị không bị giới hạn. Hình ảnh GIF có thể được hoạt hình và lưu trữ dưới dạng “GIF động”, thường được sử dụng trên các trang web để hiển thị các hình ảnh động thô sơ. Chúng cũng có thể chứa các pixel mờ, cho phép chúng hòa trộn với nhiều hình nền màu khác nhau. Tuy nhiên, không giống như hình ảnh.PNG, pixel trong ảnh GIF phải hoàn toàn trong suốt hoặc mờ hoàn toàn, do đó độ trong suốt không thể bị phai màu.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Free "
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Microsoft Edge",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "các cửa sổ",
+            "softwares": [
+                {
+                    "name": "Trình xem tệp Plus - Tải nó từ Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft Ảnh",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Trình xem ảnh Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Microsoft Paint",
+                    "link": "https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9",
+                    "image": "/assets/fileimg/AuNqAKT.jpeg"
+                },
+                {
+                    "name": "Adobe Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Dùng thử miễn phí"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple Safari",
+                    "link": "https://www.apple.com/safari/",
+                    "image": "/assets/fileimg/PePZ5cb.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Apple Xem trước",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Adobe Photoshop",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Dùng thử miễn phí"
+                },
+                {
+                    "name": "Bộ đồ họa CorelDRAW 2021",
+                    "link": "https://www.coreldraw.com/en/product/coreldraw/purchase.html?AID=10816204&PID=3081440&cjevent=51885051cce111eb80d1d3470a180510&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&x-vehicle=cj",
+                    "image": "/assets/fileimg/cfwD39J.jpeg",
+                    "type": "Dùng thử miễn phí"
+                },
+                {
+                    "name": "Adobe Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Dùng thử miễn phí"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Google Ảnh",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Free  "
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Trình xem tệp dành cho Android",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Ảnh",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Free  "
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Ảnh",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Free  "
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

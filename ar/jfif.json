@@ -1,0 +1,95 @@
+{
+    "Format": "JFIF",
+    "ShortName": "JFIF",
+    "FullName": "JPEG File Interchange Format",
+    "Category": "ملفات الصور النقطية",
+    "Pros": "تنسيق شائع جدًا. ضغط على مستوى عال تسيطر عليه مما يؤدي إلى حجم ملف صغير. التنسيق متوافق ويعرض بشكل صحيح في جميع المتصفحات والنصوص وبرامج الرسومات، على جميع أجهزة الكمبيوتر والأجهزة اللوحية والأجهزة المحمولة. يدعم الصور الواقعية بالألوان الكاملة مع الكثير من انتقالات الألوان والتباين. جودة عالية للصورة بدرجة صغيرة من التماسك.",
+    "Cons": "عند ضغط الصورة، قد «تنهار» في مربعات فردية - كتل 808 بكسل. يحدث هذا لأن خوارزمية الضغط تحلل البكسل المجاورة. لون ناعم - قد تصبح التحولات قاسية أو تختفي ببساطة. JPEG أقل ملاءمة للعمل مع الرسومات النصية أو أحادية اللون مع حدود واضحة. لا يدعم هذا التنسيق الشفافية على الرغم من أنه مطلوب عند إنشاء القوالب والشعارات والأزرار. تنخفض جودة الصورة مع كل خطوة ضغط لاحقة.",
+    "Createdby": "C-cube Microsystems وفريق خبراء التصوير المشترك",
+    "CreatedbyLink": "https://jpeg.org/",
+    "CreatedInYear": "2011",
+    "BasicInformation": "ملف JFIF هو رسم نقطي مضغوط مع JPEG. يتم الحفاظ عليها مع متغير من المعيار. تم إنشاء تنسيق ملف JPEG بهدف تخزين كمية صغيرة من البيانات والسماح بسهولة النقل بين الأنظمة الأساسية والتطبيقات. تنسيق تبادل ملفات JPEG هو اختصار لتنسيق تبادل ملفات JPEG.",
+    "DetailedInformation": "يحدد تنسيق JFIF الكثير من الخصائص التي كانت مفقودة من تنسيق JPEG الأصلي. تمكن المستخدمون من حفظ الملفات ومشاركتها باستخدام ضغط JPEG بعد تحديد هذه الخصائص، والتي تضمنت رأسًا قياسيًا ودقة ونسبة عرض إلى ارتفاع ونموذج ألوان. تستخدم العديد من الكاميرات الرقمية لحفظ الصور بتنسيق JFIF. ومع ذلك، مع تحسن تنسيق JPEG بمرور الوقت، أصبح معيار JFIF عفا عليه الزمن إلى حد كبير.",
+    "Softwaresused": [
+        {
+            "platform": "شبابيك",
+            "softwares": [
+                {
+                    "name": "صور ميكروسوفت",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "موزيلا فايرفوكس",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "أوبرا",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "جوجل كروم",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg"
+                },
+                {
+                    "name": "ACD Systems ACDSe",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                }
+            ]
+        },
+        {
+            "platform": "رفيق",
+            "softwares": [
+                {
+                    "name": "معاينة أبل",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "موزيلا فايرفوكس",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "أوبرا",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "جوجل كروم",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "ACD Systems ACDSe",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                }
+            ]
+        },
+        {
+            "platform": "نظام كرومي أوس",
+            "softwares": [
+                {
+                    "name": "جوجل كروم",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        }
+    ]
+}

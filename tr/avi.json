@@ -1,0 +1,164 @@
+{
+    "Format": "AVI",
+    "ShortName": "AVI",
+    "FullName": "Audio Video Interleave File",
+    "Category": "Video dosyası",
+    "Pros": "Olağanüstü mükemmel ses kalitesi doğruluğu. Dosyaları çevrimiçi sıkıştırırken uygun orana ulaşmak için kullanılabilecek çok sayıda codec bileşeni vardır. Microsoft tarafından oluşturulduğu için, tüm büyük Microsoft ve Microsoft dışı işletim sistemlerinde oynatılabilir. Diğer ses/video formatlarının aksine, DV-AVI standardı sıkıştırılabilir. Belirli bir donanım veya yazılımın kullanılmasını gerektirmez. Sıkıştırma yetenekleri nedeniyle, AVI video formatı tanıtımlar, kısa filmler ve reklamlar için en sık kullanılan formattır. Ana dosyalar için AVI ile korunan kalite iyidir.",
+    "Cons": "Birçok insan güvenli, saygın bir kaynaktan codec bileşenini bulamadıklarında hayal kırıklığına uğrarlar. Kullanıcılar, bu kaynaklar mevcut olduğunda bile deneyimlerindeki kopmayı istenmeyen bulabilirler. Diğer dosya formatlarıyla karşılaştırıldığında, AVI dosyaları sıkıştırılmadıklarında oldukça büyük olabilir. Bir AVI dosyasını çevrimiçi olarak belirli sınırların üzerinde sıkıştırdığınızda, video kalitesi zarar görür. Kullanıcı etkileşimi desteklenmiyor. Softsub'ları destekliyor mu?",
+    "Createdby": "Microsoft",
+    "CreatedbyLink": "https://developer.microsoft.com/en-us/",
+    "CreatedInYear": "1992",
+    "BasicInformation": "AVI dosyası, Microsoft tarafından oluşturulan Audio Video Interleave (AVI) multimedya kapsayıcı biçiminde depolanan bir video dosyasıdır. DivX ve XviD de dahil olmak üzere çeşitli codec bileşenlerinde kodlanmış video ve ses dosyalarını tutar. AVI dosyaları Microsoft Filmler ve TV, Windows Media Player ve Apple QuickTime Player dahil olmak üzere çeşitli video oynatıcılar kullanılarak oynatılabilir, bunların hepsi kendi işletim sistemleriyle önceden yüklenmiş olarak gelir.",
+    "DetailedInformation": "AVI biçimi, 1991 yılında ilk olarak yayımlanan multimedya depolamak için bir kap biçimi olan Kaynak Değişim Dosya Biçimi (RIFF) temel alır. Microsoft, bir yıl sonra 1992 yılında AVI formatını oluşturdu ve bugün hala yaygın olarak kullanılmaktadır. Çok çeşitli video oynatıcılar tarafından desteklenmektedir, ancak videonun başarılı bir şekilde oynatılabilmesi için, oynatıcı video verilerini kodlamak için kullanılan codec bileşenini desteklemelidir. Eşzamanlı oynatmayı desteklemek için AVI, ses ve videoyu ortak bir kapta tek bir dosyaya birleştirir. Avantajı, Windows, Mac, Linux ve Unix de dahil olmak üzere çeşitli işletim sistemleri üzerinde çalışmasına izin veren basit mimarisidir ve tüm büyük web tarayıcıları tarafından desteklenmektedir. Yüksek kaliteli video ve ses depolayabilir ve.MPEG ve.MOV gibi diğer video formatlarına göre daha az sıkıştırma kullanır.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC Medya Oynatıcı",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Xine",
+                    "link": "https://sourceforge.net/projects/xine/",
+                    "image": "/assets/fileimg/11To9CR.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Kodi",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Microsoft'tan edinin",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft Windows Media Player",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "Microsoft Filmler ve TV",
+                    "link": "https://www.microsoft.com/en-us/p/movies-tv/9wzdncrfj3p2?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/fVyIEs4.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "VideoLan VLC Medya Oynatıcı",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "Kodi",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple QuickTime Oynatıcı",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "VideoLan VLC Medya Oynatıcı",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Kodi",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Adobe Premiere Pro 2020",
+                    "link": "https://www.adobe.com/products/premiere.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/RUVWLwB.jpeg",
+                    "type": "Ücretsiz deneme"
+                },
+                {
+                    "name": "Eltima Elmedia Oynatıcı",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Mobil cihazlar için Videolan VLC",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Ücretli"
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Google Drive",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Android için Videolabs VLC",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "BIT Labs Basit MP4 Video Oynatıcı",
+                    "link": "https://play.google.com/store/apps/details?id=air.br.com.bitlabs.VideoPlayer&hl=en",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

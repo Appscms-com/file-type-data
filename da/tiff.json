@@ -1,0 +1,146 @@
+{
+    "Format": "TIFF",
+    "ShortName": "TIFF",
+    "FullName": "Tagged Image File Format",
+    "Category": "Raster-billedfiler",
+    "Pros": "Billeder, der er tabsfri og af fremragende kvalitet. Mange formater understøttes. Understøtter flere lag.",
+    "Cons": "Filstørrelsen er ret stor. Ikke ideel til brug på internettet.",
+    "Createdby": "Adobe-systemer",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "1986",
+    "BasicInformation": "Udtrykket TIFF står for Tagged Image File Format. Det er et digitalt billede raster filformat. Den har grafik i høj kvalitet med farvedybder fra 1 til 24 bit og tabsfri kompression. Flere lag og sider understøttes også af TIFF-filer.",
+    "DetailedInformation": "TIFF blev oprettet af Aldus Corporation i midten af 1980'erne som et standardbilledformat til bevarelse af farvebilleder i høj kvalitet på en række computerplatforme. På trods af den udbredte brug, JPEG-formatet til sidst formørket det, fordi det var mere effektivt og web-venligt. Fotografier og stregtegninger kan også gemmes på den. På grund af den stigende popularitet af scanningssoftware og teknologi blev TIFF-filformatet oprettet, og det blev endda anset for at blive standardformatet for scannede billeder.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Gratis "
+                },
+                {
+                    "name": "LibreOffice",
+                    "link": "https://www.libreoffice.org/",
+                    "image": "/assets/fileimg/cPO8bqH.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "vinduer",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Hent det fra Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Billeder af Microsoft",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Gratis, inkluderet med OS"
+                },
+                {
+                    "name": "Microsoft Windows-fotofremviser",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "Gratis, inkluderet med OS"
+                },
+                {
+                    "name": "Microsoft Paint",
+                    "link": "https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9",
+                    "image": "/assets/fileimg/AuNqAKT.jpeg"
+                },
+                {
+                    "name": "ACD Systemer ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "Gratis prøveversion"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple Eksempel",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Gratis, inkluderet med OS"
+                },
+                {
+                    "name": "Billeder af Apple",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Gratis, inkluderet med OS"
+                },
+                {
+                    "name": "Adobe Photoshop",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Gratis prøveversion"
+                },
+                {
+                    "name": "Adobe Illustrator",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Gratis prøveversion"
+                },
+                {
+                    "name": "Roxio Toast 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "Betalt"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Billeder af Apple",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Gratis, inkluderet med OS"
+                },
+                {
+                    "name": "Google Billeder",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Gratis  "
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Filfremviser til Android",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Billeder",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Gratis  "
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Billeder",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Gratis  "
+                }
+            ]
+        }
+    ]
+}

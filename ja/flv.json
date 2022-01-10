@@ -1,0 +1,135 @@
+{
+    "Format": "FLV",
+    "ShortName": "FLV",
+    "FullName": "Flash Video File",
+    "Category": "動画ファイル",
+    "Pros": "映画、オンラインプレゼンテーション、バナー広告、インターネットアニメーション、その他の Flash の用途はほんの一例です。ウェブサイト訪問者の90％以上が閲覧できます。多くの場合、Flash ファイルは小さく、簡単にダウンロードできます。フラッシュは、ブロードバンド接続とダイヤルアップ接続の両方、および旧式の低速システムでも発生することがあります。さまざまなビデオファイルをFlash形式に簡単に変換できます。",
+    "Cons": "Flash コンテンツの作成には、コストと時間がかかる場合があります。検索エンジンのスパイダーは Flash ファイルを識別しないため、サイトの最適化には寄与しません。Flash が搭載された Web ページにアクセスすると、特にダイヤルアップ接続を使用している場合、訪問者の待ち時間が長くなることがあります。",
+    "Createdby": "アドビシステムズ",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "2003",
+    "BasicInformation": "Adobe Flash Video（FLV）コンテナ形式で保存されたビデオファイルは、FLV ファイルと呼ばれます。短いヘッダー、同期されたオーディオおよびビデオデータストリーム (標準の Flash.SWF 形式のストリームと同じ方法でエンコードされる)、メタデータパケットがすべて保存されます。",
+    "DetailedInformation": "Adobe SystemsのFlashビデオフォーマットは、YouTube、Hulu、Vevoなどのさまざまなストリーミングビデオサービスなどのサイトのオンラインビデオに広く使用されています。Adobe Flash Player（ブラウザープラグインを含む）とサードパーティ製ソフトウェアは、iOS を除くほぼすべてのオペレーティングシステムで FLV ファイルを読み取り、視聴できます。2003年のAdobe Flash Player 7のリリースに伴い、FLVフォーマットが発売されました。Adobe Flash Player は主に、映画やテレビ番組などのオンラインビデオコンテンツを提供するためにこれを使用します。一方、FLV は Adobe/Macromedia 以外のさまざまなアプリでサポートされているオープンな形式です。Flash ビデオエクスポータープラグイン（Adobe Animate で使用可能）または FLV ファイルをサポートするすべてのプログラムを使用して、Flash Video コンテンツを作成し、FLV ファイルとして書き出すことができます。Adobe Media Encoder を使用すると、QuickTime や Windows Media などのさまざまなビデオ形式をエンコードできるようになりました。2010 年代にオンラインテクノロジーが進歩するにつれて、パフォーマンスやセキュリティの脆弱性を含む Flash の欠陥がますます明らかになりました。Flash Player と FLV 形式の使用が急落したため、アドビおよび多くのオンラインブラウザーメーカーが 2020 年 12 月 31 日に正式にFlash のサポートを停止しました。",
+    "Softwaresused": [
+        {
+            "platform": "リナックス",
+            "softwares": [
+                {
+                    "name": "VideoLAN VLC メディアプレーヤー",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "リアルネットワーク RealPlayer クラウド",
+                    "link": "https://www.real.com/in",
+                    "image": "/assets/fileimg/FdqTl1x.jpeg",
+                    "type": "フリーミアム"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "ファイルビューアープラス — マイクロソフトから入手",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "VideoLAN VLC メディアプレーヤー",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "Xilisoft 動画変換究極",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg",
+                    "type": "フリートライアル"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "メディアプレーヤークラシック",
+                    "link": "https://github.com/clsid2/mpc-hc/",
+                    "image": "/assets/fileimg/PLx4Opv.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "マック",
+            "softwares": [
+                {
+                    "name": "Apple QuickTime プレイヤー",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "アドビアニメイト CC 2019",
+                    "link": "https://www.adobe.com/products/animate.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/pqcWQ2F.jpeg",
+                    "type": "フリートライアル"
+                },
+                {
+                    "name": "エルティマ・エルメディア・プレイヤー",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "VideoLAN VLC メディアプレーヤー",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "RealNetworks リアルタイムズ:ビデオメーカー",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "フリーミアム"
+                }
+            ]
+        },
+        {
+            "platform": "アンドロイド",
+            "softwares": [
+                {
+                    "name": "BIT Labs シンプル MP4 ビデオプレーヤー",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "antvplayer メディアコンバーター",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "J2 インタラクティブ MX プレーヤー",
+                    "link": "https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en",
+                    "image": "/assets/fileimg/Cjoa7OB.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "RealNetworks リアルタイムビデオメーカー",
+                    "link": "https://play.google.com/store/apps/details?id=com.real.RealPlayerCloud",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "フリーミアム"
+                }
+            ]
+        }
+    ]
+}

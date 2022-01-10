@@ -1,0 +1,66 @@
+{
+    "Format": "AFF",
+    "ShortName": "AFF",
+    "FullName": "Advanced Forensics Format",
+    "Category": "Veri Dosyaları",
+    "Pros": "Açık ve genişletilebilir. Patentsiz. Sıkıştırılmış ve arınabilir. Çift katmanlı. Esnek.",
+    "Cons": "Popüler değil. Şeffaflık eksikliği. ",
+    "Createdby": "Simson Garfinkel ve Basis Teknolojisi",
+    "CreatedbyLink": "https://www.basistech.com/",
+    "CreatedInYear": "2005-2006",
+    "BasicInformation": "AFF dosyası, ücretsiz Office paketi programları Kingsoft WPS Office ve Apache OpenOffice tarafından kullanılan bir yazım denetimi sözlük dosyasıdır. Bu onunla birlikte gelen .DIC yazım denetimi sözlük dosyası hakkında bilgi içerir.",
+    "DetailedInformation": "AFF ve DIC dosyaları, İtalyanca ve Fransızca da dahil olmak üzere çeşitli diller için WPS Office'e yeni yazım denetimi sözlükleri eklemek için kullanılır. Tipik olarak, kullanıcılar indirir. AFF ve DIC dosyalarını içeren ZIP sözlük paketlerinin içeriğini ayıklayın, ardından bunları WPS Office'e yükleyin.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Kingsoft WPS Ofisi",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Apache OpenOffice",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Kingsoft WPS Ofisi",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Apache OpenOffice",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Kingsoft WPS Ofisi",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Apache OpenOffice",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        }
+    ]
+}

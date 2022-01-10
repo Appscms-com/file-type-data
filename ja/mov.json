@@ -1,0 +1,147 @@
+{
+    "Format": "MOV",
+    "ShortName": "MOV",
+    "FullName": "Apple QuickTime Movie",
+    "Category": "動画ファイル",
+    "Pros": "メディアデータの抽象データ参照を格納できます。後ですべてのメディアデータを書き換えることなく、簡単に変更できます。プロのビデオ編集では、これは業界標準です。",
+    "Cons": "主に編集に使用されますが、実際の目的に使用される標準ではありません。実際のデバイスでは、許容度が低くなります。 ",
+    "Createdby": "アップル",
+    "CreatedbyLink": "https://developer.apple.com/",
+    "CreatedInYear": "1998",
+    "BasicInformation": "MOV ファイルは、ムービーを QuickTime ファイル形式 (QTFF) で保存するマルチメディアコンテナファイル形式です。ビデオ、オーディオ、テキスト (字幕) など、さまざまな種類のメディアデータを含む 1 つ以上のトラックがあります。ムービーやその他のビデオファイルは、通常 MOV ファイルとして保存されます。",
+    "DetailedInformation": "Appleは1991年にQTFFを開発しリリースした。コンテナー形式は、デバイス、オペレーティングシステム、およびアプリケーション間でのマルチメディアの送信を容易にするために、さまざまなメディア形式をサポートすることを目的としています。QTFF マルチメディアファイルは as.mov ファイルとして保存されることが多いですが、.qt ファイルとして保存することもできます。ビデオ、オーディオ、タイムコード、テキストトラックはすべてMOVファイル内にあり、さまざまな形式のデータの保存と同期に使用できます。各メディアトラックのエンコードには、いくつかの代替コーデックを使用できます。MPEG-4 コーデックは、MOV ファイルの圧縮によく使用されます。各ファイルコンテナには、さまざまな種類のメディアを格納できます。ビデオ、ビデオエフェクト、テキスト、写真、字幕、オーディオをすべて保存できます。このファイルタイプは、ビデオ編集アプリケーションで頻繁に使用されます。MOVファイルとQuickTimeファイルは、音楽とビデオの編集（またはこれらを組み合わせたもの）で頻繁に使用されます。",
+    "Softwaresused": [
+        {
+            "platform": "リナックス",
+            "softwares": [
+                {
+                    "name": "VideoLAN VLC メディアプレーヤー",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "ファイルビューアープラス — マイクロソフトから入手",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "マイクロソフトウィンドウズメディアプレーヤー",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "VideoLAN VLC メディアプレーヤー",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "Xilisoft 動画変換究極",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg",
+                    "type": "フリートライアル"
+                }
+            ]
+        },
+        {
+            "platform": "マック",
+            "softwares": [
+                {
+                    "name": "Apple QuickTime プレイヤー",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "エルティマ・エルメディア・プレイヤー",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "VideoLAN VLC メディアプレーヤー",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "ロキシオトースト 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "有料"
+                },
+                {
+                    "name": "アドビプレミアラッシュ",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "フリートライアル"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "有料"
+                },
+                {
+                    "name": "Videolan モバイル用 VLC",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "グーグル・ドライブ",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "アドビプレミアラッシュ",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "フリートライアル"
+                }
+            ]
+        },
+        {
+            "platform": "アンドロイド",
+            "softwares": [
+                {
+                    "name": "グーグル・ドライブ",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "アドビプレミアラッシュ",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "フリートライアル"
+                },
+                {
+                    "name": "Videolabs アンドロイド用 VLC",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "無料"
+                }
+            ]
+        }
+    ]
+}

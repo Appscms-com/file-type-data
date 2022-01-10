@@ -1,0 +1,200 @@
+{
+    "Format": "MP4",
+    "ShortName": "MP4",
+    "FullName": "MPEG-4 Part 14",
+    "Category": "Tập tin video",
+    "Pros": "Cung cấp hỗ trợ đa nền tảng. Dễ sử dụng. Dễ dàng phân phối. Nén ở mức cao trong khi tạo các tệp nhỏ hơn, điều này làm cho nó hoàn hảo để phát trực tuyến video hoặc nén các tệp âm thanh video độ nét cao. Có thể nội dung siêu dữ liệu. Có thể được tích hợp với đồ họa 3D và các công cụ khác để tương tác. Được hỗ trợ bởi tất cả các nền tảng. Một định dạng tệp linh hoạt.",
+    "Cons": "Khó khăn về codec có thể khiến âm thanh trôi ra khỏi đồng bộ với video. Phát lại và chỉnh sửa có thể đòi hỏi một lượng đáng kể sức mạnh tính toán. Bởi vì nó là một định dạng mất dữ liệu, mức độ nén cao hơn và kích thước tệp nhỏ hơn sẽ dẫn đến giảm chất lượng âm thanh và video. Do sự phổ biến của nó, các tệp có bản quyền bây giờ có thể được phân phối bất hợp pháp.",
+    "Createdby": "Nhóm chuyên gia hình ảnh di chuyển",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "2001-2003",
+    "BasicInformation": "MPEG4 là một định dạng tệp để lưu trữ các loại phương tiện được xác định bởi Nhóm chuyên gia hình ảnh di chuyển ISO/IEC, trong khi nó cũng có thể lưu trữ các loại phương tiện khác. .mp4 là phần mở rộng phổ biến nhất cho loại tệp này. Đó là một loại tệp đa phương tiện được sử dụng để lưu phim hoặc video clip. Nó cũng có thể bao gồm đồ họa hoặc phụ đề. MP4 là viết tắt của MPEG-4 Phần 14 (MPEG-4), định dạng vùng chứa dựa trên Định dạng tệp QuickTime (QTFF), được sử dụng bởi các tệp.MOV và.QT.",
+    "DetailedInformation": "Các tệp MP4 sử dụng tiêu chuẩn nén MPEG-4 của Moving Picture Expert Group (MPEG). Các bản nhạc âm thanh và video được nén riêng ở định dạng này. Video được nén bằng cách sử dụng mã hóa video MPEG-4 và âm thanh được mã hóa bằng cách sử dụng nén AAC, giống như được sử dụng trong các tệp.AAC. Apple và các nhà sản xuất thiết bị di động khác thường xuyên sử dụng loại tệp này để lưu trữ âm thanh, ảnh tĩnh hoặc video. Sách âm thanh, bài hát, phim, video, hình ảnh và podcast là tất cả các ví dụ về điều này. MPEG-4 là một định dạng phát video phổ biến. Nhiều người chơi MP3 tuyên bố có thể phát các tệp MP4, về cơ bản ngụ ý chúng có thể phát nhạc và một số tệp video (mặc dù không phải lúc nào cũng đúng tệp MP4). Tiện ích mở rộng MP4 cho phép bạn tải xuống hoặc truyền phát phim, video và tệp âm thanh.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Phanh tay",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "các cửa sổ",
+            "softwares": [
+                {
+                    "name": "Trình xem tệp Plus - Tải nó từ Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Trình phát phương tiện Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "Phanh tay",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Máy nghe nhạc Apple QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Phanh tay",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Roxio Bánh mì nướng 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "Trả tiền"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Apple Âm nhạc",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Apple Hình ảnh",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Trả tiền"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Trình xem tệp dành cho Android",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Videolabs VLC dành cho Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Adobe Premiere Rush",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "Dùng thử miễn phí"
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "BIT Labs Trình phát video MP4 đơn giản",
+                    "link": "https://play.google.com/store/apps/details?id=air.br.com.bitlabs.VideoPlayer&hl=en",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Hệ điều hành Chrome",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Free"
+                }
+            ]
+        }
+    ]
+}

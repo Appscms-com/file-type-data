@@ -1,0 +1,129 @@
+{
+    "Format": "PSD",
+    "ShortName": "PSD",
+    "FullName": "Adobe Photoshop Document",
+    "Category": "Rasterafbeeldingsbestanden",
+    "Pros": "Haal het meeste uit de functies van Photoshop. Dankzij de nauwe connectiviteit kunt u een Photoshop-bestand rechtstreeks importeren in Illustrator-, InDesign- en andere Adobe-programma's. Open het opgeslagen bestand in de lagenmodus. Als je dingen transparant wilt houden, is dit een goed hulpmiddel om te hebben.",
+    "Cons": "Het bestand is vrij groot. Adobe is eigenaar van het PSD-formaat. Als gevolg hiervan wordt het niet veel gebruikt door andere apps.",
+    "Createdby": "Adobe-systemen",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "PSD is de oorspronkelijke bestandsindeling van Photoshop voor het opslaan van bestanden. Het staat ook bekend als PDD. PSD, vaak bekend als PDD, is een veelgebruikt bestandstype. PSD is compatibel met alle beeldmodi (Bitmap, Grijswaarden, Duotone, Geïndexeerde kleur, RGB, CMYK, Lab en Multichannel). Het is een afbeeldingsbestand gemaakt door Adobe Photoshop, een professionele tool voor het bewerken van afbeeldingen die vaak wordt gebruikt om digitale foto's te verbeteren en webafbeeldingen te maken.",
+    "DetailedInformation": "Afbeeldingslagen, aanpassingslagen, laagmaskers, annotaties, bestandsinformatie, trefwoorden en andere Photoshop-specifieke componenten zijn allemaal te vinden in PSD-bestanden. Ze worden vaak gemaakt en gedeeld door grafisch ontwerpers. PSD-bestanden kunnen worden geopend met een verscheidenheid aan Photoshop-tools en worden afgevlakt naar andere afbeeldingsindelingen (zoals PNG, JPEG en GIF) voor het uploaden, verzenden en opslaan. Alle lagen samengevoegd tot één enkele laag nadat ze zijn geconverteerd van een PSD naar een ander bestandstype. De lagen worden opgeslagen, toegankelijk en bewerkbaar wanneer ze worden opgeslagen met de PSD-bestandsextensie. Deze bestanden worden vaak gebruikt als werk-in-progress documenten, in plaats van voor de uiteindelijke productie en levering van afbeeldingen. PSD-lagen, evenals andere elementen zoals foto's, vormen, tekst en effecten, kunnen worden gewijzigd. RGB, CMYK, grijswaarden, monochroom, duotone, geïndexeerde kleur, Labkleur en meerkanaals kleurmodi worden allemaal ondersteund door het PSD-formaat. Photoshop-bestanden met de PSD-bestandsextensie bevatten afbeeldingen, terwijl er talloze bewerkingsopties voor Adobe Photoshop-producten mogelijk zijn. Maskers, transparantie, duotoninstellingen, verlopen, kleurbalancerings-, mix- en knippaden zijn slechts enkele van de beschikbare bewerkingstools.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Gratis "
+                }
+            ]
+        },
+        {
+            "platform": "Ramen",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Download het van Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Gratis proefversie"
+                },
+                {
+                    "name": "Adobe Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Gratis proefversie"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg"
+                },
+                {
+                    "name": "CorelDRAW grafische suite 2021",
+                    "link": "https://www.coreldraw.com/en/product/coreldraw/purchase.html?AID=10816204&PID=3081440&cjevent=51885051cce111eb80d1d3470a180510&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&x-vehicle=cj",
+                    "image": "/assets/fileimg/cfwD39J.jpeg",
+                    "type": "Gratis proefversie"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple Preview",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "Adobe Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Gratis proefversie"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Gratis proefversie"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Gratis "
+                },
+                {
+                    "name": "Pixelmator",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id407963104?ign-mpt=uo%3D4&mt=12",
+                    "image": "/assets/fileimg/0RX6D8V.jpeg",
+                    "type": "Betaald"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Pixelmator 2",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/HmizpGb.jpeg",
+                    "type": "Betaald"
+                },
+                {
+                    "name": "Adobe Photoshop ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Bestandsviewer voor Android",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Adobe Photoshop Express",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

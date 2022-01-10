@@ -1,0 +1,141 @@
+{
+    "Format": "3GP",
+    "ShortName": "3GP",
+    "FullName": "3rd Generation Partnership Project",
+    "Category": "視頻文件",
+    "Pros": "文件大小較小，因此可節省磁盤空間。需要更少的移動數據。對於企業來説，它會生成互聯環境。對於通信（通過短信）至關重要。",
+    "Cons": "質量可能無法達到標記。無法播放高分辨率視頻。許多程序不支持。 ",
+    "Createdby": "第三代合作項目",
+    "CreatedbyLink": "https://www.3gpp.org/",
+    "CreatedInYear": "1998",
+    "BasicInformation": "3GP 文件是以第三代合作項目的音頻和視頻容器格式 (3GPP) 保存的多媒體文件。它可以節省通過互聯網和 3G 移動電話之間發送的視頻和音頻流。",
+    "DetailedInformation": "3GP 是由 3GPP（第三代合作項目）開發的多媒體文件容器，用於在 iPhone 等 3G 能力的移動設備上使用視頻和音頻。這些文件也可以在沒有 3G（2G 和 4G）的手機上查看，雖然有一定的限制。在具有視頻錄製功能的移動設備上，可以編輯、導出和查看 3GP 文件。3G2 文件與 3GP 文件相同，但它有不同的限制和擴展名。MPEG-14 結構用於創建 3GP 文件類型。3GP 降低了帶寬和存儲需求，允許手機用户在線傳輸、編輯和存儲文件。它支持 H.263 和 H.264 視頻流，以及 AMR-WB、AMR-WB+、AMR-NB、HI-AAC V1、AAC-LC 和增強型 AACPlus 音頻流。",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "視頻網絡 VLC 媒體播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "視窗",
+            "softwares": [
+                {
+                    "name": "文件查看器加 — 從微軟獲取",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "微軟視窗媒體播放器",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                },
+                {
+                    "name": "微軟電影和電視",
+                    "link": "https://www.microsoft.com/en-us/p/movies-tv/9wzdncrfj3p2?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/fVyIEs4.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                },
+                {
+                    "name": "視頻網絡 VLC 媒體播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "Xilisoft 視頻轉換器終極",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg",
+                    "type": "免費試用"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "蘋果快速播放器",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                },
+                {
+                    "name": "艾蒂瑪埃爾媒體播放器",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "羅克西奧吐司 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "已付費"
+                },
+                {
+                    "name": "視頻網絡 VLC 媒體播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "iOS版",
+            "softwares": [
+                {
+                    "name": "奧姆軟膠光層",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "已付費"
+                }
+            ]
+        },
+        {
+            "platform": "安卓",
+            "softwares": [
+                {
+                    "name": "安卓文件查看器",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "位實驗室簡單的 MP4 視頻播放器",
+                    "link": "https://play.google.com/store/apps/details?id=air.br.com.bitlabs.VideoPlayer&hl=en",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "J2 互動 MX 播放器",
+                    "link": "https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en",
+                    "image": "/assets/fileimg/Cjoa7OB.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "潘多拉電視台",
+                    "link": "https://play.google.com/store/apps/details?id=com.kmplayer",
+                    "image": "/assets/fileimg/hnkzD4T.jpeg",
+                    "type": "免費"
+                }
+            ]
+        }
+    ]
+}

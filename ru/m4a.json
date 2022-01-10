@@ -1,0 +1,123 @@
+{
+    "Format": "M4A",
+    "ShortName": "M4A",
+    "FullName": "MPEG-4 Audio File",
+    "Category": "Аудиофайл",
+    "Pros": "Хотя файл M4A сжат, качество остается неизменным. Тот факт, что аудиофайлы M4A не защищены управлением цифровыми правами (DRM), означает, что их можно изменять и передавать более свободно.",
+    "Cons": "M4A - это формат файлов, который хорошо известен в iTunes, iPod и других устройствах Apple. Однако, по сравнению с файлами MP3, воспроизведение звука M4A проблематично из-за отсутствия совместимости с другими устройствами.",
+    "Createdby": "Apple",
+    "CreatedbyLink": "https://developer.apple.com/",
+    "CreatedInYear": "2004",
+    "BasicInformation": "Файл M4A - это аудиофайл MPEG-4, который был закодирован с помощью расширенного аудиокодирования (AAC) или аудиокодека Apple без потерь (ALAC). Он может содержать различные аудиофайлы, включая песни, подкасты и аудиокниги.",
+    "DetailedInformation": "MPEG-4 - это мультимедийный контейнерный формат для сжимаемых аудио- и видеоданных. Файлы MP4, в которых хранятся аудио и видеоданные, используют этот формат. Суффикс M4A, который расшифровывается как «MPEG-4 Audio», был создан, поскольку файлы M4A содержат исключительно аудиоданные. Это изменение названия облегчило различие между видео MPEG-4 и аудиофайлами MPEG-4. Существует опция сжатия с потерями, как и в случае с другими типами аудиофайлов, и она достигается с помощью кодировки AAC. Формат Apple Lossless позволяет выполнять сжатие без потерь, чего нельзя добиться с другими аудиоформатами.",
+    "Softwaresused": [
+        {
+            "platform": "Линукс",
+            "softwares": [
+                {
+                    "name": "Медиаплеер VLC VLC VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Просмотрщик файлов Plus — получите его от корпорации Майкрософт",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Фримиум"
+                },
+                {
+                    "name": "Медиа-проигрыватель Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Бесплатно, в комплекте с ОС"
+                },
+                {
+                    "name": "Медиаплеер VLC VLC VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Нуллсофт Винамп",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "Адобе прослушивание CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Бесплатная пробная версия"
+                }
+            ]
+        },
+        {
+            "platform": "Мак",
+            "softwares": [
+                {
+                    "name": "яблочный itunes",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Проигрыватель Apple QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Бесплатно, в комплекте с ОС"
+                },
+                {
+                    "name": "Медиаплеер VLC VLC VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Адобе прослушивание CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Бесплатная пробная версия"
+                },
+                {
+                    "name": "Эльтима Элмедиа Плеер",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "IOS",
+            "softwares": [
+                {
+                    "name": "VLC Videolan для мобильных устройств",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Просмотрщик файлов для Android",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Фримиум"
+                },
+                {
+                    "name": "Видеолаборатории VLC для Андроид",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        }
+    ]
+}

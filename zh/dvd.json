@@ -1,0 +1,26 @@
+{
+    "Format": "DVD",
+    "ShortName": "DVD",
+    "FullName": "DOS Device Driver",
+    "Category": "系统文件",
+    "Pros": "存储容量是巨大的。声音和图像质量都很棒。因为它们是批量生产的，所以价格相当便宜。DVD 驱动器可以读取 CD。",
+    "Cons": "DVD 与 CD 驱动器不兼容。没有单一的DVD标准。折断或刮伤它们是毁掉它们的简单方法。",
+    "Createdby": "N/A",
+    "CreatedbyLink": "n/a",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "DVD 文件用作基于 MS-DOS 的设备的驱动程序。这些驱动程序文件允许计算机或其他设备与操作系统进行通信，在本例中为MS-DOS。它们可能预先配置了 Windows，或者需要从硬件随附的 DVD 进行安装。",
+    "DetailedInformation": "DVD文件经常与光盘上包含电影副本的视频文件混淆。尽管媒体被命名为DVD，但电影文件通常保存为VOB文件。驱动程序和DVD文件有时已经安装在Windows上。但是，有时可能需要手动安装驱动程序。这通常是在设备随附的光盘或其他介质的帮助下完成的。在他们的网站上，有几家公司还为其产品提供驱动程序下载。",
+    "Softwaresused": [
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "微软 MS-DOS",
+                    "link": "https://www.microsoft.com/en-us/p/ms-dos-mobile/9nblgggxzdtw?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/XxsKREw.jpeg",
+                    "type": "免费"
+                }
+            ]
+        }
+    ]
+}

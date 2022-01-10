@@ -1,0 +1,182 @@
+{
+    "Format": "HEIC",
+    "ShortName": "HEIC",
+    "FullName": "High Efficiency Image Format",
+    "Category": "ไฟล์รูปภาพแบบแรสเตอร์",
+    "Pros": "คุณภาพของภาพที่ยอดเยี่ยมใช้พื้นที่เก็บข้อมูลน้อยลงสามารถจัดเก็บภาพหลายภาพในไฟล์เดียวสามารถเก็บรากศัพท์ภาพ alaso.",
+    "Cons": "ไม่สามารถใช้งานร่วมกับระบบและอุปกรณ์ทั้งหมดไม่เป็นที่นิยมมากนักมีปัญหาเรื่องสิทธิบัตร ",
+    "Createdby": "กลุ่มผู้เชี่ยวชาญด้านภาพเคลื่อนไหว",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "2001",
+    "BasicInformation": "รูปภาพหนึ่งรูปหรือมากกว่าที่จัดเก็บในรูปแบบ High Efficiency Image Format (HEIF) ซึ่งเป็นรูปแบบไฟล์ที่ใช้บ่อยที่สุดเพื่อบันทึกรูปภาพบนอุปกรณ์ iOS จะมีอยู่ในไฟล์ HEICประกอบด้วยภาพหรือชุดของภาพ รวมถึงข้อมูลเมตาที่แสดงลักษณะเฉพาะของแต่ละภาพ ซึ่งน่าจะเป็นการสร้างโดยใช้แอพกล้องบน iPhone หรือ iPadไฟล์ HEIC มักจะถูกบันทึกเป็นไฟล์.heic แม้ว่าพวกเขาจะสามารถบันทึกเป็นไฟล์.heif",
+    "DetailedInformation": "HEIF, หรือ H.265, เป็นมาตรฐานการจัดเก็บภาพดิจิตอลที่รักษารูปภาพที่มีคุณภาพสูงขึ้นและในไฟล์ที่ต่ำกว่า.JPEG เป็นรูปแบบภาพดิจิตอลซึ่งจะช่วยประหยัดพื้นที่ในการ์ดหน่วยความจำและอุปกรณ์เคลื่อนที่โดยการลดขนาดของภาพถ่ายแอปเปิ้ลเปิดตัว HEIF รูปแบบการจัดเก็บรูปภาพเริ่มต้นสำหรับอุปกรณ์ iOS ด้วยการเปิดตัว iOS 11 ในปี 2017จากการปรับนี้ ไอโฟนและไอแพดจึงเริ่มบันทึกภาพของผู้ใช้เป็น HEICด้วยการเปิดตัวของ High Sierra ทำให้ Apple เปิดใช้งานความเข้ากันได้กับ HEIF ทั้ง iOS และ macOSกูเกิลขยายการสนับสนุน HEIF ให้กับแอนดรอยด์ในปี 2018 และไมโครซอฟท์ได้นำการสนับสนุน HEIF มาให้วินโดวส์ในปี 2018ผู้ใช้ต้องติดตั้งแพคเกจส่วนขยายรูปภาพ HEIF ของ Microsoft และ HEVC วิดีโอส่วนขยายจาก Microsoft Store เพื่อเปิดแฟ้ม HEIC ในโปรแกรมประยุกต์ของ Microsoftเมื่อคุณส่งออกหรือแชร์รูปภาพที่ถ่ายโดยใช้แอพกล้องบนอุปกรณ์ iOS ไปยังอุปกรณ์หรือแอปพลิเคชันที่ไม่ใช่ iOS โดยปกติแล้วภาพนั้นจะถูกแปลงจากรูปแบบ HEIC เป็นไฟล์ JPEG or.JPG",
+    "Softwaresused": [
+        {
+            "platform": "ลินุกซ์",
+            "softwares": [
+                {
+                    "name": "กิมป์",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "ฟรี "
+                }
+            ]
+        },
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์พลัส — รับได้จากไมโครซอฟท์",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "กิมป์",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "ฟรี "
+                },
+                {
+                    "name": "วิ่งรอบปฐมทัศน์ Adobe",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "Microsoft Windows Photos พร้อมส่วนขยายภาพ HEIF และแพคเกจส่วนขยายวิดีโอ HEVC ที่ติดตั้งไว้",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab&ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-Tcw4tJawHA2VbfUU47cFuA&epi=4LioSo.jxMc-Tcw4tJawHA2VbfUU47cFuA&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xurhnaenupuk000%29%287593%29%281243925%29%284LioSo.jxMc-Tcw4tJawHA2VbfUU47cFuA%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xurhnaenupuk000",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg"
+                },
+                {
+                    "name": "ตัวแปลง TunesBro HEIC",
+                    "link": "https://www.tunesbro.com/heic-converter.html",
+                    "image": "/assets/fileimg/7eQehmc.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "ตัวอย่างแอปเปิ้ล",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "แอปเปิลรูปภาพ",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "อะโดบี โฟโตช็อป 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "กิมป์",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "ฟรี "
+                },
+                {
+                    "name": "ตัวแปลง TunesBro HEIC",
+                    "link": "https://www.tunesbro.com/heic-converter.html",
+                    "image": "/assets/fileimg/7eQehmc.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "แอปเปิลรูปภาพ",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "ดรอปบ็อกซ์",
+                    "link": "https://www.dropbox.com/?landing=dbv2",
+                    "image": "/assets/fileimg/ovQYI78.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "กูเกิลไดรฟ์",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "กูเกิ้ล รูปภาพ",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "ฟรี  "
+                },
+                {
+                    "name": "วิ่งรอบปฐมทัศน์ Adobe",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์สำหรับ Android",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "กูเกิ้ล รูปภาพ",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "ฟรี  "
+                },
+                {
+                    "name": "วิ่งรอบปฐมทัศน์ Adobe",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "ดรอปบ็อกซ์",
+                    "link": "https://www.dropbox.com/?landing=dbv2",
+                    "image": "/assets/fileimg/ovQYI78.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "พันธมิตรซอฟท์อย่างง่าย Luma: ตัวแสดง HEIF และตัวแปลง",
+                    "link": "https://play.google.com/store/apps/details?id=luma.hevc.heif.image.viewer.converter",
+                    "image": "/assets/fileimg/1o2rNBD.jpeg",
+                    "type": "ฟรีเมียม"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "กูเกิ้ล รูปภาพ",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "ฟรี  "
+                },
+                {
+                    "name": "ตัวถอดรหัสตัวแสดงภาพ HEIC",
+                    "link": "https://speedtesting.herokuapp.com/heicviewer/",
+                    "image": "/assets/fileimg/KXTzTK7.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "Format": "CR2",
+    "ShortName": "CR2",
+    "FullName": "Canon Raw Image File",
+    "Category": "Pliki Camera Raw",
+    "Pros": "Obraz o wyjątkowej jakości. Format obrazu, który jest powszechnie używany. Oryginalność została zachowana. Nazwa marki i format pliku, którym można zaufać.",
+    "Cons": "Duże rozmiary plików, które są trudne do edycji. Obawy dotyczące udostępniania pamięci masowej jest trudnym zadaniem.",
+    "Createdby": "Kanon",
+    "CreatedbyLink": "https://in.canon/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "Obraz Raw aparat stworzony przez różne aparaty cyfrowe Canon jest znany jako plik CR2. Zapisuje nieskompresowane dane obrazu w tym samym formacie co CCD. Pliki CR2 są powszechnie używane przez profesjonalnych fotografów, ponieważ przechowują zdjęcia wyższej jakości.",
+    "DetailedInformation": "Format Canon Raw w wersji 2, oparty na specyfikacji TIFF, służy do zapisywania plików CR2. Zdjęcia CR2 można tworzyć za pomocą różnych typów aparatów cyfrowych Canon, w tym EOS 1D Mark IV, EOS 450D i EOS Rebel T3. Przesyła dane z czujnika bezpośrednio do urządzenia pamięci masowej. Nie można go postrzegać w taki sam sposób, jak JPG lub PNG. Gdy fotografie są zapisywane w formacie RAW, można je znacznie bardziej szczegółowo manipulować w postprodukcji przy minimalnych stratach jakości. Podczas korzystania z formatu JPG lub innych formatów obrazu jakość jest drastycznie zmniejszona. Obrazy CR2 nie są jeszcze gotowe do drukowania i nie można ich modyfikować za pomocą edytora bitmap. Surowe fotografie są analogiczne do negatywów filmowych w formie cyfrowej.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Darmowy "
+                },
+                {
+                    "name": "gphoto2",
+                    "link": "https://gphoto.sourceforge.io/",
+                    "image": "https://image.flaticon.com/icons/png/512/1063/1063308.png",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "GThumb",
+                    "link": "https://wiki.gnome.org/Apps/Gthumb",
+                    "image": "/assets/fileimg/lWFl5mc.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "MATE z przeglądarką dokumentów Aril",
+                    "link": "https://mate-desktop.org/",
+                    "image": "/assets/fileimg/p64BUbi.jpeg",
+                    "type": "Darmowy"
+                }
+            ]
+        },
+        {
+            "platform": "Okna",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Pobierz go od firmy Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Zdjęcia firmy Microsoft",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Bezpłatny, dołączony do systemu operacyjnego"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Bezpłatne wersje próbne"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg"
+                },
+                {
+                    "name": "Przeglądarka obrazów FastStone",
+                    "link": "https://www.faststone.org/FSViewerDetail.htm",
+                    "image": "/assets/fileimg/6z9n45v.jpeg",
+                    "type": "Darmowy"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Podgląd Apple",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Bezpłatny, dołączony do systemu operacyjnego"
+                },
+                {
+                    "name": "Zdjęcia Apple",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Bezpłatny, dołączony do systemu operacyjnego"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Bezpłatne wersje próbne"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Darmowy "
+                },
+                {
+                    "name": "Konwerter przystawki",
+                    "link": "https://snapconverter.com/",
+                    "image": "/assets/fileimg/EuFgmVh.jpeg",
+                    "type": "Płatne"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Zdjęcia Apple",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Bezpłatny, dołączony do systemu operacyjnego"
+                },
+                {
+                    "name": "Adobe Photoshop ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Zdjęcia Google",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Darmowy  "
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Przeglądarka plików dla Androida",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Adobe Photoshop Express",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Zdjęcia Google",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Darmowy  "
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Zdjęcia Google",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Darmowy  "
+                }
+            ]
+        }
+    ]
+}

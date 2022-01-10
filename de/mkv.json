@@ -1,0 +1,159 @@
+{
+    "Format": "MKV",
+    "ShortName": "MKV",
+    "FullName": "Matroska Video File",
+    "Category": "Video-Datei",
+    "Pros": "Sehr flexibel. Hat sowohl verlustbehaftete als auch verlustfreie Option. Gut dokumentiert. Nicht-proprietär. Das Hinzufügen von Metadaten ist zulässig.",
+    "Cons": "Derzeit gibt es keinen eigenständigen Hardware-Player, der MKV-Dateien abspielen kann. Größere Dateigröße. Immer noch in der Entwicklung. ",
+    "Createdby": "Matroska",
+    "CreatedbyLink": "https://www.matroska.org/",
+    "CreatedInYear": "2002",
+    "BasicInformation": "Eine Videodatei, die im Matroska-Multimedia-Containerformat gespeichert ist, wird als MKV-Datei bezeichnet. Es kann eine Vielzahl von Audio- und Videocodecs verarbeiten, einschließlich.SRT-, .SSA-, .USF (Universal Subtitle Format) und VOBSub-Untertitel. Kurze Videoclips, Fernsehsendungen und Filme werden üblicherweise als MKV-Dateien gespeichert.",
+    "DetailedInformation": "Der Matroska Multimedia Container (MKV) ist ein offener und kostenloser Standard für die Speicherung von Videodaten. Die Datei kann eine unbegrenzte Anzahl von Audio-, Video-, Bild- und Untertitelspuren enthalten, sodass Sie Filme, vollständige Fernsehprogramme und mehr auf praktische Weise speichern können. Der Benutzer kann im Rohformat zu allen verschiedenen Datenspuren springen. Es ist insofern mit den Formaten the.AVI, .ASF, and.MOV vergleichbar, als es eine Vielzahl von Video-, Audio-, Bild- und Untertitelspuren enthält. Matroska Video-Dateien sind Multimediadateien, die das Matroska-Containerformat zum Speichern einer oder mehrerer Videospuren verwenden und durch die Dateierweiterung the.mkv gekennzeichnet sind. Das MKV-Format, das üblicherweise zum Speichern kurzer Videoausschnitte, Fernsehserien und Filme verwendet wird, hat bei Anime-Fansubbern an Beliebtheit gewonnen. Viele dieser Benutzer fügen Untertitel hinzu, und das MKV-Format ist besonders praktisch, da mehrere Audio- und Untertitelspuren in einer Datei kombiniert werden können.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLAN VLC Mediaplayer",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Handbremse",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Holen Sie es sich von Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "VideoLAN VLC Mediaplayer",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Handbremse",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Mediaplayer klassisch",
+                    "link": "https://github.com/clsid2/mpc-hc/",
+                    "image": "/assets/fileimg/PLx4Opv.jpeg"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Eltima Elmedia Spieler",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "ShedWorx Intelligenter Konverter",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "Kostenlose Testversion"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Handbremse",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "VideoLAN VLC Mediaplayer",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Olimsoft-Spieler",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Bezahlt"
+                },
+                {
+                    "name": "Videolan VLC für Handys",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Oka Apps Omni-Spieler",
+                    "link": "https://apps.apple.com/us/app/omni-player-mkv-video-player/id1470926410",
+                    "image": "/assets/fileimg/TmHdEAq.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Pentaloop PlayerXtreme Mediaplayer",
+                    "link": "https://apps.apple.com/us/app/playerxtreme-media-player/id456584471?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/uoX9gqI.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "BIT Labs Einfacher MP4-Videoplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Videolabs VLC für Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Dateibetrachter für Android",
+                    "link": "https://play.google.com/store/apps/details?id=com.sharpened.androidfileviewer",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

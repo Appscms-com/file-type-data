@@ -1,0 +1,170 @@
+{
+    "Format": "FLAC",
+    "ShortName": "FLAC",
+    "FullName": "Free Lossless Audio Codec",
+    "Category": "ملف صوتي",
+    "Pros": "جودة صوت ممتازة بحجم ملف صغير. العديد من الأنظمة متوافقة معها. كود المصدر مفتوح والترخيص مجاني. مساعدة الأجهزة (PhatBox، كينوود MusicKeg، ريو كارما، إلخ) المتاحة. دعم البث. فك التشفير سريع حقًا. يتم دعم الخلاصات متعددة القنوات وعالية الدقة. كسب إعادة التشغيل مدعوم. يدعم استخدام ورقة جديلة (مع بعض القيود) كبديل لـ Shorten، فإنه يكتسب شعبية.",
+    "Cons": "ضواغط التيار البارزة الأخرى (صوت القرد، LPAC، OptimFROG) ضغط أكثر كفاءة. خيارات الضغط الأعلى بطيئة وتوفر الحد الأدنى من التحسين على الإعداد الافتراضي.",
+    "Createdby": "مؤسسة Xiph.Org",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "2001",
+    "BasicInformation": "يشير الاختصار FLAC إلى برنامج ترميز الصوت المجاني بدون فقدان. FLAC هو تنسيق MP3 بدون فقدان. يستخدم FLAC بشكل شائع في الموسيقى الكلاسيكية، حيث تكون جودة الصوت أمرًا بالغ الأهمية. نمت FLAC شعبية إلى حد ما نتيجة لجودة الصوت. يمكن الآن تشغيل ملفات FLAC في المشغل المفضل لديك (أو في سيارتك أو ستيريو المنزل) تمامًا مثل ملفات MP3.",
+    "DetailedInformation": "FLAC هو تنسيق ضغط صوت تم تطويره بواسطة أعضاء Xiph.org. الضغط بدون فقدان، مما يعني أنه لا يتم فقدان أي بيانات ولا يتم التضحية بالجودة. يسمح FLAC للمستخدمين بحفظ الملفات بجودة الوسائط الأصلية، مما يجعلها ممتازة للنسخ الاحتياطي للبيانات الصوتية لأن النسخ الملموسة من الملفات الصوتية عرضة للتدمير. FLAC هو تنسيق معتمد على نطاق واسع يقلل من حجم الصوت الرقمي بنحو 60٪ ويتم دعمه بشكل عام عبر الأنظمة الأساسية الرئيسية. أنشأت مؤسسة Xiph.Org التنسيق، وهو مفتوح المصدر. جنبا إلى جنب مع ملف FLAC، يمكن إنشاء ملف FLAC بصمة، والذي يتضمن اسم الملف ومعلومات المجموع الاختباري لملف FLAC، يمكن إنشاؤها. تُستخدم ملفات FLAC بشكل متكرر للبث وفك التشفير في الوقت الفعلي. يتكون مشروع FLAC من عدة مكونات، بما في ذلك تنسيق الدفق، وتنسيق الحاوية، ومكتبة مرجع التشفير وفك التشفير، والمكونات الإضافية للإدخال.",
+    "Softwaresused": [
+        {
+            "platform": "لينكس",
+            "softwares": [
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "الجرأة",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "Mplayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "اي تيونز",
+                    "link": "http://www.atunes.org/",
+                    "image": "/assets/fileimg/U6hLUgu.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "شبابيك",
+            "softwares": [
+                {
+                    "name": "عارض الملفات بلس - احصل عليه من Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "الجرأة",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "Mplayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                }
+            ]
+        },
+        {
+            "platform": "رفيق",
+            "softwares": [
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "الجرأة",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "Mplayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "اي تيونز",
+                    "link": "http://www.atunes.org/",
+                    "image": "/assets/fileimg/U6hLUgu.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Videolan VLC للجوال",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "الأذن الذهبية",
+                    "link": "https://apps.apple.com/us/app/golden-ear/id407945101?ign-mpt=uo%3D8",
+                    "image": "/assets/fileimg/upbts7y.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "موليبلاير",
+                    "link": "https://apps.apple.com/us/app/moli-player-hd-free-movie-music-player-for-network/id598886783?ign-mpt=uo%3D8",
+                    "image": "/assets/fileimg/FAo0QEL.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "أندرويد",
+            "softwares": [
+                {
+                    "name": "عارض الملفات لنظام Android",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "Videolabs VLC لالروبوت",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "جيت أوديو",
+                    "link": "https://play.google.com/store/apps/details?id=com.jetappfactory.jetaudio",
+                    "image": "/assets/fileimg/jcTagMw.jpeg",
+                    "type": "فريميوم"
+                }
+            ]
+        },
+        {
+            "platform": "نظام كرومي أوس",
+            "softwares": [
+                {
+                    "name": "الإصدار التجريبي من Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        }
+    ]
+}

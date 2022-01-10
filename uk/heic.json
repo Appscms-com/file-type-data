@@ -1,0 +1,182 @@
+{
+    "Format": "HEIC",
+    "ShortName": "HEIC",
+    "FullName": "High Efficiency Image Format",
+    "Category": "Файли растрових зображень",
+    "Pros": "Відмінна якість зображень. Займає менше місця зберігання. Може зберігати кілька зображень в одному файлі. Може alaso зберігати похідні зображення.",
+    "Cons": "Не сумісний з усіма системами і пристроями. Не дуже популярні. Має проблеми з патентом. ",
+    "Createdby": "Група експертів з рухомих зображень",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "2001",
+    "BasicInformation": "Одна або кілька фотографій, що зберігаються у форматі зображення високої ефективності (HEIF), форматі файлу, який найчастіше використовується для збереження фотографій на пристроях iOS, містяться у файлі HEIC. Він містить зображення або серію зображень, а також метадані, що характеризують кожне зображення, яке, швидше за все, було створено за допомогою програми Камера на iPhone або iPad. Файли HEIC зазвичай зберігаються якфайли.heic, хоча вони також можуть бути збережені якфайли.HEIF.",
+    "DetailedInformation": "HEIF, або H.265, - це стандарт цифрового зберігання зображень, який зберігає фотографії з більш високою якістю та нижчими файлами, ніж у. JPEG - це цифровий формат зображення. Це економить місце на картах пам'яті і мобільних пристроях за рахунок зменшення розміру фотографій. Apple представила HEIF формат зберігання фотографій за замовчуванням для пристроїв iOS з випуском iOS 11 у 2017 році. В результаті цього коригування iPhone та iPad почали зберігати зображення користувачів як HEIC. Завдяки впровадженню High Sierra, Apple включила сумісність HEIF як з iOS, так і з macOS. Google розширив підтримку HEIF для Android у 2018 році, а Microsoft принесла підтримку HEIF для Windows у 2018 році. Користувачі повинні чітко встановити пакети розширень зображень Microsoft HEIF та розширення відео HEVC з магазину Microsoft, щоб відкрити файли HEIC у програмах Microsoft. Коли ви експортуєте або надсилаєте фотографію, зроблену за допомогою програми «Камера» на пристрої iOS, на пристрій чи програму, що не є iOS, вона зазвичай перетворюється з формату HEIC у файл JPEG або.JPG.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Безкоштовно "
+                }
+            ]
+        },
+        {
+            "platform": "Вікна",
+            "softwares": [
+                {
+                    "name": "Переглядач файлів плюс — Отримати його від Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Безкоштовно "
+                },
+                {
+                    "name": "Adobe прем'єра пік",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                },
+                {
+                    "name": "Microsoft Windows Фотографії з розширеннями зображень HEIF і HEVC відео розширення встановлені",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab&ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-Tcw4tJawHA2VbfUU47cFuA&epi=4LioSo.jxMc-Tcw4tJawHA2VbfUU47cFuA&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xurhnaenupuk000%29%287593%29%281243925%29%284LioSo.jxMc-Tcw4tJawHA2VbfUU47cFuA%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xurhnaenupuk000",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg"
+                },
+                {
+                    "name": "TunesBro HEIC конвертер",
+                    "link": "https://www.tunesbro.com/heic-converter.html",
+                    "image": "/assets/fileimg/7eQehmc.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Попередній перегляд Apple",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                },
+                {
+                    "name": "Фотографії Apple",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                },
+                {
+                    "name": "Adobe Фотошоп 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Безкоштовно "
+                },
+                {
+                    "name": "TunesBro HEIC конвертер",
+                    "link": "https://www.tunesbro.com/heic-converter.html",
+                    "image": "/assets/fileimg/7eQehmc.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Фотографії Apple",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                },
+                {
+                    "name": "Dropbox",
+                    "link": "https://www.dropbox.com/?landing=dbv2",
+                    "image": "/assets/fileimg/ovQYI78.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Google Диск",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Google Фото",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Безкоштовно  "
+                },
+                {
+                    "name": "Adobe прем'єра пік",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Переглядач файлів для Android",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Google Фото",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Безкоштовно  "
+                },
+                {
+                    "name": "Adobe прем'єра пік",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                },
+                {
+                    "name": "Dropbox",
+                    "link": "https://www.dropbox.com/?landing=dbv2",
+                    "image": "/assets/fileimg/ovQYI78.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Простий м'який альянс Luma: HEIF переглядач і конвертер",
+                    "link": "https://play.google.com/store/apps/details?id=luma.hevc.heif.image.viewer.converter",
+                    "image": "/assets/fileimg/1o2rNBD.jpeg",
+                    "type": "Фреміум"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Фото",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Безкоштовно  "
+                },
+                {
+                    "name": "Декодер перегляду зображень HEIC",
+                    "link": "https://speedtesting.herokuapp.com/heicviewer/",
+                    "image": "/assets/fileimg/KXTzTK7.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        }
+    ]
+}

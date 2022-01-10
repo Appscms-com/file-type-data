@@ -1,0 +1,164 @@
+{
+    "Format": "OGG",
+    "ShortName": "OGG",
+    "FullName": "Ogg Vorbis Audio File",
+    "Category": "File audio",
+    "Pros": "È possibile memorizzare fino a 255 canali in un file OGG. L'audio surround è memorizzato. Consente di salvare audio e video. Il formato OGG ha una qualità superiore. OGG ha un sistema di etichettatura superiore.",
+    "Cons": "Non supportato da tutti i dispositivi o le applicazioni. Molti sistemi operativi non supportano OGG. Il consumo della batteria è maggiore.",
+    "Createdby": "Xiph.Org ",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "1997",
+    "BasicInformation": "Un file OGG è un file audio compresso che utilizza la compressione audio Ogg Vorbis, che è gratuita e non brevettata. È paragonabile a un file MP3, tranne per il fatto che suona meglio di un file MP3 di uguale dimensione e può includere metadati di brani come il creatore e le informazioni sulla traccia. Diversi lettori musicali software, così come alcuni lettori musicali portatili, gestiscono i file OGG.",
+    "DetailedInformation": "Il contenitore Ogg è un formato di file per la memorizzazione di dati audio. Il nome «Vorbis» si riferisce a una tecnica di codifica sviluppata da Xiph.Org, la stessa società che ha creato Ogg. Altri metodi di compressione audio, come FLAC e Speex, possono essere presenti nei file OGG. Tuttavia, poiché utilizzano un algoritmo di compressione diverso, questi file non possono essere legalmente definiti file «Vorbis». Consente agli utenti di visualizzare e modificare file multimediali digitali ad alta risoluzione. Il termine «Ogg» deriva dal termine gergale «ogging». Nel gioco Netrek, ogging si riferisce a una corsa suicida che uccide un portatore. L'estensione OGG è stata utilizzata una volta per descrivere qualsiasi file che utilizzava il formato contenitore OGG, ma è stata utilizzata solo per i file audio Ogg Vorbis dopo il 2007. L'estensione OGG può essere utilizzata per fare riferimento a un file audio, ma può anche essere utilizzata per fare riferimento a un file contenitore.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Zinf",
+                    "link": "http://www.zinf.org/",
+                    "image": "https://image.flaticon.com/icons/png/512/1063/1063308.png",
+                    "type": "Gratuito"
+                },
+                {
+                    "name": "Lettore multimediale VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratuito"
+                },
+                {
+                    "name": "Amarok",
+                    "link": "https://amarok.kde.org/",
+                    "image": "/assets/fileimg/Dh0nFk6.jpeg",
+                    "type": "Gratuito"
+                },
+                {
+                    "name": "Audacia",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Gratuito"
+                },
+                {
+                    "name": "PCF Miro",
+                    "link": "http://www.getmiro.com/",
+                    "image": "/assets/fileimg/JeFS57j.jpeg",
+                    "type": "Gratuito"
+                }
+            ]
+        },
+        {
+            "platform": "finestre",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Scaricalo da Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Lettore multimediale Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Gratuito, incluso con il sistema operativo"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "Gratuito"
+                },
+                {
+                    "name": "Audacia",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg"
+                },
+                {
+                    "name": "Adobe Audition",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Versione di prova gratuita"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Lettore Apple QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Gratuito, incluso con il sistema operativo"
+                },
+                {
+                    "name": "Lettore multimediale VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratuito"
+                },
+                {
+                    "name": "Audacia",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Gratuito"
+                },
+                {
+                    "name": "Adobe Audition",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Versione di prova gratuita"
+                },
+                {
+                    "name": "PCF Miro",
+                    "link": "http://www.getmiro.com/",
+                    "image": "/assets/fileimg/JeFS57j.jpeg",
+                    "type": "Gratuito"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Giocatore olimsoft",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Pagato"
+                },
+                {
+                    "name": "Videolan VLC per dispositivi mobili",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Gratuito"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Visualizzatore di file per Android",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Convertitore multimediale antvplayer",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "Gratuito"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

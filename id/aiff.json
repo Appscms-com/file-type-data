@@ -1,0 +1,141 @@
+{
+    "Format": "AIFF",
+    "ShortName": "AIFF",
+    "FullName": "Audio Interchange File Format",
+    "Category": "Berkas audio",
+    "Pros": "Kualitas sangat tinggi. ",
+    "Cons": "Membutuhkan ruang penyimpanan yang luas. ",
+    "Createdby": "Apel",
+    "CreatedbyLink": "https://developer.apple.com/",
+    "CreatedInYear": "1998",
+    "BasicInformation": "Ekstensi AIFF (Audio Interchange File Format) adalah standar penyimpanan data suara untuk berbagai perangkat audio elektronik. Ini termasuk audio resolusi tinggi yang telah diawetkan dalam format lossless yang tidak terkompresi. File AIFF juga dapat disimpan dalam format. File yang berakhir di.AIFC dikenal sebagai file AIF (jika dikompresi).",
+    "DetailedInformation": "Apple menggunakan Electronic Art Interchange File Format untuk memproduksinya pada tahun 1988. (IFF). File AIFF tidak terkompresi (lossless) dan secara substansial lebih besar dari file MP3 populer, yang dikompresi dan lossy. Informasi loop dan sampel suara keduanya dimungkinkan dalam file AIFF. File AIFF banyak terlihat pada mesin MAC OS. Musisi profesional yang menghargai kualitas file yang tinggi dan dapat menangani persyaratan penyimpanan yang lumayan adalah konsumen file AIFF yang paling umum. Meskipun perbedaan kecil dalam mekanisme penyimpanan dan sedikit perbedaan dalam kualitas, beberapa jenis file AIFF sering disimpan di bawah ekstensi file yang sama. File AIFF, unlike.MP3 dan banyak file audio umum lainnya, tidak terkompresi. File AIFF sering menyertakan audio berkualitas lebih tinggi daripada file MP3 setara karena data mereka tidak dikompresi. Namun, karena file berisi lebih banyak data, mereka mengambil lebih banyak ruang penyimpanan.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Pemutar Media VLC VideoLAN",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Amarok",
+                    "link": "https://amarok.kde.org/",
+                    "image": "/assets/fileimg/Dh0nFk6.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Keberanian",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Dapatkan dari Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft Windows Media Player",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                },
+                {
+                    "name": "Pemutar Media VLC VideoLAN",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "Adobe Audisi CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Uji coba gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple QuickTime Pemain",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                },
+                {
+                    "name": "Pemutar Media VLC VideoLAN",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Musik Apple",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                },
+                {
+                    "name": "Keberanian",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Adobe Audisi CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Uji coba gratis"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Musik Apple",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                },
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Dibayar"
+                },
+                {
+                    "name": "Videolan VLC untuk ponsel",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Videolabs VLC untuk Android",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        }
+    ]
+}

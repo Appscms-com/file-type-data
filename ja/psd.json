@@ -1,0 +1,129 @@
+{
+    "Format": "PSD",
+    "ShortName": "PSD",
+    "FullName": "Adobe Photoshop Document",
+    "Category": "ラスターイメージファイル",
+    "Pros": "Photoshop の機能を最大限に活用します。強力な接続により、Photoshop ファイルを Illustrator、InDesign、その他のアドビプログラムに直接読み込むことができます。保存したファイルをレイヤーモードで開きます。物事を透明に保つ必要がある場合、これは優れたツールです。",
+    "Cons": "ファイルサイズが非常に大きい。アドビは PSD フォーマットを所有しています。その結果、他のアプリではあまり使用されません。",
+    "Createdby": "アドビシステムズ",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "PSD は、ファイルを保存するための Photoshop のネイティブファイル形式です。PDD としても知られています。PSD は PDD とも呼ばれ、一般的に使用されるファイルタイプです。PSD は、すべてのイメージモード (ビットマップ、グレースケール、ダブルトーン、インデックスカラー、RGB、CMYK、Lab、マルチチャンネル) と互換性があります。Adobe Photoshop によって作成された画像ファイルです。Adobe Photoshop は、デジタル写真の改善や Web グラフィックの作成によく使用されるプロフェッショナルな画像編集ツールです。",
+    "DetailedInformation": "イメージレイヤー、調整レイヤー、レイヤーマスク、注釈、ファイル情報、キーワード、その他の Photoshop 固有のコンポーネントはすべて PSD ファイルにあります。それらはグラフィックデザイナーによって頻繁に作成され、共有されます。PSD ファイルは、さまざまな Photoshop ツールで開き、アップロード、送信、保存のために他の画像形式（PNG、JPEG、GIF など）に統合できます。PSD から別のファイルタイプに変換された後、すべてのレイヤーが 1 つのレイヤーにマージされます。レイヤは、PSD ファイル拡張子を付けて保存すると、保存、アクセス、および編集可能になります。これらのファイルは、最終的なイメージの作成や配信ではなく、作業中のドキュメントとして頻繁に使用されます。PSD レイヤーや、写真、シェイプ、テキスト、エフェクトなどの他の要素も変更できます。RGB、CMYK、グレースケール、モノクロ、ダブルトーン、インデックスカラー、Lab カラー、マルチチャンネルのカラーモードはすべて PSD フォーマットでサポートされています。PSDファイル拡張子を持つPhotoshopファイルは画像を保持しながら、Adobe Photoshop製品全体で多数の編集オプションを可能にします。マスク、透明度、ダブルトーン設定、グラデーション、カラーバランス、ミキシング、クリッピングパスなどは、利用可能な編集ツールのほんの一部です。",
+    "Softwaresused": [
+        {
+            "platform": "リナックス",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "無料 "
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "ファイルビューアープラス — マイクロソフトから入手",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "アドビフォトショップ 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "フリートライアル"
+                },
+                {
+                    "name": "アドビイラストレーター 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "フリートライアル"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg"
+                },
+                {
+                    "name": "CorelDRAW グラフィックススイート 2021",
+                    "link": "https://www.coreldraw.com/en/product/coreldraw/purchase.html?AID=10816204&PID=3081440&cjevent=51885051cce111eb80d1d3470a180510&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&x-vehicle=cj",
+                    "image": "/assets/fileimg/cfwD39J.jpeg",
+                    "type": "フリートライアル"
+                }
+            ]
+        },
+        {
+            "platform": "マック",
+            "softwares": [
+                {
+                    "name": "Apple プレビュー",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "アドビイラストレーター 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "フリートライアル"
+                },
+                {
+                    "name": "アドビフォトショップ 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "フリートライアル"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "無料 "
+                },
+                {
+                    "name": "Pixelmator",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id407963104?ign-mpt=uo%3D4&mt=12",
+                    "image": "/assets/fileimg/0RX6D8V.jpeg",
+                    "type": "有料"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "ピクセルメーター 2",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/HmizpGb.jpeg",
+                    "type": "有料"
+                },
+                {
+                    "name": "アドビフォトショップ ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "フリーミアム"
+                }
+            ]
+        },
+        {
+            "platform": "アンドロイド",
+            "softwares": [
+                {
+                    "name": "アンドロイド用ファイルビューア",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "アドビフォトショップエクスプレス",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "フリーミアム"
+                }
+            ]
+        }
+    ]
+}

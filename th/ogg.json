@@ -1,0 +1,164 @@
+{
+    "Format": "OGG",
+    "ShortName": "OGG",
+    "FullName": "Ogg Vorbis Audio File",
+    "Category": "แฟ้มเสียง",
+    "Pros": "สามารถจัดเก็บช่องสัญญาณได้ถึง 255 ช่องในไฟล์ OGGเสียงเซอร์ราวด์จะถูกเก็บไว้ช่วยให้คุณสามารถบันทึกทั้งเสียงและวิดีโอรูปแบบ OGG มีคุณภาพสูงกว่าOGG มีระบบการติดฉลากที่เหนือกว่า",
+    "Cons": "อุปกรณ์หรือแอพพลิเคชั่นบางเครื่องไม่รองรับระบบปฏิบัติการจำนวนมากไม่รองรับ OGGการสิ้นเปลืองแบตเตอรี่จะมากขึ้น",
+    "Createdby": "ซิพ.ออร์ก ",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "1997",
+    "BasicInformation": "ไฟล์ OGG เป็นไฟล์เสียงบีบอัดที่ใช้การบีบอัดเสียง Ogg Vorbis ซึ่งฟรีและไม่จดสิทธิบัตรเทียบได้กับไฟล์ MP3 ยกเว้นเสียงที่ดีกว่าไฟล์ MP3 ที่มีขนาดเท่ากัน และอาจรวมถึงข้อมูลเมตาของเพลง เช่น ครีเอเตอร์และข้อมูลแทร็กเครื่องเล่นเพลงซอฟต์แวร์หลายเครื่องรวมทั้งเครื่องเล่นเพลงแบบพกพาบางรุ่นรองรับไฟล์ OGG",
+    "DetailedInformation": "ภาชนะ Ogg เป็นรูปแบบไฟล์สำหรับจัดเก็บข้อมูลเสียงชื่อ “Vorbis” หมายถึงเทคนิคการเข้ารหัสที่พัฒนาโดย Xiph.Org ซึ่งเป็นบริษัทเดียวกับที่สร้าง Oggวิธีการบีบอัดเสียงอื่น ๆ เช่น FLAC และ Speex อาจมีอยู่ในไฟล์ OGGอย่างไรก็ตาม, เนื่องจากพวกเขาใช้อัลกอริทึมการบีบอัดที่แตกต่างกัน, ไฟล์เหล่านี้จึงไม่สามารถเรียกได้อย่างถูกต้องตามกฎหมายว่าไฟล์ “Vorbis”.ช่วยให้ผู้ใช้สามารถดูและแก้ไขไฟล์มัลติมีเดียดิจิตอลความละเอียดสูงคำว่า “Ogg” มาจากศัพท์แสงคำว่า “ogging”ในเกม Netrek, ogging หมายถึงการวิ่งฆ่าตัวตายที่ฆ่าผู้ให้บริการ.ส่วนขยาย OGG ครั้งหนึ่งเคยใช้เพื่ออธิบายไฟล์ใด ๆ ที่ใช้รูปแบบคอนเทนเนอร์ OGG แต่จะใช้สำหรับไฟล์เสียง Ogg Vorbis เท่านั้นหลังจากปี 2007นามสกุล OGG สามารถนำมาใช้ในการอ้างถึงไฟล์เสียง แต่ก็ยังสามารถนำมาใช้ในการอ้างถึงไฟล์ภาชนะ",
+    "Softwaresused": [
+        {
+            "platform": "ลินุกซ์",
+            "softwares": [
+                {
+                    "name": "ซินฟ์",
+                    "link": "http://www.zinf.org/",
+                    "image": "https://image.flaticon.com/icons/png/512/1063/1063308.png",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "แอมอะร็อก",
+                    "link": "https://amarok.kde.org/",
+                    "image": "/assets/fileimg/Dh0nFk6.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ความกล้าราว",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "พีซีเอฟ มิโร",
+                    "link": "http://www.getmiro.com/",
+                    "image": "/assets/fileimg/JeFS57j.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์พลัส — รับได้จากไมโครซอฟท์",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "โปรแกรมเล่นสื่อ Windows ของ Microsoft",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "นัลล์ซอฟท์ วินแอมป์",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ความกล้าราว",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg"
+                },
+                {
+                    "name": "อะโดบี ออดิชั่น CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "โปรแกรมเล่น Apple QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ความกล้าราว",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "อะโดบี ออดิชั่น CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "พีซีเอฟ มิโร",
+                    "link": "http://www.getmiro.com/",
+                    "image": "/assets/fileimg/JeFS57j.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "โอลิมซอฟท์ โอเพลเยอร์",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "จ่ายแล้ว"
+                },
+                {
+                    "name": "VLC Videolan สำหรับมือถือ",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์สำหรับ Android",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "ตัวแปลงสื่อ antvplayer",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "กูเกิลไดรฟ์",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "ฟรีเมียม"
+                }
+            ]
+        }
+    ]
+}

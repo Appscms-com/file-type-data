@@ -1,0 +1,176 @@
+{
+    "Format": "WEBP",
+    "ShortName": "WEBP",
+    "FullName": "Web Picture",
+    "Category": "Rasterbild",
+    "Pros": "Filstorlekarna är mindre. Komprimering algoritm har förbättrats. Färgövertoningar som är mjukare. Maskerar alfakanalen.",
+    "Cons": "Webbläsarstöd saknas. Gränssnittet för export är dåligt. Artefacting verkar vara gjord av plast.",
+    "Createdby": "Google",
+    "CreatedbyLink": "https://developers.google.com/",
+    "CreatedInYear": "2010",
+    "BasicInformation": "En WEBP-fil är ett rasterbildsformat som utvecklats av Google för webbgrafik som kallas WebP (uttalas ”Weppy”). WebP-formatet komprimerar filer mer effektivt än vanlig JPEG-komprimering samtidigt som bildkvalitet som är jämförbar med eller högre än JPEG bevaras. Liknande to.PNG, möjliggör förstörande och förlustfri komprimering och innehåller en alfakanal för genomskinlighet.",
+    "DetailedInformation": "Det öppna standardbildformatet WEBP, som skapades av Google 2010, gör det möjligt för användare att spara foton i både förstörande och förlustfri komprimering. Komprimeringseffektiviteten, enligt Googles utvecklare, gör att foton kan krympa till storlekar upp till 34% mindre än JPEG- och PNG-bilder samtidigt som hög kvalitet bibehålls. WebP-formatet är baserat på On2 Technologies teknik, som köptes av Google 2009. Formatet, som tillkännagavs 2010, använder en behållare baserad på RIFF (Resource Interchange File Format). Med undantag för Apple Safari och Microsoft Internet Explorer accepterar de flesta webbläsare WEBP-filer från och med 2019. Hypotesen är att genom att använda den teknik som används för att göra WEBP-bilder (om man antar ett brett införande) kan internet som helhet påskyndas eftersom WEBP-bilder kräver mindre lagringsutrymme, vilket gör att större mängder bilder kan ses samtidigt med högre hastigheter runt om i världen.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "WebP-kodek",
+                    "link": "https://developers.google.com/speed/webp/download",
+                    "image": "/assets/fileimg/NY9GTXm.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "ImageMagick",
+                    "link": "https://imagemagick.org/index.php",
+                    "image": "/assets/fileimg/hJWCII5.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Fönster",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Hämta det från Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft Edge",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg"
+                },
+                {
+                    "name": "Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "WebP-kodek",
+                    "link": "https://developers.google.com/speed/webp/download",
+                    "image": "/assets/fileimg/NY9GTXm.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "ImageMagick",
+                    "link": "https://imagemagick.org/index.php",
+                    "image": "/assets/fileimg/hJWCII5.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Google-foton",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Gratis  "
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Filvisare för Android",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google-foton",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Gratis  "
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google-foton",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Gratis  "
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Chrome OS",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "Kostnadsfritt, ingår i OS"
+                }
+            ]
+        }
+    ]
+}

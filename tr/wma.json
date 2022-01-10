@@ -1,0 +1,100 @@
+{
+    "Format": "WMA",
+    "ShortName": "WMA",
+    "FullName": "Windows Media Audio File",
+    "Category": "Ses dosyası",
+    "Pros": "Şimdiye kadar Microsoft, müzisyenlerin ve müzik yayıncılarının en çok kâr edebileceği müzik telif haklarını korumak için sertifika şifrelemesini destekleyen WMA 7'yi takip eden sürümleri ile sekiz adet WMA yayınladı. WMA, sesi daha yüksek bir hızda sıkıştırabilir ve daha az alan kullanırken yüksek kaliteli ses depolamasını sağlar.",
+    "Cons": "WMA codec bileşeni ile sesi sıkıştırdığınızda, genellikle bazı kaliteyi kaybedersiniz. WMA ses kalitesini önemseyen tüketiciler için mükemmel olmaktan uzaktır, ancak FLAC (Free Lossless Audio Codec) veya APE (genellikle maymunun sesi olarak bilinir) seçebilir. Microsoft WMA standardına sahiptir ve diğer şirketlerle paylaşmayı reddediyor.",
+    "Createdby": "Microsoft",
+    "CreatedbyLink": "https://developer.microsoft.com/en-us/",
+    "CreatedInYear": "1999",
+    "BasicInformation": "WMA dosyası, Microsoft'un tescilli Gelişmiş Sistem Biçimi (ASF) biçiminde kaydedilen bir ses dosyasıdır. Bu parça başlığı, sanatçı, albüm ve tür gibi meta veri öğeleri yanı sıra Windows Media Audio içerir. WMA dosyaları genellikle internet üzerinden müzik akışı için kullanıldıkları için MP3 dosyalarına benzer.",
+    "DetailedInformation": "Bu dosya formatı, tanınmış MP3 ve RealAudio formatlarıyla rekabet etmek için oluşturuldu. WMA dosyalarının DVD oynatıcılarda video oynatma ile kullanım için popülaritesi yanı sıra Playstation ve Nokia için mobil/taşınabilir cihazlarda video oynatma özellikleri başarılarına katkıda bulundu. Çoğu WMA dosyası kayıplı olsa da, bazı biçimler kayıpsız sıkıştırmaya izin verir. ASF, Microsoft tarafından geliştirilen tescilli bir dijital müzik ve video konteyner formatıdır. Windows Media Audio yerine Windows Media Video içeriyorsa kullanır. WMV bir video formatı uzantısıdır. WMA ve WMV dosyaları değiştirilebilir. Ancak, ASF dosyaları daha sık kullanılır. ",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Audacious",
+                    "link": "https://audacious-media-player.org/",
+                    "image": "/assets/fileimg/6WTDOAw.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Microsoft'tan edinin",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft Windows Media Player",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Xilisoft Video Dönüştürücü Ultimate",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg"
+                },
+                {
+                    "name": "Windows Media Player Eklentisiyle Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple QuickTime Oynatıcı",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "Eltima Elmedia Oynatıcı",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Flip4Mac WMV eklentisiyle Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "ShedWorx Akıllı Dönüştürücü",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "Ücretsiz deneme"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Ücretli"
+                }
+            ]
+        }
+    ]
+}

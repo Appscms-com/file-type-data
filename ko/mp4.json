@@ -1,0 +1,200 @@
+{
+    "Format": "MP4",
+    "ShortName": "MP4",
+    "FullName": "MPEG-4 Part 14",
+    "Category": "비디오 파일",
+    "Pros": "다중 플랫폼 지원을 제공합니다.사용하기 쉽습니다.쉽게 배포할 수 있습니다.더 작은 파일을 만들면서 높은 수준으로 압축하므로 비디오 스트리밍 또는 고화질 오디오-비디오 파일 압축에 적합합니다.콘텐츠 메타데이터를 사용할 수 있습니다.3D 그래픽 및 기타 도구와 통합하여 상호 작용할 수 있습니다.모든 플랫폼에서 지원됩니다.다양한 파일 형식입니다.",
+    "Cons": "코덱 문제로 인해 오디오가 비디오와 동기화되지 않을 수 있습니다.재생 및 편집에는 상당한 양의 계산 능력이 필요할 수 있습니다.손실이 많은 형식이므로 압축 수준이 높고 파일 크기가 작을수록 오디오 및 비디오 품질이 저하됩니다.인기로 인해 저작권으로 보호되는 파일은 이제 불법적으로 배포 될 수 있습니다.",
+    "Createdby": "움직이는 그림 전문가 그룹",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "2001-2003",
+    "BasicInformation": "MPEG4 은 ISO/IEC 동영상 전문가 그룹에서 정의한 미디어 유형을 저장하기위한 파일 형식이며 다른 미디어 유형도 저장할 수 있습니다.. mp4는이 유형의 파일에 대한 가장 일반적인 확장자입니다.동영상 또는 비디오 클립을 저장하는 데 사용되는 멀티미디어 파일 유형입니다.그래픽이나 자막도 포함될 수 있습니다.MP4는 by.MOV 및.QT 파일을 사용하는 퀵타임 파일 형식 (QTFF) 을 기반으로 하는 컨테이너 형식인 MPEG-4 파트 14 (MPEG-4) 의 약자입니다.",
+    "DetailedInformation": "MP4 파일은 동영상 전문가 그룹의 MPEG-4 압축 표준 (MPEG) 을 사용합니다.오디오 트랙과 비디오 트랙은 이 형식으로 별도로 압축됩니다.비디오는 MPEG-4 비디오 인코딩을 사용하여 압축되고 오디오는.AAC 파일에서 사용되는 것과 동일한 AAC 압축을 사용하여 인코딩됩니다.Apple 및 기타 모바일 장치 제조업체는 오디오, 스틸 사진 또는 비디오를 저장하는 데 이 파일 형식을 자주 사용합니다.오디오 북, 노래, 영화, 비디오, 사진 및 팟 캐스트가 모두 이에 대한 예입니다.MPEG-4 은 널리 사용되는 비디오 스트리밍 형식입니다.많은 MP3 플레이어는 MP4 파일을 재생할 수 있다고 주장하는데, 이는 기본적으로 음악 및 일부 비디오 파일을 재생할 수 있음을 의미합니다 (항상 진정한 MP4 파일은 아니지만).MP4 확장을 사용하면 영화, 비디오 및 오디오 파일을 다운로드하거나 스트리밍 할 수 있습니다.",
+    "Softwaresused": [
+        {
+            "platform": "리눅스",
+            "softwares": [
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "핸드 브레이크",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "윈도우",
+            "softwares": [
+                {
+                    "name": "파일 뷰어 플러스 — 마이크로소프트에서 다운로드",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "마이크로소프트 윈도 미디어 플레이어",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "핸드 브레이크",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "맥",
+            "softwares": [
+                {
+                    "name": "애플 퀵타임 플레이어",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "핸드 브레이크",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "록시오 토스트 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "유료"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "애플 뮤직",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "애플 포토",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "구글 드라이브",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "올림소프트 플레이어",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "유료"
+                }
+            ]
+        },
+        {
+            "platform": "기계적 인조 인간",
+            "softwares": [
+                {
+                    "name": "안드로이드용 파일 뷰어",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "안드로이드용 비디오랩 VLC",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "어도비 프리미어 러쉬",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "무료 평가판"
+                },
+                {
+                    "name": "구글 드라이브",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "비트 랩스 심플 MP4 비디오 플레이어",
+                    "link": "https://play.google.com/store/apps/details?id=air.br.com.bitlabs.VideoPlayer&hl=en",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "크롬 OS",
+            "softwares": [
+                {
+                    "name": "구글 드라이브",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "크롬 OS",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "구글 크롬",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "무료"
+                }
+            ]
+        }
+    ]
+}

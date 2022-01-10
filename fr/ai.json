@@ -1,0 +1,164 @@
+{
+    "Format": "AI",
+    "ShortName": "AI",
+    "FullName": "Adobe Illustrator File",
+    "Category": "Fichier image vectorielle",
+    "Pros": "Supporte les couches. Peut contenir des éléments de texte. La résolution est infinie. Offre de la transparence. Ils sont relativement petits.",
+    "Cons": "Cela dépend du logiciel. Ne convient pas pour travailler avec des pixels.",
+    "Createdby": "Systèmes Adobe",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "2000",
+    "BasicInformation": "Un dessin généré avec Adobe Illustrator, une application d'édition de graphiques vectoriels, est connu sous le nom de fichier AI. Plutôt que des données d'image bitmap, elles sont constituées d'itinéraires reliés par des points. Les fichiers AI peuvent être redimensionnés sans sacrifier la qualité de l'image car ils sont enregistrés dans un format vectoriel.",
+    "DetailedInformation": "Les fichiers Adobe Illustrator Artwork (AI) sont des graphiques vectoriels qui tiennent sur une seule page et ont été créés par Adobe Systems pour Adobe Illustrator. Ils sont généralement enregistrés au format EPS ou PDF.Illustrator est couramment utilisé par les graphistes pour créer des illustrations vectorielles telles que des icônes, des logos, des panneaux et des maquettes. Illustrator crée un fichier AI pour stocker le contenu des illustrations numériques lors de leur stockage. Vous pouvez fermer le fichier, le rouvrir et continuer à modifier l'illustration après l'avoir enregistrée. Adobe Illustrator enregistre ces conceptions avec l'extension de fichier AI s'ils sont enregistrés pour une modification ultérieure.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Gratuit "
+                },
+                {
+                    "name": "Sk1",
+                    "link": "https://github.com/sk1project/sk1-wx",
+                    "image": "/assets/fileimg/MX9qrvZ.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "Inkscape",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "Gratuit"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Adobe Acrobat DC",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "Essai gratuit"
+                },
+                {
+                    "name": "Inkscape",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Essai gratuit"
+                },
+                {
+                    "name": "Adobe Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg"
+                },
+                {
+                    "name": "Visionneuse d'IA IdeaMK",
+                    "link": "https://aiviewer.com/",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "Gratuit"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Aperçu Apple",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Gratuit, inclus avec le système d'exploitation"
+                },
+                {
+                    "name": "Adobe Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Essai gratuit"
+                },
+                {
+                    "name": "Adobe Acrobat DC",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "Essai gratuit"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Essai gratuit"
+                },
+                {
+                    "name": "Inkscape",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "Gratuit"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Dessin d'Adobe Illustrator",
+                    "link": "https://apps.apple.com/in/app/adobe-illustrator-draw/id911156590",
+                    "image": "/assets/fileimg/YaqCA2d.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Visionneuse IA",
+                    "link": "https://apps.apple.com/us/app/ai-viewer/id1505083223",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "Adobe Photoshop ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Visionneuse IA",
+                    "link": "https://apps.apple.com/in/app/adobe-illustrator-draw/id911156590",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Adobe Photoshop Express",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Dessin d'Adobe Illustrator",
+                    "link": "https://adobe-illustrator-draw.en.uptodown.com/android#:~:text=Adobe%20Illustrator%20Draw%20is%20a,in%20a%20good%20drawing%20application.",
+                    "image": "/assets/fileimg/YaqCA2d.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Visionneuse IA en ligne",
+                    "link": "https://aiviewer.com/onlineviewer.aspx",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "Gratuit"
+                }
+            ]
+        }
+    ]
+}

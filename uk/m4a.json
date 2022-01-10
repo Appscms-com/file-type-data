@@ -1,0 +1,123 @@
+{
+    "Format": "M4A",
+    "ShortName": "M4A",
+    "FullName": "MPEG-4 Audio File",
+    "Category": "Аудіофайл",
+    "Pros": "Хоча файл M4A і стискається, якість залишається незмінним. Той факт, що аудіофайли M4A не захищені Digital Rights Management (DRM), означає, що їх можна змінювати і передавати більш вільно.",
+    "Cons": "M4A - це формат файлу, який добре відомий в iTunes, iPod та інших пристроях Apple. Однак у порівнянні з MP3-файлами відтворення аудіо M4A проблематично через відсутність сумісності з іншими пристроями.",
+    "Createdby": "Яблуко",
+    "CreatedbyLink": "https://developer.apple.com/",
+    "CreatedInYear": "2004",
+    "BasicInformation": "Файл M4A - це аудіофайл MPEG-4, який був закодований або Розширеним аудіокодуванням (AAC) або Apple Lossless Audio Codec (ALAC). Він може містити різноманітні аудіофайли, включаючи пісні, подкасти та аудіокниги.",
+    "DetailedInformation": "MPEG-4 - це мультимедійний формат контейнера для аудіо та відео даних, які стискаються. MP4 файли, в яких зберігаються аудіо та відео дані, використовують цей формат. Суфікс.m4a, який розшифровується як «MPEG-4 Audio», був створений, оскільки файли M4A виключно несуть звукові дані. Ця зміна імен ування полегшила визначити різницю між MPEG-4 відео та MPEG-4 аудіо-файлами. Існує опція стиснення з втратами, як і з іншими типами аудіофайлів, і це досягається за допомогою кодування AAC. Формат Apple Lossless дозволяє здійснювати стиснення без втрат, що недосяжно з іншими аудіоформатами.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "ВідеоЛан VLC медіаплеєр",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "Вікна",
+            "softwares": [
+                {
+                    "name": "Переглядач файлів плюс — Отримати його від Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Медіаплеєр Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                },
+                {
+                    "name": "ВідеоЛан VLC медіаплеєр",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Нулсофт Вінамп",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple itunes",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Гравець Apple QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                },
+                {
+                    "name": "ВідеоЛан VLC медіаплеєр",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                },
+                {
+                    "name": "Eltima Elmedia Плеєр",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Відеолан VLC для мобільних пристроїв",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Переглядач файлів для Android",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Відеолаб VLC для Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        }
+    ]
+}

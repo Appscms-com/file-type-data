@@ -1,0 +1,123 @@
+{
+    "Format": "M4A",
+    "ShortName": "M4A",
+    "FullName": "MPEG-4 Audio File",
+    "Category": "File audio",
+    "Pros": "Sebbene il file M4A sia compresso, la qualità rimane invariata. Il fatto che i file audio M4A non siano protetti da Digital Rights Management (DRM) significa che possono essere modificati e trasmessi più liberamente.",
+    "Cons": "M4A è un formato di file noto in iTunes, iPod e altri dispositivi di Apple. Tuttavia, rispetto ai file MP3, la riproduzione audio M4A è problematica a causa della sua mancanza di compatibilità con altri dispositivi.",
+    "Createdby": "Apple",
+    "CreatedbyLink": "https://developer.apple.com/",
+    "CreatedInYear": "2004",
+    "BasicInformation": "Un file M4A è un file audio MPEG-4 che è stato codificato con Advanced Audio Coding (AAC) o Apple Lossless Audio Codec (ALAC). Può contenere una varietà di file audio, inclusi brani, podcast e audiolibri.",
+    "DetailedInformation": "MPEG-4 è un formato contenitore multimediale per dati audio e video compressi. I file.MP4, che memorizzano dati audio e video, utilizzano questo formato. Il suffisso.m4a, che sta per «MPEG-4 Audio», è stato creato poiché i file M4A trasportano esclusivamente dati audio. Questo cambio di denominazione ha reso più facile distinguere tra i file video MPEG-4 e solo audio MPEG-4. Esiste un'opzione di compressione con perdita, come con altri tipi di file audio, e si ottiene utilizzando la codifica AAC. Il formato Apple Lossless consente una compressione senza perdita, che non è ottenibile con altri formati audio.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Lettore multimediale VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratuito"
+                }
+            ]
+        },
+        {
+            "platform": "finestre",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Scaricalo da Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Lettore multimediale Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Gratuito, incluso con il sistema operativo"
+                },
+                {
+                    "name": "Lettore multimediale VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratuito"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "Adobe Audition",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Versione di prova gratuita"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "iTunes",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Gratuito"
+                },
+                {
+                    "name": "Lettore Apple QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Gratuito, incluso con il sistema operativo"
+                },
+                {
+                    "name": "Lettore multimediale VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratuito"
+                },
+                {
+                    "name": "Adobe Audition",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Versione di prova gratuita"
+                },
+                {
+                    "name": "Lettore Eltima Elmedia",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Gratuito"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Videolan VLC per dispositivi mobili",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Gratuito"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Visualizzatore di file per Android",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Videolabs VLC per Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Gratuito"
+                }
+            ]
+        }
+    ]
+}

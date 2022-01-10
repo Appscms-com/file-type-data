@@ -1,0 +1,164 @@
+{
+    "Format": "AVI",
+    "ShortName": "AVI",
+    "FullName": "Audio Video Interleave File",
+    "Category": "Video-fil",
+    "Pros": "Bemærkelsesværdigt fremragende lydkvalitet troskab. Der er mange codecs, der kan anvendes til at nå det rette forhold, mens komprimere filer online. Fordi det blev oprettet af Microsoft, kan den afspilles på alle større Microsoft og ikke-Microsoft-operativsystemer. I modsætning til andre audio/videoformater kan DV-AVI-standarden komprimeres. Det kræver ikke brug af nogen specifik hardware eller software. På grund af dets komprimeringsfunktioner er AVI-videoformatet det oftest brugt til promoveringer, kortfilm og reklame. For masterfiler er kvaliteten bevaret med AVI god.",
+    "Cons": "Mange mennesker bliver frustrerede, når de ikke kan finde codec fra en sikker, velrenommeret kilde. Brugere kan finde pause i deres oplevelse uønsket, selv når disse kilder er tilgængelige. Sammenlignet med andre filformater, kan AVI-filer være ganske enorme, hvis de ikke er komprimeret. Når du komprimerer en AVI-fil online over specifikke grænser, lider videokvaliteten. Brugerinteraktion understøttes ikke. Støtter ot softsubs.",
+    "Createdby": "Microsoft",
+    "CreatedbyLink": "https://developer.microsoft.com/en-us/",
+    "CreatedInYear": "1992",
+    "BasicInformation": "En AVI-fil er en videofil gemt i Microsoft-oprettede Audio Video Interleave (AVI) multimedie container format. Det holder video- og lydfiler kodet i en række codecs, herunder DivX og XviD. AVI-filer kan afspilles ved hjælp af en række videoafspillere, herunder Microsoft Movies & TV, Windows Media Player og Apple QuickTime Player, som alle kommer forudinstalleret med deres respektive operativsystemer.",
+    "DetailedInformation": "AVI-formatet er baseret på Resource Interchange File Format (RIFF), et containerformat til lagring af multimedier, der først blev udgivet i 1991. Microsoft skabte AVI-formatet et år senere i 1992, og det er stadig meget udbredt i dag. Det understøttes af en bred vifte af videoafspillere, men for at videoen skal afspilles med succes, skal afspilleren understøtte codec bruges til at kode videodata.For at understøtte samtidig afspilning kombinerer AVI lyd og video i en enkelt fil i en fælles beholder. Dens fordel er dens enkle arkitektur, som gør det muligt at fungere på en række forskellige operativsystemer, herunder Windows, Macs, Linux og Unix, og understøttes af alle større webbrowsere.It kan gemme høj kvalitet video og lyd og udnytter mindre kompression end andre videoformater like.MPEG and.MOV.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLAN VLC medieafspiller",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Xine",
+                    "link": "https://sourceforge.net/projects/xine/",
+                    "image": "/assets/fileimg/11To9CR.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Kodi",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "vinduer",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Hent det fra Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft Windows Media Player",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Gratis, inkluderet med OS"
+                },
+                {
+                    "name": "Microsoft-film og tv",
+                    "link": "https://www.microsoft.com/en-us/p/movies-tv/9wzdncrfj3p2?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/fVyIEs4.jpeg",
+                    "type": "Gratis, inkluderet med OS"
+                },
+                {
+                    "name": "VideoLAN VLC medieafspiller",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "Kodi",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple QuickTime-afspiller",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Gratis, inkluderet med OS"
+                },
+                {
+                    "name": "VideoLAN VLC medieafspiller",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Kodi",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Adobe Premiere",
+                    "link": "https://www.adobe.com/products/premiere.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/RUVWLwB.jpeg",
+                    "type": "Gratis prøveversion"
+                },
+                {
+                    "name": "Eltima Elmedia-afspiller",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Videolan VLC til mobil",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Olimsoft Olayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Betalt"
+                },
+                {
+                    "name": "Google Drev",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Google Drev",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Videolabs VLC til Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "BIT Labs Simpel MP4 Video Player",
+                    "link": "https://play.google.com/store/apps/details?id=air.br.com.bitlabs.VideoPlayer&hl=en",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Drev",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

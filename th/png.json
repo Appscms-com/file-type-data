@@ -1,0 +1,206 @@
+{
+    "Format": "PNG",
+    "ShortName": "PNG",
+    "FullName": "Portable Network Graphics",
+    "Category": "รูปแบบกราฟิกภาพบิตแมป",
+    "Pros": "การสูญเสียการบีบอัดจะถูกเก็บไว้ให้น้อยที่สุดเปลือยอัตราส่วนการบีบอัดใด ๆ ไม่มีผลต่อคุณภาพของภาพรูปแบบนี้เหมาะสำหรับการจัดเก็บภาพเวอร์ชันกลางคุณภาพของภาพจะไม่สูญหายไปเมื่อมีการบันทึกอีกครั้งPNG สนับสนุนจำนวนมากของสีจะช่วยให้หลายระดับของความโปร่งใสความสามารถในการทำงานกับเลเยอร์ความสามารถในการเพิ่มข้อมูลเมตาไฟล์ขนาดของไฟล์มีขนาดเล็ก",
+    "Cons": "ไม่เหมาะสำหรับการทำงานกับภาพถ่ายสีเต็มรูปแบบไม่สามารถบันทึกรูปภาพจำนวนมากในไฟล์เดียวไม่อนุญาตให้มีภาพเคลื่อนไหว",
+    "Createdby": "กลุ่มพัฒนา PNG",
+    "CreatedbyLink": "http://www.libpng.org/pub/png/",
+    "CreatedInYear": "1996",
+    "BasicInformation": "แฟ้มรูปภาพที่บันทึกไว้ในรูปแบบ Portable Network Graphic (PNG) จะเรียกว่าไฟล์ PNGมันมีบิตแมปที่บีบอัดแบบ lossless เปรียบได้กับที่ของไฟล์.GIFโดยทั่วไปแล้ว เว็บกราฟิก รูปภาพดิจิทัล และรูปภาพที่มีพื้นหลังโปร่งแสงจะถูกบันทึกเป็นไฟล์ PNGแต่เดิมรูปแบบภาพ PNG มีวัตถุประสงค์เพื่อแทนที่รูปแบบภาพ GIF เนื่องจากทั้งสองสนับสนุนพื้นหลังโปร่งใสการใช้งานของสีที่จัดทำดัชนีและการบีบอัดแบบ lossless คือความคล้ายคลึงกันระหว่างทั้งสองอีกในทางกลับกันไฟล์ PNG ไม่อยู่ภายใต้ข้อ จำกัด ลิขสิทธิ์เดียวกัน",
+    "DetailedInformation": "ซ้อนทับบนพื้นหลังตาหมากรุกเป็นภาพ PNG ที่มีชั้นโปร่งใส 8 บิต (ด้านบน) (ด้านล่าง)PNG มีพนักงานภาวะเงินฝืดซึ่งเป็นเทคนิคการบีบอัดข้อมูลแบบไม่สูญเสียสิทธิบัตรที่ไม่มีการจดสิทธิบัตรPNG สามารถบีบอัดภาพได้อย่างมีประสิทธิภาพมากกว่า GIF ในกรณีส่วนใหญ่ แต่การใช้งานบางอย่างใช้วิธีการกรองที่ไม่เพียงพอทำให้ไฟล์ PNG ขนาดใหญ่ไม่จำเป็นมีสามประเภทของความโปร่งใสในรูปแบบ PNG - หนึ่งสำหรับการจัดทำดัชนีภาพสีและสองภาพสำหรับภาพสีเทาหรือสีจริงค่าแกมมา สีพื้นหลัง และเนื้อหาที่เป็นข้อความเป็นคุณลักษณะภาพทั้งหมดที่สามารถบันทึกในไฟล์ PNGมาตรฐานช่วยให้สามารถรองรับได้ถึง 16 บิตต่อช่อง แต่ลูกค้าส่วนใหญ่ต้องการเพียง 8 บิตต่อช่องเท่านั้นสำหรับการบันทึกภาพรูปแบบ PNG ใช้กันอย่างแพร่หลายโดยเฉพาะบนอินเทอร์เน็ตมันสามารถจัดการ RGB 24 บิตหรือ 32 บิต RGBA (RGB กับช่องอัลฟาที่สี่) ภาพสีที่มีการจัดทำดัชนี (Palette ตาม)ภาพถ่าย RGB หรือ RGBA แบบเต็มรูปแบบที่ไม่ได้จัดทำดัชนีรวมทั้งภาพระดับสีเทาได้รับการสนับสนุนโดยรูปแบบไฟล์ PNG อาจพบได้โดยผู้ใช้คอมพิวเตอร์หลายราย ไม่ว่าจะเป็นการดาวน์โหลดรูปภาพจากเว็บไซต์ การรับภาพถ่ายดิจิทัลที่แนบมากับอีเมล หรือการถ่ายภาพหน้าจอสำหรับการใช้งานบนเว็บ นักออกแบบกราฟิกมักจะบันทึกกราฟิกเป็นไฟล์ PNGพวกเขายังใช้ไฟล์ PNG เพื่อบันทึกโลโก้โปร่งแสงหรือรูปแบบไอคอนที่สามารถซ้อนทับบนรูปภาพอื่น ๆ",
+    "Softwaresused": [
+        {
+            "platform": "ลินุกซ์",
+            "softwares": [
+                {
+                    "name": "กิมป์",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "ฟรี "
+                },
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ไมโครซอฟท์ เอดจ์",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "มอซิลลา ไฟร์ฟอกซ์",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "รูปภาพของ Microsoft",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "โปรแกรมแสดงภาพถ่ายของ Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "ไมโครซอฟท์เพ้นท์",
+                    "link": "https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9",
+                    "image": "/assets/fileimg/AuNqAKT.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "ไมโครซอฟท์ ระบายสี 3D",
+                    "link": "https://www.microsoft.com/en-us/p/paint-3d/9nblggh5fv99?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/7Z9sNdy.jpeg"
+                },
+                {
+                    "name": "ระบบ ACD ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/acdsee.png",
+                    "type": "ทดลองใช้ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "ตัวอย่างแอปเปิ้ล",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "แอปเปิลรูปภาพ",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "แอปเปิ้ลซาฟารี",
+                    "link": "https://www.apple.com/safari/",
+                    "image": "/assets/fileimg/PePZ5cb.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "อะโดบี โฟโตช็อป 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "กูเกิ้ล รูปภาพ",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "ฟรี  "
+                },
+                {
+                    "name": "กูเกิลไดรฟ์",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "ไมโครซอฟท์ วันไดรฟ์",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "อะโดบี โฟโต้ช็อป",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop-express/id331975235?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "พิกเซลมาเตอร์ 2",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/HmizpGb.jpeg",
+                    "type": "จ่ายแล้ว"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์สำหรับ Android",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "กูเกิลไดรฟ์",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "กูเกิ้ล รูปภาพ",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "ฟรี  "
+                },
+                {
+                    "name": "ไมโครซอฟท์ วันไดรฟ์",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "อะโดบี โฟโต้ช็อป",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "กูเกิ้ล รูปภาพ",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "ฟรี  "
+                },
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "โครเมียม โอเอส",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "Format": "MPEG",
+    "ShortName": "MPEG",
+    "FullName": "Moving Pictures Experts Group Video",
+    "Category": "File video",
+    "Pros": "I file MPEG offrono risultati eccellenti che sono repliche esatte dei loro originali. La maggior parte dei browser online supporta questo formato e può essere riprodotto su una varietà di piattaforme, tra cui Windows Media Player e QuickTime.",
+    "Cons": "Nonostante l'alta qualità dei prodotti finali MPEG, ciò si traduce in uno scarso rapporto di compressione e in una dimensione del file più grande. L'apertura di un file più grande potrebbe richiedere più tempo.",
+    "Createdby": "Gruppo di esperti in immagini mobili",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "1993",
+    "BasicInformation": "Un file MPEG è un file video che utilizza il formato video digitale (MPEG) standardizzato del Moving Picture Experts Group. Contiene video e audio compressi utilizzando la compressione MPEG-1 o MPEG-2. In genere, i file MPEG vengono utilizzati per scambiare video su Internet.",
+    "DetailedInformation": "Il Moving Picture Experts Group (MPEG) è un'organizzazione internazionale che sviluppa standard di compressione e codifica dei media. Soprattutto, MPEG stabilisce standard di compressione video e audio. MPEG-1, la prima versione della compressione audio e video MPEG, è stata rilasciata nel 1993. MPEG-2, il successore di MPEG-1, è stato creato nel 1995. La compressione con perdita consente di scaricare e caricare file di dimensioni ridotte mantenendo una buona qualità. Questi contenitori di file audio e video mantengono sincronizzate le due parti durante la compressione utilizzando la compressione MPEG-1 o MPEG-2. I file.MPG possono essere utilizzati per salvare film MPEG-1 e MPEG-2. I film MPEG vengono sempre più salvati nei file as.MP4, che utilizzano la compressione MPEG-4.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Lettore multimediale VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratuito"
+                }
+            ]
+        },
+        {
+            "platform": "finestre",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Scaricalo da Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Lettore multimediale Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Gratuito, incluso con il sistema operativo"
+                },
+                {
+                    "name": "Lettore multimediale VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratuito"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "Xilisoft Video Converter",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg",
+                    "type": "Versione di prova gratuita"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Lettore Apple QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Gratuito, incluso con il sistema operativo"
+                },
+                {
+                    "name": "Lettore Eltima Elmedia",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Gratuito"
+                },
+                {
+                    "name": "Roxio Toast 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "Pagato"
+                },
+                {
+                    "name": "Lettore multimediale VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratuito"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Videolan VLC per dispositivi mobili",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Gratuito"
+                },
+                {
+                    "name": "Lettore multimediale Pentaloop PlayerXtreme",
+                    "link": "https://apps.apple.com/us/app/playerxtreme-media-player/id456584471?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/uoX9gqI.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Videolabs VLC per Android",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Gratuito"
+                },
+                {
+                    "name": "Convertitore multimediale antvplayer",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "Gratuito"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Lettore multimediale VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratuito"
+                }
+            ]
+        }
+    ]
+}

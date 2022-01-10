@@ -1,0 +1,48 @@
+{
+    "Format": "VMV",
+    "ShortName": "VMV",
+    "FullName": "VisualBoyAdvance Recording",
+    "Category": "Spil filer",
+    "Pros": "n/a",
+    "Cons": "n/a",
+    "Createdby": "VisualboyAdvance",
+    "CreatedbyLink": "https://visualboyadvance.en.softonic.com/",
+    "CreatedInYear": "N/A",
+    "BasicInformation": "VisualBoyAdvance, en Gameboy Advance emulator, skabte en spiloptagelse, der gemmer tastetryk og andre data, der gør det muligt at afspille optagelsen igen på emulatoren. Optagelsen gemmes i et proprietært format, der ikke kan afspilles af standard videoafspillere.",
+    "DetailedInformation": "VMV-formatet, der bruges af VisualBoyAdvance er uforeneligt med VMV-formatet, der bruges af Virtuanes.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VisualboyAdvance",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "vinduer",
+            "softwares": [
+                {
+                    "name": "VisualboyAdvance",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "VisualboyAdvance",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        }
+    ]
+}

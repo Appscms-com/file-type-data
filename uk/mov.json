@@ -1,0 +1,147 @@
+{
+    "Format": "MOV",
+    "ShortName": "MOV",
+    "FullName": "Apple QuickTime Movie",
+    "Category": "Відео файл",
+    "Pros": "Може зберігати посилання на абстрактні дані для медіа-даних. Вони можуть бути легко змінені без необхідності переписувати всі медіадані після цього. Для професійного монтажу відео це галузевий стандарт.",
+    "Cons": "В основному використовуються для редагування, але не стандарт, який буде використовуватися для реальних цілей. На фактичних пристроях спостерігається низький рівень приймання. ",
+    "Createdby": "Яблуко",
+    "CreatedbyLink": "https://developer.apple.com/",
+    "CreatedInYear": "1998",
+    "BasicInformation": "Файл MOV - це формат файлів мультимедійного контейнера, який зберігає фільми у форматі файлів QuickTime (QTFF). Він має один або кілька доріжок, які містять різного роду медіа-дані, включаючи відео, аудіо та текст (субтитри). Фільми та інші відеофайли зазвичай зберігаються як файли MOV.",
+    "DetailedInformation": "Apple розробила і випустила QTFF в 1991 році. Формат контейнера призначений для підтримки різних форматів медіа з метою полегшення передачі мультимедіа між пристроями, операційними системами та додатками. Мультимедійні файли QTFF часто зберігаються файли as.mov, однак вони також можуть бути збережені як.qt файли. Відео, аудіо, часовий код та текстові доріжки можна знайти у файлах MOV, які можуть бути використані для зберігання та синхронізації різних форм даних. Для кодування кожного медіа-треку можна використовувати кілька альтернативних кодеків. Кодек MPEG-4 часто використовується для стиснення файлів MOV. Кожен файловий контейнер може містити різні типи носіїв. У них можна зберігати відео, відеоефекти, текст, фотографії, субтитри та аудіо. Цей тип файлів часто використовується програмами для редагування відео. Файли MOV та QuickTime часто використовуються для редагування музики та відео (або двох комбінованих).",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "ВідеоЛан VLC медіаплеєр",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "Вікна",
+            "softwares": [
+                {
+                    "name": "Переглядач файлів плюс — Отримати його від Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Медіаплеєр Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                },
+                {
+                    "name": "ВідеоЛан VLC медіаплеєр",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Нулсофт Вінамп",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "Остаточний відео конвертер Xilisoft",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Гравець Apple QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                },
+                {
+                    "name": "Eltima Elmedia Плеєр",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "ВідеоЛан VLC медіаплеєр",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Роксио Тост 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "Платний"
+                },
+                {
+                    "name": "Adobe прем'єра пік",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Олімсофт Оплеєр",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Платний"
+                },
+                {
+                    "name": "Відеолан VLC для мобільних пристроїв",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Google Диск",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Adobe прем'єра пік",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Google Диск",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Adobe прем'єра пік",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                },
+                {
+                    "name": "Відеолаб VLC для Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        }
+    ]
+}

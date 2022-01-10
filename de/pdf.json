@@ -1,0 +1,212 @@
+{
+    "Format": "PDF",
+    "ShortName": "PDF",
+    "FullName": "Portable Document Format",
+    "Category": "Seitenlayoutdatei/ Dokument",
+    "Pros": "PDF ist ein sehr beliebtes Dateiformat. Auf die gleiche Weise, wie es erstellt wurde, kann PDF auf jedem Gerät mit jedem Betriebssystem angezeigt werden. Es ist sehr einfach zu sehen. Da es eine Reihe von Bildkomprimierungstechnologien unterstützt, benötigt PDF relativ wenig Speicherplatz auf Ihrer Festplatte. Die Sicherheitseinstellungen können vom Benutzer angepasst werden, um beispielsweise das Drucken oder Bearbeiten zu verbieten. Das Format ermöglicht die Verwendung elektronischer Signaturen, um die Echtheit des Dokuments zu überprüfen.",
+    "Cons": "Das Bearbeiten von PDF-Dateien ist nicht kostenlos. Andere Dateiformate sind einfacher zu bearbeiten als PDF-Dateien, die mit speziellen Tools geändert werden müssen. Die Arbeit mit Text in PDF-Dateien ist eine Herausforderung, da sie als Bild interpretiert werden.",
+    "Createdby": "Adobe-Systeme",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "1993",
+    "BasicInformation": "Adobe Systems hat das PDF-Format erstellt, das für Portable Document Format steht. PDF-Dateien zeigen ein Dokument in einem definierten Layout (ähnlich wie ein Bild) an, das mit einer Vielzahl von Programmen, Hardware und Betriebssystemen kompatibel ist. Es ermöglicht dem Benutzer, viele Bilder, Schriftarten und Textformate zu einem einzigen druckfertigen Dokument zu kombinieren, das von jedem Gerät aus freigegeben werden kann.",
+    "DetailedInformation": "Da PDF ein offener Standard ist, kann jeder Apps erstellen, die PDFs lesen und schreiben können, ohne eine Lizenzgebühr zu zahlen. Seit 2004 werden 3D-Grafiken unterstützt, und diese Dateien können passwortgeschützt, verschlüsselt und geändert werden. Eine Vielzahl von Apps kann PDF-Dateien öffnen und anzeigen, darunter Adobe Acrobat Reader (plattformübergreifend) und Adobe Acrobat (plattformübergreifend), die sie auch bearbeiten können. Adobe Acrobat oder jede PDF-Anwendung generiert eine PDF-Datei. Es ist ein plattformübergreifendes Dokument. Das PDF-Format wird häufig verwendet, um Dokumente und Veröffentlichungen in einem gängigen Format zu speichern, das auf einer Vielzahl von Plattformen angezeigt werden kann. In vielen Fällen werden PDF-Dateien aus vorhandenen Dokumenten erstellt, anstatt PDF-Dateien von Grund auf neu zu erstellen. PDF-Dateien können mit einer Vielzahl von Tools erstellt werden, darunter Textverarbeitungsprogramme, Bildbearbeitungsprogramme und PDF-Dateidienstprogramme wie Adobe Acrobat. Unter Windows und macOS können Sie mithilfe des Drucken-Dialogs auch PDF-Dateien aus Dokumenten erstellen.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Adobe Acrobat Reader DC",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Evince",
+                    "link": "https://wiki.gnome.org/Apps/Evince",
+                    "image": "/assets/fileimg/diIDQ4M.jpeg",
+                    "type": "Kostenlos, im Betriebssystem enthalten"
+                },
+                {
+                    "name": "LibreOffice",
+                    "link": "https://www.libreoffice.org/",
+                    "image": "/assets/fileimg/cPO8bqH.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "KDE Okular",
+                    "link": "https://okular.kde.org/",
+                    "image": "/assets/fileimg/PtakFU2.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Adobe Acrobat Reader DC",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "LibreOffice",
+                    "link": "https://www.libreoffice.org/",
+                    "image": "/assets/fileimg/cPO8bqH.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Edge-Technologie",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Adobe Acrobat Reader DC",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Apple-Vorschau",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Kostenlos, im Betriebssystem enthalten"
+                },
+                {
+                    "name": "LibreOffice",
+                    "link": "https://www.libreoffice.org/",
+                    "image": "/assets/fileimg/cPO8bqH.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Apple-Bücher",
+                    "link": "https://www.apple.com/apple-books/",
+                    "image": "/assets/fileimg/5938cLE.jpeg",
+                    "type": "Kostenlos, im Betriebssystem enthalten"
+                },
+                {
+                    "name": "Apple-Seiten",
+                    "link": "https://apps.apple.com/us/app/pages/id361309726",
+                    "image": "/assets/fileimg/38SErjW.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Adobe Acrobat Reader DC",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "Kostenlose Testversion"
+                },
+                {
+                    "name": "Gut. Ich bin ein guter Leser",
+                    "link": "https://apps.apple.com/app/id777310222?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/mF1gtxb.jpeg",
+                    "type": "Bezahlt"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.apple.com/apple-books/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Adobe Acrobat Reader DC",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Dateibetrachter für Android",
+                    "link": "https://play.google.com/store/apps/details?id=com.sharpened.androidfileviewer",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft OneDrive",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Play-Bücher",
+                    "link": "https://play.google.com/store/apps/details?id=com.google.android.apps.books&hl=en",
+                    "image": "/assets/fileimg/rrCOBeO.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Sedja PDF-Editor",
+                    "link": "https://www.sejda.com/pdf-editor",
+                    "image": "/assets/fileimg/8A6rYqw.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

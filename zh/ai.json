@@ -1,0 +1,164 @@
+{
+    "Format": "AI",
+    "ShortName": "AI",
+    "FullName": "Adobe Illustrator File",
+    "Category": "矢量图像文件",
+    "Pros": "支持图层。可以包含文本元素。分辨率是无限的。提供透明度。它们的体积相对较小。",
+    "Cons": "它依赖于软件。不适合使用像素。",
+    "Createdby": "Adobe 系统",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "2000",
+    "BasicInformation": "使用矢量图形编辑应用程序 Adobe Illustrator 生成的设计被称为 AI 文件。它不是位图图像数据，而是由点连接的路线组成。由于AI文件以矢量格式保存，因此可以在不牺牲图像质量的情况下调整其大小。",
+    "DetailedInformation": "Adobe Illustrator 图稿 (AI) 文件是适合单个页面的矢量图形，由 Adobe Systems 为 Adobe Illustrator 创建它们通常以EPS或PDF文件格式保存。平面设计师通常使用Illustrator来创建矢量图稿，例如图标、徽标、标志和模型。Illustrator 会创建一个 AI 文件，用于在存储数字图稿时存储其内容。您可以关闭文件，将其重新打开，然后在保存后继续更改图稿。如果保存这些设计以供将来编辑，Adobe Illustrator 会使用 AI 文件扩展名保存这些设计。",
+    "Softwaresused": [
+        {
+            "platform": "Linux的",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "免费 "
+                },
+                {
+                    "name": "sK1",
+                    "link": "https://github.com/sk1project/sk1-wx",
+                    "image": "/assets/fileimg/MX9qrvZ.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "英景观",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "免费"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Adobe Acrobat DC",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "免费试用"
+                },
+                {
+                    "name": "英景观",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "Adobe Photos",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "免费试用"
+                },
+                {
+                    "name": "土坯插画家 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg"
+                },
+                {
+                    "name": "IdeaMK Ai 查看器",
+                    "link": "https://aiviewer.com/",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "免费"
+                }
+            ]
+        },
+        {
+            "platform": "苹果电脑",
+            "softwares": [
+                {
+                    "name": "苹果预览版",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "免费，包含在操作系统中"
+                },
+                {
+                    "name": "土坯插画家 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "免费试用"
+                },
+                {
+                    "name": "Adobe Acrobat DC",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "免费试用"
+                },
+                {
+                    "name": "Adobe Photos",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "免费试用"
+                },
+                {
+                    "name": "英景观",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "免费"
+                }
+            ]
+        },
+        {
+            "platform": "iOS系统",
+            "softwares": [
+                {
+                    "name": "Adobe 插画家画",
+                    "link": "https://apps.apple.com/in/app/adobe-illustrator-draw/id911156590",
+                    "image": "/assets/fileimg/YaqCA2d.jpeg",
+                    "type": "免费增值"
+                },
+                {
+                    "name": "AI 查看器",
+                    "link": "https://apps.apple.com/us/app/ai-viewer/id1505083223",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "Adobe ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "免费增值"
+                }
+            ]
+        },
+        {
+            "platform": "安卓",
+            "softwares": [
+                {
+                    "name": "AI 查看器",
+                    "link": "https://apps.apple.com/in/app/adobe-illustrator-draw/id911156590",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "免费增值"
+                },
+                {
+                    "name": "Adobe Photos",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "免费增值"
+                },
+                {
+                    "name": "Adobe 插画家画",
+                    "link": "https://adobe-illustrator-draw.en.uptodown.com/android#:~:text=Adobe%20Illustrator%20Draw%20is%20a,in%20a%20good%20drawing%20application.",
+                    "image": "/assets/fileimg/YaqCA2d.jpeg",
+                    "type": "免费增值"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "在线AI查看器",
+                    "link": "https://aiviewer.com/onlineviewer.aspx",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "免费"
+                }
+            ]
+        }
+    ]
+}

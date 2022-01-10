@@ -1,0 +1,164 @@
+{
+    "Format": "AI",
+    "ShortName": "AI",
+    "FullName": "Adobe Illustrator File",
+    "Category": "Файл векторного изображения",
+    "Pros": "Поддерживает слои. Может содержать текстовые элементы. Разрешение бесконечно. Обеспечивает прозрачность. Они сравнительно небольшие по размеру.",
+    "Cons": "Это зависит от программного обеспечения. Не подходит для работы с пикселями.",
+    "Createdby": "Адоб Системс",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "2000",
+    "BasicInformation": "Дизайн, созданный с помощью Adobe Illustrator, приложения для редактирования векторной графики, известен как файл AI. Вместо данных растровых изображений он состоит из маршрутов, соединенных точками. Размер файлов AI можно изменять без ущерба для качества изображения, поскольку они сохраняются в векторном формате.",
+    "DetailedInformation": "Файлы Adobe Illustrator Artwork (AI) представляют собой векторную графику, которая помещается на одной странице и была создана компанией Adobe Systems для Adobe Illu Обычно они сохраняются в форматах файлов EPS или PDF. Illustrator обычно используется графическими дизайнерами для создания векторных изображений, таких как значки, логотипы, знаки и макеты. Illustrator создает файл AI для хранения содержимого цифрового изображения при его хранении. Вы можете закрыть файл, снова открыть его и продолжить изменение иллюстрации после сохранения. Adobe Illustrator сохраняет эти проекты с расширением AI, если они будут сохранены для дальнейшего редактирования.",
+    "Softwaresused": [
+        {
+            "platform": "Линукс",
+            "softwares": [
+                {
+                    "name": "КАНИТЕЛЬ",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Бесплатный "
+                },
+                {
+                    "name": "ск1",
+                    "link": "https://github.com/sk1project/sk1-wx",
+                    "image": "/assets/fileimg/MX9qrvZ.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Inkscape",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Адобе Акробат",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "Бесплатная пробная версия"
+                },
+                {
+                    "name": "Inkscape",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Адоб Фотошоп",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Бесплатная пробная версия"
+                },
+                {
+                    "name": "Адобе Иллюстратор 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg"
+                },
+                {
+                    "name": "Просмотрщик ИИ IdeamK",
+                    "link": "https://aiviewer.com/",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "Мак",
+            "softwares": [
+                {
+                    "name": "Предварительный просмотр Apple",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Бесплатно, в комплекте с ОС"
+                },
+                {
+                    "name": "Адобе Иллюстратор 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Бесплатная пробная версия"
+                },
+                {
+                    "name": "Адобе Акробат",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "Бесплатная пробная версия"
+                },
+                {
+                    "name": "Адоб Фотошоп",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Бесплатная пробная версия"
+                },
+                {
+                    "name": "Inkscape",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "IOS",
+            "softwares": [
+                {
+                    "name": "Адобе Иллюстратор рисовать",
+                    "link": "https://apps.apple.com/in/app/adobe-illustrator-draw/id911156590",
+                    "image": "/assets/fileimg/YaqCA2d.jpeg",
+                    "type": "Фримиум"
+                },
+                {
+                    "name": "Средство просмотра ИИ",
+                    "link": "https://apps.apple.com/us/app/ai-viewer/id1505083223",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Adobe Фотошо ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "Фримиум"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Средство просмотра ИИ",
+                    "link": "https://apps.apple.com/in/app/adobe-illustrator-draw/id911156590",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "Фримиум"
+                },
+                {
+                    "name": "Adobe Фотошоп",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Фримиум"
+                },
+                {
+                    "name": "Адобе Иллюстратор рисовать",
+                    "link": "https://adobe-illustrator-draw.en.uptodown.com/android#:~:text=Adobe%20Illustrator%20Draw%20is%20a,in%20a%20good%20drawing%20application.",
+                    "image": "/assets/fileimg/YaqCA2d.jpeg",
+                    "type": "Фримиум"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Интернет-просмотрщик ИИ",
+                    "link": "https://aiviewer.com/onlineviewer.aspx",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        }
+    ]
+}

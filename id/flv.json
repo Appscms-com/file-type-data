@@ -1,0 +1,135 @@
+{
+    "Format": "FLV",
+    "ShortName": "FLV",
+    "FullName": "Flash Video File",
+    "Category": "Berkas video",
+    "Pros": "Film, presentasi online, iklan banner, animasi Internet, dan kegunaan lain untuk Flash hanyalah beberapa contoh. Lebih dari 90% pengunjung situs web akan dapat melihatnya. File flash seringkali kecil dan mudah diunduh. Flash dapat dilihat pada koneksi broadband dan dial-up, serta pada sistem yang lebih tua dan lebih lambat. Berbagai macam file video dapat dikonversi ke format Flash dengan mudah.",
+    "Cons": "Hal ini dapat mahal dan memakan waktu untuk membuat konten Flash. Karena laba-laba mesin pencari tidak mengidentifikasi file Flash, mereka tidak berkontribusi pada optimasi situs. Saat mengakses halaman web yang menampilkan Flash, pengunjung mungkin mengalami waktu tunggu yang lebih panjang, terutama jika mereka menggunakan koneksi dial-up.",
+    "Createdby": "Sistem Adobe",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "2003",
+    "BasicInformation": "File video yang disimpan dalam format wadah Adobe Flash Video (FLV) dikenal sebagai file FLV. Header singkat, aliran data audio dan video yang disinkronkan (dikodekan dengan cara yang sama seperti aliran dalam format Flash.SWF standar), dan paket metadata semuanya disimpan.",
+    "DetailedInformation": "Adobe Systems 'Flash Video Format banyak digunakan untuk video online di situs seperti YouTube, Hulu, Vevo, dan berbagai layanan video streaming lainnya. Adobe Flash Player (termasuk plug-in browser) dan perangkat lunak pihak ketiga dapat membaca dan menonton file FLV di hampir setiap sistem operasi (dengan pengecualian iOS). Dengan rilis Adobe Flash Player 7 pada tahun 2003, format FLV diluncurkan. Adobe Flash Player terutama menggunakannya untuk menawarkan konten video online seperti film dan episode TV. FLV, di sisi lain, adalah format terbuka yang didukung oleh berbagai aplikasi non-Adobe/Macromedia. Flash Video Eksportir plug-in (tersedia dengan Adobe Animate) atau program yang mendukung file FLV dapat digunakan untuk menghasilkan konten Flash Video dan ekspor sebagai file FLV. Dengan Adobe Media Encoder, pengguna sekarang dapat mengkodekan berbagai format video seperti QuickTime atau Windows Media. Seiring bertambahnya teknologi online pada tahun 2010, kekurangan Flash, yang mencakup kerentanan kinerja dan keamanan, menjadi semakin jelas. Adobe dan banyak pembuat browser online secara resmi menghentikan dukungan untuk Flash pada 31 Desember 2020, karena penggunaan Flash Player dan format FLV anjlok.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Pemutar Media VLC VideoLAN",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "RealNetworks RealPlayer Cloud",
+                    "link": "https://www.real.com/in",
+                    "image": "/assets/fileimg/FdqTl1x.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Dapatkan dari Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Pemutar Media VLC VideoLAN",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Xilisoft Video Converter Ultimate",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg",
+                    "type": "Uji coba gratis"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "Media Player klasik",
+                    "link": "https://github.com/clsid2/mpc-hc/",
+                    "image": "/assets/fileimg/PLx4Opv.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple QuickTime Pemain",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                },
+                {
+                    "name": "Adobe Animasi CC 2019",
+                    "link": "https://www.adobe.com/products/animate.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/pqcWQ2F.jpeg",
+                    "type": "Uji coba gratis"
+                },
+                {
+                    "name": "Eltima Elmedia Pemain",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Pemutar Media VLC VideoLAN",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "RealNetworks RealTimes: Pembuat Video",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "BIT Labs Pemutar Video MP4 Sederhana",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Konverter Media Antvplayer",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "J2 Interaktif MX Pemain",
+                    "link": "https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en",
+                    "image": "/assets/fileimg/Cjoa7OB.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Pembuat Video RealTimes RealNetworks",
+                    "link": "https://play.google.com/store/apps/details?id=com.real.RealPlayerCloud",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

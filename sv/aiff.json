@@ -1,0 +1,141 @@
+{
+    "Format": "AIFF",
+    "ShortName": "AIFF",
+    "FullName": "Audio Interchange File Format",
+    "Category": "Ljudfil",
+    "Pros": "Mycket hög kvalitet. ",
+    "Cons": "Kräver stort lagringsutrymme. ",
+    "Createdby": "Äpplet",
+    "CreatedbyLink": "https://developer.apple.com/",
+    "CreatedInYear": "1998",
+    "BasicInformation": "AIFF-tillägget (Audio Interchange File Format) är en standard för lagring av ljuddata för en mängd olika elektroniska ljudenheter. Den innehåller högupplöst ljud som har bevarats i ett okomprimerat, förlustfritt format. AIFF-filer kan också sparas i formatet. Filer som slutar med.aifc kallas AIF-filer (om de är komprimerade).",
+    "DetailedInformation": "Apple använde Electronic Arts Interchange File Format för att producera det 1988. (IFF). AIFF-filer är okomprimerade (förlustfria) och betydligt större än de populära MP3-filerna, som är komprimerade och förstörande. Loopinformation och ljudexempel är båda möjliga i AIFF-filer. AIFF-filer ses allmänt på MAC OS-maskiner. Professionella musiker som värdesätter den höga kvaliteten på filerna och kan hantera de stora lagringskraven är de vanligaste konsumenterna av AIFF-filer. Trots mindre skillnader i lagringsmekanism och liten skillnad i kvalitet lagras flera sorter av AIFF-filer ofta under samma filtillägg. AIFF-filer, unlike.MP3 och många andra vanliga ljudfiler, är okomprimerade. AIFF-filer innehåller ofta ljud av högre kvalitet än motsvarande MP3-filer eftersom deras data inte är komprimerade. Men eftersom filerna innehåller mer data tar de upp mer lagringsutrymme.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLAN VLC mediaspelare",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Amarok",
+                    "link": "https://amarok.kde.org/",
+                    "image": "/assets/fileimg/Dh0nFk6.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Audacity",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Fönster",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Hämta det från Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft Windows Media Player",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Kostnadsfritt, ingår i OS"
+                },
+                {
+                    "name": "VideoLAN VLC mediaspelare",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Kostnadsfri provperiod"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple QuickTime-spelare",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Kostnadsfritt, ingår i OS"
+                },
+                {
+                    "name": "VideoLAN VLC mediaspelare",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Apple Music",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Kostnadsfritt, ingår i OS"
+                },
+                {
+                    "name": "Audacity",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Kostnadsfri provperiod"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Apple Music",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Kostnadsfritt, ingår i OS"
+                },
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Betald"
+                },
+                {
+                    "name": "Videolan VLC för mobil",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Videolabs VLC för Android",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "Format": "MKV",
+    "ShortName": "MKV",
+    "FullName": "Matroska Video File",
+    "Category": "視頻文件",
+    "Pros": "非常靈活。具有有損和無損選項。有很好的文件記錄非專有。允許添加元數據。",
+    "Cons": "目前沒有可以播放 MKV 文件的獨立硬件播放器。較大的文件大小。仍在開發中。 ",
+    "Createdby": "馬特羅斯卡",
+    "CreatedbyLink": "https://www.matroska.org/",
+    "CreatedInYear": "2002",
+    "BasicInformation": "以 Matroska 多媒體容器格式保存的視頻文件稱為 MKV 文件。它可以處理各種音頻和視頻編解碼器，包括 .SRT、.SSA、.USF（通用字幕格式）和 Vobsub 字幕。短視頻剪輯、電視節目和影片通常存儲為 MKV 文件。",
+    "DetailedInformation": "Matroska 多媒體容器 (MKV) 是一個開放和免費的視頻數據存儲標準。該文件可以包含無限數量的音頻、視頻、圖像和字幕軌道，使其成為保存電影、完整電視節目等方便的方式。用户可以跳轉到原始格式的所有不同數據軌道。它與 the.AVI、.ASF、and.MOV 格式相媲美，因為它可能有各種視頻、音頻、圖像和字幕軌道。Matroska 視頻文件是多媒體文件，使用 Matroska 容器格式來存儲一個或多個視頻軌道，並由 the.mkv 文件擴展名標識。MKV 格式通常用於保存短片段、電視劇和電影，在動漫粉絲者中越來越受歡迎。許多用户添加字幕，MKV 格式特別方便，因為它允許將多個音頻和字幕軌道合併到一個文件中。",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "視頻網絡 VLC 媒體播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "手剎",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "視窗",
+            "softwares": [
+                {
+                    "name": "文件查看器加 — 從微軟獲取",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "視頻網絡 VLC 媒體播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "手剎",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "媒體播放器經典",
+                    "link": "https://github.com/clsid2/mpc-hc/",
+                    "image": "/assets/fileimg/PLx4Opv.jpeg"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "艾蒂瑪埃爾媒體播放器",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "謝德沃克斯智能轉換器",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "免費試用"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "手剎",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "視頻網絡 VLC 媒體播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "iOS版",
+            "softwares": [
+                {
+                    "name": "奧姆軟膠光層",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "已付費"
+                },
+                {
+                    "name": "視頻移動 VLC",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "奧卡應用全方位播放器",
+                    "link": "https://apps.apple.com/us/app/omni-player-mkv-video-player/id1470926410",
+                    "image": "/assets/fileimg/TmHdEAq.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "五角龍播放器傳媒播放器",
+                    "link": "https://apps.apple.com/us/app/playerxtreme-media-player/id456584471?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/uoX9gqI.jpeg",
+                    "type": "免費增值"
+                }
+            ]
+        },
+        {
+            "platform": "安卓",
+            "softwares": [
+                {
+                    "name": "位實驗室簡單的 MP4 視頻播放器",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "適用於安卓系統的 VLC",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "安卓文件查看器",
+                    "link": "https://play.google.com/store/apps/details?id=com.sharpened.androidfileviewer",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "免費增值"
+                }
+            ]
+        }
+    ]
+}

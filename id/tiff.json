@@ -1,0 +1,146 @@
+{
+    "Format": "TIFF",
+    "ShortName": "TIFF",
+    "FullName": "Tagged Image File Format",
+    "Category": "File Gambar Raster",
+    "Pros": "Gambar yang lossless dan berkualitas sangat baik. Banyak format yang didukung. Mendukung beberapa lapisan.",
+    "Cons": "Ukuran file cukup besar. Tidak ideal untuk penggunaan di internet.",
+    "Createdby": "Sistem Adobe",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "1986",
+    "BasicInformation": "Istilah TIFF singkatan dari Tagged Image File Format. Ini adalah format file raster gambar digital. Ini memiliki grafis berkualitas tinggi dengan kedalaman warna mulai dari 1 hingga 24 bit dan kompresi lossy dan lossless. Beberapa lapisan dan halaman juga didukung oleh file TIFF.",
+    "DetailedInformation": "TIFF diciptakan oleh Aldus Corporation pada pertengahan 1980-an sebagai format gambar standar untuk melestarikan gambar berwarna berkualitas tinggi pada berbagai platform komputer. Meskipun digunakan secara luas, format JPEG akhirnya melampaui itu karena lebih efisien dan ramah web. Foto dan gambar garis juga bisa disimpan di atasnya. Karena semakin populernya perangkat lunak pemindaian dan teknologi, format file TIFF dibuat, dan bahkan dianggap sebagai format standar untuk gambar yang dipindai.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Gratis "
+                },
+                {
+                    "name": "LibreOffice",
+                    "link": "https://www.libreoffice.org/",
+                    "image": "/assets/fileimg/cPO8bqH.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Dapatkan dari Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Foto Microsoft",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                },
+                {
+                    "name": "Penampil Foto Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                },
+                {
+                    "name": "Cat Microsoft",
+                    "link": "https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9",
+                    "image": "/assets/fileimg/AuNqAKT.jpeg"
+                },
+                {
+                    "name": "ACD Sistem ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "Uji coba gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Pratinjau Apel",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                },
+                {
+                    "name": "Foto Apple",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Uji coba gratis"
+                },
+                {
+                    "name": "Adobe Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Uji coba gratis"
+                },
+                {
+                    "name": "Roti Roxio 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "Dibayar"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Foto Apple",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                },
+                {
+                    "name": "Foto Google",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Gratis  "
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Penampil file untuk Android",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Foto Google",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Gratis  "
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Foto Google",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Gratis  "
+                }
+            ]
+        }
+    ]
+}

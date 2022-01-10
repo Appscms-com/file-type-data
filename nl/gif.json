@@ -1,0 +1,170 @@
+{
+    "Format": "GIF",
+    "ShortName": "GIF",
+    "FullName": "Graphical Interchange Format File",
+    "Category": "Rasterafbeeldingsbestanden",
+    "Pros": "De bestandsgrootte is klein. Afbeeldingen die professioneel lijken te zijn. Betere berichtoverdracht Transparantie wordt begunstigd.",
+    "Cons": "Patroon met een beperkt kleurenpalet. Het is niet mogelijk om te bewerken. Het is belangrijk om een goede internetverbinding te hebben.",
+    "Createdby": "CompuServe",
+    "CreatedbyLink": "https://www.compuserve.com/",
+    "CreatedInYear": "1987",
+    "BasicInformation": "Een GIF-bestand is een grafisch bestand dat is opgeslagen in de Graphical Interchange Format (GIF) (GIF). Het kan tot 256 geïndexeerde kleuren hebben en een kleurenpalet dat een vooraf gedefinieerde reeks kleuren kan zijn of kan worden aangepast aan de kleuren van de afbeelding. GIF-bestanden worden in een verliesloos formaat bewaard, wat betekent dat de scherpte van de afbeelding niet wordt beïnvloed door GIF-compressie.",
+    "DetailedInformation": "Vanwege de mogelijkheid om afbeeldingen te verplaatsen, is GIF het meest gebruikte beeldbestandstype op internet. GIF's zijn een populair webgrafische indeling, met name voor kleine afbeeldingen en afbeeldingen met tekst, zoals navigatieknoppen. JPEG-afbeeldingen (.JPG) zijn daarentegen beter voor het weergeven van foto's, omdat het aantal kleuren dat ze kunnen weergeven niet beperkt is. GIF-afbeeldingen kunnen worden geanimeerd en opgeslagen als „geanimeerde GIF's”, die vaak op websites worden gebruikt om rudimentaire animaties weer te geven. Ze kunnen ook doorschijnende pixels bevatten, waardoor ze kunnen opgaan met verschillende kleurenachtergronden. In tegenstelling tot een.PNG-afbeelding moeten pixels in een GIF-afbeelding echter volledig transparant of volledig ondoorzichtig zijn, daarom kan transparantie niet worden vervaagd.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Gratis "
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Microsoft Edge",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Ramen",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Download het van Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft-foto's",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "Microsoft Windows-fotoviewer",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "Microsoft Paint",
+                    "link": "https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9",
+                    "image": "/assets/fileimg/AuNqAKT.jpeg"
+                },
+                {
+                    "name": "Adobe Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Gratis proefversie"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple Safari",
+                    "link": "https://www.apple.com/safari/",
+                    "image": "/assets/fileimg/PePZ5cb.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "Apple Preview",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Gratis proefversie"
+                },
+                {
+                    "name": "CorelDRAW grafische suite 2021",
+                    "link": "https://www.coreldraw.com/en/product/coreldraw/purchase.html?AID=10816204&PID=3081440&cjevent=51885051cce111eb80d1d3470a180510&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&x-vehicle=cj",
+                    "image": "/assets/fileimg/cfwD39J.jpeg",
+                    "type": "Gratis proefversie"
+                },
+                {
+                    "name": "Adobe Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Gratis proefversie"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Google foto's",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Gratis  "
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Bestandsviewer voor Android",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google foto's",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Gratis  "
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google foto's",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Gratis  "
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

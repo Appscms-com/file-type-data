@@ -1,0 +1,158 @@
+{
+    "Format": "WEBM",
+    "ShortName": "WEBM",
+    "FullName": "WebM Video File",
+    "Category": "Videofil",
+    "Pros": "Videor av utmärkt kvalitet. Alla är välkomna att delta i detta evenemang, som är gratis och öppet för allmänheten. Populära webbplatser inkluderar YouTube, 4chan, Vimeo och andra.",
+    "Cons": "Endast ett fåtal webbläsare och mediaspelare stöds. På de flesta mobila enheter kommer du inte att kunna spela.",
+    "Createdby": "Google",
+    "CreatedbyLink": "https://developers.google.com/",
+    "CreatedInYear": "2010",
+    "BasicInformation": "En WEBM-fil är en video som sparas i WebM-format, vilket är en öppen, royaltyfri videodelningsstandard. WebM rymmer både ljud- och videodata i en behållarstruktur som är jämförbar med videoformatet Matroska (.MKV). VP8- eller VP9-videocodecs används för att komprimera video, och Vorbis- eller Opus ljudcodecs används för att komprimera ljud.",
+    "DetailedInformation": "WEBM-filtyper är avsedda att användas i HTML5-videor som använder Matroska-filbehållaren och är royaltyfria. WEBM-videouppspelning stöds av Mozilla Firefox, Opera och Google Chrome, men Internet Explorer 9 och Safari kräver vanligtvis hjälp från tredje part (till exempel QuickTime) för att spela WEBM-media. Som en del av deras HTML5-spelarexperiment använder YouTube WEBM-filer. Om du vill spela WebM-mediefiler måste du ladda ned ett WebM-plugin-program om webbläsaren inte stöder det (som Safari eller Internet Explorer). WebM är en royaltyfri ersättning med öppen källkod för de patenterade H.264- och H.265-standarderna. Tekniken lämpar sig för både affärsmässiga och icke-kommersiella ändamål eftersom den är helt gratis.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLAN VLC mediaspelare",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Handbroms",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Ffmpeg",
+                    "link": "http://ffmpeg.org/",
+                    "image": "/assets/fileimg/wAHKc6t.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Fönster",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Hämta det från Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft Windows Media Player",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Kostnadsfritt, ingår i OS"
+                },
+                {
+                    "name": "VideoLAN VLC mediaspelare",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Handbroms",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "VideoLAN VLC mediaspelare",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Handbroms",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Eltima Elmedia-spelare",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "ShedWorx Smart Converter",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "Kostnadsfri provperiod"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Betald"
+                },
+                {
+                    "name": "Pentaloop PlayerXtreme Mediaspelare",
+                    "link": "https://apps.apple.com/us/app/playerxtreme-media-player/id456584471?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/uoX9gqI.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Filvisare för Android",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        }
+    ]
+}

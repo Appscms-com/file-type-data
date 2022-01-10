@@ -1,0 +1,100 @@
+{
+    "Format": "WMA",
+    "ShortName": "WMA",
+    "FullName": "Windows Media Audio File",
+    "Category": "Аудіофайл",
+    "Pros": "Поки що корпорація Майкрософт опублікувала вісім видань WMA, випуски, які слідують за шифруванням сертифікатів WMA 7, щоб захистити музичні авторські права, від яких музиканти та музичні видавці можуть найбільше отримувати прибуток. WMA може стискати аудіо з більшою швидкістю, що дозволяє йому зберігати високоякісне аудіо, використовуючи менше місця.",
+    "Cons": "Коли ви стискаєте аудіо з кодеком WMA, ви зазвичай втрачаєте деяку якість. WMA далеко не ідеально підходить для споживачів, які піклуються про якість звуку, але вони можуть замість цього вибрати FLAC (Free Lossless Audio Codec) або APE (широко відомий як аудіо мавпи). Корпорація Майкрософт володіє стандартом WMA і відмовляється ділитися ним з іншими компаніями.",
+    "Createdby": "Майкрософт",
+    "CreatedbyLink": "https://developer.microsoft.com/en-us/",
+    "CreatedInYear": "1999",
+    "BasicInformation": "Файл WMA - це аудіофайл, збережений у фірмовому форматі Advanced Systems Format (ASF) Microsoft. Він включає в себе Windows Media Audio, а також елементи метаданих, такі як назва треку, виконавець, альбом і жанр. Файли WMA схожі на MP3-файли тим, що вони, як правило, використовуються для передачі музики через Інтернет.",
+    "DetailedInformation": "Цей формат файлів був створений, щоб конкурувати з відомими форматами MP3 і RealAudio. Популярність WMA файлів для використання з відтворенням відео на DVD-програвачах, а також функції відтворення відео на мобільних/портативних пристроях для Playstation і Nokia сприяла їх успіху. Хоча більшість файлів WMA є втратами, деякі формати дозволяють стиснення без втрат. ASF - це власний формат цифрових музичних та відео контейнерів, розроблений Microsoft. Він використовує, якщо він містить Windows Media Video, а не Windows Media Audio. WMV - це розширення формату відео. WMA і WMV файли взаємозамінні. Однак ASF файли частіше використовуються. ",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "зухвалий",
+                    "link": "https://audacious-media-player.org/",
+                    "image": "/assets/fileimg/6WTDOAw.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "Вікна",
+            "softwares": [
+                {
+                    "name": "Переглядач файлів плюс — Отримати його від Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Медіаплеєр Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                },
+                {
+                    "name": "Нулсофт Вінамп",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Остаточний відео конвертер Xilisoft",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg"
+                },
+                {
+                    "name": "Google Chrome із плагіном медіаплеєра Windows",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Гравець Apple QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                },
+                {
+                    "name": "Eltima Elmedia Плеєр",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Опера зплагіном Flip4Mac WMV",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Інтелектуальний перетворювач ShedWorx",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Олімсофт Оплеєр",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Платний"
+                }
+            ]
+        }
+    ]
+}

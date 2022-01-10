@@ -1,0 +1,200 @@
+{
+    "Format": "MP4",
+    "ShortName": "MP4",
+    "FullName": "MPEG-4 Part 14",
+    "Category": "動画ファイル",
+    "Pros": "マルチプラットフォームをサポートします。使いやすい。簡単に配布できます。小さいファイルを作成しながら高レベルで圧縮できるため、ビデオストリーミングや高精細オーディオ/ビデオファイルの圧縮に最適です。メタデータをコンテンツ化できますか.3Dグラフィックスやその他のツールと統合して対話できます。すべてのプラットフォームでサポートされています。汎用性の高いファイル形式。",
+    "Cons": "コーデックに問題があると、オーディオがビデオと同期しなくなることがあります。再生と編集には多大な計算能力が必要となる場合があります。非可逆形式であるため、圧縮率を高くしてファイルサイズを小さくすると、オーディオとビデオの品質が低下します。その人気により、著作権で保護されたファイルは違法に配布される可能性があります。",
+    "Createdby": "動画専門家グループ",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "2001-2003",
+    "BasicInformation": "MPEG4は、ISO/IECムービングピクチャーエキスパートグループによって定義されたメディアタイプを格納するためのファイル形式ですが、他のメディアタイプも格納できます。.mp4は、このタイプのファイルの最も一般的な拡張子です。これは、ムービーまたはビデオクリップを保存するために使用されるマルチメディアファイルの一種です。グラフィックや字幕を含めることもできます。MP4 は MPEG-4 パート 14 (MPEG-4) の略で、QuickTime ファイル形式 (QTFF) に基づくコンテナー形式で、by.MOV ファイルと.qt ファイルが使用されます。",
+    "DetailedInformation": "MP4ファイルは、動画専門家グループのMPEG-4圧縮規格（MPEG）を採用しています。オーディオトラックとビデオトラックは、この形式で別々に圧縮されます。ビデオは MPEG-4 ビデオエンコーディングを使用して圧縮され、オーディオは AAC 圧縮を使用してエンコードされます。これは、.AAC ファイルで使用されるものと同じです。Appleや他のモバイルデバイスメーカーは、オーディオ、静止画、またはビデオを保存するためにこのファイルタイプを頻繁に利用しています。オーディオブック、曲、映画、ビデオ、写真、ポッドキャストはすべてこの例です。MPEG-4 は、一般的なビデオストリーミング形式です。多くのMP3プレーヤーはMP4ファイルを再生できると主張しています。これは基本的に、音楽や一部のビデオファイル（必ずしも真のMP4ファイルではありませんが）を再生できることを意味します。MP4拡張機能を使用すると、ムービー、ビデオ、オーディオファイルをダウンロードまたはストリーミングできます。",
+    "Softwaresused": [
+        {
+            "platform": "リナックス",
+            "softwares": [
+                {
+                    "name": "VideoLAN VLC メディアプレーヤー",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "ハンドブレーキ",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "ファイルビューアープラス — マイクロソフトから入手",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "マイクロソフトウィンドウズメディアプレーヤー",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "VideoLAN VLC メディアプレーヤー",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "ハンドブレーキ",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "マック",
+            "softwares": [
+                {
+                    "name": "Apple QuickTime プレイヤー",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "VideoLAN VLC メディアプレーヤー",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "ハンドブレーキ",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "ロキシオトースト 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "有料"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "アップルミュージック",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "アップルフォト",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "グーグル・ドライブ",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "VideoLAN VLC メディアプレーヤー",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "有料"
+                }
+            ]
+        },
+        {
+            "platform": "アンドロイド",
+            "softwares": [
+                {
+                    "name": "アンドロイド用ファイルビューア",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "Videolabs アンドロイド用 VLC",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "アドビプレミアラッシュ",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "フリートライアル"
+                },
+                {
+                    "name": "グーグル・ドライブ",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "BIT Labs シンプル MP4 ビデオプレーヤー",
+                    "link": "https://play.google.com/store/apps/details?id=air.br.com.bitlabs.VideoPlayer&hl=en",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "グーグル・ドライブ",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "クロームOS",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "グーグルクローム",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "無料"
+                }
+            ]
+        }
+    ]
+}

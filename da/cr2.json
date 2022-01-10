@@ -1,0 +1,170 @@
+{
+    "Format": "CR2",
+    "ShortName": "CR2",
+    "FullName": "Canon Raw Image File",
+    "Category": "Camera Raw-filer",
+    "Pros": "Billede af enestående kvalitet. Billedformat, der er almindeligt anvendt. Originalitet blev opretholdt. Brandnavn og filformat, som du kan stole på.",
+    "Cons": "Store filstørrelser, der er vanskelige at redigere. Bekymringer om lagring Deling er en vanskelig opgave.",
+    "Createdby": "Kanon",
+    "CreatedbyLink": "https://in.canon/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "En rå kamera billede skabt af forskellige Canon digitale kameraer er kendt som en CR2-fil. Det gemmer ukomprimerede billeddata i samme format som CCD. CR2 filer er almindeligt anvendt af professionelle fotografer, fordi de gemmer fotos af højere kvalitet.",
+    "DetailedInformation": "Canon Raw version 2-formatet, der er baseret på TIFF-specifikationen, bruges til at gemme CR2-filer. CR2-fotos kan oprettes af en række Canon digitale kameratyper, herunder EOS 1D Mark IV, EOS 450D og EOS Rebel T3. Det overfører data fra sensoren til lagerenheden direkte. Det kan ikke ses på samme måde som en JPG eller PNG kan. Når fotografier gemmes i RAW-format, kan de manipuleres betydeligt mere detaljeret i post-produktion med minimalt kvalitetstab. Når du bruger JPG eller andre billedformater, reduceres kvaliteten drastisk. CR2-billeder er ikke klar til udskrivning endnu, og de kan ikke ændres med en bitmap-editor. Rå fotografier er analoge med filmnegativer i digital form.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Gratis "
+                },
+                {
+                    "name": "gphoto2",
+                    "link": "https://gphoto.sourceforge.io/",
+                    "image": "https://image.flaticon.com/icons/png/512/1063/1063308.png",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Gthumb",
+                    "link": "https://wiki.gnome.org/Apps/Gthumb",
+                    "image": "/assets/fileimg/lWFl5mc.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "MATE med Atril Dokumentfremviser",
+                    "link": "https://mate-desktop.org/",
+                    "image": "/assets/fileimg/p64BUbi.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "vinduer",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Hent det fra Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Billeder af Microsoft",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Gratis, inkluderet med OS"
+                },
+                {
+                    "name": "Adobe Photoshop",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Gratis prøveversion"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg"
+                },
+                {
+                    "name": "FastStone billedfremviser",
+                    "link": "https://www.faststone.org/FSViewerDetail.htm",
+                    "image": "/assets/fileimg/6z9n45v.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple Eksempel",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Gratis, inkluderet med OS"
+                },
+                {
+                    "name": "Billeder af Apple",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Gratis, inkluderet med OS"
+                },
+                {
+                    "name": "Adobe Photoshop",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Gratis prøveversion"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Gratis "
+                },
+                {
+                    "name": "Snap Converter",
+                    "link": "https://snapconverter.com/",
+                    "image": "/assets/fileimg/EuFgmVh.jpeg",
+                    "type": "Betalt"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Billeder af Apple",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Gratis, inkluderet med OS"
+                },
+                {
+                    "name": "Adobe Photoshop ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Billeder",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Gratis  "
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Filfremviser til Android",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Adobe Photoshop",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Billeder",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Gratis  "
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Billeder",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Gratis  "
+                }
+            ]
+        }
+    ]
+}

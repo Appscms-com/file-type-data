@@ -1,0 +1,170 @@
+{
+    "Format": "GIF",
+    "ShortName": "GIF",
+    "FullName": "Graphical Interchange Format File",
+    "Category": "रेखापुंज छवि फ़ाइलें",
+    "Pros": "फ़ाइल का आकार छोटा है। ऐसी छवियां जो पेशेवर प्रतीत होती हैं। बेटर मैसेज कन्वेयंस ट्रांसपेरेंसी फेवरेट है।",
+    "Cons": "एक सीमित रंग पैलेट के साथ पैटर्न। इसे संपादित करना संभव नहीं है। एक अच्छा इंटरनेट कनेक्शन होना जरूरी है।",
+    "Createdby": "CompuServe",
+    "CreatedbyLink": "https://www.compuserve.com/",
+    "CreatedInYear": "1987",
+    "BasicInformation": "GIF फ़ाइल एक ग्राफिक फ़ाइल है जिसे ग्राफ़िकल इंटरचेंज फॉर्मेट (GIF) (GIF) में संग्रहीत किया गया है। इसमें 256 अनुक्रमित रंग और एक रंग पैलेट हो सकता है जो रंगों का एक पूर्वनिर्धारित सेट हो सकता है या छवि के रंगों के लिए अनुकूलित किया जा सकता है। GIF फ़ाइलों को दोषरहित प्रारूप में रखा जाता है, जिसका अर्थ है कि छवि का तीक्ष्णता GIF संपीड़न से प्रभावित नहीं होता है।",
+    "DetailedInformation": "छवियों को स्थानांतरित करने की अपनी क्षमता के कारण, GIF इंटरनेट पर सबसे अधिक उपयोग की जाने वाली छवि फ़ाइल प्रकार है। GIF एक लोकप्रिय वेब ग्राफिक्स प्रारूप है, विशेष रूप से छोटी छवियों और पाठ के साथ छवियों के लिए, जैसे नेविगेशन बटन। दूसरी ओर, JPEG (.JPG) चित्र, फ़ोटो प्रदर्शित करने के लिए बेहतर हैं क्योंकि उनके द्वारा प्रदर्शित किए जा सकने वाले रंगों की संख्या सीमित नहीं है। जीआईएफ छवियों को एनिमेटेड और “एनिमेटेड जीआईएफ” के रूप में संग्रहीत किया जा सकता है, जिन्हें अक्सर अल्पविकसित एनिमेशन प्रदर्शित करने के लिए वेबसाइटों पर उपयोग किया जाता है। इनमें पारभासी पिक्सेल भी हो सकते हैं, जिससे वे विभिन्न प्रकार की रंग पृष्ठभूमि के साथ मिश्रण कर सकते हैं। हालाँकि, a.PNG छवि के विपरीत, GIF छवि में पिक्सेल या तो पूरी तरह से पारदर्शी या पूरी तरह से अपारदर्शी होना चाहिए, इसलिए पारदर्शिता को फीका नहीं किया जा सकता है।",
+    "Softwaresused": [
+        {
+            "platform": "लिनक्स",
+            "softwares": [
+                {
+                    "name": "जिम्प",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "मुफ़्त "
+                },
+                {
+                    "name": "गूगल क्रोम",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट एज",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "मोज़िला फ़ायरफ़ॉक्स",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "फ़ाइल व्यूअर प्लस - इसे Microsoft से प्राप्त करें",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट फोटोज",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट विंडोज फोटो व्यूअर",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट पेंट",
+                    "link": "https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9",
+                    "image": "/assets/fileimg/AuNqAKT.jpeg"
+                },
+                {
+                    "name": "एडोब इलस्ट्रेटर 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                }
+            ]
+        },
+        {
+            "platform": "मैक",
+            "softwares": [
+                {
+                    "name": "एपल सफारी",
+                    "link": "https://www.apple.com/safari/",
+                    "image": "/assets/fileimg/PePZ5cb.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "Apple प्रीव्यू",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "एडोब फोटोशॉप 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "कोरलड्रा ग्राफिक्स सुइट 2021",
+                    "link": "https://www.coreldraw.com/en/product/coreldraw/purchase.html?AID=10816204&PID=3081440&cjevent=51885051cce111eb80d1d3470a180510&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&x-vehicle=cj",
+                    "image": "/assets/fileimg/cfwD39J.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "एडोब इलस्ट्रेटर 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                }
+            ]
+        },
+        {
+            "platform": "आईओएस",
+            "softwares": [
+                {
+                    "name": "गूगल फोटोज",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "मुफ़्त  "
+                },
+                {
+                    "name": "गूगल ड्राइव",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "फ़्रीमियम"
+                }
+            ]
+        },
+        {
+            "platform": "एंड्रॉयड",
+            "softwares": [
+                {
+                    "name": "Android के लिए फ़ाइल व्यूअर",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "गूगल फोटोज",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "मुफ़्त  "
+                },
+                {
+                    "name": "गूगल ड्राइव",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "फ़्रीमियम"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "गूगल फोटोज",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "मुफ़्त  "
+                },
+                {
+                    "name": "गूगल ड्राइव",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "फ़्रीमियम"
+                }
+            ]
+        }
+    ]
+}

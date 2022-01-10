@@ -1,0 +1,200 @@
+{
+    "Format": "MP4",
+    "ShortName": "MP4",
+    "FullName": "MPEG-4 Part 14",
+    "Category": "Fichier vidéo",
+    "Pros": "Offre une prise en charge multiplateforme. Facile à utiliser. Facilement distribuable. Compression à un niveau élevé tout en créant des fichiers plus petits, ce qui le rend parfait pour le streaming vidéo ou la compression de fichiers audio-vidéo haute définition. Métadonnées de contenu Can. Peut être intégré à des graphiques 3D et à d'autres outils pour interagir. Pris en charge par toutes les plateformes Un format de fichier polyvalent.",
+    "Cons": "Des problèmes de codec peuvent entraîner une désynchronisation de l'audio avec la vidéo. La lecture et le montage peuvent nécessiter une puissance de calcul importante. Comme il s'agit d'un format avec perte, un degré de compression plus élevé et une taille de fichier plus petite entraîneraient une réduction de la qualité audio et vidéo. En raison de sa popularité, les fichiers protégés par le droit d'auteur peuvent désormais être distribués illégalement.",
+    "Createdby": "Groupe d'experts du cinéma",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "2001-2003",
+    "BasicInformation": "MPEG4 est un format de fichier permettant de stocker les types de supports définis par le groupe d'experts de l'image animée ISO/IEC, mais il peut également stocker d'autres types de médias. .mp4 est l'extension la plus courante pour ce type de fichier. Il s'agit d'un type de fichier multimédia utilisé pour enregistrer un film ou un clip vidéo. Il peut également inclure des graphiques ou des sous-titres. MP4 est l'abréviation de MPEG-4 Part 14 (MPEG-4), un format de conteneur basé sur le format de fichier QuickTime (QTFF), qui est utilisé dans les fichiers by.MOV et .QT.",
+    "DetailedInformation": "Les fichiers MP4 utilisent la norme de compression MPEG-4 (MPEG) du Moving Picture Experts Group. Les pistes audio et vidéo sont compressées séparément dans ce format. La vidéo est compressée à l'aide du codage vidéo MPEG-4 et l'audio est codé à l'aide de la compression AAC, qui est la même que celle utilisée dans les fichiers .AAC. Apple et d'autres fabricants d'appareils mobiles utilisent fréquemment ce type de fichier pour stocker de l'audio, des photos ou des vidéos. Les livres audio, les chansons, les films, les vidéos, les images et les podcasts en sont tous des exemples. MPEG-4 est un format de streaming vidéo populaire. De nombreux lecteurs MP3 prétendent pouvoir lire des fichiers MP4, ce qui implique essentiellement qu'ils peuvent lire de la musique et certains fichiers vidéo (bien que ce ne soit pas toujours de vrais fichiers MP4). L'extension MP4 vous permet de télécharger ou de diffuser des films, des vidéos et des fichiers audio.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Lecteur multimédia VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "Frein à main",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Gratuit"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Obtenez-le auprès de Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Lecteur Microsoft Windows Media",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Gratuit, inclus avec le système d'exploitation"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "Lecteur multimédia VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "Frein à main",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Gratuit"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Lecteur Apple QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Gratuit, inclus avec le système d'exploitation"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "Lecteur multimédia VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "Frein à main",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "Roxio Toast 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "Payé"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Musique Apple",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Gratuit, inclus avec le système d'exploitation"
+                },
+                {
+                    "name": "Photos d'Apple",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Gratuit, inclus avec le système d'exploitation"
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Lecteur multimédia VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "olimsoft",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Payé"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Visionneuse de fichiers pour Android",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Videolabs VLC pour Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "Adobe Premiere Rush",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "Essai gratuit"
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Lecteur vidéo MP4 simple BIT Labs",
+                    "link": "https://play.google.com/store/apps/details?id=air.br.com.bitlabs.VideoPlayer&hl=en",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "Gratuit"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Système d'exploitation Chrome",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "Gratuit, inclus avec le système d'exploitation"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratuit"
+                }
+            ]
+        }
+    ]
+}

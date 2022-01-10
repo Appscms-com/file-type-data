@@ -1,0 +1,188 @@
+{
+    "Format": "MP3",
+    "ShortName": "MP3",
+    "FullName": "MPEG-1 Audio Layer III or MPEG-2 Audio Layer III",
+    "Category": "Ses dosyası",
+    "Pros": "Herkes tarafından kapsamlı bir şekilde kabul edildi. Pratik olarak tüm donanım ses çalarlar ve araçlar bunu destekler. Çok yüksek sıkıştırma oranları sunuldu. Şifresi oldukça hızlı ve sofistike bir şekilde çözülebilir. MPEG spesifikasyonlarının bir parçası olan bir ISO standardı. Herkes mevcut demo kaynaklarıyla birlikte kendi versiyonunu koyabilir. Lisanslama gereksinimlerinin rahattır. Çok kanallı dosyalara destek sağlar. ",
+    "Cons": "Performans ve verimlilik mevcut codec bileşenlerinden daha düşüktür. Maksimum bit hızı (320kbps) her zaman yeterli değildir. Henüz çok kanallı uygulamalar mevcut değildir. Yüksek tanımlı ses ile uyumsuz (örnekleme hızları 48 kHz'den yüksek). Daha fazla kullanılabilirlik ve kullanım kolaylığı nedeniyle müzik korsanlığında artışa neden olur.",
+    "Createdby": "Hareketli Resim Uzmanları Grubu",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "1987",
+    "BasicInformation": "MP3 Dosyası formatı, “Katman 3\" ses sıkıştırmasını kullanan sıkıştırılmış bir ses dosyasıdır. Moving Picture Experts Group (MPEG) (MP3) tarafından üretildi. Ses kayıtları, podcast'ler, film müzikleri, vaazlar, sesli kitaplar, dersler, vb tüm yaygın MP3 dosyaları olarak saklanır.",
+    "DetailedInformation": "MPEG 1990'ların başında geliştirdikten sonra 1993 yılında MP3 formatını piyasaya sürdü. O zaman diğer yaygın ses dosyası türlerinin boyutunun bir kısmını (sıkıştırılmamış bir.WAV veya.AIF dosyasının yaklaşık 1/10 boyutunda) sesi yoğunlaştırabilir. Böylece, bu format hızlı bir şekilde müzik depolamak için standart haline geldi ve diğer mevcut olanların üzerine yükseldi. O zaman, bilgisayarlar çok daha az depolama alanı sağladı. Yani, MP3 formatının ayrılması çok kritik bir olaydı. Şu anda, MP3 en çok kullanılan ses dosyası formatıdır. Bir multimedya dosyasının dosya boyutu, MPEG sıkıştırması ile büyük ölçüde azaltılabilir ve kalitede en az tespit edilebilir kaybla azaltılabilir. Bu, Internet üzerinden dosya aktarımlarının verimliliğini artırır. 1990'larda ve 2000'lerde MP3 teknolojisi, insanların internetten daha basit ve hızlı bir şekilde müzik indirmelerine izin vererek kaydedilen müzik akışı konseptinde devrim yarattı.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC Medya Oynatıcı",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "XMMS",
+                    "link": "http://www.xmms.org/",
+                    "image": "/assets/fileimg/hodO9zz.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Amarok",
+                    "link": "https://amarok.kde.org/",
+                    "image": "/assets/fileimg/Dh0nFk6.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Audacity",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Clementine",
+                    "link": "https://www.clementine-player.org/about",
+                    "image": "/assets/fileimg/F87GDJM.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC Medya Oynatıcı",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Microsoft Windows Media Player",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "Audacity",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "File Viewer Plus — Microsoft'tan edinin",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg"
+                },
+                {
+                    "name": "Apple itunes",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Ücretsiz deneme"
+                },
+                {
+                    "name": "Apple Music",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "Audacity",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "VideoLan VLC Medya Oynatıcı",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Roxio Tost",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/vyEg9wb.jpeg",
+                    "type": "Ücretli"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Apple Music",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "VideoLan VLC Medya Oynatıcı",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Ücretli"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Android için dosya görüntüleyici",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "antvplayer Medya Dönüştürücü",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Chrome OS",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "Format": "CR2",
+    "ShortName": "CR2",
+    "FullName": "Canon Raw Image File",
+    "Category": "Camera Raw Dosyaları",
+    "Pros": "Olağanüstü kalitede resim. Yaygın olarak kullanılan görüntü formatı. Özgünlük korundu. Güvenebileceğiniz marka adı ve dosya formatı.",
+    "Cons": "Düzenlemesi zor olan büyük dosya boyutları. Depolama Paylaşımı ile ilgili endişeler zor bir iştir.",
+    "Createdby": "Canon",
+    "CreatedbyLink": "https://in.canon/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "Çeşitli Canon dijital kameralar tarafından oluşturulan ham kamera görüntüsü CR2 dosyası olarak bilinir. Sıkıştırılmamış resim verilerini CCD ile aynı formatta kaydeder. CR2 dosyaları, daha yüksek kaliteli fotoğrafları sakladıkları için profesyonel fotoğrafçılar tarafından yaygın olarak kullanılır.",
+    "DetailedInformation": "TIFF spesifikasyonuna dayanan Canon Raw sürüm 2 formatı CR2 dosyalarını kaydetmek için kullanılır. CR2 fotoğrafları EOS 1D Mark IV, EOS 450D ve EOS Rebel T3 gibi çeşitli Canon dijital kamera türleri tarafından oluşturulabilir. Verileri sensörden doğrudan depolama cihazına aktarır. JPG veya PNG'nin görebileceği gibi görülemez. Fotoğraflar RAW formatında kaydedildiğinde, minimum kalite kaybı ile post-prodüksiyonda önemli ölçüde daha ayrıntılı olarak manipüle edilebilirler. JPG veya diğer görüntü formatlarını kullanırken, kalite büyük ölçüde azaltılır. CR2 görüntüleri henüz yazdırmaya hazır değildir ve bitmap düzenleyicisiyle değiştirilemezler. Hay fotoğraflar dijital formdaki film negatiflerine benzerdir.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "SAKAL",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Ücretsiz "
+                },
+                {
+                    "name": "gphoto2",
+                    "link": "https://gphoto.sourceforge.io/",
+                    "image": "https://image.flaticon.com/icons/png/512/1063/1063308.png",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "gThumb",
+                    "link": "https://wiki.gnome.org/Apps/Gthumb",
+                    "image": "/assets/fileimg/lWFl5mc.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "MATE ile Atril Belge Görüntüleyici",
+                    "link": "https://mate-desktop.org/",
+                    "image": "/assets/fileimg/p64BUbi.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Microsoft'tan edinin",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft Fotoğrafları",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Ücretsiz deneme"
+                },
+                {
+                    "name": "SAKAL",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg"
+                },
+                {
+                    "name": "FastStone Görüntü Görüntüleyici",
+                    "link": "https://www.faststone.org/FSViewerDetail.htm",
+                    "image": "/assets/fileimg/6z9n45v.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple Önizlemesi",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "Apple Fotoğrafları",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Ücretsiz deneme"
+                },
+                {
+                    "name": "SAKAL",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Ücretsiz "
+                },
+                {
+                    "name": "Snap Dönüştürücü",
+                    "link": "https://snapconverter.com/",
+                    "image": "/assets/fileimg/EuFgmVh.jpeg",
+                    "type": "Ücretli"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Apple Fotoğrafları",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "Adobe Photoshop ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Fotoğraflar",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Ücretsiz  "
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Android için dosya görüntüleyici",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Adobe Photoshop Express",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Fotoğraflar",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Ücretsiz  "
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Fotoğraflar",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Ücretsiz  "
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "Format": "AVI",
+    "ShortName": "AVI",
+    "FullName": "Audio Video Interleave File",
+    "Category": "비디오 파일",
+    "Pros": "놀랍도록 뛰어난 오디오 품질 충실도.온라인으로 파일을 압축하는 동안 적절한 비율에 도달하기 위해 사용할 수있는 수많은 코덱이 있습니다.Microsoft에서 제작했기 때문에 모든 주요 Microsoft 및 타사 운영 체제에서 재생할 수 있습니다.다른 오디오/비디오 형식과 달리 DV-AVI 표준을 압축 할 수 있습니다.특정 하드웨어나 소프트웨어를 사용할 필요는 없습니다.압축 기능으로 인해 AVI 비디오 형식은 프로모션, 단편 영화 및 광고에 가장 많이 사용됩니다.마스터 파일의 경우 AVI로 유지되는 품질이 좋습니다.",
+    "Cons": "많은 사람들이 안전하고 평판이 좋은 소스에서 코덱을 찾을 수 없을 때 좌절감을 느낍니다.사용자는 이러한 소스를 사용할 수 있더라도 경험의 중단이 바람직하지 않을 수 있습니다.다른 파일 형식과 비교할 때 AVI 파일은 압축되지 않으면 상당히 클 수 있습니다.온라인에서 특정 제한을 초과하여 AVI 파일을 압축하면 비디오 품질이 저하됩니다.사용자 상호 작용은 지원되지 않습니다.소프트서브를 지원하지 않습니다.",
+    "Createdby": "마이크로소프트",
+    "CreatedbyLink": "https://developer.microsoft.com/en-us/",
+    "CreatedInYear": "1992",
+    "BasicInformation": "AVI 파일은 Microsoft에서 만든 오디오 비디오 인터리브 (AVI) 멀티미디어 컨테이너 형식으로 저장된 비디오 파일입니다.DivX 및 XviD를 포함한 다양한 코덱으로 인코딩 된 비디오 및 오디오 파일을 보관합니다.AVI 파일은 Microsoft 영화 및 TV, 윈도우 미디어 플레이어 및 Apple QuickTime 플레이어를 포함한 다양한 비디오 플레이어를 사용하여 재생할 수 있으며 모두 해당 운영 체제와 함께 사전 설치되어 제공됩니다.",
+    "DetailedInformation": "AVI 형식은 1991년에 처음 출시된 멀티미디어를 저장하기 위한 컨테이너 형식인 리소스 교환 파일 형식 (RIFF) 을 기반으로 합니다.Microsoft는 1992년 1년 후인 AVI 형식을 만들었으며 오늘날에도 여전히 널리 사용되고 있습니다.다양한 비디오 플레이어에서 지원되지만 비디오를 성공적으로 재생하려면 플레이어가 비디오 데이터를 인코딩하는 데 사용되는 코덱을 지원해야 합니다.동시 재생을 지원하기 위해 AVI는 오디오와 비디오를 공통 컨테이너의 단일 파일로 결합합니다.장점은 간단한 아키텍처로 Windows, Mac, Linux 및 Unix를 포함한 다양한 운영 체제에서 작동 할 수 있으며 모든 주요 웹 브라우저에서 지원됩니다. 고품질 비디오 및 오디오를 저장할 수 있으며 다른 비디오 형식 like.MPEG and.MOV 보다 압축률이 적습니다.",
+    "Softwaresused": [
+        {
+            "platform": "리눅스",
+            "softwares": [
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "지네",
+                    "link": "https://sourceforge.net/projects/xine/",
+                    "image": "/assets/fileimg/11To9CR.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "코디",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "윈도우",
+            "softwares": [
+                {
+                    "name": "파일 뷰어 플러스 — 마이크로소프트에서 다운로드",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "마이크로소프트 윈도 미디어 플레이어",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "마이크로소프트 영화 및 TV",
+                    "link": "https://www.microsoft.com/en-us/p/movies-tv/9wzdncrfj3p2?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/fVyIEs4.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "코디",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "맥",
+            "softwares": [
+                {
+                    "name": "애플 퀵타임 플레이어",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "코디",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "어도비 프리미어 프로 2020",
+                    "link": "https://www.adobe.com/products/premiere.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/RUVWLwB.jpeg",
+                    "type": "무료 평가판"
+                },
+                {
+                    "name": "엘티마 엘미디어 플레이어",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "모바일용 비디오란 VLC",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "올림소프트 플레이어",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "유료"
+                },
+                {
+                    "name": "구글 드라이브",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "부분 유료화"
+                }
+            ]
+        },
+        {
+            "platform": "기계적 인조 인간",
+            "softwares": [
+                {
+                    "name": "구글 드라이브",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "안드로이드용 비디오랩 VLC",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "비트 랩스 심플 MP4 비디오 플레이어",
+                    "link": "https://play.google.com/store/apps/details?id=air.br.com.bitlabs.VideoPlayer&hl=en",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "크롬 OS",
+            "softwares": [
+                {
+                    "name": "구글 드라이브",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "부분 유료화"
+                }
+            ]
+        }
+    ]
+}

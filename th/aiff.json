@@ -1,0 +1,141 @@
+{
+    "Format": "AIFF",
+    "ShortName": "AIFF",
+    "FullName": "Audio Interchange File Format",
+    "Category": "แฟ้มเสียง",
+    "Pros": "คุณภาพสูงมาก ",
+    "Cons": "ต้องการพื้นที่จัดเก็บที่กว้างขวาง ",
+    "Createdby": "แอปเปิ้ล",
+    "CreatedbyLink": "https://developer.apple.com/",
+    "CreatedInYear": "1998",
+    "BasicInformation": "ส่วนขยาย AIFF (Audio Interchange File Format) เป็นมาตรฐานการจัดเก็บข้อมูลเสียงสำหรับอุปกรณ์เสียงอิเล็กทรอนิกส์ที่หลากหลายประกอบด้วยเสียงความละเอียดสูงที่ได้รับการเก็บรักษาไว้ในรูปแบบที่ไม่มีการบีบอัดและไม่สูญเสียข้อมูลไฟล์ AIFF สามารถบันทึกในรูปแบบแฟ้มที่ลงท้ายด้วย.aiFC จะเรียกว่าไฟล์ AIF (ถ้ามีการบีบอัด)",
+    "DetailedInformation": "แอปเปิลใช้รูปแบบไฟล์แลกเปลี่ยนของ Electronic Art เพื่อผลิตในปี 1988ไอเอฟ).ไฟล์ AIFF จะไม่มีการบีบอัด (lossless) และมีขนาดใหญ่กว่าไฟล์ MP3 ที่เป็นที่นิยมอย่างมากซึ่งมีการบีบอัดและสูญเสียข้อมูลข้อมูลลูปและตัวอย่างเสียงทั้งสองเป็นไปได้ในไฟล์ AIFFไฟล์ AIFF จะเห็นได้อย่างกว้างขวางบนเครื่อง MAC OS.นักดนตรีมืออาชีพที่ให้ความสำคัญกับคุณภาพของไฟล์และสามารถจัดการกับความต้องการในการจัดเก็บหนักเป็นผู้บริโภคที่พบมากที่สุดของไฟล์ AIFF.แม้จะมีความแตกต่างเล็กน้อยในกลไกการจัดเก็บและความแตกต่างเล็กน้อยในด้านคุณภาพไฟล์ AIFF หลายชนิดจะถูกเก็บไว้บ่อยๆภายใต้นามสกุลไฟล์เดียวกันไฟล์ AIFF, unlike.MP3 และไฟล์เสียงทั่วไปอื่น ๆ อีกมากมาย, จะไม่มีการบีบอัด.ไฟล์ AIFF มักจะมีเสียงที่มีคุณภาพสูงกว่าไฟล์ MP3 เทียบเท่าเนื่องจากข้อมูลของพวกเขาไม่ได้ถูกบีบอัดอย่างไรก็ตามเนื่องจากไฟล์มีข้อมูลมากขึ้นจึงใช้พื้นที่เก็บข้อมูลมากขึ้น",
+    "Softwaresused": [
+        {
+            "platform": "ลินุกซ์",
+            "softwares": [
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "แอมอะร็อก",
+                    "link": "https://amarok.kde.org/",
+                    "image": "/assets/fileimg/Dh0nFk6.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ความกล้าราว",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์พลัส — รับได้จากไมโครซอฟท์",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "โปรแกรมเล่นสื่อ Windows ของ Microsoft",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "นัลล์ซอฟท์ วินแอมป์",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "อะโดบี ออดิชั่น CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "โปรแกรมเล่น Apple QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "แอปเปิ้ลมิวสิก",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "ความกล้าราว",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "อะโดบี ออดิชั่น CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "แอปเปิ้ลมิวสิก",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "โอลิมซอฟท์ โอเพลเยอร์",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "จ่ายแล้ว"
+                },
+                {
+                    "name": "VLC Videolan สำหรับมือถือ",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "วีดีโอแลบ VLC สำหรับ Android",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,212 @@
+{
+    "Format": "JPG",
+    "ShortName": "JPG",
+    "FullName": "Joint Photographics Expert Group",
+    "Category": "تنسيق ملف الصورة",
+    "Pros": "تنسيق شائع جدًا. ضغط على مستوى عال تسيطر عليه مما يؤدي إلى حجم ملف صغير. التنسيق متوافق ويعرض بشكل صحيح في جميع المتصفحات والنصوص وبرامج الرسومات، على جميع أجهزة الكمبيوتر والأجهزة اللوحية والأجهزة المحمولة. يدعم الصور الواقعية بالألوان الكاملة مع الكثير من انتقالات الألوان والتباين. جودة عالية للصورة بدرجة صغيرة من التماسك.",
+    "Cons": "عند ضغط الصورة، قد «تنهار» في مربعات فردية - كتل 808 بكسل. يحدث هذا لأن خوارزمية الضغط تحلل البكسل المجاورة. لون ناعم - قد تصبح التحولات قاسية أو تختفي ببساطة. JPEG أقل ملاءمة للعمل مع الرسومات النصية أو أحادية اللون مع حدود واضحة. لا يدعم هذا التنسيق الشفافية على الرغم من أنه مطلوب عند إنشاء القوالب والشعارات والأزرار. تنخفض جودة الصورة مع كل خطوة ضغط لاحقة.",
+    "Createdby": "فريق خبراء الاتحاد الدولي للاتصالات والفوتوغرافيك المشتركة",
+    "CreatedbyLink": "https://www.itu.int/en/ITU-T/studygroups/2009-2012/Pages/16/jpeg1x.aspx",
+    "CreatedInYear": "1992",
+    "BasicInformation": "ملف JPG هو صورة محفوظة بتنسيق الصورة المضغوطة لمجموعة خبراء التصوير المشترك (JPEG). يستخدم على نطاق واسع لتخزين الصور الرقمية ويدعمه معظم الكاميرات الرقمية. تعد ملفات JPG من بين تنسيقات الصور الأكثر استخدامًا. إنها تقنية شائعة لضغط صور التصوير الفوتوغرافي. JPEG هو أيضًا اسم تنسيق الملف الذي يستخدم هذا النوع من الضغط. ضغط الضياع لا رجعة فيه، وكلما انخفض معدل الضغط، كلما كانت الصورة أكثر حدة.",
+    "DetailedInformation": "لم تكن هناك تقنية في أوائل الثمانينيات سمحت للناس بضغط الصور الرقمية وتبادلها بسهولة. في عام 1982، بدأت مجموعة عمل JPEG في تطوير معيار ضغط لتقليل حجم ملفات الصور مع الحفاظ على أكبر قدر ممكن من الجودة، مما يسهل مشاركتها. تم تصميم تنسيق ملف JPEG بواسطة مجموعة العمل في عام 1992. ملفات JPEG، التي يتم حفظها عادةً باستخدام ملحق the.jpg أو.JPEG، هي صور تم إنشاؤها باستخدام عملية ضغط ضياع تدمر بعض البيانات الموجودة في ملف الصورة المصدر. ومع ذلك، فإن فقدان البيانات هذا غير قابل للكشف بشكل عام للعين المجردة. ملفات JPG مثالية للمنتجات النهائية، في حين أن الملفات بدون فقدان هي الأفضل للتحرير. لا يزال معيار JPEG هو تنسيق ضغط الصور الأكثر شيوعًا المستخدم اليوم لأنه يسمح للمستخدمين بإنشاء ملفات صور قابلة للمشاركة وعالية الجودة ولأنه مدمج بعمق في التكنولوجيا المستخدمة في صنع الصور وتبادلها.",
+    "Softwaresused": [
+        {
+            "platform": "لينكس",
+            "softwares": [
+                {
+                    "name": "جوجل كروم",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "ميكروسوفت إيدج",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "جيمب",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "مجاني "
+                },
+                {
+                    "name": "شوتويل",
+                    "link": "https://wiki.gnome.org/Apps/Shotwell",
+                    "image": "/assets/fileimg/wJy7aoh.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "موزيلا فايرفوكس",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "شبابيك",
+            "softwares": [
+                {
+                    "name": "صور ميكروسوفت",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "عارض صور مايكروسوفت ويندوز",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "مايكروسوفت أوندريف",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "مايكروسوفت بينت",
+                    "link": "https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9",
+                    "image": "/assets/fileimg/AuNqAKT.jpeg"
+                },
+                {
+                    "name": "جوجل كروم",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "رفيق",
+            "softwares": [
+                {
+                    "name": "معاينة أبل",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "صور أبل",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "أدوبي فوتوشوب 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "ACD سيستمز ACDSee Photo Studio لنظام التشغيل Mac",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-mac/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "جوجل كروم",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "صور أبل",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "محرك جوجل",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "صور جوجل",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "مجاني  "
+                },
+                {
+                    "name": "أدوبي فوتوشوب إكسبريس",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop-express/id331975235?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "مايكروسوفت أوندريف",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "فريميوم"
+                }
+            ]
+        },
+        {
+            "platform": "أندرويد",
+            "softwares": [
+                {
+                    "name": "محرك جوجل",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "صور جوجل",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "مجاني  "
+                },
+                {
+                    "name": "جوجل كروم",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "مايكروسوفت أوندريف",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "عارض الملفات لنظام Android",
+                    "link": "https://play.google.com/store/apps/details?id=com.sharpened.androidfileviewer",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "فريميوم"
+                }
+            ]
+        },
+        {
+            "platform": "نظام كرومي أوس",
+            "softwares": [
+                {
+                    "name": "صور جوجل",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "مجاني  "
+                },
+                {
+                    "name": "جوجل كروم",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "نظام التشغيل كروم",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                }
+            ]
+        }
+    ]
+}

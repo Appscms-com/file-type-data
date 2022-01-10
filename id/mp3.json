@@ -1,0 +1,188 @@
+{
+    "Format": "MP3",
+    "ShortName": "MP3",
+    "FullName": "MPEG-1 Audio Layer III or MPEG-2 Audio Layer III",
+    "Category": "Berkas audio",
+    "Pros": "Diterima secara ekstensif oleh semua. Praktis semua pemutar audio perangkat keras dan gadget mendukungnya. Tingkat kompresi yang sangat tinggi ditawarkan. Dapat diterjemahkan cukup cepat, dan dengan cara yang lebih canggih. Standar ISO yang merupakan bagian dari spesifikasi MPEG. Siapa pun dapat menempatkan versi mereka sendiri bersama-sama dengan sumber demo yang tersedia. Perizinan requiremnets santai. Ini memberikan dukungan untuk file multichannel. ",
+    "Cons": "Kinerja dan efisiensi lebih rendah dari codec saat ini. Bitrate maksimum (320kbps) tidak selalu cukup.Tidak ada implementasi multichannel yang tersedia. Tidak kompatibel dengan audio definisi tinggi (tingkat sampling lebih tinggi dari 48kHz). Penyebab peningkatan pembajakan musik karena ketersediaan dan kemudahan penggunaan yang lebih besar.",
+    "Createdby": "Kelompok Ahli Gambar Bergerak",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "1987",
+    "BasicInformation": "Format MP3 File adalah file audio terkompresi yang menggunakan kompresi audio “Layer 3\". Ini diproduksi oleh Moving Picture Experts Group (MPEG) (MP3). Rekaman audio, podcast, soundtrack, khotbah, buku audio, ceramah, dll semuanya disimpan secara luas sebagai file MP3.",
+    "DetailedInformation": "MPEG merilis format MP3 pada tahun 1993, setelah mengembangkannya pada awal 1990-an. Ini bisa mengembun audio ke sebagian kecil dari ukuran jenis file audio umum lainnya pada saat itu (sekitar 1/10 ukuran file uncompressed.WAV or.AIF). Jadi, format ini dengan cepat menjadi standar untuk menyimpan musik dan naik di atas yang sudah ada lainnya. Pada saat itu, komputer menyediakan ruang penyimpanan yang sangat sedikit. Jadi, deveopment format MP3 adalah peristiwa yang sangat penting. Saat ini, MP3 adalah format file audio yang paling banyak digunakan. Ukuran file file multimedia dapat sangat menurun dengan kompresi MPEG, dengan kehilangan kualitas yang dapat dideteksi minimal. Hal ini meningkatkan efisiensi transfer file melalui Internet. Pada 1990-an dan 2000-an, teknologi MP3 merevolusi konsep rekaman musik streaming dengan memungkinkan orang untuk lebih sederhana dan cepat men-download musik dari internet.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Pemutar Media VLC VideoLAN",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "XMMS",
+                    "link": "http://www.xmms.org/",
+                    "image": "/assets/fileimg/hodO9zz.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Amarok",
+                    "link": "https://amarok.kde.org/",
+                    "image": "/assets/fileimg/Dh0nFk6.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Keberanian",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "clementine",
+                    "link": "https://www.clementine-player.org/about",
+                    "image": "/assets/fileimg/F87GDJM.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Pemutar Media VLC VideoLAN",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Microsoft Windows Media Player",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                },
+                {
+                    "name": "Keberanian",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "File Viewer Plus — Dapatkan dari Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg"
+                },
+                {
+                    "name": "iTunes apel",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Adobe Audisi CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Uji coba gratis"
+                },
+                {
+                    "name": "Musik Apple",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                },
+                {
+                    "name": "Keberanian",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Pemutar Media VLC VideoLAN",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Roti Roxio",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/vyEg9wb.jpeg",
+                    "type": "Dibayar"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Musik Apple",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                },
+                {
+                    "name": "Pemutar Media VLC VideoLAN",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Dibayar"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Penampil file untuk Android",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Konverter Media Antvplayer",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Chrome OS",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        }
+    ]
+}

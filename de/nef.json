@@ -1,0 +1,164 @@
+{
+    "Format": "NEF",
+    "ShortName": "NEF",
+    "FullName": "Nikon Electronic Format RAW Image",
+    "Category": "Kamera-Rohdateien",
+    "Pros": "Wenn eine Verarbeitung durch den menschlichen Computer erforderlich ist, sind NEF-Dateien vorteilhafter. Dies eröffnet viele Möglichkeiten zur Verbesserung der Bildqualität, was mit JPEG-Dateien nicht möglich ist. Da die ursprünglichen Pixeldaten in NEF-Dateien beibehalten werden, ist die Bildqualität wesentlich besser. Sie werden entweder mit verlustfreien Techniken komprimiert oder gar nicht komprimiert. JPEG- und TIFF-Fotos haben einen engeren Tonbereich und eine engere Farbgenauigkeit als NEF-Bilder.",
+    "Cons": "Da NEF-Dateien wesentlich größer sind als JPEG-Dateien, können weniger davon auf einer Karte gespeichert werden. Aus diesem Grund benötigt eine Nikon-Kamera auch länger, um RAW-Dateien auf einer Speicherkarte zu speichern. Es gibt zahlreiche RAW-Dateiformate, und Experten haben Schwierigkeiten, einen einheitlichen RAW-Dateistandard zu definieren. Nikon wurde auch dafür bestraft, dass es die Rauschunterdrückung einsetzt, die nachweislich die Bildqualität beeinträchtigt.",
+    "Createdby": "Nikon",
+    "CreatedbyLink": "https://www.nikon.co.in/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "Ein mit einer Nikon-Digitalkamera aufgenommenes Rohfoto wird als NEF-Datei gespeichert. Es wird im Nikon Electronic Format (NEF) gespeichert, das Daten im gleichen unkomprimierten Format wie das CCD speichert. Bildmetadaten, wie die Kamera-ID und das verwendete Objektiv, sind ebenfalls in NEF-Dateien enthalten. Die Metadaten enthalten Details über das Objektiv, seine Einstellungen, die Kamera und vieles mehr.",
+    "DetailedInformation": "NEF-Dateien werden am häufigsten von Nikon-Shootern verwendet. Diese Fotografen können Profis oder Amateure sein, die Nikon-Kameras verwenden, um Fotos aufzunehmen und die Rohdaten als NEF-Dateien zu speichern. Rohdateien sind Fotos, die noch nicht mit Bitmap-Grafikeditoren verarbeitet, gedruckt oder bearbeitet wurden. Die Rohdatei versucht, die Szene so weit wie möglich zu replizieren, einschließlich Beleuchtung, Intensität und Farben. Die vom Sensor der Kamera erfassten Daten werden in Rohdatenbildern aufgezeichnet. NEF-Dateien können entweder in einem unkomprimierten oder verlustfreien komprimierten Format auf einer Kamera-Speicherkarte gespeichert werden. NEF-Dateien ähneln „digitalen Negativen“. Trotz der Tatsache, dass es keine Debatte über die Bildqualität von NEF-Dateien gibt, wählen Softwareentwickler dieses Format aufgrund des Fehlens eines gemeinsamen Standards nicht.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Corel AfterShot",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "Kostenlose Testversion"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Holen Sie es sich von Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft-Fotos",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Kostenlos, im Betriebssystem enthalten"
+                },
+                {
+                    "name": "Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Kostenlose Testversion"
+                },
+                {
+                    "name": "Nikon View NX2",
+                    "link": "https://imaging.nikon.com/lineup/software/viewnx2/",
+                    "image": "/assets/fileimg/pgXaxjb.jpeg"
+                },
+                {
+                    "name": "Corel AfterShot",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "Kostenlose Testversion"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple-Vorschau",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Kostenlos, im Betriebssystem enthalten"
+                },
+                {
+                    "name": "Apple Fotos",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Kostenlos, im Betriebssystem enthalten"
+                },
+                {
+                    "name": "Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Kostenlose Testversion"
+                },
+                {
+                    "name": "Nikon View NX2",
+                    "link": "https://imaging.nikon.com/lineup/software/viewnx2/",
+                    "image": "/assets/fileimg/pgXaxjb.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Corel AfterShot",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "Kostenlose Testversion"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Apple Fotos",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Kostenlos, im Betriebssystem enthalten"
+                },
+                {
+                    "name": "Photoshop ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Fotos",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Kostenlos  "
+                },
+                {
+                    "name": "Google Snapseed",
+                    "link": "https://apps.apple.com/us/app/snapseed/id439438619?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/p5rWIzT.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Dateibetrachter für Android",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Photoshop Express",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Fotos",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Kostenlos  "
+                },
+                {
+                    "name": "Google Snapseed",
+                    "link": "https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en_US",
+                    "image": "/assets/fileimg/p5rWIzT.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Fotos",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Kostenlos  "
+                }
+            ]
+        }
+    ]
+}

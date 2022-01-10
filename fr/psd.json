@@ -1,0 +1,129 @@
+{
+    "Format": "PSD",
+    "ShortName": "PSD",
+    "FullName": "Adobe Photoshop Document",
+    "Category": "Fichiers image raster",
+    "Pros": "Tirez le meilleur parti des fonctionnalités de Photoshop. Vous pouvez directement importer un fichier Photoshop dans Illustrator, InDesign et d'autres programmes Adobe grâce à une connectivité étroite. Ouvrez le fichier enregistré en mode calques. Si vous devez garder les choses transparentes, c'est un bon outil.",
+    "Cons": "Le fichier est assez volumineux. Adobe est propriétaire du format PSD. Par conséquent, il n'est pas largement utilisé par d'autres applications.",
+    "Createdby": "Systèmes Adobe",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "PSD est le format de fichier natif de Photoshop pour l'enregistrement de fichiers. Il est également connu sous le nom de PDD. PSD, souvent connu sous le nom de PDD, est un type de fichier couramment utilisé. Le PSD est compatible avec tous les modes d'image (bitmap, niveaux de gris, bichromie, couleur indexée, RVB, CMJN, Lab et multicanal). Il s'agit d'un fichier image créé par Adobe Photoshop, un outil professionnel de retouche d'images couramment utilisé pour améliorer les photos numériques et créer des graphiques Web.",
+    "DetailedInformation": "Les calques d'image, les calques de réglage, les masques de calque, les annotations, les informations sur les fichiers, les mots-clés et d'autres composants spécifiques à Photoshop se trouvent tous dans les fichiers PSD. Ils sont fréquemment réalisés et partagés par des graphistes. Les fichiers PSD peuvent être ouverts avec divers outils Photoshop et aplatis dans d'autres formats d'image (tels que PNG, JPEG et GIF) pour le téléchargement, l'envoi et l'enregistrement.Tous les calques fusionnés en un seul calque après avoir été convertis d'un PSD en un autre type de fichier. Les calques sont stockés, accessibles et modifiables lorsqu'ils sont enregistrés avec l'extension de fichier PSD. Ces fichiers sont fréquemment utilisés comme documents de travail en cours, plutôt que pour la production et la livraison d'images finales. Les calques PSD, ainsi que d'autres éléments tels que les photos, les formes, le texte et les effets, peuvent être modifiés. Les modes couleur RVB, CMJN, niveaux de gris, monochrome, bicolore, couleur indexée, couleur Lab et multicanaux sont tous pris en charge par le format PSD. Les fichiers Photoshop avec l'extension PSD contiennent des images tout en offrant de nombreuses options d'édition pour les produits Adobe Photoshop. Les masques, la transparence, les réglages bichromes, les dégradés, l'équilibrage des couleurs, le mixage et les tracés de découpage ne sont que quelques-uns des outils d'édition disponibles.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Gratuit "
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Obtenez-le auprès de Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Essai gratuit"
+                },
+                {
+                    "name": "Adobe Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Essai gratuit"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg"
+                },
+                {
+                    "name": "Suite graphique CorelDRAW 2021",
+                    "link": "https://www.coreldraw.com/en/product/coreldraw/purchase.html?AID=10816204&PID=3081440&cjevent=51885051cce111eb80d1d3470a180510&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&x-vehicle=cj",
+                    "image": "/assets/fileimg/cfwD39J.jpeg",
+                    "type": "Essai gratuit"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Aperçu Apple",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Gratuit, inclus avec le système d'exploitation"
+                },
+                {
+                    "name": "Adobe Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Essai gratuit"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Essai gratuit"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Gratuit "
+                },
+                {
+                    "name": "Pixelmator",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id407963104?ign-mpt=uo%3D4&mt=12",
+                    "image": "/assets/fileimg/0RX6D8V.jpeg",
+                    "type": "Payé"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Pixelmator 2",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/HmizpGb.jpeg",
+                    "type": "Payé"
+                },
+                {
+                    "name": "Adobe Photoshop ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Visionneuse de fichiers pour Android",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Adobe Photoshop Express",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "Format": "TIFF",
+    "ShortName": "TIFF",
+    "FullName": "Tagged Image File Format",
+    "Category": "Rasterafbeeldingsbestanden",
+    "Pros": "Beelden die verliesloos zijn en van uitstekende kwaliteit zijn. Veel formaten worden ondersteund. Ondersteunt meerdere lagen.",
+    "Cons": "De bestandsgrootte is vrij groot. Niet ideaal voor gebruik op internet.",
+    "Createdby": "Adobe-systemen",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "1986",
+    "BasicInformation": "De term TIFF staat voor Tagged Image File Format. Het is een digitale rasterbestandsindeling voor afbeeldingen. Het heeft grafische afbeeldingen van hoge kwaliteit met kleurdieptes variërend van 1 tot 24 bits en compressie met verlies en verliesvrije compressie. Meerdere lagen en pagina's worden ook ondersteund door TIFF-bestanden.",
+    "DetailedInformation": "TIFF werd halverwege de jaren tachtig door Aldus Corporation gecreëerd als een standaard beeldformaat voor het behoud van hoogwaardige kleurenafbeeldingen op verschillende computerplatforms. Ondanks het wijdverbreide gebruik overschaduwde het JPEG-formaat het uiteindelijk omdat het efficiënter en webvriendelijker was. Er kunnen ook foto's en lijntekeningen op worden opgeslagen. Vanwege de groeiende populariteit van scansoftware en -technologie, werd het TIFF-bestandsformaat gemaakt en werd het zelfs beschouwd als het standaardformaat voor gescande afbeeldingen.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Gratis "
+                },
+                {
+                    "name": "LibreOffice",
+                    "link": "https://www.libreoffice.org/",
+                    "image": "/assets/fileimg/cPO8bqH.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Ramen",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Download het van Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft-foto's",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "Microsoft Windows-fotoviewer",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "Microsoft Paint",
+                    "link": "https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9",
+                    "image": "/assets/fileimg/AuNqAKT.jpeg"
+                },
+                {
+                    "name": "ACD-systemen ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "Gratis proefversie"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple Preview",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "foto's van Apple",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Gratis proefversie"
+                },
+                {
+                    "name": "Adobe Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Gratis proefversie"
+                },
+                {
+                    "name": "Roxio Toast 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "Betaald"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "foto's van Apple",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "Google foto's",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Gratis  "
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Bestandsviewer voor Android",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google foto's",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Gratis  "
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google foto's",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Gratis  "
+                }
+            ]
+        }
+    ]
+}

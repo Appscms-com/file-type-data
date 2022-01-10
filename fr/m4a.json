@@ -1,0 +1,123 @@
+{
+    "Format": "M4A",
+    "ShortName": "M4A",
+    "FullName": "MPEG-4 Audio File",
+    "Category": "Fichier audio",
+    "Pros": "Bien que le fichier M4A soit compressé, la qualité reste inchangée. Le fait que les fichiers audio M4A ne soient pas protégés par la gestion des droits numériques (DRM) signifie qu'ils peuvent être modifiés et transmis plus librement.",
+    "Cons": "M4A est un format de fichier bien connu dans iTunes, iPod et autres appareils d'Apple. Cependant, par rapport aux fichiers MP3, la lecture audio M4A est problématique en raison de son manque de compatibilité avec d'autres appareils.",
+    "Createdby": "Apple",
+    "CreatedbyLink": "https://developer.apple.com/",
+    "CreatedInYear": "2004",
+    "BasicInformation": "Un fichier M4A est un fichier audio MPEG-4 qui a été codé avec le codage audio avancé (AAC) ou le codec audio sans perte Apple (ALAC). Il peut contenir divers fichiers audio, y compris des chansons, des podcasts et des livres audio.",
+    "DetailedInformation": "MPEG-4 est un format de conteneur multimédia pour les données audio et vidéo compressées. Les fichiers .MP4, qui stockent des données audio et vidéo, utilisent ce format. Le suffixe .m4a, qui signifie « MPEG-4 Audio », a été créé car les fichiers M4A ne contiennent que des données audio. Ce changement de dénomination a permis de faire la différence entre les fichiers vidéo MPEG-4 et audio MPEG-4 uniquement. Il existe une option de compression avec perte, comme pour les autres types de fichiers audio, et elle est obtenue à l'aide du codage AAC. Le format Apple Lossless permet une compression sans perte, ce qui n'est pas réalisable avec d'autres formats audio.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Lecteur multimédia VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratuit"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Obtenez-le auprès de Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Lecteur Microsoft Windows Media",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Gratuit, inclus avec le système d'exploitation"
+                },
+                {
+                    "name": "Lecteur multimédia VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Essai gratuit"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple iTunes",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "Lecteur Apple QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Gratuit, inclus avec le système d'exploitation"
+                },
+                {
+                    "name": "Lecteur multimédia VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Essai gratuit"
+                },
+                {
+                    "name": "Lecteur Eltima Elmedia",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Gratuit"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Videolan VLC pour mobile",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Gratuit"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Visionneuse de fichiers pour Android",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Videolabs VLC pour Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Gratuit"
+                }
+            ]
+        }
+    ]
+}

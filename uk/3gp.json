@@ -1,0 +1,141 @@
+{
+    "Format": "3GP",
+    "ShortName": "3GP",
+    "FullName": "3rd Generation Partnership Project",
+    "Category": "Відео файл",
+    "Pros": "Невеликий розмір файлу, тому економить місце на диску. Потрібно менше мобільних даних. Для підприємств він генерує підключені середовища. Вкрай важливо для спілкування (за допомогою текстових повідомлень).",
+    "Cons": "Якість може бути не до позначки. Не вдається відтворити відео з високою роздільною здатністю. Чи не підтримується багатьма програмами. ",
+    "Createdby": "Партнерський проект 3-го покоління",
+    "CreatedbyLink": "https://www.3gpp.org/",
+    "CreatedInYear": "1998",
+    "BasicInformation": "Файл 3GP - це мультимедійний файл, збережений у форматі контейнерів аудіо та відео проекту 3-го покоління (3GPP). Він зберігає відео та аудіо потоки, які надсилаються через Інтернет та між мобільними телефонами 3G.",
+    "DetailedInformation": "3GP - це мультимедійний файловий контейнер, розроблений 3GPP (Проект партнерства третього покоління) для використання відео та аудіо на мобільних пристроях, здатних 3G, таких як iPhone. Ці файли також можна переглядати на телефонах без 3G (2G та 4G), хоча з певними обмеженнями. На мобільних пристроях з можливостями запису відео файлів 3GP можна редагувати, експортувати і переглядати. Файл 3G2 ідентичний файлу 3GP, однак він має чіткі обмеження та розширення. Структури MPEG-14 використовуються для створення типу файлу 3GP. 3GP знизив пропускну здатність та вимоги до зберігання, дозволяючи користувачам телефонів транспортувати, редагувати та зберігати файли в Інтернеті. Він підтримує відеопотоки H.263 та H.264, а також AMR-WB, AMR-WB+, AMR-NB, HE-AAC v1, AAC-LC та розширені аудіопотоки aacPlus.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "ВідеоЛан VLC медіаплеєр",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "Вікна",
+            "softwares": [
+                {
+                    "name": "Переглядач файлів плюс — Отримати його від Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Медіаплеєр Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                },
+                {
+                    "name": "Фільми та телебачення Microsoft",
+                    "link": "https://www.microsoft.com/en-us/p/movies-tv/9wzdncrfj3p2?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/fVyIEs4.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                },
+                {
+                    "name": "ВідеоЛан VLC медіаплеєр",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "Остаточний відео конвертер Xilisoft",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Гравець Apple QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                },
+                {
+                    "name": "Eltima Elmedia Плеєр",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Роксио Тост 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "Платний"
+                },
+                {
+                    "name": "ВідеоЛан VLC медіаплеєр",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Олімсофт Оплеєр",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Платний"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Переглядач файлів для Android",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "BIT Labs Простий MP4 відеоплеєр",
+                    "link": "https://play.google.com/store/apps/details?id=air.br.com.bitlabs.VideoPlayer&hl=en",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "J2 Інтерактивний MX плеєр",
+                    "link": "https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en",
+                    "image": "/assets/fileimg/Cjoa7OB.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "PANDORA.TV KMPlayer",
+                    "link": "https://play.google.com/store/apps/details?id=com.kmplayer",
+                    "image": "/assets/fileimg/hnkzD4T.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        }
+    ]
+}

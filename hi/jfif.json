@@ -1,0 +1,95 @@
+{
+    "Format": "JFIF",
+    "ShortName": "JFIF",
+    "FullName": "JPEG File Interchange Format",
+    "Category": "रेखापुंज छवि फ़ाइलें",
+    "Pros": "एक बहुत ही लोकप्रिय प्रारूप। एक उच्च, नियंत्रित स्तर पर संपीड़न जिसके परिणामस्वरूप एक छोटा फ़ाइल आकार होता है। प्रारूप संगत है और सभी कंप्यूटरों, टैबलेट और मोबाइल उपकरणों पर सभी ब्राउज़रों, पाठ और ग्राफिक्स प्रोग्रामों में सही ढंग से प्रदर्शित होता है। बहुत सारे रंग और कंट्रास्ट संक्रमण के साथ पूर्ण-रंग यथार्थवादी छवियों का समर्थन करता है। एक छोटी सी डिग्री के साथ छवि की उच्च गुणवत्ता।",
+    "Cons": "जब आप छवि को संपीड़ित करते हैं, तो यह अलग-अलग वर्गों में “अलग हो सकता है” - 808-पिक्सेल ब्लॉक। ऐसा इसलिए होता है क्योंकि संपीड़न एल्गोरिथ्म पड़ोसी पिक्सेल का विश्लेषण करता है। चिकनी रंग - संक्रमण कठोर हो सकते हैं या बस गायब हो सकते हैं। स्पष्ट सीमाओं के साथ पाठ या मोनोक्रोम ग्राफिक्स के साथ काम करने के लिए जेपीईजी कम उपयुक्त है। यह प्रारूप पारदर्शिता का समर्थन नहीं करता है, भले ही टेम्पलेट, लोगो और बटन बनाते समय इसकी आवश्यकता हो। प्रत्येक बाद के संपीड़न चरण के साथ छवि की गुणवत्ता में गिरावट आती है।",
+    "Createdby": "सी-क्यूब माइक्रोसिस्टम्स और ज्वाइंट फोटोग्राफिक एक्सपर्ट्स ग्रुप",
+    "CreatedbyLink": "https://jpeg.org/",
+    "CreatedInYear": "2011",
+    "BasicInformation": "JFIF फ़ाइल JPEG के साथ संपीड़ित बिटमैप ग्राफ़िक है। यह मानक के एक प्रकार के साथ संरक्षित है। जेपीईजी फ़ाइल प्रारूप को थोड़ी मात्रा में डेटा संग्रहीत करने और प्लेटफार्मों और ऐप्स के बीच आसान हस्तांतरण की अनुमति देने के लक्ष्य के साथ बनाया गया था। JPEG फ़ाइल इंटरचेंज प्रारूप JPEG फ़ाइल इंटरचेंज प्रारूप के लिए संक्षिप्त रूप है।",
+    "DetailedInformation": "JFIF प्रारूप बहुत सारी विशेषताओं को निर्दिष्ट करता है जो मूल JPEG प्रारूप से गायब थे। उपयोगकर्ता इन विशेषताओं को परिभाषित करने के बाद जेपीईजी संपीड़न का उपयोग करके फ़ाइलों को सहेजने और साझा करने में सक्षम थे, जिसमें एक मानक हेडर, रिज़ॉल्यूशन और पहलू अनुपात और रंग मॉडल शामिल थे। JFIF प्रारूप में छवियों को सहेजने के लिए कई डिजिटल कैमरे का उपयोग किया जाता है। हालांकि, समय के साथ जेपीईजी प्रारूप में सुधार हुआ, जेएफआईएफ मानक काफी हद तक अप्रचलित हो गया।",
+    "Softwaresused": [
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "माइक्रोसॉफ्ट फोटोज",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "मोज़िला फ़ायरफ़ॉक्स",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "ओपेरा",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "गूगल क्रोम",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg"
+                },
+                {
+                    "name": "एसीडी सिस्टम्स एसीडीएसई",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                }
+            ]
+        },
+        {
+            "platform": "मैक",
+            "softwares": [
+                {
+                    "name": "Apple प्रीव्यू",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "मोज़िला फ़ायरफ़ॉक्स",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "ओपेरा",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "गूगल क्रोम",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "एसीडी सिस्टम्स एसीडीएसई",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "गूगल क्रोम",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "Format": "WEBP",
+    "ShortName": "WEBP",
+    "FullName": "Web Picture",
+    "Category": "Rasterafbeeldingsbestanden",
+    "Pros": "De bestandsgroottes zijn kleiner. Het compressie-algoritme is verbeterd. Kleurverlopen die gladder zijn. Het alfakanaal maskeren.",
+    "Cons": "Browserondersteuning ontbreekt. De interface voor exporteren is slecht. Kunstwerk blijkt gemaakt te zijn van plastic.",
+    "Createdby": "Google",
+    "CreatedbyLink": "https://developers.google.com/",
+    "CreatedInYear": "2010",
+    "BasicInformation": "Een WEBP-bestand is een rasterbeeldformaat ontwikkeld door Google voor webafbeeldingen genaamd Webp (uitgesproken als „Weppy”). Het WebP-formaat comprimeert bestanden efficiënter dan typische JPEG-compressie met behoud van de beeldkwaliteit die vergelijkbaar is met of groter is dan die van JPEG. Net als. PNG maakt het compressie met verlies en verliesloos mogelijk en bevat het een alfakanaal voor transparantie.",
+    "DetailedInformation": "Het open standaard WEBP-beeldformaat, gemaakt door Google in 2010, stelt gebruikers in staat foto's op te slaan in zowel verliesvrije als verliesloze compressie. Door de compressie-efficiëntie kunnen foto's volgens Google-ontwikkelaars worden gekrompen tot een grootte tot 34% minder dan JPEG- en PNG-afbeeldingen met behoud van hoge kwaliteit. Het WebP-formaat is gebaseerd op de technologie van On2 Technologies, die in 2009 door Google werd gekocht. Het formaat, dat in 2010 werd aangekondigd, maakt gebruik van een container op basis van het Resource Interchange File Format (RIFF). Met uitzondering van Apple Safari en Microsoft Internet Explorer accepteren de meeste webbrowsers vanaf 2019 WEBP-bestanden. De hypothese is dat door gebruik te maken van de technologie die wordt gebruikt om WEBP-afbeeldingen te maken (uitgaande van wijdverbreide acceptatie), het internet als geheel kan worden versneld omdat WEBP-afbeeldingen minder opslagruimte nodig hebben, waardoor grotere hoeveelheden afbeeldingen tegelijkertijd met hogere snelheden over de hele wereld kunnen worden bekeken.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "WebP-codec",
+                    "link": "https://developers.google.com/speed/webp/download",
+                    "image": "/assets/fileimg/NY9GTXm.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Afbeelding Magick",
+                    "link": "https://imagemagick.org/index.php",
+                    "image": "/assets/fileimg/hJWCII5.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Ramen",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Download het van Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft Edge",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg"
+                },
+                {
+                    "name": "Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "WebP-codec",
+                    "link": "https://developers.google.com/speed/webp/download",
+                    "image": "/assets/fileimg/NY9GTXm.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Afbeelding Magick",
+                    "link": "https://imagemagick.org/index.php",
+                    "image": "/assets/fileimg/hJWCII5.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Google foto's",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Gratis  "
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Bestandsviewer voor Android",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google foto's",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Gratis  "
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google foto's",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Gratis  "
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Chrome-besturingssysteem",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                }
+            ]
+        }
+    ]
+}

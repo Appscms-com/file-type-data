@@ -1,0 +1,212 @@
+{
+    "Format": "HTML",
+    "ShortName": "HTML",
+    "FullName": "Hypertext Markup Language File",
+    "Category": "웹 파일",
+    "Pros": "HTML은 일반적으로 사용되는 언어입니다.HTML은 모든 브라우저에서 지원됩니다.쉽게 배우고 활용할 수 있습니다.HTML은 가볍고 빠른 로딩 언어입니다.소프트웨어를 구입할 필요가 없습니다.",
+    "Cons": "정적 언어이므로 자체적으로 동적 출력을 생성할 수 없습니다.HTML 문서의 구조는 이해하기가 점점 어려워지고 있습니다.오류는 비용이 많이 들 수 있습니다.시간이 오래 걸립니다.HTML에는 제한된 보안 조치가 있습니다.",
+    "Createdby": "CERN의 팀 버너스-리",
+    "CreatedbyLink": "https://home.cern/",
+    "CreatedInYear": "1989",
+    "BasicInformation": "하이퍼텍스트 마크업 언어 (HTML) 는 웹 페이지 구조의 서식을 지정하는 데 사용되는 마크업 언어입니다.표준 텍스트 형식으로 저장되며 텍스트, 표, 이미지 및 하이퍼링크와 같은 웹 페이지의 레이아웃과 내용을 지정하는 태그가 포함되어 있습니다.HTML 파일은 인터넷에서 자주 사용되며 웹 브라우저에서 볼 수 있습니다.",
+    "DetailedInformation": "웹 사이트 구축의 표준은 HTML (하이퍼 텍스트 마크 업 언어) 입니다.CERN의 물리학자인 팀 버너스-리는 1989년에 이 아이디어를 제안했습니다.웹 브라우저는이 언어를 읽고 다른 텍스트, 색상, 양식 (제목, 단락, 인용 및 기타 의미), 하이퍼 링크 및 URL 포함으로 번역하여 이미지 또는 오디오를 삽입 할 수 있습니다.HTML 구성 요소는 마크 업 언어로 웹 페이지의 구조를 구성하는 데 사용됩니다.각 요소에는 일반적으로 꺾쇠 괄호 (tag>) 로 묶인 여는 태그와 꺾쇠 괄호로 묶여 있지만 앞에 슬래시 (/tag>) 가 오는 닫는 태그가 포함됩니다. 사용자는 브라우저의 “소스 보기” 탭으로 이동하여 HTML 코딩을 확인할 수 있습니다.HTML은 일부 전자 메일 응용 프로그램에서 문서의 텍스트 서식을 지정하는 데 사용할 수 있습니다.HTML과 XHTML은 비슷하지만 동일하지는 않습니다.",
+    "Softwaresused": [
+        {
+            "platform": "리눅스",
+            "softwares": [
+                {
+                    "name": "모질라",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "오페라",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "W3C 아마야",
+                    "link": "https://www.w3.org/Amaya/",
+                    "image": "/assets/fileimg/e9cgmZo.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "구글 크롬",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "콤포저",
+                    "link": "https://sourceforge.net/projects/kompozer/",
+                    "image": "/assets/fileimg/8aN9yEj.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "윈도우",
+            "softwares": [
+                {
+                    "name": "파일 뷰어 플러스 — 마이크로소프트에서 다운로드",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "마이크로소프트 메모장",
+                    "link": "https://www.microsoft.com/en-us/p/windows-notepad/9msmlrh6lzf3#activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/82vepge.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "마이크로소프트 워드패드",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/word?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-xMQ4Sl1Ik8DLCMUAH94NdQ&epi=4LioSo.jxMc-xMQ4Sl1Ik8DLCMUAH94NdQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xurkqpvnupuk000%29%287593%29%281243925%29%284LioSo.jxMc-xMQ4Sl1Ik8DLCMUAH94NdQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xurkqpvnupuk000",
+                    "image": "/assets/fileimg/Kp0egqG.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "콤포저",
+                    "link": "https://sourceforge.net/projects/kompozer/",
+                    "image": "/assets/fileimg/8aN9yEj.jpeg"
+                },
+                {
+                    "name": "마이크로소프트 비주얼 스튜디오 코드",
+                    "link": "https://code.visualstudio.com/",
+                    "image": "/assets/fileimg/51PJjGr.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "맥",
+            "softwares": [
+                {
+                    "name": "W3C 아마야",
+                    "link": "https://www.w3.org/Amaya/",
+                    "image": "/assets/fileimg/e9cgmZo.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "마이크로소프트 비주얼 스튜디오 코드",
+                    "link": "https://code.visualstudio.com/",
+                    "image": "/assets/fileimg/51PJjGr.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "콤포저",
+                    "link": "https://sourceforge.net/projects/kompozer/",
+                    "image": "/assets/fileimg/8aN9yEj.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "모질라",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "구글 크롬",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "모질라",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "구글 크롬",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "오페라",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "포니스 에스프레소 HTML",
+                    "link": "https://apps.apple.com/us/app/espresso-html/id487303069?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/t2WljZe.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "알렉산더 블라흐 텍스트 코드 편집기",
+                    "link": "https://apps.apple.com/us/app/textastic-code-editor-6/id1049254261?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/d5byEov.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "기계적 인조 인간",
+            "softwares": [
+                {
+                    "name": "안드로이드용 파일 뷰어",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "모질라",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "구글 크롬",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "오페라",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "크롬 OS",
+            "softwares": [
+                {
+                    "name": "구글 크롬 텍스트",
+                    "link": "https://chrome.google.com/webstore/detail/text/mmfbcljfglbokpmkimbfghdkjmjhdgbg",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "모질라",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "구글 크롬",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "오페라",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "무료"
+                }
+            ]
+        }
+    ]
+}

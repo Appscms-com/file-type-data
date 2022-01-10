@@ -1,0 +1,141 @@
+{
+    "Format": "3GP",
+    "ShortName": "3GP",
+    "FullName": "3rd Generation Partnership Project",
+    "Category": "Berkas video",
+    "Pros": "Ukuran file kecil, sehingga menghemat ruang disk. Membutuhkan lebih sedikit data seluler. Untuk perusahaan, itu menghasilkan lingkungan yang terhubung. Sangat penting untuk berkomunikasi (melalui pesan teks).",
+    "Cons": "Kualitas mungkin tidak sampai tanda. Tidak dapat memutar video beresolusi tinggi. Tidak didukung oleh banyak program. ",
+    "Createdby": "Proyek Kemitraan Generasi ke-3",
+    "CreatedbyLink": "https://www.3gpp.org/",
+    "CreatedInYear": "1998",
+    "BasicInformation": "Sebuah file 3GP adalah file multimedia yang disimpan dalam format audio dan video container 3rd Generation Partnership Project (3GPP). Ini menghemat video dan audio stream yang dikirim melalui Internet dan antara ponsel 3G.",
+    "DetailedInformation": "3GP adalah wadah file multimedia yang dikembangkan oleh 3GPP (Third Generation Partnership Project) untuk penggunaan video dan audio pada perangkat mobile yang mampu 3G seperti iPhone. File-file ini juga dapat dilihat di ponsel tanpa 3G (2G dan 4G), meskipun dengan keterbatasan tertentu. Pada perangkat seluler dengan kemampuan perekaman video, file 3GP dapat diedit, diekspor, dan dilihat. File 3G2 identik dengan file 3GP, namun memiliki batas dan ekstensi yang berbeda. Struktur MPEG-14 digunakan untuk membuat tipe file 3GP. 3GP telah menurunkan kebutuhan bandwidth dan penyimpanan, memungkinkan pengguna telepon untuk mengangkut, mengedit, dan menyimpan file secara online. Ini mendukung aliran video H.263 dan H.264, serta aliran audio AMR-WB, AMR-WB +, AMR-NB, HE-AAC v1, AAC-LC, dan Enhanced AACPlus audio stream.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Pemutar Media VLC VideoLAN",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Dapatkan dari Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft Windows Media Player",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                },
+                {
+                    "name": "Film dan TV Microsoft",
+                    "link": "https://www.microsoft.com/en-us/p/movies-tv/9wzdncrfj3p2?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/fVyIEs4.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                },
+                {
+                    "name": "Pemutar Media VLC VideoLAN",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "Xilisoft Video Converter Ultimate",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg",
+                    "type": "Uji coba gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple QuickTime Pemain",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                },
+                {
+                    "name": "Eltima Elmedia Pemain",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Roti Roxio 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "Dibayar"
+                },
+                {
+                    "name": "Pemutar Media VLC VideoLAN",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Dibayar"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Penampil file untuk Android",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "BIT Labs Pemutar Video MP4 Sederhana",
+                    "link": "https://play.google.com/store/apps/details?id=air.br.com.bitlabs.VideoPlayer&hl=en",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "J2 Interaktif MX Pemain",
+                    "link": "https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en",
+                    "image": "/assets/fileimg/Cjoa7OB.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "PANDORA.TV KMPlayer",
+                    "link": "https://play.google.com/store/apps/details?id=com.kmplayer",
+                    "image": "/assets/fileimg/hnkzD4T.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        }
+    ]
+}

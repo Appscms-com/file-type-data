@@ -1,0 +1,146 @@
+{
+    "Format": "TIFF",
+    "ShortName": "TIFF",
+    "FullName": "Tagged Image File Format",
+    "Category": "ไฟล์รูปภาพแบบแรสเตอร์",
+    "Pros": "ภาพที่ไม่สูญเสียและมีคุณภาพดีเยี่ยม.รองรับหลายรูปแบบรองรับหลายชั้น",
+    "Cons": "ขนาดไฟล์ค่อนข้างใหญ่ไม่เหมาะสำหรับการใช้งานบนอินเทอร์เน็ต",
+    "Createdby": "Adobe ซิสเต็มส์",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "1986",
+    "BasicInformation": "คำว่า TIFF ย่อมาจากรูปแบบไฟล์ภาพที่ติดแท็กมันเป็นรูปแบบไฟล์แรสเตอร์ภาพดิจิตอลมันมีกราฟิกที่มีคุณภาพสูงที่มีความลึกของสีตั้งแต่ 1 ถึง 24 บิตและการบีบอัด lossy และ losslessหลายชั้นและหน้าได้รับการสนับสนุนจากไฟล์ TIFF",
+    "DetailedInformation": "TIFF ถูกสร้างขึ้นโดย Aldus Corporation ในช่วงกลางทศวรรษที่ 1980 เพื่อเป็นรูปแบบภาพมาตรฐานสำหรับการเก็บรักษาภาพสีที่มีคุณภาพสูงบนแพลตฟอร์มคอมพิวเตอร์ที่หลากหลายแม้จะมีการใช้อย่างแพร่หลายรูปแบบ JPEG ในที่สุดก็บดบังมันเพราะว่ามันมีประสิทธิภาพและเป็นมิตรกับเว็บมากขึ้นรูปภาพและภาพวาดเส้นสามารถเก็บไว้ได้เนื่องจากความนิยมเพิ่มขึ้นของซอฟต์แวร์และเทคโนโลยีการสแกนรูปแบบไฟล์ TIFF ถูกสร้างขึ้นและได้รับการพิจารณาให้เป็นรูปแบบมาตรฐานสำหรับภาพที่สแกน",
+    "Softwaresused": [
+        {
+            "platform": "ลินุกซ์",
+            "softwares": [
+                {
+                    "name": "กิมป์",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "ฟรี "
+                },
+                {
+                    "name": "LibreOffice",
+                    "link": "https://www.libreoffice.org/",
+                    "image": "/assets/fileimg/cPO8bqH.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์พลัส — รับได้จากไมโครซอฟท์",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "รูปภาพของ Microsoft",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "โปรแกรมแสดงภาพถ่ายของ Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "ไมโครซอฟท์เพ้นท์",
+                    "link": "https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9",
+                    "image": "/assets/fileimg/AuNqAKT.jpeg"
+                },
+                {
+                    "name": "ระบบ ACD ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "ตัวอย่างแอปเปิ้ล",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "แอปเปิลรูปภาพ",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "อะโดบี โฟโตช็อป 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "อะโดบี วาดภาพประกอบ 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "ร็อกซิโอ ขนมปังปิ้ง 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "จ่ายแล้ว"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "แอปเปิลรูปภาพ",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "กูเกิ้ล รูปภาพ",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "ฟรี  "
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์สำหรับ Android",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "กูเกิ้ล รูปภาพ",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "ฟรี  "
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "กูเกิ้ล รูปภาพ",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "ฟรี  "
+                }
+            ]
+        }
+    ]
+}

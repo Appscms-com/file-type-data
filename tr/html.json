@@ -1,0 +1,212 @@
+{
+    "Format": "HTML",
+    "ShortName": "HTML",
+    "FullName": "Hypertext Markup Language File",
+    "Category": "Web dosyası",
+    "Pros": "HTML yaygın olarak kullanılan bir dildir. HTML tüm tarayıcılar tarafından desteklenir. Öğrenmek ve kullanmak kolaydır. HTML, hafif ve hızlı yüklenen bir dildir. Herhangi bir yazılım satın almanız gerekmez.",
+    "Cons": "Statik bir dil olduğundan, kendi başına dinamik çıktı üretemez. HTML belgelerinin yapısını kavramak daha da zorlaşıyor. Hatalar pahalı olabilir. Uzun zaman alıyor. HTML'nin sınırlı bir güvenlik önlemi kümesi vardır.",
+    "Createdby": "Tim Berners-Lee, CERN'de",
+    "CreatedbyLink": "https://home.cern/",
+    "CreatedInYear": "1989",
+    "BasicInformation": "Köprü Metni Biçimlendirme Dili (HTML), bir web sayfasının yapısını biçimlendirmek için kullanılan bir biçimlendirme dilidir. Standart bir metin biçiminde kaydedilir ve metin, tablolar, görüntüler ve köprüler gibi web sayfasının mizanpajını ve içeriğini belirten etiketler içerir. HTML dosyaları genellikle internette kullanılır ve web tarayıcılarında görüntülenebilir.",
+    "DetailedInformation": "Web siteleri oluşturmak için standart HTML'dir (Köprü Metni İşaretleme Dili). CERN'de fizikçi Tim Berners-Lee bu fikri 1989 yılında önerdi. Web tarayıcıları bu dili okuyabilir ve görüntü veya ses eklemek için farklı metinler, renkler, formlar (başlıklar, paragraflar, alıntılar ve diğer semantik), köprüler ve URL gömülü olarak tercüme edebilir. HTML bileşenleri, işaretleme dilinde web sayfalarının yapısını oluşturmak için kullanılır. Her öğe genellikle açılı ayraçlar (etiket>) içine alınmış bir açılış etiketi ve açılı parantez içine alınmış ancak bir eğik çizgi (/tag>) öncesinde bir kapanış etiketi içerir. Kullanıcılar, tarayıcılarının “Kaynağı Görüntüle” sekmesine giderek HTML kodlamasını görebilirler. HTML, bazı e-posta uygulamalarında belgenin metnini biçimlendirmek için kullanılabilir. HTML ve XHTML benzer olsa da, bunlar aynı değildir.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "W3C Amaya",
+                    "link": "https://www.w3.org/Amaya/",
+                    "image": "/assets/fileimg/e9cgmZo.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "KompoZer",
+                    "link": "https://sourceforge.net/projects/kompozer/",
+                    "image": "/assets/fileimg/8aN9yEj.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Microsoft'tan edinin",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft Not Defteri",
+                    "link": "https://www.microsoft.com/en-us/p/windows-notepad/9msmlrh6lzf3#activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/82vepge.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Microsoft Wordpad",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/word?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-xMQ4Sl1Ik8DLCMUAH94NdQ&epi=4LioSo.jxMc-xMQ4Sl1Ik8DLCMUAH94NdQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xurkqpvnupuk000%29%287593%29%281243925%29%284LioSo.jxMc-xMQ4Sl1Ik8DLCMUAH94NdQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xurkqpvnupuk000",
+                    "image": "/assets/fileimg/Kp0egqG.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "KompoZer",
+                    "link": "https://sourceforge.net/projects/kompozer/",
+                    "image": "/assets/fileimg/8aN9yEj.jpeg"
+                },
+                {
+                    "name": "Microsoft Visual Studio Kodu",
+                    "link": "https://code.visualstudio.com/",
+                    "image": "/assets/fileimg/51PJjGr.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "W3C Amaya",
+                    "link": "https://www.w3.org/Amaya/",
+                    "image": "/assets/fileimg/e9cgmZo.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Microsoft Visual Studio Kodu",
+                    "link": "https://code.visualstudio.com/",
+                    "image": "/assets/fileimg/51PJjGr.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "KompoZer",
+                    "link": "https://sourceforge.net/projects/kompozer/",
+                    "image": "/assets/fileimg/8aN9yEj.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Fornace Espresso HTML",
+                    "link": "https://apps.apple.com/us/app/espresso-html/id487303069?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/t2WljZe.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Alexander Blach Textastic Kod Editörü",
+                    "link": "https://apps.apple.com/us/app/textastic-code-editor-6/id1049254261?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/d5byEov.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Android için dosya görüntüleyici",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Chrome Metni",
+                    "link": "https://chrome.google.com/webstore/detail/text/mmfbcljfglbokpmkimbfghdkjmjhdgbg",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        }
+    ]
+}

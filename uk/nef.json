@@ -1,0 +1,164 @@
+{
+    "Format": "NEF",
+    "ShortName": "NEF",
+    "FullName": "Nikon Electronic Format RAW Image",
+    "Category": "Файли Camera Raw",
+    "Pros": "Коли потрібна обробка комп'ютера людини, файли NEF є більш вигідними. Це відкриває безліч можливостей для поліпшення якості зображення, що неможливо з файлами JPEG. Оскільки вихідні піксельні дані зберігаються у файлах NEF, якість зображення значно краща. Вони або стискаються за допомогою методів без втрат, або взагалі не стискаються. Фотографії JPEG та TIFF мають більш вузький діапазон тонів та точність кольорів, ніж зображення NEF.",
+    "Cons": "Оскільки файли NEF значно більші, ніж файли JPEG, їх можна зберегти на картці менше. Ось чому камера Nikon займає більше часу для збереження файлів RAW на карту пам'яті. Існує безліч форматів файлів RAW, і експерти мають труднощі з визначенням уніфікованого стандарту RAW файлів. Nikon також карається за використання шумозаглушення, яке, як було показано, погіршує якість зображення.",
+    "Createdby": "Nikon",
+    "CreatedbyLink": "https://www.nikon.co.in/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "Сире фото, зроблене за допомогою цифрової камери Nikon, зберігається як файл NEF. Він зберігається в електронному форматі Nikon (NEF), який зберігає дані в тому ж нестисненому форматі, що і ПЗС. Метадані зображення, такі як ідентифікатор камери та об'єктив, також включені до файлів NEF. Метадані містять відомості про об'єктив, його налаштування, камеру тощо.",
+    "DetailedInformation": "Файли NEF найчастіше використовуються шутерами Nikon. Ці фотографи можуть бути професіоналами або любителями, які використовують камери Nikon для зйомки фотографій та збереження необроблених даних як файли NEF. Raw файли — це фотографії, які ще не оброблені, надруковані або відредаговані за допомогою растрових графічних редакторів. Файл raw намагається максимально відтворити сцену, включаючи освітлення, інтенсивність та кольори. Дані, зняті датчиком камери, записуються в необроблені зображення даних. Файли NEF можуть бути збережені в стисненому або стисненому форматі без втрат на карті пам'яті камери. Файли NEF схожі на «цифрові негативи». Незважаючи на те, що суперечок про якість зображення файлів NEF немає, розробники програмного забезпечення не вибирають цей формат через відсутність загального стандарту.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Corel ПісляШот Pro 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                }
+            ]
+        },
+        {
+            "platform": "Вікна",
+            "softwares": [
+                {
+                    "name": "Переглядач файлів плюс — Отримати його від Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Фотографії Майкрософт",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                },
+                {
+                    "name": "Adobe Фотошоп 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                },
+                {
+                    "name": "Нікон ViewNX2",
+                    "link": "https://imaging.nikon.com/lineup/software/viewnx2/",
+                    "image": "/assets/fileimg/pgXaxjb.jpeg"
+                },
+                {
+                    "name": "Corel ПісляШот Pro 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Попередній перегляд Apple",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                },
+                {
+                    "name": "Фотографії Apple",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                },
+                {
+                    "name": "Adobe Фотошоп 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                },
+                {
+                    "name": "Нікон ViewNX2",
+                    "link": "https://imaging.nikon.com/lineup/software/viewnx2/",
+                    "image": "/assets/fileimg/pgXaxjb.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Corel ПісляШот Pro 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Фотографії Apple",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                },
+                {
+                    "name": "Adobe Фотошоп ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Google Фото",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Безкоштовно  "
+                },
+                {
+                    "name": "Google Snapseed",
+                    "link": "https://apps.apple.com/us/app/snapseed/id439438619?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/p5rWIzT.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Переглядач файлів для Android",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Adobe Фотошоп Експрес",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Google Фото",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Безкоштовно  "
+                },
+                {
+                    "name": "Google Snapseed",
+                    "link": "https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en_US",
+                    "image": "/assets/fileimg/p5rWIzT.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Фото",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Безкоштовно  "
+                }
+            ]
+        }
+    ]
+}

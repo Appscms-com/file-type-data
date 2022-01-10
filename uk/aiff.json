@@ -1,0 +1,141 @@
+{
+    "Format": "AIFF",
+    "ShortName": "AIFF",
+    "FullName": "Audio Interchange File Format",
+    "Category": "Аудіофайл",
+    "Pros": "Дуже висока якість. ",
+    "Cons": "Вимагають величезного місця для зберігання. ",
+    "Createdby": "Яблуко",
+    "CreatedbyLink": "https://developer.apple.com/",
+    "CreatedInYear": "1998",
+    "BasicInformation": "Розширення AIFF (Audio Interchange File Format) - це стандарт зберігання звукових даних для різних електронних аудіопристроїв. Він включає в себе аудіо високої роздільної здатності, яке збереглося в нестисненому форматі без втрат. Файли АІФФ також можуть бути збережені в форматі. Файли, що закінчуються на.AIFC, відомі як файли AIF (якщо вони стиснуті).",
+    "DetailedInformation": "Apple використовувала формат обміну файлами електронного мистецтва, щоб створити його в 1988 році. (IFF). AIFF файли нестиснені (без втрат) і істотно більші, ніж популярні MP3-файли, які стискаються і з втратами. Циклічна інформація та зразки звуку можливі в файлах AIFF. Файли AIFF широко помічені на комп'ютерах MAC OS. Професійні музиканти, які цінують високу якість файлів і можуть впоратися з великими вимогами до зберігання, є найбільш поширеними споживачами файлів AIFF. Незважаючи на незначні відмінності в механізмі зберігання і незначну різницю в якості, кілька різновидів файлів формату AIFF часто зберігаються під одним розширенням файлу. AIFF-файли, на відміну від.MP3 і багато інших поширених аудіофайлів, нестиснуті. Файли AIFF часто включають аудіо більш високої якості, ніж еквівалентні MP3-файли, оскільки їх дані не стискаються. Однак, оскільки файли містять більше даних, вони займають більше місця для зберігання.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "ВідеоЛан VLC медіаплеєр",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Амарок",
+                    "link": "https://amarok.kde.org/",
+                    "image": "/assets/fileimg/Dh0nFk6.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Зухвалість",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "Вікна",
+            "softwares": [
+                {
+                    "name": "Переглядач файлів плюс — Отримати його від Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Медіаплеєр Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                },
+                {
+                    "name": "ВідеоЛан VLC медіаплеєр",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Нулсофт Вінамп",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Гравець Apple QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                },
+                {
+                    "name": "ВідеоЛан VLC медіаплеєр",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Apple Музика",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                },
+                {
+                    "name": "Зухвалість",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Apple Музика",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                },
+                {
+                    "name": "Олімсофт Оплеєр",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Платний"
+                },
+                {
+                    "name": "Відеолан VLC для мобільних пристроїв",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Відеолаб VLC для Android",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        }
+    ]
+}

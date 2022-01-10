@@ -1,0 +1,48 @@
+{
+    "Format": "VMV",
+    "ShortName": "VMV",
+    "FullName": "VisualBoyAdvance Recording",
+    "Category": "游戏文件",
+    "Pros": "n/a",
+    "Cons": "n/a",
+    "Createdby": "VisualBoy",
+    "CreatedbyLink": "https://visualboyadvance.en.softonic.com/",
+    "CreatedInYear": "N/A",
+    "BasicInformation": "Gameboy Advance模拟器VisualBoyAdvance创建了一个游戏录制文件，用于保存击键和其他数据，从而可以在模拟器上再次播放录制。录制内容以专有格式保存，标准视频播放器无法播放。",
+    "DetailedInformation": "VisualBoyAdvance 使用的 VMV 格式与 Virtuanes 使用的 VMV 格式不兼容。",
+    "Softwaresused": [
+        {
+            "platform": "Linux的",
+            "softwares": [
+                {
+                    "name": "VisualBoy",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "免费"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "VisualBoy",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "免费"
+                }
+            ]
+        },
+        {
+            "platform": "苹果电脑",
+            "softwares": [
+                {
+                    "name": "VisualBoy",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "免费"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "Format": "AFF",
+    "ShortName": "AFF",
+    "FullName": "Advanced Forensics Format",
+    "Category": "แฟ้มข้อมูล",
+    "Pros": "เปิดและขยายได้ไม่มีสิทธิบัตรการบีบอัดและค้นหาได้สองชั้นมีความยืดหยุ่น",
+    "Cons": "ไม่เป็นที่นิยมขาดความโปร่งใส ",
+    "Createdby": "Simson Garfinkel และเทคโนโลยีพื้นฐาน",
+    "CreatedbyLink": "https://www.basistech.com/",
+    "CreatedInYear": "2005-2006",
+    "BasicInformation": "ไฟล์ AFF เป็นไฟล์พจนานุกรมตรวจสอบคำสะกดที่ใช้โดยโปรแกรมชุดโปรแกรม Office ฟรี Kingsoft WPS Office และ Apache OpenOfficeมันมีข้อมูลเกี่ยวกับไฟล์พจนานุกรมตรวจสอบคำสะกด.dic ที่มาพร้อมกับมัน",
+    "DetailedInformation": "ไฟล์ AFF และ DIC ถูกนำมาใช้เพื่อเพิ่มพจนานุกรมการตรวจสอบการสะกดใหม่ลงใน WPS Office สำหรับหลายภาษา รวมทั้งภาษาอิตาลีและฝรั่งเศสโดยปกติผู้ใช้จะดาวน์โหลดสารสกัดจากเนื้อหาของแพคเกจพจนานุกรม ZIP ที่มีไฟล์ AFF และ DIC แล้วติดตั้งไว้ในสำนักงาน WPS",
+    "Softwaresused": [
+        {
+            "platform": "ลินุกซ์",
+            "softwares": [
+                {
+                    "name": "สำนักงานคิงซอฟท์ WPS",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "อาปาเช่ โอเพน",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "สำนักงานคิงซอฟท์ WPS",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "อาปาเช่ โอเพน",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "สำนักงานคิงซอฟท์ WPS",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "อาปาเช่ โอเพน",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        }
+    ]
+}

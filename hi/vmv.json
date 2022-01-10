@@ -1,0 +1,48 @@
+{
+    "Format": "VMV",
+    "ShortName": "VMV",
+    "FullName": "VisualBoyAdvance Recording",
+    "Category": "खेल की फाइलें",
+    "Pros": "एन/ए",
+    "Cons": "एन/ए",
+    "Createdby": "विज़ुअल बॉय एडवांस",
+    "CreatedbyLink": "https://visualboyadvance.en.softonic.com/",
+    "CreatedInYear": "N/A",
+    "BasicInformation": "गेमबॉय एडवांस एमुलेटर, विजुअलबॉयएडवांस ने एक गेम रिकॉर्डिंग बनाई जो कीस्ट्रोक्स और अन्य डेटा को बचाती है जो रिकॉर्डिंग को एमुलेटर पर फिर से चलाने की अनुमति देती है। रिकॉर्डिंग को एक मालिकाना प्रारूप में सहेजा जाता है जिसे मानक वीडियो प्लेयर द्वारा नहीं चलाया जा सकता है।",
+    "DetailedInformation": "VisualBoyAdvance द्वारा उपयोग किया जाने वाला VMV प्रारूप VirtuanES द्वारा उपयोग किए जाने वाले VMV प्रारूप के साथ असंगत है।",
+    "Softwaresused": [
+        {
+            "platform": "लिनक्स",
+            "softwares": [
+                {
+                    "name": "विज़ुअल बॉय एडवांस",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "विज़ुअल बॉय एडवांस",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "मैक",
+            "softwares": [
+                {
+                    "name": "विज़ुअल बॉय एडवांस",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        }
+    ]
+}

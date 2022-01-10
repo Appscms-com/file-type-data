@@ -1,0 +1,159 @@
+{
+    "Format": "MKV",
+    "ShortName": "MKV",
+    "FullName": "Matroska Video File",
+    "Category": "แฟ้มวิดีโอ",
+    "Pros": "ยืดหยุ่นมากมี lossy เช่นเดียวกับตัวเลือก lossless.ได้รับการบันทึกไว้อย่างดีไม่ใช่กรรมสิทธิ์การเพิ่มข้อมูลเมตาที่ได้รับอนุญาต",
+    "Cons": "ขณะนี้ยังไม่มีเครื่องเล่นฮาร์ดแวร์แบบสแตนด์อโลนที่สามารถเล่นไฟล์ MKVขนาดแฟ้มที่ใหญ่ขึ้นยังอยู่ระหว่างการพัฒนา ",
+    "Createdby": "มาทรอสการ์",
+    "CreatedbyLink": "https://www.matroska.org/",
+    "CreatedInYear": "2002",
+    "BasicInformation": "ไฟล์วิดีโอที่บันทึกไว้ในรูปแบบคอนเทนเนอร์มัลติมีเดีย Matroska เป็นที่รู้จักกันเป็นไฟล์ MKVมันสามารถจัดการกับความหลากหลายของตัวแปลงสัญญาณเสียงและวิดีโอรวมถึง.SRT, .SSA, .USF (รูปแบบคำบรรยายสากล) และคำบรรยาย VOBSubคลิปวิดีโอสั้น รายการทีวี และภาพยนตร์มักจะถูกจัดเก็บเป็นไฟล์ MKV",
+    "DetailedInformation": "คอนเทนเนอร์มัลติมีเดีย Matroska (MKV) เป็นมาตรฐานแบบเปิดและฟรีสำหรับการจัดเก็บข้อมูลวิดีโอไฟล์นี้สามารถมีแทร็กเสียง วิดีโอ รูปภาพ และคำบรรยายได้ไม่จำกัดจำนวน ทำให้เป็นวิธีที่มีประโยชน์ในการบันทึกภาพยนตร์ รายการทีวีเต็มรูปแบบ และอื่นๆผู้ใช้สามารถข้ามไปทั้งหมดของแทร็คข้อมูลที่แตกต่างกันในรูปแบบดิบ.เทียบได้กับรูปแบบ the.AVI, .ASF, and.MOV เนื่องจากอาจมีความหลากหลายของวิดีโอเสียงรูปภาพและแทร็กคำบรรยายไฟล์วิดีโอ Matroska เป็นไฟล์มัลติมีเดียที่ใช้รูปแบบคอนเทนเนอร์ Matroska เพื่อจัดเก็บแทร็กวิดีโออย่างน้อยหนึ่งแทร็กและระบุโดยนามสกุลไฟล์ the.mkvรูปแบบ MKV ซึ่งนิยมใช้ในการบันทึกตัวอย่างวิดีโอสั้น ๆ ทีวีซีรีส์ และภาพยนตร์ได้รับความนิยมในหมู่แฟนซับเบอร์อะนิเมะผู้ใช้เหล่านี้หลายคนเพิ่มคำบรรยายและรูปแบบ MKV มีประโยชน์อย่างยิ่งเนื่องจากช่วยให้สามารถรวมแทร็กเสียงและคำบรรยายได้หลายไฟล์ไว้ในไฟล์เดียว",
+    "Softwaresused": [
+        {
+            "platform": "ลินุกซ์",
+            "softwares": [
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "เบรคมือ",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์พลัส — รับได้จากไมโครซอฟท์",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "เบรคมือ",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "เครื่องเล่นมีเดียคลาสสิค",
+                    "link": "https://github.com/clsid2/mpc-hc/",
+                    "image": "/assets/fileimg/PLx4Opv.jpeg"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "เอลติมาเอลมีเดียเพลเยอร์",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "แปลงสมาร์ท ShedWorx",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "เบรคมือ",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "โอลิมซอฟท์ โอเพลเยอร์",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "จ่ายแล้ว"
+                },
+                {
+                    "name": "VLC Videolan สำหรับมือถือ",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "Oka ปพลิเคชัน Omni ผู้เล่น",
+                    "link": "https://apps.apple.com/us/app/omni-player-mkv-video-player/id1470926410",
+                    "image": "/assets/fileimg/TmHdEAq.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "เครื่องเล่นมีเดียเพนตาลูป เพลเยอร์เอ็กซ์ทรีม",
+                    "link": "https://apps.apple.com/us/app/playerxtreme-media-player/id456584471?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/uoX9gqI.jpeg",
+                    "type": "ฟรีเมียม"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "BIT Labs เครื่องเล่นวิดีโอ MP4 แบบง่าย",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "วีดีโอแลบ VLC สำหรับ Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "โปรแกรมดูไฟล์สำหรับ Android",
+                    "link": "https://play.google.com/store/apps/details?id=com.sharpened.androidfileviewer",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "ฟรีเมียม"
+                }
+            ]
+        }
+    ]
+}

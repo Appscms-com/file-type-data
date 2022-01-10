@@ -1,0 +1,164 @@
+{
+    "Format": "OGG",
+    "ShortName": "OGG",
+    "FullName": "Ogg Vorbis Audio File",
+    "Category": "Ljudfil",
+    "Pros": "Upp till 255 kanaler kan lagras i en OGG-fil. Surroundljud lagras. Gör att du kan spara både ljud och video. OGG-formatet har högre kvalitet. OGG har ett överlägset märkningssystem.",
+    "Cons": "Stöds inte av alla enheter eller program. Många operativsystem har inte stöd för OGG. Batteriförbrukningen är större.",
+    "Createdby": "Xiph.Org ",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "1997",
+    "BasicInformation": "En OGG-fil är en komprimerad ljudfil som använder Ogg Vorbis ljudkomprimering, som är fri och opatenterad. Den är jämförbar med en MP3-fil, förutom att den låter bättre än en MP3-fil av samma storlek, och den kan innehålla låtmetadata som innehållsskapare och spårinformation. Flera mjukvarumusikspelare, liksom några bärbara musikspelare, hanterar OGG-filer.",
+    "DetailedInformation": "Ogg-behållaren är ett filformat för lagring av ljuddata. Namnet ”Vorbis” avser en kodningsteknik som utvecklats av Xiph.Org, samma företag som skapade Ogg. Andra metoder för ljudkomprimering, som FLAC och Speex, kan finnas i OGG-filer. Eftersom de använder en annan komprimeringsalgoritm kan dessa filer inte kallas ”Vorbis” -filer juridiskt. Det gör att användarna kan visa och redigera högupplösta digitala multimediafiler. Termen ”Ogg” kommer från jargong termen ”ogging”. I spelet Netrek hänvisar ogging till en självmordskörning som dödar en bärare. OGG-tillägget användes en gång för att beskriva alla filer som använde OGG-behållarformatet, men det användes bara för Ogg Vorbis ljudfiler efter 2007. OGG-tillägget kan användas för att referera till en ljudfil, men det kan också användas för att referera till en behållarfil.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Zinf",
+                    "link": "http://www.zinf.org/",
+                    "image": "https://image.flaticon.com/icons/png/512/1063/1063308.png",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "VideoLAN VLC mediaspelare",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Amarok",
+                    "link": "https://amarok.kde.org/",
+                    "image": "/assets/fileimg/Dh0nFk6.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Audacity",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "PCF Miro",
+                    "link": "http://www.getmiro.com/",
+                    "image": "/assets/fileimg/JeFS57j.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Fönster",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Hämta det från Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft Windows Media Player",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Kostnadsfritt, ingår i OS"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Audacity",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Kostnadsfri provperiod"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple QuickTime-spelare",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Kostnadsfritt, ingår i OS"
+                },
+                {
+                    "name": "VideoLAN VLC mediaspelare",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Audacity",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Kostnadsfri provperiod"
+                },
+                {
+                    "name": "PCF Miro",
+                    "link": "http://www.getmiro.com/",
+                    "image": "/assets/fileimg/JeFS57j.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Betald"
+                },
+                {
+                    "name": "Videolan VLC för mobil",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Filvisare för Android",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "antvplayer Media Converter",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "Format": "CR2",
+    "ShortName": "CR2",
+    "FullName": "Canon Raw Image File",
+    "Category": "ไฟล์ Raw ของกล้อง",
+    "Pros": "ภาพที่มีคุณภาพพิเศษรูปแบบภาพที่ใช้กันทั่วไปความคิดริเริ่มถูกเก็บรักษาไว้ชื่อแบรนด์และรูปแบบไฟล์ที่คุณสามารถเชื่อถือได้",
+    "Cons": "ขนาดไฟล์ขนาดใหญ่ที่ยากต่อการแก้ไขความกังวลเกี่ยวกับการแบ่งปันการจัดเก็บข้อมูลเป็นงานที่ยากลำบาก",
+    "Createdby": "ศีล",
+    "CreatedbyLink": "https://in.canon/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "ภาพกล้องดิบที่สร้างขึ้นโดยกล้องดิจิตอลแคนนอนต่าง ๆ เป็นที่รู้จักกันเป็นไฟล์ CR2.จะบันทึกข้อมูลรูปภาพที่ไม่มีการบีบอัดในรูปแบบเดียวกับ CCDไฟล์ CR2 มักใช้โดยช่างภาพมืออาชีพเนื่องจากเก็บภาพถ่ายคุณภาพสูงขึ้น",
+    "DetailedInformation": "รูปแบบ Canon Raw เวอร์ชัน 2 ซึ่งอิงตามข้อกำหนด TIFF ใช้เพื่อบันทึกไฟล์ CR2ภาพถ่ายแบบ CR2 สามารถสร้างสรรค์ได้จากกล้องดิจิตอลหลากหลายประเภท ได้แก่ EOS 1D Mark IV, EOS 450D และ EOS Rebel T3จะถ่ายโอนข้อมูลจากเซ็นเซอร์ไปยังอุปกรณ์จัดเก็บข้อมูลโดยตรงไม่สามารถมองเห็นได้ในลักษณะเดียวกับที่ JPG หรือ PNG สามารถเมื่อบันทึกรูปภาพในรูปแบบ RAW, ภาพเหล่านี้สามารถจัดการในรายละเอียดมากขึ้นในการถ่ายหลังการถ่ายโดยมีการสูญเสียคุณภาพน้อยที่สุด.เมื่อใช้ JPG หรือฟอร์แมทรูปภาพอื่น, คุณภาพของภาพจะลดลงอย่างมาก.รูปภาพ CR2 ยังไม่พร้อมสำหรับการพิมพ์ และไม่สามารถแก้ไขได้ด้วยตัวแก้ไขบิตแมปภาพถ่ายดิบมีความคล้ายคลึงกับฟิล์มลบในรูปแบบดิจิตอล",
+    "Softwaresused": [
+        {
+            "platform": "ลินุกซ์",
+            "softwares": [
+                {
+                    "name": "กิมป์",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "ฟรี "
+                },
+                {
+                    "name": "gphoto2",
+                    "link": "https://gphoto.sourceforge.io/",
+                    "image": "https://image.flaticon.com/icons/png/512/1063/1063308.png",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "Gthumb",
+                    "link": "https://wiki.gnome.org/Apps/Gthumb",
+                    "image": "/assets/fileimg/lWFl5mc.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "MATE กับโปรแกรมดูเอกสาร Atril",
+                    "link": "https://mate-desktop.org/",
+                    "image": "/assets/fileimg/p64BUbi.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์พลัส — รับได้จากไมโครซอฟท์",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "รูปภาพของ Microsoft",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "อะโดบี โฟโตช็อป 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "กิมป์",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg"
+                },
+                {
+                    "name": "โปรแกรมแสดงภาพ FastStone",
+                    "link": "https://www.faststone.org/FSViewerDetail.htm",
+                    "image": "/assets/fileimg/6z9n45v.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "ตัวอย่างแอปเปิ้ล",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "แอปเปิลรูปภาพ",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "อะโดบี โฟโตช็อป 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "กิมป์",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "ฟรี "
+                },
+                {
+                    "name": "แปลงสแนป",
+                    "link": "https://snapconverter.com/",
+                    "image": "/assets/fileimg/EuFgmVh.jpeg",
+                    "type": "จ่ายแล้ว"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "แอปเปิลรูปภาพ",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "อะโดบี โฟโตช็อ ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "กูเกิ้ล รูปภาพ",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "ฟรี  "
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์สำหรับ Android",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "อะโดบี โฟโต้ช็อป",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "กูเกิ้ล รูปภาพ",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "ฟรี  "
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "กูเกิ้ล รูปภาพ",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "ฟรี  "
+                }
+            ]
+        }
+    ]
+}

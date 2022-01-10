@@ -1,0 +1,212 @@
+{
+    "Format": "HTML",
+    "ShortName": "HTML",
+    "FullName": "Hypertext Markup Language File",
+    "Category": "Web ファイル",
+    "Pros": "HTML はよく使われる言語です。HTML はすべてのブラウザでサポートされています。習得と利用は簡単です。HTML は軽量で読み込みが速い言語です。ソフトウェアを購入する必要はありません。",
+    "Cons": "静的な言語なので、それだけでは動的な出力を生成することはできません。HTML 文書の構造が理解しづらくなってきています。エラーはコストがかかる可能性があります。それは長い時間がかかる。HTML のセキュリティ対策には制限があります。",
+    "Createdby": "CERNのティム・バーナーズ＝リー",
+    "CreatedbyLink": "https://home.cern/",
+    "CreatedInYear": "1989",
+    "BasicInformation": "ハイパーテキストマークアップ言語 (HTML) は、Web ページの構造を書式設定するために使用されるマークアップ言語です。標準のテキスト形式で保存され、テキスト、表、画像、ハイパーリンクなどの Web ページのレイアウトとコンテンツを指定するタグが含まれています。HTML ファイルはインターネット上で使用されることが多く、Web ブラウザで表示できます。",
+    "DetailedInformation": "ウェブサイトを構築するための標準は HTML (ハイパーテキストマークアップ言語) です。CERNの物理学者であるティム・バーナーズ・リーが1989年にこのアイデアを提案しました。Web ブラウザーはこの言語を読み取り、さまざまなテキスト、色、形式 (見出し、段落、引用符、その他の意味)、ハイパーリンク、URL 埋め込みに翻訳して、画像や音声を挿入できます。HTML コンポーネントは、マークアップ言語で Web ページの構造を構築するために使用されます。通常、各要素には山括弧 (tag>) で囲まれた開始タグと、山括弧で囲まれてその前にスラッシュ (/tag>) が付いた終了タグが含まれます。ブラウザの [ソースの表示] タブに移動すると、HTML コーディングを確認できます。一部の電子メールアプリケーションでは、HTML を使用して文書のテキストを書式設定できます。HTML と XHTML は似ていますが、同じではありません。",
+    "Softwaresused": [
+        {
+            "platform": "リナックス",
+            "softwares": [
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "オペラ",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "W3C アマヤ",
+                    "link": "https://www.w3.org/Amaya/",
+                    "image": "/assets/fileimg/e9cgmZo.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "グーグルクローム",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "KompoZer",
+                    "link": "https://sourceforge.net/projects/kompozer/",
+                    "image": "/assets/fileimg/8aN9yEj.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "ファイルビューアープラス — マイクロソフトから入手",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "マイクロソフトメモ帳",
+                    "link": "https://www.microsoft.com/en-us/p/windows-notepad/9msmlrh6lzf3#activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/82vepge.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "マイクロソフトワードパッド",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/word?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-xMQ4Sl1Ik8DLCMUAH94NdQ&epi=4LioSo.jxMc-xMQ4Sl1Ik8DLCMUAH94NdQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xurkqpvnupuk000%29%287593%29%281243925%29%284LioSo.jxMc-xMQ4Sl1Ik8DLCMUAH94NdQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xurkqpvnupuk000",
+                    "image": "/assets/fileimg/Kp0egqG.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "KompoZer",
+                    "link": "https://sourceforge.net/projects/kompozer/",
+                    "image": "/assets/fileimg/8aN9yEj.jpeg"
+                },
+                {
+                    "name": "マイクロソフトビジュアルスタジオコード",
+                    "link": "https://code.visualstudio.com/",
+                    "image": "/assets/fileimg/51PJjGr.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "マック",
+            "softwares": [
+                {
+                    "name": "W3C アマヤ",
+                    "link": "https://www.w3.org/Amaya/",
+                    "image": "/assets/fileimg/e9cgmZo.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "マイクロソフトビジュアルスタジオコード",
+                    "link": "https://code.visualstudio.com/",
+                    "image": "/assets/fileimg/51PJjGr.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "KompoZer",
+                    "link": "https://sourceforge.net/projects/kompozer/",
+                    "image": "/assets/fileimg/8aN9yEj.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "グーグルクローム",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "グーグルクローム",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "オペラ",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "Fornace エスプレッソ HTML",
+                    "link": "https://apps.apple.com/us/app/espresso-html/id487303069?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/t2WljZe.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "アレクサンダー・ブラッハテキストスティックコードエディター",
+                    "link": "https://apps.apple.com/us/app/textastic-code-editor-6/id1049254261?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/d5byEov.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "アンドロイド",
+            "softwares": [
+                {
+                    "name": "アンドロイド用ファイルビューア",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "グーグルクローム",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "オペラ",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "グーグルクロームテキスト",
+                    "link": "https://chrome.google.com/webstore/detail/text/mmfbcljfglbokpmkimbfghdkjmjhdgbg",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "グーグルクローム",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "オペラ",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "無料"
+                }
+            ]
+        }
+    ]
+}

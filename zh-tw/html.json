@@ -1,0 +1,212 @@
+{
+    "Format": "HTML",
+    "ShortName": "HTML",
+    "FullName": "Hypertext Markup Language File",
+    "Category": "網絡文件",
+    "Pros": "HTML 是一種常用語言。所有瀏覽器都支持 HTML。它很容易學習和使用。HTML 是一種輕量級和快速加載的語言。您無需購買任何軟件。",
+    "Cons": "因為它是一種靜態語言，所以它不能單獨生成動態輸出。HTML 文檔的結構變得越來越難以理解。錯誤可能是昂貴的。這需要很長時間。HTML 具有一組有限的安全措施。",
+    "Createdby": "蒂姆·伯納斯-李在歐洲核子研究中心",
+    "CreatedbyLink": "https://home.cern/",
+    "CreatedInYear": "1989",
+    "BasicInformation": "超文本標記語言 (HTML) 是一種標記語言，用於設置網頁結構的格式。它以標準文本格式保存，幷包含用於指定網頁佈局和內容的標籤，如文本、表格、圖像和超鏈接。HTML 文件經常在互聯網上使用，可以在 Web 瀏覽器中查看。",
+    "DetailedInformation": "構建網站的標準是 HTML（超文本標記語言）。蒂姆·伯納斯-李，一個物理學家在歐洲核子研究中心，提出的想法在 1989 年。Web 瀏覽器可以閲讀此語言，並將其翻譯成不同的文本、顏色、形式（標題、段落、引號和其他語義）、超鏈接和 URL 嵌入以插入圖像或音頻。HTML 組件用於構建標記語言的網頁結構。每個元素通常包含括在尖括號 (tag>) 中的開始標記和一個括在尖括號中但前面帶有正斜槓 (/tag>) 的結束標記。用户可以通過轉到瀏覽器的「查看源」選項卡來查看 HTML 編碼。HTML 可用於設置某些電子郵件應用程序中文檔文本的格式。雖然 HTML 和 XHTML 是相似的，但它們並不相同。",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "莫茲拉火狐",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "歌劇",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "阿馬亞 W3C",
+                    "link": "https://www.w3.org/Amaya/",
+                    "image": "/assets/fileimg/e9cgmZo.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "谷歌瀏覽器",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "孔波澤爾",
+                    "link": "https://sourceforge.net/projects/kompozer/",
+                    "image": "/assets/fileimg/8aN9yEj.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "視窗",
+            "softwares": [
+                {
+                    "name": "文件查看器加 — 從微軟獲取",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "微軟記事本",
+                    "link": "https://www.microsoft.com/en-us/p/windows-notepad/9msmlrh6lzf3#activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/82vepge.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "微軟寫字板",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/word?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-xMQ4Sl1Ik8DLCMUAH94NdQ&epi=4LioSo.jxMc-xMQ4Sl1Ik8DLCMUAH94NdQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xurkqpvnupuk000%29%287593%29%281243925%29%284LioSo.jxMc-xMQ4Sl1Ik8DLCMUAH94NdQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xurkqpvnupuk000",
+                    "image": "/assets/fileimg/Kp0egqG.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "孔波澤爾",
+                    "link": "https://sourceforge.net/projects/kompozer/",
+                    "image": "/assets/fileimg/8aN9yEj.jpeg"
+                },
+                {
+                    "name": "微軟視覺工作室代碼",
+                    "link": "https://code.visualstudio.com/",
+                    "image": "/assets/fileimg/51PJjGr.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "阿馬亞 W3C",
+                    "link": "https://www.w3.org/Amaya/",
+                    "image": "/assets/fileimg/e9cgmZo.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "微軟視覺工作室代碼",
+                    "link": "https://code.visualstudio.com/",
+                    "image": "/assets/fileimg/51PJjGr.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "孔波澤爾",
+                    "link": "https://sourceforge.net/projects/kompozer/",
+                    "image": "/assets/fileimg/8aN9yEj.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "莫茲拉火狐",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "谷歌瀏覽器",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "iOS版",
+            "softwares": [
+                {
+                    "name": "莫茲拉火狐",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "谷歌瀏覽器",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "歌劇",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "福納斯特濃咖啡",
+                    "link": "https://apps.apple.com/us/app/espresso-html/id487303069?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/t2WljZe.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "亞歷山大·布拉赫文本代碼編輯器",
+                    "link": "https://apps.apple.com/us/app/textastic-code-editor-6/id1049254261?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/d5byEov.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "安卓",
+            "softwares": [
+                {
+                    "name": "安卓文件查看器",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "莫茲拉火狐",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "谷歌瀏覽器",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "歌劇",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "谷歌瀏覽器文本",
+                    "link": "https://chrome.google.com/webstore/detail/text/mmfbcljfglbokpmkimbfghdkjmjhdgbg",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                },
+                {
+                    "name": "莫茲拉火狐",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "谷歌瀏覽器",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "歌劇",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "免費"
+                }
+            ]
+        }
+    ]
+}

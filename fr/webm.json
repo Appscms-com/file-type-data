@@ -1,0 +1,158 @@
+{
+    "Format": "WEBM",
+    "ShortName": "WEBM",
+    "FullName": "WebM Video File",
+    "Category": "Fichier vidéo",
+    "Pros": "Des vidéos d'excellente qualité. Tous sont invités à participer à cet événement gratuit et ouvert au public. Les sites populaires incluent YouTube, 4chan, Vimeo et d'autres.",
+    "Cons": "Seuls quelques navigateurs et lecteurs multimédias sont pris en charge. Sur la plupart des appareils mobiles, vous ne pourrez pas jouer.",
+    "Createdby": "Google",
+    "CreatedbyLink": "https://developers.google.com/",
+    "CreatedInYear": "2010",
+    "BasicInformation": "Un fichier WEBM est une vidéo enregistrée au format WebM, qui est une norme de partage de vidéos ouverte et libre de droits. WebM contient les données audio et vidéo dans une structure de conteneur comparable au format vidéo Matroska (.MKV). Les codecs vidéo VP8 ou VP9 sont utilisés pour compresser la vidéo, et les codecs audio Vorbis ou Opus sont utilisés pour compresser l'audio.",
+    "DetailedInformation": "Les types de fichiers WEBM sont destinés à être utilisés dans des vidéos HTML5 qui utilisent le conteneur de fichiers Matroska et sont libres de droits. La lecture vidéo WEBM est prise en charge par Mozilla Firefox, Opera et Google Chrome, mais Internet Explorer 9 et Safari nécessitent généralement l'aide d'un tiers (comme QuickTime) pour lire les médias WEBM. Dans le cadre de son expérience de lecteur HTML5, YouTube utilise des fichiers WEBM. Pour lire les fichiers multimédias WebM, vous devez télécharger un plug-in WebM si votre navigateur ne le prend pas en charge (comme Safari ou Internet Explorer). WebM est un remplacement libre de droits et open source pour les normes brevetées H.264 et H.265. La technologie est adaptée à des fins commerciales et non commerciales car elle est entièrement gratuite.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Lecteur multimédia VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "Frein à main",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "L'opéra",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "Ffmpeg",
+                    "link": "http://ffmpeg.org/",
+                    "image": "/assets/fileimg/wAHKc6t.jpeg",
+                    "type": "Gratuit"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Obtenez-le auprès de Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Lecteur Microsoft Windows Media",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Gratuit, inclus avec le système d'exploitation"
+                },
+                {
+                    "name": "Lecteur multimédia VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "Frein à main",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratuit"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Lecteur multimédia VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "Frein à main",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "Lecteur Eltima Elmedia",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "Convertisseur intelligent ShedWorx",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "Essai gratuit"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Gratuit"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "olimsoft",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Payé"
+                },
+                {
+                    "name": "Lecteur multimédia Pentaloop PlayerXtreme",
+                    "link": "https://apps.apple.com/us/app/playerxtreme-media-player/id456584471?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/uoX9gqI.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Visionneuse de fichiers pour Android",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratuit"
+                }
+            ]
+        }
+    ]
+}

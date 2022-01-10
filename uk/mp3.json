@@ -1,0 +1,188 @@
+{
+    "Format": "MP3",
+    "ShortName": "MP3",
+    "FullName": "MPEG-1 Audio Layer III or MPEG-2 Audio Layer III",
+    "Category": "Аудіофайл",
+    "Pros": "Прийнято широко всіма. Практично всі апаратні аудіоплеєри і гаджети підтримують його. Дуже високі показники стиснення пропонуються. Можна розшифрувати досить швидко, і в більш витонченому вигляді. Стандарт ISO, який є частиною специфікацій MPEG. Кожен може поставити власну версію разом з доступними демо-джерелами. Ліцензійні вимоги розслаблені. Він забезпечує підтримку багатоканальних файлів. ",
+    "Cons": "Продуктивність і ефективність нижче поточних кодеків. Максимальний бітрейт (320 кбіт/с) не завжди достатньо. Ще немає багатоканальних реалізацій. Несумісний з аудіо високої чіткості (частота дискретизації вище 48 кГц). Викликає збільшення музичного піратства за рахунок більшої доступності і простоти використання.",
+    "Createdby": "Група експертів з рухомих зображень",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "1987",
+    "BasicInformation": "Формат файлу MP3 - це стислий аудіофайл, який використовує стиснення звуку «Layer 3\". Він був створений групою експертів з рухомих зображень (MPEG) (MP3). Аудіозаписи, подкасти, саундтреки, проповіді, аудіокниги, лекції тощо широко зберігаються як MP3-файли.",
+    "DetailedInformation": "MPEG випустив формат MP3 в 1993 році, після розробки його на початку 1990-х. Він може конденсувати аудіо на частку розміру інших поширених типів аудіофайлів в той час (приблизно 1/10 розмір нестиснутого. WAV або.AIF файлу). Так, цей формат швидко став стандартом для зберігання музики і піднявся вище інших існуючих. У той час комп'ютери забезпечували дуже менше місця для зберігання. Отже, розробка формату MP3 стало дуже критичною подією. В даний час MP3 є найбільш використовуваним форматом аудіофайлів. Розмір файлу мультимедійного файлу може бути значно зменшений при стисненні MPEG, з мінімальними виявленими втратами якості. Це підвищує ефективність передачі файлів через Інтернет. У 1990-х і 2000-х роках технологія MP3 революціонізувала концепцію записаної потокової музики, дозволяючи людям простіше і швидко завантажувати музику з Інтернету.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "ВідеоЛан VLC медіаплеєр",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "XMMS",
+                    "link": "http://www.xmms.org/",
+                    "image": "/assets/fileimg/hodO9zz.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Амарок",
+                    "link": "https://amarok.kde.org/",
+                    "image": "/assets/fileimg/Dh0nFk6.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Зухвалість",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Клементина",
+                    "link": "https://www.clementine-player.org/about",
+                    "image": "/assets/fileimg/F87GDJM.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "Вікна",
+            "softwares": [
+                {
+                    "name": "ВідеоЛан VLC медіаплеєр",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Медіаплеєр Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                },
+                {
+                    "name": "Зухвалість",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Переглядач файлів плюс — Отримати його від Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg"
+                },
+                {
+                    "name": "Apple itunes",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                },
+                {
+                    "name": "Apple Музика",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                },
+                {
+                    "name": "Зухвалість",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "ВідеоЛан VLC медіаплеєр",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Роксио Тост",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/vyEg9wb.jpeg",
+                    "type": "Платний"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Apple Музика",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                },
+                {
+                    "name": "ВідеоЛан VLC медіаплеєр",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Олімсофт Оплеєр",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Платний"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Переглядач файлів для Android",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "мультимедіа конвертер",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Google Диск",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Фреміум"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Диск",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "ОС Chrome",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                },
+                {
+                    "name": "Гугл Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        }
+    ]
+}

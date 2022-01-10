@@ -1,0 +1,141 @@
+{
+    "Format": "3GP",
+    "ShortName": "3GP",
+    "FullName": "3rd Generation Partnership Project",
+    "Category": "视频文件",
+    "Pros": "文件体积小，因此可以节省磁盘空间。需要更少的移动数据。对于企业来说，它创造了互联的环境。对于沟通（通过短信）极为重要。",
+    "Cons": "质量可能达不到标准。无法播放高分辨率视频。许多程序都不支持。 ",
+    "Createdby": "第三代合作伙伴项目",
+    "CreatedbyLink": "https://www.3gpp.org/",
+    "CreatedInYear": "1998",
+    "BasicInformation": "3GP文件是以第三代合作伙伴项目的音频和视频容器格式（3GPP）保存的多媒体文件。它可以保存通过Internet和3G手机之间发送的视频和音频流。",
+    "DetailedInformation": "3GP是由3GPP（第三代合作伙伴项目）开发的多媒体文件容器，用于在iPhone等具有3G功能的移动设备上使用视频和音频。尽管有一定的限制，也可以在没有3G（2G和4G）的手机上查看这些文件。在具有视频录制功能的移动设备上，可以编辑、导出和查看 3GP 文件。3G2文件与3GP文件相同，但是它有不同的限制和扩展名。MPEG-14 结构用于创建 3GP 文件类型。3GP 降低了带宽和存储要求，允许电话用户在线传输、编辑和存储文件。它支持 H.263 和 H.264 视频流，以及 AMR-WB、AMR-WB+、AMR-NB、HE-AAC v1、AAC-LC 和增强型 AACPlus 音频流。",
+    "Softwaresused": [
+        {
+            "platform": "Linux的",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC 媒体播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "mPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "免费"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — 从微软获取",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "免费增值"
+                },
+                {
+                    "name": "微软 Windows 媒体播放器",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "免费，包含在操作系统中"
+                },
+                {
+                    "name": "微软电影和电视",
+                    "link": "https://www.microsoft.com/en-us/p/movies-tv/9wzdncrfj3p2?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/fVyIEs4.jpeg",
+                    "type": "免费，包含在操作系统中"
+                },
+                {
+                    "name": "VideoLan VLC 媒体播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "Xilisoft 视频转换器旗舰版",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg",
+                    "type": "免费试用"
+                }
+            ]
+        },
+        {
+            "platform": "苹果电脑",
+            "softwares": [
+                {
+                    "name": "苹果 QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "免费，包含在操作系统中"
+                },
+                {
+                    "name": "Eltima Elmedia 播放器",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "Roxio Toast 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "已付"
+                },
+                {
+                    "name": "VideoLan VLC 媒体播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "mPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "免费"
+                }
+            ]
+        },
+        {
+            "platform": "iOS系统",
+            "softwares": [
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "已付"
+                }
+            ]
+        },
+        {
+            "platform": "安卓",
+            "softwares": [
+                {
+                    "name": "安卓版文件查看器",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "免费增值"
+                },
+                {
+                    "name": "BIT Labs 简单 MP4 视频播放器",
+                    "link": "https://play.google.com/store/apps/details?id=air.br.com.bitlabs.VideoPlayer&hl=en",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "J2 交互式 MX 播放器",
+                    "link": "https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en",
+                    "image": "/assets/fileimg/Cjoa7OB.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "PANDORA.TV kmPlayer",
+                    "link": "https://play.google.com/store/apps/details?id=com.kmplayer",
+                    "image": "/assets/fileimg/hnkzD4T.jpeg",
+                    "type": "免费"
+                }
+            ]
+        }
+    ]
+}

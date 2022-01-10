@@ -1,0 +1,95 @@
+{
+    "Format": "JFIF",
+    "ShortName": "JFIF",
+    "FullName": "JPEG File Interchange Format",
+    "Category": "Tập tin ảnh Raster",
+    "Pros": "Một định dạng rất phổ biến. Nén ở mức cao, được kiểm soát dẫn đến kích thước tệp nhỏ. định dạng tương thích và hiển thị chính xác trong tất cả các trình duyệt, văn bản và chương trình đồ họa, trên tất cả các máy tính, máy tính bảng và thiết bị di động. Hỗ trợ hình ảnh thực tế đầy đủ màu sắc với rất nhiều màu sắc và độ tương phản chuyển tiếp. Chất lượng cao của hình ảnh với một mức độ nhỏ của sự gắn kết.",
+    "Cons": "Khi bạn nén hình ảnh, nó có thể “rơi ra” thành các ô vuông riêng lẻ - các khối 808 pixel. Điều này xảy ra bởi vì thuật toán nén phân tích các điểm ảnh lân cận. Màu mịn - chuyển tiếp có thể trở nên khắc nghiệt hoặc đơn giản là biến mất. JPEG ít phù hợp để làm việc với văn bản hoặc đồ họa đơn sắc với ranh giới rõ ràng. Định dạng này không hỗ trợ độ trong suốt mặc dù nó được yêu cầu khi tạo mẫu, logo và nút. Chất lượng của hình ảnh giảm dần với mỗi bước nén tiếp theo.",
+    "Createdby": "C-khối Microsystems và Nhóm chuyên gia chụp ảnh chung",
+    "CreatedbyLink": "https://jpeg.org/",
+    "CreatedInYear": "2011",
+    "BasicInformation": "Tệp JFIF là đồ họa bitmap được nén bằng JPEG. Nó được bảo quản với một biến thể của tiêu chuẩn. Định dạng tệp JPEG được tạo ra với mục tiêu lưu trữ một ít dữ liệu và cho phép dễ dàng truyền giữa các nền tảng và ứng dụng. Định dạng trao đổi tệp JPEG là từ viết tắt của Định dạng trao đổi tệp JPEG.",
+    "DetailedInformation": "Định dạng JFIF chỉ định rất nhiều đặc điểm bị thiếu từ định dạng JPEG gốc. Người dùng có thể lưu và chia sẻ tệp bằng cách sử dụng nén JPEG sau khi xác định các đặc điểm này, bao gồm tiêu đề tiêu đề tiêu chuẩn, độ phân giải và tỷ lệ khung hình và mô hình màu. Nhiều máy ảnh kỹ thuật số được sử dụng để lưu hình ảnh ở định dạng JFIF. Tuy nhiên, khi định dạng JPEG được cải thiện theo thời gian, tiêu chuẩn JFIF đã trở nên lỗi thời phần lớn.",
+    "Softwaresused": [
+        {
+            "platform": "các cửa sổ",
+            "softwares": [
+                {
+                    "name": "Microsoft Ảnh",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg"
+                },
+                {
+                    "name": "Hệ thống ACD ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "Dùng thử miễn phí"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple Xem trước",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Hệ thống ACD ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "Dùng thử miễn phí"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Free"
+                }
+            ]
+        }
+    ]
+}

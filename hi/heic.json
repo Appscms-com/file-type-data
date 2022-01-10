@@ -1,0 +1,182 @@
+{
+    "Format": "HEIC",
+    "ShortName": "HEIC",
+    "FullName": "High Efficiency Image Format",
+    "Category": "रेखापुंज छवि फ़ाइलें",
+    "Pros": "छवियों की महान गुणवत्ता। कम स्टोरेज लेता है। एक फ़ाइल में कई छवियों को संग्रहीत कर सकते हैं। छवि व्युत्पत्तियों को भी संग्रहीत कर सकते हैं।",
+    "Cons": "सभी सिस्टम और डिवाइस के साथ संगत नहीं है। बहुत लोकप्रिय नहीं है। पेटेंट के साथ समस्याएँ हैं। ",
+    "Createdby": "मूविंग पिक्चर एक्सपर्ट्स",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "2001",
+    "BasicInformation": "उच्च दक्षता छवि प्रारूप (HEIF) में संग्रहीत एक या अधिक तस्वीरें, एक फ़ाइल प्रारूप जो आमतौर पर iOS उपकरणों पर फ़ोटो को सहेजने के लिए उपयोग किया जाता है, एक HEIC फ़ाइल में निहित होते हैं। इसमें छवियों की एक छवि या श्रृंखला शामिल है, साथ ही प्रत्येक छवि को चिह्नित करने वाला मेटाडेटा भी शामिल है, जो कि आईफोन या आईपैड पर कैमरा ऐप का उपयोग करके सबसे अधिक संभावना बनाई गई थी। HEIC फ़ाइलों को आमतौर पर.heic फ़ाइलों के रूप में सहेजा जाता है, हालांकि उन्हें वैकल्पिक रूप से.heif फ़ाइलों के रूप में सहेजा जा सकता है।",
+    "DetailedInformation": "HEIF, या H.265, एक डिजिटल पिक्चर स्टोरेज मानक है जो फ़ोटो को उच्च गुणवत्ता और। JPEG एक डिजिटल इमेज फॉर्मेट है। यह तस्वीरों के आकार को कम करके मेमोरी कार्ड और मोबाइल उपकरणों पर जगह बचाता है। Apple ने 2017 में iOS 11 के रिलीज के साथ iOS उपकरणों के लिए HEIF को डिफ़ॉल्ट फोटो स्टोरेज फॉर्मेट पेश किया। इस समायोजन के परिणामस्वरूप, iPhones और iPads ने उपयोगकर्ताओं की छवियों को HEIC के रूप में सहेजना शुरू कर दिया। हाई सिएरा की शुरुआत के साथ, Apple ने iOS और macOS दोनों के लिए HEIF संगतता को सक्षम किया। Google ने 2018 में एंड्रॉइड के लिए HEIF समर्थन बढ़ाया, और Microsoft ने 2018 में विंडोज के लिए HEIF समर्थन लाया। Microsoft ऐप्स में HEIC फ़ाइलों को खोलने के लिए उपयोगकर्ताओं को Microsoft स्टोर से Microsoft HEIF छवि एक्सटेंशन और HEVC वीडियो एक्सटेंशन पैकेजों को स्पष्ट रूप से स्थापित करना होगा। जब आप iOS डिवाइस पर कैमरा ऐप का उपयोग करके किसी गैर-iOS डिवाइस या एप्लिकेशन में ली गई तस्वीर को निर्यात या साझा करते हैं, तो इसे आमतौर पर HEIC प्रारूप से JPEG or.JPG फ़ाइल में परिवर्तित किया जाता है।",
+    "Softwaresused": [
+        {
+            "platform": "लिनक्स",
+            "softwares": [
+                {
+                    "name": "जिम्प",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "मुफ़्त "
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "फ़ाइल व्यूअर प्लस - इसे Microsoft से प्राप्त करें",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "जिम्प",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "मुफ़्त "
+                },
+                {
+                    "name": "एडोब प्रीमियर रश",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "HEIF छवि एक्सटेंशन और HEVC वीडियो एक्सटेंशन पैकेज के साथ Microsoft Windows फ़ोटो स्थापित",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab&ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-Tcw4tJawHA2VbfUU47cFuA&epi=4LioSo.jxMc-Tcw4tJawHA2VbfUU47cFuA&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xurhnaenupuk000%29%287593%29%281243925%29%284LioSo.jxMc-Tcw4tJawHA2VbfUU47cFuA%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xurhnaenupuk000",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg"
+                },
+                {
+                    "name": "ट्यून्सब्रो HEIC कंवर्टर",
+                    "link": "https://www.tunesbro.com/heic-converter.html",
+                    "image": "/assets/fileimg/7eQehmc.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                }
+            ]
+        },
+        {
+            "platform": "मैक",
+            "softwares": [
+                {
+                    "name": "Apple प्रीव्यू",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "Apple फोटो",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "एडोब फोटोशॉप 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "जिम्प",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "मुफ़्त "
+                },
+                {
+                    "name": "ट्यून्सब्रो HEIC कंवर्टर",
+                    "link": "https://www.tunesbro.com/heic-converter.html",
+                    "image": "/assets/fileimg/7eQehmc.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                }
+            ]
+        },
+        {
+            "platform": "आईओएस",
+            "softwares": [
+                {
+                    "name": "Apple फोटो",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "ड्रॉपबॉक्स",
+                    "link": "https://www.dropbox.com/?landing=dbv2",
+                    "image": "/assets/fileimg/ovQYI78.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "गूगल ड्राइव",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "गूगल फोटोज",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "मुफ़्त  "
+                },
+                {
+                    "name": "एडोब प्रीमियर रश",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                }
+            ]
+        },
+        {
+            "platform": "एंड्रॉयड",
+            "softwares": [
+                {
+                    "name": "Android के लिए फ़ाइल व्यूअर",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "गूगल फोटोज",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "मुफ़्त  "
+                },
+                {
+                    "name": "एडोब प्रीमियर रश",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "ड्रॉपबॉक्स",
+                    "link": "https://www.dropbox.com/?landing=dbv2",
+                    "image": "/assets/fileimg/ovQYI78.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "सिंपल सॉफ्ट एलायंस लूमा: HEIF व्यूअर और कन्वर्टर",
+                    "link": "https://play.google.com/store/apps/details?id=luma.hevc.heif.image.viewer.converter",
+                    "image": "/assets/fileimg/1o2rNBD.jpeg",
+                    "type": "फ़्रीमियम"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "गूगल फोटोज",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "मुफ़्त  "
+                },
+                {
+                    "name": "HEIC इमेज व्यूअर डिकोडर",
+                    "link": "https://speedtesting.herokuapp.com/heicviewer/",
+                    "image": "/assets/fileimg/KXTzTK7.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        }
+    ]
+}

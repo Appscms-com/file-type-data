@@ -1,0 +1,176 @@
+{
+    "Format": "WEBP",
+    "ShortName": "WEBP",
+    "FullName": "Web Picture",
+    "Category": "Arquivos de imagem raster",
+    "Pros": "Os tamanhos dos arquivos são menores. O algoritmo de compressão foi aprimorado. Gradientes de cores mais suaves. Mascarando o canal alfa.",
+    "Cons": "Falta suporte ao navegador. A interface para exportação é ruim. O artefato parece ser feito de plástico.",
+    "Createdby": "Google",
+    "CreatedbyLink": "https://developers.google.com/",
+    "CreatedInYear": "2010",
+    "BasicInformation": "Um arquivo WEBP é um formato de imagem raster desenvolvido pelo Google para gráficos da web chamado WebP (pronuncia-se “Weppy”). O formato WebP compacta arquivos com mais eficiência do que a compactação JPEG típica, preservando a qualidade da imagem comparável ou superior à do JPEG. Semelhante ao to.PNG, ele permite compactação com e sem perdas e contém um canal alfa para transparência.",
+    "DetailedInformation": "O formato de imagem WEBP padrão aberto, criado pelo Google em 2010, permite que os usuários salvem fotos em compactação com e sem perdas. A eficiência de compressão, de acordo com os desenvolvedores do Google, permite que as fotos sejam reduzidas para tamanhos até 34% menores que as imagens JPEG e PNG, mantendo uma ótima qualidade. O formato WebP é baseado na tecnologia da On2 Technologies, que foi comprada pelo Google em 2009. O formato, que foi anunciado em 2010, usa um contêiner baseado no formato de arquivo de intercâmbio de recursos (RIFF). Com exceção do Apple Safari e do Microsoft Internet Explorer, a maioria dos navegadores aceita arquivos WEBP a partir de 2019. A hipótese é que, usando a tecnologia usada para fazer imagens WEBP (assumindo uma adoção generalizada), a internet como um todo pode ser acelerada porque as imagens WEBP requerem menos espaço de armazenamento, permitindo que maiores quantidades de imagens sejam visualizadas simultaneamente em velocidades mais altas em todo o mundo.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Grátis"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Grátis"
+                },
+                {
+                    "name": "Ópera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Grátis"
+                },
+                {
+                    "name": "Codec WebP",
+                    "link": "https://developers.google.com/speed/webp/download",
+                    "image": "/assets/fileimg/NY9GTXm.jpeg",
+                    "type": "Grátis"
+                },
+                {
+                    "name": "Imagem Magick",
+                    "link": "https://imagemagick.org/index.php",
+                    "image": "/assets/fileimg/hJWCII5.jpeg",
+                    "type": "Grátis"
+                }
+            ]
+        },
+        {
+            "platform": "Janela",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Obtenha-o da Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft Edge",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "Grátis"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Grátis"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg"
+                },
+                {
+                    "name": "Ópera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Grátis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Grátis"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Grátis"
+                },
+                {
+                    "name": "Ópera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Grátis"
+                },
+                {
+                    "name": "Codec WebP",
+                    "link": "https://developers.google.com/speed/webp/download",
+                    "image": "/assets/fileimg/NY9GTXm.jpeg",
+                    "type": "Grátis"
+                },
+                {
+                    "name": "Imagem Magick",
+                    "link": "https://imagemagick.org/index.php",
+                    "image": "/assets/fileimg/hJWCII5.jpeg",
+                    "type": "Grátis"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Google Fotos",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Grátis  "
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Visualizador de arquivos para Android",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Fotos",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Grátis  "
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Grátis"
+                }
+            ]
+        },
+        {
+            "platform": "Chrome OS",
+            "softwares": [
+                {
+                    "name": "Google Fotos",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Grátis  "
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Grátis"
+                },
+                {
+                    "name": "SO Chrome",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "Gratuito, incluído no sistema operacional"
+                }
+            ]
+        }
+    ]
+}

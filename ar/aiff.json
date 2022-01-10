@@ -1,0 +1,141 @@
+{
+    "Format": "AIFF",
+    "ShortName": "AIFF",
+    "FullName": "Audio Interchange File Format",
+    "Category": "ملف صوتي",
+    "Pros": "جودة عالية جدًا. ",
+    "Cons": "تتطلب مساحة تخزين واسعة. ",
+    "Createdby": "تفاحة",
+    "CreatedbyLink": "https://developer.apple.com/",
+    "CreatedInYear": "1998",
+    "BasicInformation": "ملحق AIFF (تنسيق ملف تبادل الصوت) هو معيار تخزين بيانات الصوت لمجموعة متنوعة من الأجهزة الصوتية الإلكترونية. يتضمن صوتًا عالي الدقة تم الحفاظ عليه بتنسيق غير مضغوط وبدون فقدان. يمكن أيضًا حفظ ملفات AIFF بالتنسيق. تُعرف الملفات التي تنتهي بـ.AIFC بملفات AIF (إذا كانت مضغوطة).",
+    "DetailedInformation": "استخدمت Apple تنسيق ملف التبادل الإلكتروني للفنون لإنتاجه في عام 1988. (إذا). ملفات AIFF غير مضغوطة (بدون فقدان) وأكبر بكثير من ملفات MP3 الشائعة، والتي يتم ضغطها وفقدها. معلومات الحلقة وعينات الصوت ممكنة في ملفات AIFF. يتم رؤية ملفات AIFF على نطاق واسع على أجهزة MAC OS. الموسيقيون المحترفون الذين يقدرون الجودة العالية للملفات ويمكنهم التعامل مع متطلبات التخزين الضخمة هم أكثر المستهلكين شيوعًا لملفات AIFF. على الرغم من الاختلافات الطفيفة في آلية التخزين والاختلاف الطفيف في الجودة، يتم تخزين العديد من أنواع ملفات AIFF بشكل متكرر تحت امتداد الملف نفسه. ملفات AIFF، على عكس MP3 والعديد من الملفات الصوتية الشائعة الأخرى، غير مضغوطة. غالبًا ما تتضمن ملفات AIFF صوتًا عالي الجودة من ملفات MP3 المكافئة نظرًا لعدم ضغط بياناتها. ومع ذلك، نظرًا لأن الملفات تحتوي على المزيد من البيانات، فإنها تشغل مساحة تخزين أكبر.",
+    "Softwaresused": [
+        {
+            "platform": "لينكس",
+            "softwares": [
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "أماروك",
+                    "link": "https://amarok.kde.org/",
+                    "image": "/assets/fileimg/Dh0nFk6.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "الجرأة",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "شبابيك",
+            "softwares": [
+                {
+                    "name": "عارض الملفات بلس - احصل عليه من Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "ميكروسوفت ويندوز ميديا بلاير",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "نولسوفت وينامب",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                }
+            ]
+        },
+        {
+            "platform": "رفيق",
+            "softwares": [
+                {
+                    "name": "أبل كويك تايم بلاير",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "أبل ميوزيك",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "الجرأة",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "أبل ميوزيك",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "أوليمسفت أوبلاير",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "مدفوعة"
+                },
+                {
+                    "name": "Videolan VLC للجوال",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "أندرويد",
+            "softwares": [
+                {
+                    "name": "Videolabs VLC لالروبوت",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        }
+    ]
+}

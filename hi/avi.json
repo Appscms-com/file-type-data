@@ -1,0 +1,164 @@
+{
+    "Format": "AVI",
+    "ShortName": "AVI",
+    "FullName": "Audio Video Interleave File",
+    "Category": "विडियो फाइल",
+    "Pros": "उल्लेखनीय रूप से उत्कृष्ट ऑडियो गुणवत्ता निष्ठा। ऐसे कई कोडेक्स हैं जिन्हें ऑनलाइन फ़ाइलों को संपीड़ित करते समय उचित अनुपात तक पहुंचने के लिए नियोजित किया जा सकता है। क्योंकि यह Microsoft द्वारा बनाया गया था, इसे सभी प्रमुख Microsoft और गैर-Microsoft ऑपरेटिंग सिस्टम पर खेला जा सकता है। अन्य ऑडियो/वीडियो प्रारूपों के विपरीत, DV-AVI मानक को संपीड़ित किया जा सकता है। इसे किसी विशिष्ट हार्डवेयर या सॉफ़्टवेयर के उपयोग की आवश्यकता नहीं है। इसकी संपीड़ित क्षमताओं के कारण, AVI वीडियो प्रारूप का उपयोग अक्सर प्रोमो, लघु फिल्मों और विज्ञापन के लिए किया जाता है। मास्टर फ़ाइलों के लिए, AVI के साथ बनाए रखा गुणवत्ता अच्छी है।",
+    "Cons": "बहुत से लोग निराश हो जाते हैं जब वे एक सुरक्षित, सम्मानित स्रोत से कोडेक नहीं पा सकते हैं। उन स्रोतों के उपलब्ध होने पर भी उपयोगकर्ताओं को अपने अनुभव में ब्रेक अवांछनीय लग सकता है। जब अन्य फ़ाइल स्वरूपों की तुलना में, AVI फ़ाइलें संपीड़ित नहीं होने पर काफी बड़ी हो सकती हैं। जब आप किसी AVI फ़ाइल को विशिष्ट सीमाओं से ऊपर ऑनलाइन संपीड़ित करते हैं, तो वीडियो की गुणवत्ता खराब हो जाती है। उपयोगकर्ता इंटरैक्शन समर्थित नहीं है। सॉफ्टसबस का समर्थन नहीं करता है।",
+    "Createdby": "माइक्रोसॉफ्ट",
+    "CreatedbyLink": "https://developer.microsoft.com/en-us/",
+    "CreatedInYear": "1992",
+    "BasicInformation": "AVI फ़ाइल माइक्रोसॉफ्ट-निर्मित ऑडियो वीडियो इंटरलीव (AVI) मल्टीमीडिया कंटेनर प्रारूप में संग्रहीत एक वीडियो फ़ाइल है। इसमें डिवएक्स और एक्सवीडी सहित विभिन्न प्रकार के कोडेक्स में एन्कोडेड वीडियो और ऑडियो फाइलें हैं। AVI फ़ाइलों को Microsoft Movies & TV, Windows Media Player और Apple QuickTime Player सहित विभिन्न प्रकार के वीडियो खिलाड़ियों का उपयोग करके खेला जा सकता है, जो सभी अपने संबंधित ऑपरेटिंग सिस्टम के साथ पूर्व-स्थापित आते हैं।",
+    "DetailedInformation": "AVI प्रारूप संसाधन इंटरचेंज फ़ाइल स्वरूप (RIFF) पर आधारित है, जो मल्टीमीडिया को संग्रहीत करने के लिए एक कंटेनर प्रारूप है जो पहली बार 1991 में जारी किया गया था। Microsoft ने 1992 में एक साल बाद AVI प्रारूप बनाया, और आज भी इसका व्यापक रूप से उपयोग किया जाता है। यह वीडियो खिलाड़ियों की एक विस्तृत श्रृंखला द्वारा समर्थित है, हालांकि वीडियो को सफलतापूर्वक चलाने के लिए, खिलाड़ी को वीडियो डेटा को एन्कोड करने के लिए उपयोग किए जाने वाले कोडेक का समर्थन करना चाहिए। एक साथ प्लेबैक का समर्थन करने के लिए, AVI एक सामान्य कंटेनर में एक फ़ाइल में ऑडियो और वीडियो को जोड़ती है। इसका लाभ इसकी सरल वास्तुकला है, जो इसे विंडोज, मैक, लिनक्स और यूनिक्स सहित विभिन्न ऑपरेटिंग सिस्टम पर कार्य करने की अनुमति देता है, और सभी प्रमुख वेब ब्राउज़रों द्वारा समर्थित है। यह उच्च गुणवत्ता वाले वीडियो और ऑडियो को स्टोर कर सकता है और अन्य वीडियो प्रारूपों like.MPEG and.MOV की तुलना में कम संपीड़न का उपयोग करता है।",
+    "Softwaresused": [
+        {
+            "platform": "लिनक्स",
+            "softwares": [
+                {
+                    "name": "वीडियोलैन वीएलसी मीडिया प्लेयर",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "ज़िन",
+                    "link": "https://sourceforge.net/projects/xine/",
+                    "image": "/assets/fileimg/11To9CR.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "कोड़ी",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "फ़ाइल व्यूअर प्लस - इसे Microsoft से प्राप्त करें",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट विंडोज मीडिया प्लेयर",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट मूवीज़ और टीवी",
+                    "link": "https://www.microsoft.com/en-us/p/movies-tv/9wzdncrfj3p2?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/fVyIEs4.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "वीडियोलैन वीएलसी मीडिया प्लेयर",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "कोड़ी",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "मैक",
+            "softwares": [
+                {
+                    "name": "एपल क्विकटाइम प्लेयर",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "वीडियोलैन वीएलसी मीडिया प्लेयर",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "कोड़ी",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "एडोब प्रीमियर प्रो 2020",
+                    "link": "https://www.adobe.com/products/premiere.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/RUVWLwB.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "एल्टिमा एल्मेडिया प्लेयर",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "आईओएस",
+            "softwares": [
+                {
+                    "name": "मोबाइल के लिए वीडियोलन VLC",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "ओलिमसॉफ्ट ओप्लेयर",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "अदा"
+                },
+                {
+                    "name": "गूगल ड्राइव",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "फ़्रीमियम"
+                }
+            ]
+        },
+        {
+            "platform": "एंड्रॉयड",
+            "softwares": [
+                {
+                    "name": "गूगल ड्राइव",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "Android के लिए वीडियोलैब्स VLC",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "बीआईटी लैब्स सिंपल MP4 वीडियो प्लेयर",
+                    "link": "https://play.google.com/store/apps/details?id=air.br.com.bitlabs.VideoPlayer&hl=en",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "गूगल ड्राइव",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "फ़्रीमियम"
+                }
+            ]
+        }
+    ]
+}

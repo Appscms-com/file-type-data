@@ -1,0 +1,123 @@
+{
+    "Format": "M4A",
+    "ShortName": "M4A",
+    "FullName": "MPEG-4 Audio File",
+    "Category": "ملف صوتي",
+    "Pros": "على الرغم من ضغط ملف M4A، تظل الجودة دون تغيير. حقيقة أن ملفات M4A الصوتية غير محمية بواسطة إدارة الحقوق الرقمية (DRM) يعني أنه يمكن تعديلها ونقلها بحرية أكبر.",
+    "Cons": "M4A هو تنسيق ملف معروف في iTunes و iPod والأجهزة الأخرى من Apple. ومع ذلك، بالمقارنة مع ملفات MP3، يعد تشغيل الصوت M4A مشكلة بسبب عدم توافقه مع الأجهزة الأخرى.",
+    "Createdby": "تفاحة",
+    "CreatedbyLink": "https://developer.apple.com/",
+    "CreatedInYear": "2004",
+    "BasicInformation": "ملف M4A هو ملف صوتي MPEG-4 تم ترميزه إما باستخدام ترميز الصوت المتقدم (AAC) أو برنامج ترميز الصوت بدون فقدان Apple (ALAC). قد تحتوي على مجموعة متنوعة من الملفات الصوتية، بما في ذلك الأغاني والبودكاست والكتب الصوتية.",
+    "DetailedInformation": "MPEG-4 هو تنسيق حاوية وسائط متعددة لبيانات الصوت والفيديو المضغوطة. تستخدم ملفات MP4، التي تخزن بيانات الصوت والفيديو، هذا التنسيق. تم إنشاء لاحقة.m4a، التي تعني «صوت MPEG-4»، نظرًا لأن ملفات M4A تحمل بيانات صوتية حصريًا. جعل تغيير التسمية هذا من السهل معرفة الفرق بين ملفات الفيديو MPEG-4 وملفات الصوت MPEG-4 فقط. هناك خيار ضغط ضياع، كما هو الحال مع أنواع الملفات الصوتية الأخرى، ويتم تحقيقه باستخدام ترميز AAC. يسمح تنسيق Apple Lossless بالضغط بدون فقدان، وهو أمر لا يمكن تحقيقه باستخدام تنسيقات الصوت الأخرى.",
+    "Softwaresused": [
+        {
+            "platform": "لينكس",
+            "softwares": [
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "شبابيك",
+            "softwares": [
+                {
+                    "name": "عارض الملفات بلس - احصل عليه من Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "ميكروسوفت ويندوز ميديا بلاير",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "نولسوفت وينامب",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                }
+            ]
+        },
+        {
+            "platform": "رفيق",
+            "softwares": [
+                {
+                    "name": "آبل اي تيونز",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "أبل كويك تايم بلاير",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "مشغل ألتيما الميديا",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Videolan VLC للجوال",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "أندرويد",
+            "softwares": [
+                {
+                    "name": "عارض الملفات لنظام Android",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "Videolabs VLC لالروبوت",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        }
+    ]
+}

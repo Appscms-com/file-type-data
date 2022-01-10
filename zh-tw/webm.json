@@ -1,0 +1,158 @@
+{
+    "Format": "WEBM",
+    "ShortName": "WEBM",
+    "FullName": "WebM Video File",
+    "Category": "視頻文件",
+    "Pros": "視頻的優秀品質。歡迎所有人參加這一活動，這是免費的，向公眾開放。受歡迎的網站包括 YouTube，4 陳，維密歐，和其他。",
+    "Cons": "只支持少數瀏覽器和媒體播放器。在大多數移動設備上，您將無法玩遊戲。",
+    "Createdby": "谷歌",
+    "CreatedbyLink": "https://developers.google.com/",
+    "CreatedInYear": "2010",
+    "BasicInformation": "WEBM 文件是以 WebM 格式保存的視頻，這是一個開放的免版税視頻共享標準。WebM 將音頻和視頻數據保存在與馬特羅斯卡 (.MKV) 視頻格式相媲美的容器結構中。VP8 或 VP9 視頻編解碼器用於壓縮視頻，Vorbis 或 Opus 音頻編解碼器用於壓縮音頻。",
+    "DetailedInformation": "WEBM 文件類型適用於採用 Matroska 文件容器的 HTML5 視頻，並且免版税。WEBM 視頻播放受 Mozilla 火狐、歌劇院和谷歌瀏覽器的支持，但互聯網瀏覽器 9 和 Safari 瀏覽器通常需要第三方幫助（如 QuickTime）來播放 WEBM 媒體。作為 HTML5 播放器實驗的一部分，YouTube 使用 WEBM 文件。要播放 WebM 媒體文件，如果瀏覽器不支持 WebM 插件（如 Safari 或 Internet 瀏覽器），則需要下載 WebM 插件。WebM 是專利 H.264 和 H.265 標準的免版税、開源代碼替代品。該技術適用於商業和非商業目的，因為它是完全免費的。",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "視頻網絡 VLC 媒體播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "手剎",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "莫茲拉火狐",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "歌劇",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "Fmpeg",
+                    "link": "http://ffmpeg.org/",
+                    "image": "/assets/fileimg/wAHKc6t.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "視窗",
+            "softwares": [
+                {
+                    "name": "文件查看器加 — 從微軟獲取",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "微軟視窗媒體播放器",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                },
+                {
+                    "name": "視頻網絡 VLC 媒體播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "手剎",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg"
+                },
+                {
+                    "name": "谷歌瀏覽器",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "視頻網絡 VLC 媒體播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "手剎",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "艾蒂瑪埃爾媒體播放器",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "謝德沃克斯智能轉換器",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "免費試用"
+                },
+                {
+                    "name": "莫茲拉火狐",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "iOS版",
+            "softwares": [
+                {
+                    "name": "奧姆軟膠光層",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "已付費"
+                },
+                {
+                    "name": "五角龍播放器傳媒播放器",
+                    "link": "https://apps.apple.com/us/app/playerxtreme-media-player/id456584471?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/uoX9gqI.jpeg",
+                    "type": "免費增值"
+                }
+            ]
+        },
+        {
+            "platform": "安卓",
+            "softwares": [
+                {
+                    "name": "安卓文件查看器",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "免費增值"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "谷歌瀏覽器",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "免費"
+                }
+            ]
+        }
+    ]
+}

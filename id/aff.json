@@ -1,0 +1,66 @@
+{
+    "Format": "AFF",
+    "ShortName": "AFF",
+    "FullName": "Advanced Forensics Format",
+    "Category": "Berkas Data",
+    "Pros": "Terbuka dan extensible. Bebas paten. Dikompresi dan bisa dicari. Berlapis ganda. Fleksibel.",
+    "Cons": "Tidak populer. Kurangnya transparansi. ",
+    "Createdby": "Simson Garfinkel dan Teknologi Dasar",
+    "CreatedbyLink": "https://www.basistech.com/",
+    "CreatedInYear": "2005-2006",
+    "BasicInformation": "File AFF adalah file kamus ejaan yang digunakan oleh program Office suite gratis Kingsoft WPS Office dan Apache OpenOffice. Ini berisi informasi tentang file kamus ejaan DIC yang datang dengan itu.",
+    "DetailedInformation": "File AFF dan DIC digunakan untuk menambahkan kamus pemeriksa ejaan baru ke WPS Office untuk berbagai bahasa, termasuk bahasa Italia dan Prancis. Biasanya, pengguna akan mendownload. Ekstrak isi paket kamus ZIP yang berisi file AFF dan DIC, lalu instal di WPS Office.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Kantor WPS Kingsoft",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Apache OpenOffice",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Kantor WPS Kingsoft",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Apache OpenOffice",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Kantor WPS Kingsoft",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Apache OpenOffice",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        }
+    ]
+}

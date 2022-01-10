@@ -1,0 +1,212 @@
+{
+    "Format": "HTML",
+    "ShortName": "HTML",
+    "FullName": "Hypertext Markup Language File",
+    "Category": "Веб-файл",
+    "Pros": "HTML - це загальновживана мова. HTML підтримується всіма браузерами. Це просто вчитися і використовувати. HTML - це легка і швидко завантажується мова. Вам не потрібно купувати будь-яке програмне забезпечення.",
+    "Cons": "Оскільки це статична мова, вона не може виробляти динамічний вихід самостійно. Структуру HTML-документів стає все складніше зрозуміти. Помилки можуть коштувати дорого. Це займає багато часу. HTML має обмежений набір заходів безпеки.",
+    "Createdby": "Тім Бернерс-Лі в ЦЕРН",
+    "CreatedbyLink": "https://home.cern/",
+    "CreatedInYear": "1989",
+    "BasicInformation": "Мова розмітки гіпертексту (HTML) - мова розмітки, яка використовується для форматування структури веб-сторінки. Він зберігається у стандартному текстовому форматі та містить теги, які визначають макет та вміст веб-сторінки, такі як текст, таблиці, зображення та гіперпосилання. HTML-файли часто використовуються в Інтернеті і можуть бути переглянуті в веб-браузерах.",
+    "DetailedInformation": "Стандартом для побудови веб-сайтів є HTML (HyperText Markup Language). Тім Бернерс-Лі, фізик CERN, запропонував цю ідею в 1989 році. Веб-браузери можуть читати цю мову та перекладати її в різні тексти, кольори, форми (заголовки, абзаци, цитати та інші семантики), гіперпосилання та вбудовування URL-адрес для вставки зображень або аудіо. HTML компоненти використовуються для побудови структури веб-сторінок мовою розмітки. Кожен елемент, як правило, містить відкриваючий тег, укладений у кутові дужки (tag>) та закриваючий тег, укладений у кутові дужки, але перед ним передує слеш (/tag>). Користувачі можуть побачити HTML-кодування, перейшовши на вкладку «Переглянути джерело» свого браузера. HTML можна використовувати для форматування тексту документа в деяких поштових додатках. Хоча HTML і XHTML схожі, вони не однакові.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Опера",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "W3C Амая",
+                    "link": "https://www.w3.org/Amaya/",
+                    "image": "/assets/fileimg/e9cgmZo.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Гугл Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "КомпоЗер",
+                    "link": "https://sourceforge.net/projects/kompozer/",
+                    "image": "/assets/fileimg/8aN9yEj.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "Вікна",
+            "softwares": [
+                {
+                    "name": "Переглядач файлів плюс — Отримати його від Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Блокнот Microsoft",
+                    "link": "https://www.microsoft.com/en-us/p/windows-notepad/9msmlrh6lzf3#activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/82vepge.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Майкрософт Wordpad",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/word?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-xMQ4Sl1Ik8DLCMUAH94NdQ&epi=4LioSo.jxMc-xMQ4Sl1Ik8DLCMUAH94NdQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xurkqpvnupuk000%29%287593%29%281243925%29%284LioSo.jxMc-xMQ4Sl1Ik8DLCMUAH94NdQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xurkqpvnupuk000",
+                    "image": "/assets/fileimg/Kp0egqG.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "КомпоЗер",
+                    "link": "https://sourceforge.net/projects/kompozer/",
+                    "image": "/assets/fileimg/8aN9yEj.jpeg"
+                },
+                {
+                    "name": "Код візуальної студії Microsoft",
+                    "link": "https://code.visualstudio.com/",
+                    "image": "/assets/fileimg/51PJjGr.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "W3C Амая",
+                    "link": "https://www.w3.org/Amaya/",
+                    "image": "/assets/fileimg/e9cgmZo.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Код візуальної студії Microsoft",
+                    "link": "https://code.visualstudio.com/",
+                    "image": "/assets/fileimg/51PJjGr.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "КомпоЗер",
+                    "link": "https://sourceforge.net/projects/kompozer/",
+                    "image": "/assets/fileimg/8aN9yEj.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Гугл Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Гугл Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Опера",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Форнас Еспресо HTML",
+                    "link": "https://apps.apple.com/us/app/espresso-html/id487303069?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/t2WljZe.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Редактор текстичного коду Олександра Блаха",
+                    "link": "https://apps.apple.com/us/app/textastic-code-editor-6/id1049254261?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/d5byEov.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Переглядач файлів для Android",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Гугл Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Опера",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Текст Google Chrome",
+                    "link": "https://chrome.google.com/webstore/detail/text/mmfbcljfglbokpmkimbfghdkjmjhdgbg",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Гугл Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Опера",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        }
+    ]
+}

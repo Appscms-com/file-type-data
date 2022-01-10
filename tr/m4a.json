@@ -1,0 +1,123 @@
+{
+    "Format": "M4A",
+    "ShortName": "M4A",
+    "FullName": "MPEG-4 Audio File",
+    "Category": "Ses dosyası",
+    "Pros": "M4A dosyası sıkıştırılmış olsa da, kalite değişmeden kalır. M4A ses dosyalarının Dijital Hak Yönetimi (DRM) tarafından korunmadığı gerçeği, değiştirilebilecekleri ve daha serbestçe iletilebileceği anlamına gelir.",
+    "Cons": "M4A, Apple'ın iTunes, iPod ve diğer cihazlarında iyi bilinen bir dosya formatıdır. Bununla birlikte, MP3 dosyalarıyla karşılaştırıldığında, M4A ses çalma, diğer cihazlarla uyumluluk eksikliği nedeniyle sorunludur.",
+    "Createdby": "Elma",
+    "CreatedbyLink": "https://developer.apple.com/",
+    "CreatedInYear": "2004",
+    "BasicInformation": "M4A dosyası Gelişmiş Ses Kodlaması (AAC) veya Apple Lossless Audio Codec (ALAC) ile kodlanmış bir MPEG-4 ses dosyasıdır. Şarkılar, podcast'ler ve sesli kitaplar da dahil olmak üzere çeşitli ses dosyaları barındırabilir.",
+    "DetailedInformation": "MPEG-4, sıkıştırılmış ses ve video verileri için bir multimedya kap formatıdır. Ses ve video verilerini depolayan .MP4 dosyaları, bu formatı kullanır. M4A dosyaları yalnızca ses verilerini taşıdığından “MPEG-4 Audio” anlamına gelen .m4a soneki oluşturuldu. Bu adlandırma değişikliği, MPEG-4 video ve yalnızca MPEG-4 ses dosyaları arasındaki farkı anlatmayı kolaylaştırdı. Diğer ses dosyası türlerinde olduğu gibi kayıplı bir sıkıştırma seçeneği vardır ve AAC kodlaması kullanılarak elde edilir. Apple Lossless formatı, diğer ses formatlarıyla elde edilemeyen kayıpsız sıkıştırmaya izin verir.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC Medya Oynatıcı",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Microsoft'tan edinin",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft Windows Media Player",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "VideoLan VLC Medya Oynatıcı",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Ücretsiz deneme"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple itunes",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Apple QuickTime Oynatıcı",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "VideoLan VLC Medya Oynatıcı",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Ücretsiz deneme"
+                },
+                {
+                    "name": "Eltima Elmedia Oynatıcı",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Mobil cihazlar için Videolan VLC",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Android için dosya görüntüleyici",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Android için Videolabs VLC",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        }
+    ]
+}

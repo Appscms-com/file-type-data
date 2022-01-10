@@ -1,0 +1,153 @@
+{
+    "Format": "AAC",
+    "ShortName": "AAC",
+    "FullName": "Advanced Audio Coding File",
+    "Category": "音頻文件",
+    "Pros": "如今，越來越多的設備知道 AAC。編碼的文件大小較小。標準化的目標已經實現。音質優於 MP3。該產品廣泛可用。流帶寬有限。與各種設備的兼容性。提供各種編碼選項。",
+    "Cons": "編碼需要很長時間。在編碼過程中，CPU 被大量使用。在解碼過程中，CPU 使用率略高一些。文件組織變得更加複雜。即使它少，它仍然是一個失敗者。硬件支持受到限制。標記文件並不總是兼容。從無損原始文件中對 AAC 進行編碼可能太昂貴。MP3 仍然被認為比 AAC 更「標準」。",
+    "Createdby": "移動圖片專家組",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "1997",
+    "BasicInformation": "對於中高比特率的音頻編碼，AAC（高級音頻編碼）是 MP3（ISO/MPEG 音頻層 -3）（ISO/MPEG 音頻層 -3）的邏輯後繼器。這種壓縮的音頻格式與 MP3 文件相當，但它具有一些性能優勢。穩定信號和瞬態信號的編碼效率更高，濾波器組更小，以及更好地處理超過 16 kHz 的頻率就是幾個例子。",
+    "DetailedInformation": "蘋果 iTunes 和 iTunes 音樂商店採用高級音頻編碼 (AAC) 作為默認編碼。AAC 算法的概念是使用兩種基本編碼方案，大大減少傳輸高質量數字音頻所需的數據量。AAC 文件具有比 MP3 文件更多的採樣頻率、多達 48 個通道、出色的編碼和濾波器組效率以及更好的瞬態信號編碼精度。AAC 文件（如 MP3 文件）可以刪除人耳無法處理的音頻頻率，從而產生更小、更易於管理的文件。就文件空間而言，AAC 文件遠低於 MP3 文件。",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "視頻網絡 VLC 媒體播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "克萊門汀",
+                    "link": "https://www.clementine-player.org/about",
+                    "image": "/assets/fileimg/F87GDJM.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "XMMS",
+                    "link": "http://www.xmms.org/",
+                    "image": "/assets/fileimg/hodO9zz.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "視窗",
+            "softwares": [
+                {
+                    "name": "文件查看器加 — 從微軟獲取",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "試鏡 CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "免費試用"
+                },
+                {
+                    "name": "視頻網絡 VLC 媒體播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "諾爾軟件酒莊",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "蘋果伊圖尼斯",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "視頻網絡 VLC 媒體播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "試鏡 CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "免費試用"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "羅克西奧吐司 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "已付費"
+                }
+            ]
+        },
+        {
+            "platform": "iOS版",
+            "softwares": [
+                {
+                    "name": "奧姆軟膠光層",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "已付費"
+                },
+                {
+                    "name": "真實網絡實時：視頻製作",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "免費增值"
+                }
+            ]
+        },
+        {
+            "platform": "安卓",
+            "softwares": [
+                {
+                    "name": "安卓文件查看器",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "適用於安卓系統的 VLC",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "真實網絡實時：視頻製作",
+                    "link": "https://play.google.com/store/apps/details?id=com.real.RealPlayerCloud",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "免費增值"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Format": "ACC",
+    "ShortName": "ACC",
+    "FullName": "Graphics Accounts Data File",
+    "Category": "データファイル",
+    "Pros": "N/A",
+    "Cons": "N/A",
+    "Createdby": "FKJ ソフトウェア",
+    "CreatedbyLink": "https://download.cnet.com/developer/fkj-software/i-6201467/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "ACCファイルは、グラフィックアカウントデータファイル形式です。グラフィック勘定科目の場合、このファイルには金融口座情報が含まれます。これは、個人の予算の作成と管理に役立つツールです。これには、1 つ以上の銀行口座の情報を含めることができます。",
+    "DetailedInformation": "ACC ファイルには、グラフィックアカウントの金融口座データが含まれています。予算ファイル (.BGT) と併せて開くことができます。",
+    "Softwaresused": [
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "FKJ ソフトウェアグラフィックアカウント",
+                    "link": "https://download.cnet.com/developer/fkj-software/i-6201467/",
+                    "image": "https://image.flaticon.com/icons/png/512/1063/1063308.png",
+                    "type": "無料"
+                }
+            ]
+        }
+    ]
+}

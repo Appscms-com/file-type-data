@@ -1,0 +1,176 @@
+{
+    "Format": "WEBP",
+    "ShortName": "WEBP",
+    "FullName": "Web Picture",
+    "Category": "रेखापुंज छवि फ़ाइलें",
+    "Pros": "फ़ाइल का आकार छोटा होता है। संपीड़न एल्गोरिथ्म में सुधार किया गया है। कलर ग्रेडिएंट जो स्मूथ होते हैं। अल्फा चैनल को मास्किंग करना।",
+    "Cons": "ब्राउज़र समर्थन में कमी है। निर्यात के लिए इंटरफ़ेस खराब है। आर्टिफैक्टिंग प्लास्टिक से बनी हुई प्रतीत होती है।",
+    "Createdby": "गूगल",
+    "CreatedbyLink": "https://developers.google.com/",
+    "CreatedInYear": "2010",
+    "BasicInformation": "WEBP फ़ाइल एक रेखापुंज छवि प्रारूप है जिसे Google द्वारा वेब ग्राफिक्स के लिए विकसित किया गया है जिसे WebP (उच्चारण “Weppy”) कहा जाता है। WebP प्रारूप JPEG की तुलना में या उससे अधिक छवि गुणवत्ता को संरक्षित करते हुए विशिष्ट JPEG संपीड़न की तुलना में फ़ाइलों को अधिक कुशलता से संपीड़ित करता है। to.PNG के समान, यह हानिपूर्ण और दोषरहित संपीड़न को सक्षम करता है और इसमें पारदर्शिता के लिए एक अल्फा चैनल होता है।",
+    "DetailedInformation": "2010 में Google द्वारा बनाया गया खुला मानक WEBP चित्र प्रारूप, उपयोगकर्ताओं को हानिपूर्ण और दोषरहित संपीड़न दोनों में फ़ोटो सहेजने की अनुमति देता है। Google डेवलपर्स के अनुसार, संपीड़न दक्षता, तस्वीरों को जेपीईजी और पीएनजी छवियों की तुलना में 34% तक कम आकार में सिकुड़ने की अनुमति देती है, जबकि महान गुणवत्ता बनाए रखती है। WebP प्रारूप On2 Technologies की तकनीक पर आधारित है, जिसे 2009 में Google द्वारा खरीदा गया था। प्रारूप, जिसे 2010 में घोषित किया गया था, संसाधन इंटरचेंज फ़ाइल स्वरूप (आरआईएफएफ) के आधार पर एक कंटेनर का उपयोग करता है। Apple Safari और Microsoft इंटरनेट एक्सप्लोरर को छोड़कर, अधिकांश वेब ब्राउज़र 2019 तक WEBP फ़ाइलों को स्वीकार करते हैं। परिकल्पना यह है कि WEBP छवियों (व्यापक रूप से अपनाने को मानते हुए) बनाने के लिए उपयोग की जाने वाली तकनीक का उपयोग करके, एक पूरे के रूप में इंटरनेट को तेज किया जा सकता है क्योंकि WEBP छवियों को कम भंडारण स्थान की आवश्यकता होती है, जिससे बड़ी मात्रा में छवियों को एक साथ उच्च गति पर देखा जा सकता है। दुनिया।",
+    "Softwaresused": [
+        {
+            "platform": "लिनक्स",
+            "softwares": [
+                {
+                    "name": "गूगल क्रोम",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "मोज़िला फ़ायरफ़ॉक्स",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "ओपेरा",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "वेबपी कोडेक",
+                    "link": "https://developers.google.com/speed/webp/download",
+                    "image": "/assets/fileimg/NY9GTXm.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "इमेज मैजिक",
+                    "link": "https://imagemagick.org/index.php",
+                    "image": "/assets/fileimg/hJWCII5.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "फ़ाइल व्यूअर प्लस - इसे Microsoft से प्राप्त करें",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट एज",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "गूगल क्रोम",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "मोज़िला फ़ायरफ़ॉक्स",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg"
+                },
+                {
+                    "name": "ओपेरा",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "मैक",
+            "softwares": [
+                {
+                    "name": "गूगल क्रोम",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "मोज़िला फ़ायरफ़ॉक्स",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "ओपेरा",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "वेबपी कोडेक",
+                    "link": "https://developers.google.com/speed/webp/download",
+                    "image": "/assets/fileimg/NY9GTXm.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "इमेज मैजिक",
+                    "link": "https://imagemagick.org/index.php",
+                    "image": "/assets/fileimg/hJWCII5.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "आईओएस",
+            "softwares": [
+                {
+                    "name": "गूगल फोटोज",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "मुफ़्त  "
+                }
+            ]
+        },
+        {
+            "platform": "एंड्रॉयड",
+            "softwares": [
+                {
+                    "name": "Android के लिए फ़ाइल व्यूअर",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "गूगल फोटोज",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "मुफ़्त  "
+                },
+                {
+                    "name": "गूगल क्रोम",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "गूगल फोटोज",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "मुफ़्त  "
+                },
+                {
+                    "name": "गूगल क्रोम",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "क्रोम ओएस",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "Format": "3GP",
+    "ShortName": "3GP",
+    "FullName": "3rd Generation Partnership Project",
+    "Category": "แฟ้มวิดีโอ",
+    "Pros": "ขนาดไฟล์ขนาดเล็กจึงช่วยประหยัดเนื้อที่ดิสก์ต้องใช้ข้อมูลมือถือน้อยลงสำหรับองค์กรจะสร้างสภาพแวดล้อมที่เชื่อมต่อสิ่งสำคัญอย่างยิ่งสำหรับการสื่อสาร (ผ่านข้อความ)",
+    "Cons": "คุณภาพอาจไม่ถึงเครื่องหมายไม่สามารถเล่นวิดีโอความละเอียดสูงได้ไม่ได้รับการสนับสนุนโดยหลายโปรแกรม ",
+    "Createdby": "โครงการความร่วมมือรุ่นที่ 3",
+    "CreatedbyLink": "https://www.3gpp.org/",
+    "CreatedInYear": "1998",
+    "BasicInformation": "ไฟล์ 3GP เป็นไฟล์มัลติมีเดียที่บันทึกไว้ในรูปแบบคอนเทนเนอร์เสียงและวิดีโอของโครงการหุ้นส่วนที่ 3 (3GPP)จะช่วยประหยัดวิดีโอและเสียงสตรีมที่ส่งผ่านทางอินเทอร์เน็ตและระหว่างโทรศัพท์มือถือ 3G",
+    "DetailedInformation": "3GP เป็นคอนเทนเนอร์ไฟล์มัลติมีเดียที่พัฒนาโดยโครงการ 3GPP (Third Generation Partnership Project) สำหรับการใช้วิดีโอและเสียงบนโทรศัพท์มือถือ 3G ที่มีความสามารถเช่น iPhoneไฟล์เหล่านี้สามารถดูได้บนโทรศัพท์ที่ไม่มี 3G (2G และ 4G) แม้ว่าจะมีข้อ จำกัด บางประการบนอุปกรณ์เคลื่อนที่ที่มีความสามารถในการบันทึกวิดีโอ ไฟล์ 3GP สามารถแก้ไข ส่งออก และดูได้ไฟล์ 3G2 เหมือนกับไฟล์ 3GP แต่ก็มีข้อ จำกัด และส่วนขยายที่แตกต่างกันโครงสร้าง MPEG-14 ถูกใช้เพื่อสร้างชนิดไฟล์ 3GP 3GP ได้ลดแบนด์วิดธ์และข้อกำหนดในการจัดเก็บข้อมูล ทำให้ผู้ใช้โทรศัพท์สามารถขนส่ง แก้ไข และจัดเก็บไฟล์ออนไลน์สนับสนุนสตรีมวิดีโอ H.263 และ H.264 เช่นเดียวกับ AMR-WB, AMR-WB+, AMR-NB, HE-AAC v1, AAC-LC และสตรีมเสียง AACPlus ที่ปรับปรุงใหม่",
+    "Softwaresused": [
+        {
+            "platform": "ลินุกซ์",
+            "softwares": [
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์พลัส — รับได้จากไมโครซอฟท์",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "โปรแกรมเล่นสื่อ Windows ของ Microsoft",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "ภาพยนตร์และทีวีของ Microsoft",
+                    "link": "https://www.microsoft.com/en-us/p/movies-tv/9wzdncrfj3p2?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/fVyIEs4.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "Xilisoft แปลงวิดีโอที่ดีที่สุด",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "โปรแกรมเล่น Apple QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "เอลติมาเอลมีเดียเพลเยอร์",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ร็อกซิโอ ขนมปังปิ้ง 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "จ่ายแล้ว"
+                },
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "โอลิมซอฟท์ โอเพลเยอร์",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "จ่ายแล้ว"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์สำหรับ Android",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "BIT Labs เครื่องเล่นวิดีโอ MP4 แบบง่าย",
+                    "link": "https://play.google.com/store/apps/details?id=air.br.com.bitlabs.VideoPlayer&hl=en",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ผู้เล่น MX แบบโต้ตอบ J2",
+                    "link": "https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en",
+                    "image": "/assets/fileimg/Cjoa7OB.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "แพนโดราทีวี เคเอ็มเพลเยอร์",
+                    "link": "https://play.google.com/store/apps/details?id=com.kmplayer",
+                    "image": "/assets/fileimg/hnkzD4T.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        }
+    ]
+}

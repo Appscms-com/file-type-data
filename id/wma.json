@@ -1,0 +1,100 @@
+{
+    "Format": "WMA",
+    "ShortName": "WMA",
+    "FullName": "Windows Media Audio File",
+    "Category": "Berkas audio",
+    "Pros": "Sejauh ini, Microsoft telah menerbitkan delapan edisi WMA, dengan edisi berikut WMA 7 mendukung enkripsi sertifikat untuk melindungi hak cipta musik, yang musisi dan penerbit musik dapat mendapatkan keuntungan maksimal dari. WMA dapat memampatkan audio pada tingkat yang lebih besar, memungkinkannya menyimpan audio berkualitas tinggi saat menggunakan lebih sedikit ruang.",
+    "Cons": "Saat Anda memampatkan audio dengan codec WMA, Anda biasanya kehilangan beberapa kualitas. WMA jauh dari sempurna untuk konsumen yang peduli dengan kualitas suara, tetapi mereka dapat memilih FLAC (Free Lossless Audio Codec) atau APE (umumnya dikenal sebagai monyet audio) sebagai gantinya. Microsoft memiliki standar WMA dan menolak untuk berbagi dengan perusahaan lain.",
+    "Createdby": "Microsoft",
+    "CreatedbyLink": "https://developer.microsoft.com/en-us/",
+    "CreatedInYear": "1999",
+    "BasicInformation": "File WMA adalah file audio yang disimpan dalam format Microsoft Advanced Systems Format (ASF) proprietary. Ini termasuk Windows Media Audio serta elemen metadata seperti judul lagu, artis, album, dan genre. File WMA mirip dengan file MP3 dalam bahwa mereka biasanya digunakan untuk streaming musik melalui internet.",
+    "DetailedInformation": "Format file ini dibuat untuk bersaing dengan format MP3 dan RealAudio yang terkenal. Popularitas file WMA untuk penggunaan dengan pemutaran video pada pemutar DVD serta fitur pemutaran video pada ponsel/perangkat portabel untuk Playstation dan Nokia berkontribusi pada kesuksesan mereka. Meskipun sebagian besar file WMA lossy, beberapa format memungkinkan untuk kompresi lossless. ASF adalah musik digital dan format kontainer video milik yang dikembangkan oleh Microsoft. Ini menggunakan jika berisi Windows Media Video daripada Windows Media Audio. WMV adalah ekstensi format video. WMA dan WMV file yang dipertukarkan. Namun, file ASF lebih sering digunakan. ",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Audacious",
+                    "link": "https://audacious-media-player.org/",
+                    "image": "/assets/fileimg/6WTDOAw.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Dapatkan dari Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft Windows Media Player",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Xilisoft Video Converter Ultimate",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg"
+                },
+                {
+                    "name": "Google Chrome dengan Windows Media Player Plugin",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple QuickTime Pemain",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                },
+                {
+                    "name": "Eltima Elmedia Pemain",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Opera dengan plugin TheFlip4Mac WMV",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Konverter Cerdas ShedWorx",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "Uji coba gratis"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Dibayar"
+                }
+            ]
+        }
+    ]
+}

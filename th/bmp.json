@@ -1,0 +1,164 @@
+{
+    "Format": "BMP",
+    "ShortName": "BMP",
+    "FullName": "Bitmap Image File",
+    "Category": "ไฟล์รูปภาพแบบแรสเตอร์",
+    "Pros": "ใช้งานง่ายความคุ้นเคยในการแพร่กระจายอย่างกว้างขวางได้รับการบันทึกไว้อย่างดีไม่มีสิทธิบัตร  ",
+    "Cons": "ไม่บีบอัดอาจมีขนาดใหญ่บางครั้งอาจดูแตกต่างกันในอุปกรณ์ต่างๆ",
+    "Createdby": "ไมโครซอฟท์",
+    "CreatedbyLink": "https://developer.microsoft.com/en-us/",
+    "CreatedInYear": "1995",
+    "BasicInformation": "ไฟล์ BMP เป็นรูปแบบภาพแรสเตอร์ที่พัฒนาโดยไมโครซอฟท์ที่เรียกว่า Bitmap (BMP)ประกอบด้วยข้อมูลภาพเช่นเดียวกับข้อมูลภาพที่ไม่มีการบีบอัดที่รองรับภาพขาวดำและสีที่มีความลึกบิตสีที่แตกต่างกันไฟล์ BMP มักใช้เพื่อจัดเก็บภาพถ่ายดิจิตอลสองมิติDIB ซึ่งย่อมาจากบิตแมปอุปกรณ์อิสระเป็นชื่ออื่นสำหรับมัน",
+    "DetailedInformation": "บิตแมปคำมาจากแนวคิดของบิตแมปในการเขียนโปรแกรมคอมพิวเตอร์โดยทั่วไปแล้ว ภาพ BMP จะไม่ถูกบีบอัดหรือถูกบีบอัดในลักษณะที่ไม่สูญเสียข้อมูล (เช่นผ่าน ZIP หรือ RAR เนื่องจากข้อมูลซ้ำซ้อนภายในไฟล์)Microsoft สร้างรูปแบบ BMP หรือที่เรียกว่า Device Independent Bitmap (DIB) เพื่อรักษารูปภาพที่จะไม่เปลี่ยนรูปเมื่อดูบนอุปกรณ์หลายส่วนหัวของแฟ้มในรูปแบบ BMP ประกอบด้วยการระบุบิตแมป ขนาดแฟ้ม ความกว้าง และความสูง วิธีการบีบอัดข้อมูล (ไม่จำเป็น) ตัวเลือกสี และจุดเริ่มต้นข้อมูลบิตแมปข้อมูลภาพพิกเซลดิบและข้อมูลโปรไฟล์สี ICC ที่เป็นตัวเลือกตามส่วนหัวโดยไม่ต้องบีบอัดข้อมูล โปรไฟล์สี หรือช่องสัญญาณอัลฟา ไฟล์ BMP จะถูกบันทึกเป็นภาพ 2D ที่มีขนาด เฉดสี และความลึกของสีที่แตกต่างกัน",
+    "Softwaresused": [
+        {
+            "platform": "ลินุกซ์",
+            "softwares": [
+                {
+                    "name": "มอซิลลา ไฟร์ฟอกซ์",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ไมโครซอฟท์ เอดจ์",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์พลัส — รับได้จากไมโครซอฟท์",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "อะโดบี โฟโตช็อป 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "อะโดบี วาดภาพประกอบ 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "รูปภาพของ Microsoft",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg"
+                },
+                {
+                    "name": "โปรแกรมแสดงภาพถ่ายของ Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "ตัวอย่างแอปเปิ้ล",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "แอปเปิลรูปภาพ",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "อะโดบี โฟโตช็อป 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "ACD ระบบ ACDSee Photo Studio สำหรับ Mac",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-mac/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "อะโดบี วาดภาพประกอบ 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "กูเกิ้ล รูปภาพ",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "ฟรี  "
+                },
+                {
+                    "name": "กูเกิลไดรฟ์",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "ฟรีเมียม"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์สำหรับ Android",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "กูเกิ้ล รูปภาพ",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "ฟรี  "
+                },
+                {
+                    "name": "กูเกิลไดรฟ์",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "ฟรีเมียม"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "กูเกิลไดรฟ์",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "กูเกิ้ล รูปภาพ",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "ฟรี  "
+                }
+            ]
+        }
+    ]
+}

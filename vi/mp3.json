@@ -1,0 +1,188 @@
+{
+    "Format": "MP3",
+    "ShortName": "MP3",
+    "FullName": "MPEG-1 Audio Layer III or MPEG-2 Audio Layer III",
+    "Category": "Tập tin âm thanh",
+    "Pros": "Được chấp nhận rộng rãi bởi tất cả. Thực tế tất cả các trình phát âm thanh phần cứng và tiện ích đều hỗ trợ nó. Tỷ lệ nén rất cao được cung cấp. Có thể được giải mã khá nhanh, và một cách tinh vi hơn. Một tiêu chuẩn ISO là một phần của thông số kỹ thuật MPEG. Bất cứ ai cũng có thể đặt phiên bản riêng của họ cùng với các nguồn demo có sẵn. Các yêu cầu cấp phép được thư giãn. Nó cung cấp hỗ trợ cho các tập tin đa kênh. ",
+    "Cons": "Hiệu suất và hiệu quả thấp hơn codec hiện tại. Tốc độ bit tối đa (320kbps) không phải lúc nào cũng đủ. Không có triển khai đa kênh nào có sẵn. Không tương thích với âm thanh độ nét cao (tốc độ lấy mẫu cao hơn 48kHz). Nguyên nhân tăng vi phạm bản quyền âm nhạc do tính sẵn có cao hơn và dễ sử dụng.",
+    "Createdby": "Nhóm chuyên gia hình ảnh di chuyển",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "1987",
+    "BasicInformation": "Định dạng tệp MP3 là tệp âm thanh nén sử dụng nén âm thanh “Lớp 3\". Nó được sản xuất bởi Nhóm chuyên gia hình ảnh chuyển động (MPEG) (MP3). Bản ghi âm, podcast, nhạc phim, bài giảng, audiobook, bài giảng, vv đều được lưu trữ rộng rãi dưới dạng tệp MP3.",
+    "DetailedInformation": "MPEG phát hành định dạng MP3 vào năm 1993, sau khi phát triển nó vào đầu những năm 1990. Nó có thể ngưng tụ âm thanh thành một phần nhỏ kích thước của các loại tệp âm thanh phổ biến khác vào thời điểm đó (khoảng 1/10 kích thước của tệp không nén hoặc.AIF). Vì vậy, định dạng này nhanh chóng trở thành tiêu chuẩn để lưu trữ nhạc và vượt lên trên các định dạng hiện có khác. Vào thời điểm đó, máy tính cung cấp không gian lưu trữ rất ít. Vì vậy, sự phát triển của định dạng MP3 là một sự kiện rất quan trọng. Hiện tại, MP3 là định dạng tệp âm thanh được sử dụng nhiều nhất. Kích thước tệp của tệp đa phương tiện có thể được giảm đáng kể khi nén MPEG, với mức giảm chất lượng tối thiểu có thể phát hiện được. Điều này cải thiện hiệu quả của việc truyền tệp qua Internet. Trong thập niên 1990 và 2000, công nghệ MP3 đã cách mạng hóa khái niệm phát nhạc được ghi lại bằng cách cho phép mọi người tải nhạc đơn giản và nhanh chóng hơn từ internet.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "XMMS",
+                    "link": "http://www.xmms.org/",
+                    "image": "/assets/fileimg/hodO9zz.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Amarok",
+                    "link": "https://amarok.kde.org/",
+                    "image": "/assets/fileimg/Dh0nFk6.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Audacity (Táo bạo)",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Clementine",
+                    "link": "https://www.clementine-player.org/about",
+                    "image": "/assets/fileimg/F87GDJM.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "các cửa sổ",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Trình phát phương tiện Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Audacity (Táo bạo)",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Trình xem tệp Plus - Tải nó từ Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg"
+                },
+                {
+                    "name": "Apple iTunes",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Adobe Audition 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Dùng thử miễn phí"
+                },
+                {
+                    "name": "Apple Âm nhạc",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Audacity (Táo bạo)",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Bánh mì nướng Roxio",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/vyEg9wb.jpeg",
+                    "type": "Trả tiền"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Apple Âm nhạc",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Trả tiền"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Trình xem tệp dành cho Android",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "antvplayer Media Converter",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Hệ điều hành Chrome",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Free"
+                }
+            ]
+        }
+    ]
+}

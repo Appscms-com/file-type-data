@@ -1,0 +1,182 @@
+{
+    "Format": "HEIC",
+    "ShortName": "HEIC",
+    "FullName": "High Efficiency Image Format",
+    "Category": "Tập tin ảnh Raster",
+    "Pros": "Chất lượng tuyệt vời của hình ảnh. Chiếm ít bộ nhớ hơn. Có thể lưu trữ nhiều hình ảnh trong một tệp. Can alaso lưu trữ các dẫn xuất hình ảnh.",
+    "Cons": "Không tương thích với tất cả các hệ thống và thiết bị. Không phổ biến lắm. Có vấn đề với bằng sáng chế. ",
+    "Createdby": "Nhóm chuyên gia hình ảnh di chuyển",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "2001",
+    "BasicInformation": "Một hoặc nhiều ảnh được lưu trữ ở Định dạng hình ảnh hiệu quả cao (HEIF), một định dạng tệp thường được sử dụng để lưu ảnh trên các thiết bị iOS, được chứa trong tệp HEIC. Nó bao gồm một hình ảnh hoặc một loạt hình ảnh, cũng như siêu dữ liệu đặc trưng cho từng hình ảnh, rất có thể được tạo bằng ứng dụng Camera trên iPhone hoặc iPad. Các tệp HEIC thường được lưu dưới dạng tệp.heic, mặc dù chúng có thể được lưu dưới dạng tệp.HEIF.",
+    "DetailedInformation": "HEIF, hay H.265, là một tiêu chuẩn lưu trữ hình ảnh kỹ thuật số giữ lại ảnh ở chất lượng cao hơn và trong các tập tin thấp hơn. JPEG là một định dạng hình ảnh kỹ thuật số. Điều này giúp tiết kiệm không gian trên thẻ nhớ và thiết bị di động bằng cách giảm kích thước ảnh. Apple đã giới thiệu HEIF định dạng lưu trữ ảnh mặc định cho các thiết bị iOS với việc phát hành iOS 11 vào năm 2017. Do điều chỉnh này, iPhone và iPad bắt đầu lưu hình ảnh của người dùng dưới dạng HEIC. Với sự ra đời của High Sierra, Apple đã kích hoạt khả năng tương thích HEIF với cả iOS và macOS. Google đã mở rộng hỗ trợ HEIF cho Android vào năm 2018 và Microsoft đã mang hỗ trợ HEIF cho Windows vào năm 2018. Người dùng phải cài đặt rõ ràng các gói Phần mở rộng hình ảnh của Microsoft HEIF và Phần mở rộng video HEVC từ Microsoft Store để mở tệp HEIC trong các ứng dụng của Microsoft. Khi bạn xuất hoặc chia sẻ ảnh được chụp bằng ứng dụng Camera trên thiết bị iOS sang thiết bị hoặc ứng dụng không phải iOS, nó thường được chuyển đổi từ định dạng HEIC sang tệp JPEG hoặc.JPG.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Free "
+                }
+            ]
+        },
+        {
+            "platform": "các cửa sổ",
+            "softwares": [
+                {
+                    "name": "Trình xem tệp Plus - Tải nó từ Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Free "
+                },
+                {
+                    "name": "Adobe Premiere Rush",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "Dùng thử miễn phí"
+                },
+                {
+                    "name": "Microsoft Windows Photos với HEIF Image Extensions và các gói phần mở rộng video HEVC được cài đặt",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab&ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-Tcw4tJawHA2VbfUU47cFuA&epi=4LioSo.jxMc-Tcw4tJawHA2VbfUU47cFuA&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xurhnaenupuk000%29%287593%29%281243925%29%284LioSo.jxMc-Tcw4tJawHA2VbfUU47cFuA%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xurhnaenupuk000",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg"
+                },
+                {
+                    "name": "TunesBro HEIC Chuyển đổi",
+                    "link": "https://www.tunesbro.com/heic-converter.html",
+                    "image": "/assets/fileimg/7eQehmc.jpeg",
+                    "type": "Dùng thử miễn phí"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple Xem trước",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Apple Hình ảnh",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Adobe Photoshop",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Dùng thử miễn phí"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Free "
+                },
+                {
+                    "name": "TunesBro HEIC Chuyển đổi",
+                    "link": "https://www.tunesbro.com/heic-converter.html",
+                    "image": "/assets/fileimg/7eQehmc.jpeg",
+                    "type": "Dùng thử miễn phí"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Apple Hình ảnh",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Dropbox",
+                    "link": "https://www.dropbox.com/?landing=dbv2",
+                    "image": "/assets/fileimg/ovQYI78.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Ảnh",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Free  "
+                },
+                {
+                    "name": "Adobe Premiere Rush",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "Dùng thử miễn phí"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Trình xem tệp dành cho Android",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Ảnh",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Free  "
+                },
+                {
+                    "name": "Adobe Premiere Rush",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "Dùng thử miễn phí"
+                },
+                {
+                    "name": "Dropbox",
+                    "link": "https://www.dropbox.com/?landing=dbv2",
+                    "image": "/assets/fileimg/ovQYI78.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Liên minh mềm đơn giản Luma: Trình xem và chuyển đổi HEIF",
+                    "link": "https://play.google.com/store/apps/details?id=luma.hevc.heif.image.viewer.converter",
+                    "image": "/assets/fileimg/1o2rNBD.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Ảnh",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Free  "
+                },
+                {
+                    "name": "Bộ giải mã trình xem ảnh HEIC",
+                    "link": "https://speedtesting.herokuapp.com/heicviewer/",
+                    "image": "/assets/fileimg/KXTzTK7.jpeg",
+                    "type": "Free"
+                }
+            ]
+        }
+    ]
+}

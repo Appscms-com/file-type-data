@@ -1,0 +1,164 @@
+{
+    "Format": "NEF",
+    "ShortName": "NEF",
+    "FullName": "Nikon Electronic Format RAW Image",
+    "Category": "攝像機原始文件",
+    "Pros": "當需要人類計算機處理時，NEF 文件更有益。這為提高圖像質量提供了很多可能性，這在 JPEG 文件中是不可能的。由於原始像素數據保留在 NEF 文件中，因此圖像質量要好得多。它們要麼使用無損技術進行壓縮，要麼根本沒有壓縮。JPEG 和 TIFF 照片的色調範圍和色彩精度比 NEF 圖像更窄。",
+    "Cons": "由於 NEF 文件比 JPEG 文件大得多，因此可以保存在卡片上的文件較少。這也是為什麼尼康相機需要更長時間才能將 RAW 文件保存到存儲卡。有許多 RAW 文件格式，專家們難以定義統一的 RAW 文件標準。尼康也因採用降噪而受到嚴重的破解，這已被證明會降低圖像質量。",
+    "Createdby": "尼康",
+    "CreatedbyLink": "https://www.nikon.co.in/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "使用尼康數碼相機拍攝的原始照片保存為 NEF 文件。它保存在尼康電子格式 (NEF) 中，它以與 CCD 相同的未壓縮格式保存數據。NEF 文件中也包含圖像元數據，例如使用的照相機 ID 和鏡頭。元數據包括鏡頭、鏡頭設置、相機等詳細信息。",
+    "DetailedInformation": "NEF 文件最常用於尼康射手。這些攝影師可能是專業人士或業餘愛好者，他們使用尼康相機捕捉照片並將原始數據保存為 NEF 文件。Raw 文件是尚未使用位圖圖形編輯器處理、打印或編輯的照片。原始文件嘗試儘可能地複製場景，包括照明、強度和顏色。攝像機傳感器捕獲的數據記錄在原始數據圖片中。NEF 文件可以以未壓縮或無損壓縮格式保存在照相機存儲卡上。NEF 文件類似於「數字底片」。儘管對 NEF 文件的圖像質量沒有爭論，但由於缺乏共同標準，軟件開發人員不會選擇這種格式。",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "科雷爾後射臨 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "免費試用"
+                }
+            ]
+        },
+        {
+            "platform": "視窗",
+            "softwares": [
+                {
+                    "name": "文件查看器加 — 從微軟獲取",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "微軟照片",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                },
+                {
+                    "name": "圖片店",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "免費試用"
+                },
+                {
+                    "name": "尼康查看 X2",
+                    "link": "https://imaging.nikon.com/lineup/software/viewnx2/",
+                    "image": "/assets/fileimg/pgXaxjb.jpeg"
+                },
+                {
+                    "name": "科雷爾後射臨 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "免費試用"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "蘋果預覽",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                },
+                {
+                    "name": "蘋果照片",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                },
+                {
+                    "name": "圖片店",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "免費試用"
+                },
+                {
+                    "name": "尼康查看 X2",
+                    "link": "https://imaging.nikon.com/lineup/software/viewnx2/",
+                    "image": "/assets/fileimg/pgXaxjb.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "科雷爾後射臨 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "免費試用"
+                }
+            ]
+        },
+        {
+            "platform": "iOS版",
+            "softwares": [
+                {
+                    "name": "蘋果照片",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                },
+                {
+                    "name": "圖片店 ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "谷歌照片",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "免費  "
+                },
+                {
+                    "name": "谷歌快照種子",
+                    "link": "https://apps.apple.com/us/app/snapseed/id439438619?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/p5rWIzT.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "安卓",
+            "softwares": [
+                {
+                    "name": "安卓文件查看器",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "圖片店快捷",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "谷歌照片",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "免費  "
+                },
+                {
+                    "name": "谷歌快照種子",
+                    "link": "https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en_US",
+                    "image": "/assets/fileimg/p5rWIzT.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "谷歌照片",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "免費  "
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "Format": "FLAC",
+    "ShortName": "FLAC",
+    "FullName": "Free Lossless Audio Codec",
+    "Category": "音頻文件",
+    "Pros": "在一個微小的文件大小中出色的音頻質量。許多系統都與它兼容。源代碼是開放的，許可證是免費的。硬件協助（PhatBox，建伍音樂庫，裏約因果報應等）可用。支持流式傳輸。解碼真的很快支持多通道和高分辨率饋送。支持重放增益。支持使用提示板（有一些限制）作為縮短的替代品，它越來越受歡迎。",
+    "Cons": "其他突出的電流壓縮機（猴子的音頻，LPAC，OptimFrog）壓縮更有效。較高的壓縮選項是緩慢的，與默認設置相比，提供了最小的改進。",
+    "Createdby": "西弗公司基金會",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "2001",
+    "BasicInformation": "首字母縮寫 FLAC 是指免費無損音頻編解碼器。FLAC 是一種無損 MP3 格式。FLAC 最常用於古典音樂，其中音質至關重要。FLAC 因其音質而變得相當受歡迎。FLAC 文件現在可以像 MP3 文件一樣在您最喜歡的播放器中播放（或在車輛或家庭立體聲）中播放。",
+    "DetailedInformation": "FLAC 是由 Xiph.org 成員開發的一種音頻壓縮格式。壓縮是無損的，這意味着不會丟失任何數據，也不會犧牲質量。FLAC 允許用户以原始媒體質量保存文件，使其非常適合備份音頻數據，因為有形的音頻文件副本容易被破壞。FLAC 是一種廣泛採用的格式，可將數字音頻的大小減少 60% 左右，並且通常在大多數主要平台上得到支持。Xiph.org 基金會創建了這種格式，這是開源的。隨着 FLAC 文件，可以生成一個 FLAC 指紋文件，其中包含 FLAC 文件的文件名和校驗和信息。FLAC 文件經常用於實時流式處理和解碼。FLAC 項目由多個組件組成，包括流格式、容器格式、編碼器和解碼器參考庫以及輸入插件。",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "視頻網絡 VLC 媒體播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "大膽",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "阿圖內斯",
+                    "link": "http://www.atunes.org/",
+                    "image": "/assets/fileimg/U6hLUgu.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "視窗",
+            "softwares": [
+                {
+                    "name": "文件查看器加 — 從微軟獲取",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "視頻網絡 VLC 媒體播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "大膽",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg"
+                },
+                {
+                    "name": "試鏡 CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "免費試用"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "視頻網絡 VLC 媒體播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "大膽",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "阿圖內斯",
+                    "link": "http://www.atunes.org/",
+                    "image": "/assets/fileimg/U6hLUgu.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "試鏡 CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "免費試用"
+                }
+            ]
+        },
+        {
+            "platform": "iOS版",
+            "softwares": [
+                {
+                    "name": "視頻移動 VLC",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "金耳",
+                    "link": "https://apps.apple.com/us/app/golden-ear/id407945101?ign-mpt=uo%3D8",
+                    "image": "/assets/fileimg/upbts7y.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "莫利普爾",
+                    "link": "https://apps.apple.com/us/app/moli-player-hd-free-movie-music-player-for-network/id598886783?ign-mpt=uo%3D8",
+                    "image": "/assets/fileimg/FAo0QEL.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "安卓",
+            "softwares": [
+                {
+                    "name": "安卓文件查看器",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "適用於安卓系統的 VLC",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "傑陶迪奧",
+                    "link": "https://play.google.com/store/apps/details?id=com.jetappfactory.jetaudio",
+                    "image": "/assets/fileimg/jcTagMw.jpeg",
+                    "type": "免費增值"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "鉻測試版",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "免費"
+                }
+            ]
+        }
+    ]
+}

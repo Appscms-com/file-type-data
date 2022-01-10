@@ -1,0 +1,88 @@
+{
+    "Format": "OPUS",
+    "ShortName": "OPUS",
+    "FullName": "Opus Audio File",
+    "Category": "แฟ้มเสียง",
+    "Pros": "ช่วยให้สามารถรับส่งข้อมูลได้เร็วขึ้นผ่านหลายช่องทางการทดสอบคุณภาพเสียงเผยให้เห็นว่าจะคืนค่าเสียงต้นฉบับได้อย่างมีประสิทธิภาพมากขึ้นที่อัตราบิตเรตและอัตราการสุ่มตัวอย่างต่างๆมั่นใจได้ถึงประสิทธิภาพการทำงานที่สอดคล้องกันในหลากหลายสถานการณ์โครงสร้างที่มุ่งเน้นในอนาคตสำหรับบริการโทรคมนาคมจำนวนมากปรับให้เข้ากับชนิดข้อมูลเสียงบางส่วนสามารถชดเชยการสูญเสียคุณภาพในระหว่างการส่งข้อมูล, ช่วยให้สามารถถ่ายโอนข้อมูลสดอย่างต่อเนื่องโดยไม่หยุดชะงัก. ",
+    "Cons": "ไม่รองรับการใช้งานหลายโปรแกรมตัวแปลงสัญญาณ Opus เป็นเรื่องผิดปกติ",
+    "Createdby": "ซิพ.ออร์ก ",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "2012",
+    "BasicInformation": "Opus เป็นตัวแปลงสัญญาณใหม่ที่ผลิตโดยทีมงานผู้เชี่ยวชาญจากมูลนิธิ Xiph.Org (Mozilla Corporation) และ Skype Technologies S.A.มันมีข้อดีทั้งหมดของ MP3 ในขณะที่ลดข้อบกพร่องของมันบทประพันธ์รวมตัวแปลงสัญญาณ CELT และ SILK",
+    "DetailedInformation": "ไฟล์โอปุสเป็นไฟล์เสียงแบบสูญเสียซึ่งสร้างขึ้นในรูปแบบโอปุส (บางครั้งเรียกว่า “Ogg Opus”) ซึ่งออกแบบมาสำหรับการสตรีมมิ่งทางอินเทอร์เน็ตมันสนับสนุนอัตราบิตที่แตกต่างกันจาก 6 กิโลไบต์/วินาทีถึง 510 กิโลไบต์/วินาทีและมีพนักงานทั้งซิลค์ (ใช้โดย Skype) และ CELT (จาก Xiph.Org) ตัวแปลงสัญญาณVoice over IP (VoIP) การประชุมผ่านวิดีโอ และการสนทนาในเกมทั้งหมดจะใช้ตัวแปลงสัญญาณ OpusIETF ได้กำหนดรูปแบบโอปุส (Opus format) ซึ่งใช้กันอย่างแพร่หลายIETF ได้มาตรฐานรูปแบบ Opus ซึ่งได้รับการดูแลโดย Xiph.Orgเนื่องจากตัวแปลงสัญญาณ Opus ส่วนใหญ่จะใช้สำหรับการสตรีมมิ่ง แฟ้มที่มีนามสกุล.opus จึงเป็นเรื่องผิดปกติ",
+    "Softwaresused": [
+        {
+            "platform": "ลินุกซ์",
+            "softwares": [
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์พลัส — รับได้จากไมโครซอฟท์",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "จุดมุ่งหมาย",
+                    "link": "http://www.aimp2.us/",
+                    "image": "/assets/fileimg/sOBpiyF.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ฟูบาร์2000",
+                    "link": "https://www.foobar2000.org/",
+                    "image": "/assets/fileimg/c2PuNRk.jpeg"
+                },
+                {
+                    "name": "เครื่องมือบทประพันธ์",
+                    "link": "https://www.opus-codec.org/downloads/",
+                    "image": "/assets/fileimg/7xNWYRA.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์สำหรับ Android",
+                    "link": "",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "เครื่องเล่นบทประพันธ์",
+                    "link": "https://play.google.com/store/apps/details?id=com.littlepako.opusplayer3&hl=en_US&gl=US",
+                    "image": "/assets/fileimg/irCSU4s.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "Format": "MP3",
+    "ShortName": "MP3",
+    "FullName": "MPEG-1 Audio Layer III or MPEG-2 Audio Layer III",
+    "Category": "音頻文件",
+    "Pros": "被所有人廣泛接受。幾乎所有硬件音頻播放器和小工具都支持它。提供非常高的壓縮率。可以非常快速地解碼，並且以更複雜的方式。作為 MPEG 規範一部分的 ISO 標準。任何人都可以將自己的版本與可用的演示源一起。許可要求網已經放鬆。它提供對多通道文件的支持。 ",
+    "Cons": "性能和效率低於當前編解碼器。最大比特率（320kbps）並不總是很好。還沒有多通道實現可用。與高清音頻不兼容（採樣速率高於 48kHz）。由於更高的可用性和易用性，導致音樂盜版的增加。",
+    "Createdby": "移動圖片專家組",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "1987",
+    "BasicInformation": "MP3 文件格式是使用「第 3 層」音頻壓縮的壓縮音頻文件。它是由移動圖片專家組（MPEG）（MP3）製作的。錄音、播客、配樂、佈道、有聲讀物、講座等都廣泛存儲為 MP3 文件。",
+    "DetailedInformation": "MPEG 於 1990 年代初開發了 MP3 格式後，於 1993 年發佈了該格式。它可以將音頻壓縮到當時其他常見音頻文件類型大小的一小部分（約為 uncompressed.WAV or.AIF 文件大小的 1/10）。因此，這種格式很快成為存儲音樂的標準，並高於其他現有的格式。當時，計算機提供的存儲空間非常少。所以，MP3 格式的開放是一個非常關鍵的事件。目前，MP3 是最常用的音頻文件格式。通過 MPEG 壓縮，多媒體文件的文件大小可以大大降低，從而最大限度地減少可檢測到的質量損失。這提高了通過互聯網傳輸文件的效率。在 20 世紀 90 年代和 2000 年代，MP3 技術徹底改變了錄製音樂流媒體的概念，讓人們能夠更簡單快速地從互聯網下載音樂。",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "視頻網絡 VLC 媒體播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "XMMS",
+                    "link": "http://www.xmms.org/",
+                    "image": "/assets/fileimg/hodO9zz.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "阿馬羅克",
+                    "link": "https://amarok.kde.org/",
+                    "image": "/assets/fileimg/Dh0nFk6.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "大膽",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "克萊門汀",
+                    "link": "https://www.clementine-player.org/about",
+                    "image": "/assets/fileimg/F87GDJM.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "視窗",
+            "softwares": [
+                {
+                    "name": "視頻網絡 VLC 媒體播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "微軟視窗媒體播放器",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                },
+                {
+                    "name": "大膽",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "文件查看器加 — 從微軟獲取",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg"
+                },
+                {
+                    "name": "蘋果伊圖尼斯",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "試鏡 CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "免費試用"
+                },
+                {
+                    "name": "蘋果音樂",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                },
+                {
+                    "name": "大膽",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "視頻網絡 VLC 媒體播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "羅克西奧吐司",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/vyEg9wb.jpeg",
+                    "type": "已付費"
+                }
+            ]
+        },
+        {
+            "platform": "iOS版",
+            "softwares": [
+                {
+                    "name": "蘋果音樂",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                },
+                {
+                    "name": "視頻網絡 VLC 媒體播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "奧姆軟膠光層",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "已付費"
+                }
+            ]
+        },
+        {
+            "platform": "安卓",
+            "softwares": [
+                {
+                    "name": "安卓文件查看器",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "對手媒體轉換器",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "谷歌驅動器",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "免費增值"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "谷歌驅動器",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "鉻操作系統",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                },
+                {
+                    "name": "谷歌瀏覽器",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "免費"
+                }
+            ]
+        }
+    ]
+}

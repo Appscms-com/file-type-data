@@ -1,0 +1,170 @@
+{
+    "Format": "FLAC",
+    "ShortName": "FLAC",
+    "FullName": "Free Lossless Audio Codec",
+    "Category": "Berkas audio",
+    "Pros": "Kualitas audio yang sangat baik dalam ukuran file kecil. Banyak sistem yang kompatibel dengannya. Kode sumber terbuka dan lisensi gratis. Bantuan perangkat keras (PhatBox, Kenwood MusicKeg, Rio Karma, dll.) Tersedia. Dukungan untuk streaming. Decoding sangat cepat. Umpan multichannel dan resolusi tinggi didukung. Replay Gain didukung. Mendukung penggunaan lembar isyarat (dengan beberapa keterbatasan) Sebagai pengganti Shorten, itu mendapatkan popularitas.",
+    "Cons": "Kompresor arus menonjol lainnya (Monkey Audio, LPAC, OptimFrog) kompres lebih efisien. Pilihan kompresi yang lebih tinggi lamban dan memberikan perbaikan minimal atas pengaturan default.",
+    "Createdby": "Yayasan Xiph.Org",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "2001",
+    "BasicInformation": "Akronim FLAC mengacu pada Free Lossless Audio Codec. FLAC adalah format MP3 lossless. FLAC paling sering digunakan dalam musik klasik, di mana kualitas suara sangat penting. FLAC telah tumbuh cukup populer sebagai hasil dari kualitas suaranya. File FLAC sekarang dapat dimainkan di pemain favorit Anda (atau di kendaraan Anda atau stereo rumah) persis seperti file MP3.",
+    "DetailedInformation": "FLAC adalah format kompresi audio yang dikembangkan oleh anggota Xiph.org. Kompresi adalah lossless, yang berarti bahwa tidak ada data yang hilang dan tidak ada kualitas dikorbankan. FLAC memungkinkan pengguna untuk menyimpan file pada kualitas media aslinya, sehingga sangat baik untuk mencadangkan data audio karena salinan file audio yang nyata rentan terhadap kerusakan. FLAC adalah format yang diadopsi secara luas yang mengurangi ukuran audio digital sekitar 60% dan umumnya didukung di platform yang paling utama. Yayasan Xiph.Org menciptakan format, yang merupakan open source. Seiring dengan file FLAC, file FLAC Fingerprint, yang terdiri dari nama file dan informasi checksum untuk file FLAC, dapat dihasilkan. File FLAC sering digunakan untuk streaming dan decoding real-time. Proyek FLAC terdiri dari beberapa komponen, termasuk format aliran, format kontainer, perpustakaan referensi encoder dan decoder, dan plugin masukan.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Pemutar Media VLC VideoLAN",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Keberanian",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "aTunes",
+                    "link": "http://www.atunes.org/",
+                    "image": "/assets/fileimg/U6hLUgu.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Dapatkan dari Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Pemutar Media VLC VideoLAN",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Keberanian",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg"
+                },
+                {
+                    "name": "Adobe Audisi CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Uji coba gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Pemutar Media VLC VideoLAN",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Keberanian",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "aTunes",
+                    "link": "http://www.atunes.org/",
+                    "image": "/assets/fileimg/U6hLUgu.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Adobe Audisi CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Uji coba gratis"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Videolan VLC untuk ponsel",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Telinga Emas",
+                    "link": "https://apps.apple.com/us/app/golden-ear/id407945101?ign-mpt=uo%3D8",
+                    "image": "/assets/fileimg/upbts7y.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Moliplayer",
+                    "link": "https://apps.apple.com/us/app/moli-player-hd-free-movie-music-player-for-network/id598886783?ign-mpt=uo%3D8",
+                    "image": "/assets/fileimg/FAo0QEL.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Penampil file untuk Android",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Videolabs VLC untuk Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "JetAudio",
+                    "link": "https://play.google.com/store/apps/details?id=com.jetappfactory.jetaudio",
+                    "image": "/assets/fileimg/jcTagMw.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Versi Chrome Beta",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "Format": "WAV",
+    "ShortName": "WAV",
+    "FullName": "WAVE Audio File",
+    "Category": "ملف صوتي",
+    "Pros": "يمكن لجميع تطبيقات Windows تقريبًا التي تدعم الصوت تشغيلها. فك التشفير في عجلة من أمره.",
+    "Cons": "حجم الملف ضخم للغاية.",
+    "Createdby": "آي بي إم ومايكروسوفت",
+    "CreatedbyLink": "https://www.ni.com/en-in/support/downloads/dataplugins/download.microsoft-ibm-dataplugin-for-audio.html",
+    "CreatedInYear": "1991",
+    "BasicInformation": "أنشأت Microsoft تنسيق ملف WAV للملفات الصوتية. يشار إليه الآن على أنه تنسيق ملف صوتي قياسي للكمبيوتر الشخصي نظرًا لاستخدامه على نطاق واسع. WAV هو امتداد الملف الذي يحدد ملف Wave (.wav). تمت الموافقة على تنسيق ملف Wave، الذي يستخدم إلى حد كبير على أجهزة الكمبيوتر، كوسيط تبادل شرعي لمنصات الكمبيوتر الأخرى، بما في ذلك Macintosh.",
+    "DetailedInformation": "ملف WAV هو ملف صوتي محفوظ بتنسيق WAVE، وهو تنسيق ملف صوتي رقمي شائع لتخزين بيانات الشكل الموجي. يمكن أن تتضمن ملفات WAV تسجيلات صوتية مع مجموعة متنوعة من معدلات أخذ العينات ومعدلات البت، على الرغم من أنها يتم حفظها بشكل شائع بتنسيق ستيريو 44.1 كيلو هرتز، 16 بت، وهو المعيار لصوت الأقراص المضغوطة. يتيح ذلك لمنشئي المحتوى نقل الملفات الصوتية بسهولة بين الأنظمة الأساسية، على سبيل المثال، للمعالجة. يتيح ذلك لمنشئي المحتوى نقل الملفات الصوتية بسهولة بين الأنظمة الأساسية، على سبيل المثال، للمعالجة. يمكن العثور على أصوات مثل التأثيرات والموسيقى والتسجيلات الصوتية فيها. يمكن فتح ملفات WAV وتشغيلها بواسطة مشغلات الوسائط المتعددة مثل Windows Media Player و QuickTime وغيرها. يعتمد تنسيق WAVE على تنسيق ملف تبادل الموارد (RIFF)، والذي يستخدم في الغالب لحفظ ملفات الفيديو والصوت. في أوائل التسعينيات، تعاونت Microsoft و IBM لإنشاء تنسيق WAVE، والذي أصبح المعيار لتخزين الصوت الخام غير المضغوط في Microsoft Windows.",
+    "Softwaresused": [
+        {
+            "platform": "لينكس",
+            "softwares": [
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "XMMS",
+                    "link": "http://www.xmms.org/",
+                    "image": "/assets/fileimg/hodO9zz.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "كليمنتين",
+                    "link": "https://www.clementine-player.org/about",
+                    "image": "/assets/fileimg/F87GDJM.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "شبابيك",
+            "softwares": [
+                {
+                    "name": "عارض الملفات بلس - احصل عليه من Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "ميكروسوفت ويندوز ميديا بلاير",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg"
+                },
+                {
+                    "name": "كليمنتين",
+                    "link": "https://www.clementine-player.org/about",
+                    "image": "/assets/fileimg/F87GDJM.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "رفيق",
+            "softwares": [
+                {
+                    "name": "أبل كويك تايم بلاير",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "آبل اي تيونز",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "روكسيو توست 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "مدفوعة"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "أوليمسفت أوبلاير",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "مدفوعة"
+                },
+                {
+                    "name": "Videolan VLC للجوال",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "أندرويد",
+            "softwares": [
+                {
+                    "name": "عارض الملفات لنظام Android",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "Videolabs VLC لالروبوت",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "محول وسائل الإعلام antvplayer",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "محرك جوجل",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "فريميوم"
+                }
+            ]
+        },
+        {
+            "platform": "نظام كرومي أوس",
+            "softwares": [
+                {
+                    "name": "محرك جوجل",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "نظام التشغيل كروم",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "جوجل كروم",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        }
+    ]
+}

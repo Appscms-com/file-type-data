@@ -1,0 +1,48 @@
+{
+    "Format": "VMV",
+    "ShortName": "VMV",
+    "FullName": "VisualBoyAdvance Recording",
+    "Category": "Игровые файлы",
+    "Pros": "п/у",
+    "Cons": "п/у",
+    "Createdby": "Визуальный мальчик Advance",
+    "CreatedbyLink": "https://visualboyadvance.en.softonic.com/",
+    "CreatedInYear": "N/A",
+    "BasicInformation": "VisualBoyAdvance, эмулятор Gameboy Advance, создал запись игры, которая сохраняет нажатия клавиш и другие данные, что позволяет снова воспроизводить запись в эмуляторе. Запись сохраняется в собственном формате, который невозможно воспроизвести стандартными видеоплеерами.",
+    "DetailedInformation": "Формат VMV, используемый VisualBoyAdvance, несовместим с форматом VMV, используемым Virtuanes.",
+    "Softwaresused": [
+        {
+            "platform": "Линукс",
+            "softwares": [
+                {
+                    "name": "Визуальный мальчик Advance",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Визуальный мальчик Advance",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "Мак",
+            "softwares": [
+                {
+                    "name": "Визуальный мальчик Advance",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        }
+    ]
+}

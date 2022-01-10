@@ -1,0 +1,123 @@
+{
+    "Format": "M4A",
+    "ShortName": "M4A",
+    "FullName": "MPEG-4 Audio File",
+    "Category": "Plik audio",
+    "Pros": "Chociaż plik M4A jest skompresowany, jakość pozostaje niezmieniona. Fakt, że pliki audio M4A nie są chronione przez zarządzanie prawami cyfrowymi (DRM) oznacza, że mogą być modyfikowane i przesyłane swobodniej.",
+    "Cons": "M4A to format plików, który jest dobrze znany w iTunes, iPod i innych urządzeniach Apple. Jednak w porównaniu do plików MP3 odtwarzanie dźwięku M4A jest problematyczne ze względu na brak kompatybilności z innymi urządzeniami.",
+    "Createdby": "Apple",
+    "CreatedbyLink": "https://developer.apple.com/",
+    "CreatedInYear": "2004",
+    "BasicInformation": "Plik M4A to plik audio MPEG-4, który został zakodowany za pomocą Advanced Audio Coding (AAC) lub Apple Lossless Audio Codec (ALAC). Może zawierać różne pliki audio, w tym utwory, podcasty i książki audio.",
+    "DetailedInformation": "MPEG-4 to multimedialny format kontenera dla danych audio i wideo, które są skompresowane. Pliki MP4, które przechowują dane audio i wideo, używają tego formatu. Przyrostek m4a, który oznacza „MPEG-4 Audio”, został utworzony, ponieważ pliki M4A zawierają wyłącznie dane audio. Ta zmiana nazewnictwa ułatwiła odróżnienie między plikami wideo MPEG-4 a plikami audio MPEG-4. Istnieje opcja kompresji stratnej, podobnie jak w przypadku innych typów plików audio, i osiąga się ją za pomocą kodowania AAC. Format Apple Lossless umożliwia bezstratną kompresję, której nie można osiągnąć w przypadku innych formatów audio.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Odtwarzacz multimedialny VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Darmowy"
+                }
+            ]
+        },
+        {
+            "platform": "Okna",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Pobierz go od firmy Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft Windows Media Player",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Bezpłatny, dołączony do systemu operacyjnego"
+                },
+                {
+                    "name": "Odtwarzacz multimedialny VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Bezpłatne wersje próbne"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple iTunes",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Apple QuickTime Player",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Bezpłatny, dołączony do systemu operacyjnego"
+                },
+                {
+                    "name": "Odtwarzacz multimedialny VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Bezpłatne wersje próbne"
+                },
+                {
+                    "name": "Eltima Elmedia Odtwarzacz",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Darmowy"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Videolan VLC dla urządzeń przenośnych",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Darmowy"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Przeglądarka plików dla Androida",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Videolabs VLC dla Androida",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Darmowy"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "Format": "HEIC",
+    "ShortName": "HEIC",
+    "FullName": "High Efficiency Image Format",
+    "Category": "光柵圖像文件",
+    "Pros": "高質量的圖像。佔用更少的存儲空間。可以在一個文件中存儲多個圖像。可以阿拉索存儲圖像派生.",
+    "Cons": "不兼容所有系統和設備。不是很受歡迎有與專利有關的問題。 ",
+    "Createdby": "移動圖片專家組",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "2001",
+    "BasicInformation": "HEIC 文件中包含以高效圖像格式 (HEIF) 存儲的一張或多張照片，這是一種最常用於在 iOS 設備上保存照片的文件格式。它包括圖像或一系列圖像，以及表徵每個圖像的元數據，這些元數據很可能是在 iPhone 或 iPad 上使用相機應用創建的。HEIC 文件通常保存為 .heic 文件，儘管它們可以另存為 .heif 文件。",
+    "DetailedInformation": "HEIF，或 H.265，是一種數字圖片存儲標準，可以保留照片質量更高，文件低於.JPEG 是一種數字圖像格式。這樣可以通過減少照片大小來節省存儲卡和移動設備上的空間。蘋果推出了 HEIF 默認照片存儲格式的 iOS 設備與 iOS 11 在 2017 年的發佈。由於這一調整，iPhone 和 iPad 開始將用户的圖像保存為 HEIC。隨着高塞拉利昂的推出，蘋果啟用了 HEIF 兼容的 iOS 和 macOS。谷歌在 2018 年將 HEIF 支持擴展到安卓系統，微軟在 2018 年為視窗提供了高速投資支持。用户必須從微軟應用商店顯式安裝微軟 HEIF 映像擴展程序和 HEVC 視頻擴展程序包，才能在 Microsoft 應用程序中打開 HEIC 文件。當您將使用 iOS 設備上的相機應用程序拍攝的照片導出或共享到非 iOS 設備或應用程序時，通常會從 HEIC 格式轉換為 JPEG or.JPG 文件。",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "免費 "
+                }
+            ]
+        },
+        {
+            "platform": "視窗",
+            "softwares": [
+                {
+                    "name": "文件查看器加 — 從微軟獲取",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "免費 "
+                },
+                {
+                    "name": "Adobe 首映拉什",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "免費試用"
+                },
+                {
+                    "name": "安裝了 HEIF 圖像擴展程序和 HEVC 視頻擴展程序包的微軟視窗照片",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab&ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-Tcw4tJawHA2VbfUU47cFuA&epi=4LioSo.jxMc-Tcw4tJawHA2VbfUU47cFuA&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xurhnaenupuk000%29%287593%29%281243925%29%284LioSo.jxMc-Tcw4tJawHA2VbfUU47cFuA%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xurhnaenupuk000",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg"
+                },
+                {
+                    "name": "圖恩斯伯羅 HEIC 轉換器",
+                    "link": "https://www.tunesbro.com/heic-converter.html",
+                    "image": "/assets/fileimg/7eQehmc.jpeg",
+                    "type": "免費試用"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "蘋果預覽",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                },
+                {
+                    "name": "蘋果照片",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                },
+                {
+                    "name": "圖片店",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "免費試用"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "免費 "
+                },
+                {
+                    "name": "圖恩斯伯羅 HEIC 轉換器",
+                    "link": "https://www.tunesbro.com/heic-converter.html",
+                    "image": "/assets/fileimg/7eQehmc.jpeg",
+                    "type": "免費試用"
+                }
+            ]
+        },
+        {
+            "platform": "iOS版",
+            "softwares": [
+                {
+                    "name": "蘋果照片",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                },
+                {
+                    "name": "Dropbox",
+                    "link": "https://www.dropbox.com/?landing=dbv2",
+                    "image": "/assets/fileimg/ovQYI78.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "谷歌驅動器",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "谷歌照片",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "免費  "
+                },
+                {
+                    "name": "Adobe 首映拉什",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "免費試用"
+                }
+            ]
+        },
+        {
+            "platform": "安卓",
+            "softwares": [
+                {
+                    "name": "安卓文件查看器",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "谷歌照片",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "免費  "
+                },
+                {
+                    "name": "Adobe 首映拉什",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "免費試用"
+                },
+                {
+                    "name": "Dropbox",
+                    "link": "https://www.dropbox.com/?landing=dbv2",
+                    "image": "/assets/fileimg/ovQYI78.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "簡單的軟聯盟亮度：HEIF 查看器和轉換器",
+                    "link": "https://play.google.com/store/apps/details?id=luma.hevc.heif.image.viewer.converter",
+                    "image": "/assets/fileimg/1o2rNBD.jpeg",
+                    "type": "免費增值"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "谷歌照片",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "免費  "
+                },
+                {
+                    "name": "HEIC 圖像查看器解碼器",
+                    "link": "https://speedtesting.herokuapp.com/heicviewer/",
+                    "image": "/assets/fileimg/KXTzTK7.jpeg",
+                    "type": "免費"
+                }
+            ]
+        }
+    ]
+}

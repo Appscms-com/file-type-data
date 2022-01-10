@@ -1,0 +1,146 @@
+{
+    "Format": "TIFF",
+    "ShortName": "TIFF",
+    "FullName": "Tagged Image File Format",
+    "Category": "ملفات الصور النقطية",
+    "Pros": "صور عديمة الخسارة وذات جودة ممتازة. يتم دعم العديد من التنسيقات. يدعم طبقات متعددة.",
+    "Cons": "حجم الملف كبير جدًا. ليست مثالية للاستخدام على الإنترنت.",
+    "Createdby": "أنظمة أدوبي",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "1986",
+    "BasicInformation": "مصطلح TIFF لتقف على تنسيق ملف الصورة الموسومة. إنه تنسيق ملف نقطي للصور الرقمية. يحتوي على رسومات عالية الجودة مع أعماق ألوان تتراوح من 1 إلى 24 بت وضغط ضياع وبدون فقدان. يتم دعم طبقات وصفحات متعددة أيضًا بواسطة ملفات TIFF.",
+    "DetailedInformation": "تم إنشاء TIFF من قبل شركة Aldus Corporation في منتصف الثمانينيات كتنسيق صورة قياسي للحفاظ على الصور الملونة عالية الجودة على مجموعة متنوعة من منصات الكمبيوتر. على الرغم من استخدامه على نطاق واسع، فإن تنسيق JPEG طغى عليه في النهاية لأنه كان أكثر كفاءة وصديقة للويب. يمكن أيضًا تخزين الصور والرسومات الخطية عليها. نظرًا لتزايد شعبية برامج وتكنولوجيا المسح الضوئي، تم إنشاء تنسيق ملف TIFF، وكان يعتبر حتى التنسيق القياسي للصور الممسوحة ضوئيًا.",
+    "Softwaresused": [
+        {
+            "platform": "لينكس",
+            "softwares": [
+                {
+                    "name": "جيمب",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "مجاني "
+                },
+                {
+                    "name": "ليبر أوفيس",
+                    "link": "https://www.libreoffice.org/",
+                    "image": "/assets/fileimg/cPO8bqH.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "شبابيك",
+            "softwares": [
+                {
+                    "name": "عارض الملفات بلس - احصل عليه من Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "صور ميكروسوفت",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "عارض صور مايكروسوفت ويندوز",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "مايكروسوفت بينت",
+                    "link": "https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9",
+                    "image": "/assets/fileimg/AuNqAKT.jpeg"
+                },
+                {
+                    "name": "ACD Systems ACDSe",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                }
+            ]
+        },
+        {
+            "platform": "رفيق",
+            "softwares": [
+                {
+                    "name": "معاينة أبل",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "صور أبل",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "أدوبي فوتوشوب 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "أدوبي إيلوستراتور 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "روكسيو توست 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "مدفوعة"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "صور أبل",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "صور جوجل",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "مجاني  "
+                }
+            ]
+        },
+        {
+            "platform": "أندرويد",
+            "softwares": [
+                {
+                    "name": "عارض الملفات لنظام Android",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "صور جوجل",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "مجاني  "
+                }
+            ]
+        },
+        {
+            "platform": "نظام كرومي أوس",
+            "softwares": [
+                {
+                    "name": "صور جوجل",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "مجاني  "
+                }
+            ]
+        }
+    ]
+}

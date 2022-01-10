@@ -1,0 +1,176 @@
+{
+    "Format": "WEBP",
+    "ShortName": "WEBP",
+    "FullName": "Web Picture",
+    "Category": "Raster Görüntü Dosyaları",
+    "Pros": "Dosya boyutları daha küçüktür. Sıkıştırma algoritması geliştirildi. Düz renk degradeleri. Alfa kanalını maskelemek.",
+    "Cons": "Tarayıcı desteği eksik. Dışa aktarma arayüzü zayıftır. Artifacting plastikten yapılmış gibi görünüyor.",
+    "Createdby": "Google",
+    "CreatedbyLink": "https://developers.google.com/",
+    "CreatedInYear": "2010",
+    "BasicInformation": "WEBP dosyası, Google tarafından WebP adı verilen web grafikleri için geliştirilen bir raster görüntü formatıdır (“Weppy” olarak telaffuz edilir). WebP biçimi, dosyaları tipik JPEG sıkıştırmasından daha verimli bir şekilde sıkıştırırken, JPEG ile karşılaştırılabilir veya daha büyük görüntü kalitesini korur. .PNG'ye benzer şekilde, kayıplı ve kayıpsız sıkıştırma sağlar ve saydamlık için bir alfa kanalı içerir.",
+    "DetailedInformation": "Google tarafından 2010'da oluşturulan açık standart WEBP resim formatı, kullanıcıların fotoğrafları hem kayıplı hem de kayıpsız sıkıştırmada kaydetmelerine olanak tanır. Google geliştiricilerine göre sıkıştırma verimliliği, fotoğrafların JPEG ve PNG görüntülerden% 34'e kadar daha az boyutlara küçültülmesini sağlarken mükemmel kaliteyi koruyor. WebP formatı, 2009 yılında Google tarafından satın alınan On2 Technologies'in teknolojisine dayanmaktadır. 2010 yılında duyurulan biçim, Kaynak Değişim Dosya Biçimi (RIFF) temel alan bir kapsayıcı kullanır. Apple Safari ve Microsoft Internet Explorer dışında, çoğu web tarayıcısı 2019'dan itibaren WEBP dosyalarını kabul eder. Hipotez, WEBP görüntüleri yapmak için kullanılan teknolojiyi kullanarak (yaygın olarak benimsenmesini varsayarak), internet bir bütün olarak hızlandırılabilir, çünkü WEBP görüntüleri daha az depolama alanı gerektirdiğinden, daha büyük miktarlarda görüntülerin aynı anda dünya çapında daha yüksek hızlarda aynı anda görüntülenmesini sağlar.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "WebP Codec",
+                    "link": "https://developers.google.com/speed/webp/download",
+                    "image": "/assets/fileimg/NY9GTXm.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "ImageMagick",
+                    "link": "https://imagemagick.org/index.php",
+                    "image": "/assets/fileimg/hJWCII5.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Microsoft'tan edinin",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft Edge",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg"
+                },
+                {
+                    "name": "Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "WebP Codec",
+                    "link": "https://developers.google.com/speed/webp/download",
+                    "image": "/assets/fileimg/NY9GTXm.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "ImageMagick",
+                    "link": "https://imagemagick.org/index.php",
+                    "image": "/assets/fileimg/hJWCII5.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Google Fotoğraflar",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Ücretsiz  "
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Android için dosya görüntüleyici",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Fotoğraflar",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Ücretsiz  "
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Fotoğraflar",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Ücretsiz  "
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Chrome OS",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                }
+            ]
+        }
+    ]
+}

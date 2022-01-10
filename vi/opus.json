@@ -1,0 +1,88 @@
+{
+    "Format": "OPUS",
+    "ShortName": "OPUS",
+    "FullName": "Opus Audio File",
+    "Category": "Tập tin âm thanh",
+    "Pros": "Cho phép truyền dữ liệu nhanh hơn qua một số kênh. Các thử nghiệm chất lượng âm thanh cho thấy rằng nó khôi phục âm thanh ban đầu hiệu quả hơn ở các tốc độ bit và tốc độ lấy mẫu khác nhau. Đảm bảo hiệu suất nhất quán trong một loạt các tình huống. Một cấu trúc định hướng tương lai cho nhiều dịch vụ viễn thông. Thích ứng với loại thông tin âm thanh. Có thể bù đắp một phần cho tổn thất chất lượng trong quá trình truyền, cho phép truyền dữ liệu trực tiếp liên tục mà không bị gián đoạn. ",
+    "Cons": "Không được hỗ trợ bởi nhiều ứng dụng. Opus codec là không phổ biến.",
+    "Createdby": "Xiph.Org ",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "2012",
+    "BasicInformation": "Opus là một codec mới được sản xuất bởi một nhóm các chuyên gia từ Xiph.Org Foundation (Mozilla Corporation) và Skype Technologies S.A. (Microsoft). Nó có tất cả những lợi thế của MP3 trong khi giảm thiểu sai sót của nó. Opus kết hợp codec CELT và SILK.",
+    "DetailedInformation": "Tệp OPUS là một tệp âm thanh mất dữ liệu được tạo ở định dạng Opus (đôi khi được gọi là “Ogg Opus”), được thiết kế để phát trực tuyến Internet. Nó hỗ trợ tốc độ bit khác nhau từ 6 kb/s đến 510 kb/s và sử dụng cả codec SILK (được Skype sử dụng) và CELT (từ Xiph.Org). Voice over IP (VoIP), hội nghị truyền hình và trò chuyện trong trò chơi đều sử dụng codec Opus. IETF đã xác định định dạng Opus, được sử dụng rộng rãi. IETF đã chuẩn hóa định dạng Opus, được duy trì bởi Xiph.Org. Bởi vì codec Opus chủ yếu được sử dụng để phát trực tuyến, các tệp có phần mở rộng.opus là không phổ biến.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "các cửa sổ",
+            "softwares": [
+                {
+                    "name": "Trình xem tệp Plus - Tải nó từ Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "AIMP",
+                    "link": "http://www.aimp2.us/",
+                    "image": "/assets/fileimg/sOBpiyF.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Foobar2000",
+                    "link": "https://www.foobar2000.org/",
+                    "image": "/assets/fileimg/c2PuNRk.jpeg"
+                },
+                {
+                    "name": "Công cụ Opus",
+                    "link": "https://www.opus-codec.org/downloads/",
+                    "image": "/assets/fileimg/7xNWYRA.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Trình xem tệp dành cho Android",
+                    "link": "",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Máy nghe nhạc Opus",
+                    "link": "https://play.google.com/store/apps/details?id=com.littlepako.opusplayer3&hl=en_US&gl=US",
+                    "image": "/assets/fileimg/irCSU4s.jpeg",
+                    "type": "Free"
+                }
+            ]
+        }
+    ]
+}

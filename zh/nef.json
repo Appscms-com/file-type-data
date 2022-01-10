@@ -1,0 +1,164 @@
+{
+    "Format": "NEF",
+    "ShortName": "NEF",
+    "FullName": "Nikon Electronic Format RAW Image",
+    "Category": "相机 Raw 文件",
+    "Pros": "当需要人工计算机处理时，NEF文件更有用。这为提高图像质量提供了很多可能性，而这在JPEG文件中是不可能的。由于原始像素数据保留在 NEF 文件中，因此图像质量要好得多。它们要么使用无损技术进行压缩，要么根本不压缩。与NEF图像相比，JPEG和TIFF照片的色调范围和色彩精度更窄。",
+    "Cons": "由于NEF文件比JPEG文件大得多，因此可以保存在卡片上的文件更少。这也是为什么尼康相机需要更长的时间才能将RAW文件保存到存储卡中的原因。RAW文件格式很多，专家们很难定义统一的RAW文件标准。尼康还因采用降噪功能而受到谴责，事实证明，降噪会降低图像质量。",
+    "Createdby": "尼康",
+    "CreatedbyLink": "https://www.nikon.co.in/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "使用尼康数码相机拍摄的 raw 照片将另存为 NEF 文件。它以尼康电子格式（NEF）保存，该格式以与CCD相同的未压缩格式保存数据。NEF 文件中还包含图像元数据，例如所使用的相机 ID 和镜头。元数据包括镜头、镜头设置、相机等的详细信息。",
+    "DetailedInformation": "NEF文件是尼康射手最常用的。这些摄影师可能是专业人士或业余爱好者，他们使用尼康相机拍摄照片并将原始数据保存为NEF文件。原始文件是尚未使用位图图形编辑器处理、打印或编辑的照片。原始文件尝试尽可能地复制场景，包括光照、强度和颜色。相机传感器捕获的数据记录在原始数据照片中。NEF文件可以未压缩或无损压缩格式保存在相机存储卡上。NEF文件类似于 “数字底片”。尽管对NEF文件的图像质量没有争议，但由于缺乏通用标准，软件开发人员并没有选择这种格式。",
+    "Softwaresused": [
+        {
+            "platform": "Linux的",
+            "softwares": [
+                {
+                    "name": "Corel afterShot Pro 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "免费试用"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — 从微软获取",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "免费增值"
+                },
+                {
+                    "name": "微软照片",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "免费，包含在操作系统中"
+                },
+                {
+                    "name": "Adobe Photos",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "免费试用"
+                },
+                {
+                    "name": "尼康 viewNX2",
+                    "link": "https://imaging.nikon.com/lineup/software/viewnx2/",
+                    "image": "/assets/fileimg/pgXaxjb.jpeg"
+                },
+                {
+                    "name": "Corel afterShot Pro 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "免费试用"
+                }
+            ]
+        },
+        {
+            "platform": "苹果电脑",
+            "softwares": [
+                {
+                    "name": "苹果预览版",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "免费，包含在操作系统中"
+                },
+                {
+                    "name": "苹果照片",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "免费，包含在操作系统中"
+                },
+                {
+                    "name": "Adobe Photos",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "免费试用"
+                },
+                {
+                    "name": "尼康 viewNX2",
+                    "link": "https://imaging.nikon.com/lineup/software/viewnx2/",
+                    "image": "/assets/fileimg/pgXaxjb.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "Corel afterShot Pro 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "免费试用"
+                }
+            ]
+        },
+        {
+            "platform": "iOS系统",
+            "softwares": [
+                {
+                    "name": "苹果照片",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "免费，包含在操作系统中"
+                },
+                {
+                    "name": "Adobe ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "免费增值"
+                },
+                {
+                    "name": "谷歌相册",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "免费  "
+                },
+                {
+                    "name": "谷歌快照种子",
+                    "link": "https://apps.apple.com/us/app/snapseed/id439438619?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/p5rWIzT.jpeg",
+                    "type": "免费"
+                }
+            ]
+        },
+        {
+            "platform": "安卓",
+            "softwares": [
+                {
+                    "name": "安卓版文件查看器",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "免费增值"
+                },
+                {
+                    "name": "Adobe Photos",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "免费增值"
+                },
+                {
+                    "name": "谷歌相册",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "免费  "
+                },
+                {
+                    "name": "谷歌快照种子",
+                    "link": "https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en_US",
+                    "image": "/assets/fileimg/p5rWIzT.jpeg",
+                    "type": "免费"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "谷歌相册",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "免费  "
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,206 @@
+{
+    "Format": "PNG",
+    "ShortName": "PNG",
+    "FullName": "Portable Network Graphics",
+    "Category": "Format grafis gambar bit-peta",
+    "Pros": "Kehilangan kompresi disimpan seminimal mungkin. Rasio kompresi tidak berpengaruh pada kualitas gambar. Formatnya sangat baik untuk menyimpan versi menengah gambar. Kualitas gambar tidak hilang ketika disimpan kembali. PNG mendukung sejumlah besar warna. Hal ini memungkinkan untuk beberapa tingkat transparansi. Kemampuan untuk bekerja dengan lapisan. Kemampuan untuk menambah file meta-data. Ukuran file kecil.",
+    "Cons": "Tidak cocok untuk bekerja dengan foto penuh warna. Tidak dapat menyimpan banyak gambar dalam satu file. Tidak mengizinkan animasi.",
+    "Createdby": "Grup Pengembangan PNG",
+    "CreatedbyLink": "http://www.libpng.org/pub/png/",
+    "CreatedInYear": "1996",
+    "BasicInformation": "File gambar yang disimpan dalam format Portable Network Graphic (PNG) dikenal sebagai file PNG. Ini berisi bitmap terkompresi lossless, sebanding dengan file .GIF. Grafik web, gambar digital, dan gambar dengan latar belakang tembus cahaya biasanya disimpan sebagai file PNG. Awalnya, format gambar PNG dimaksudkan untuk menggantikan format gambar GIF karena keduanya mendukung latar belakang transparan. Penggunaan warna diindeks dan kompresi lossless adalah kesamaan lain antara keduanya. File PNG, di sisi lain, tidak tunduk pada pembatasan hak cipta yang sama.",
+    "DetailedInformation": "Overlayed pada latar belakang kotak-kotak adalah gambar PNG dengan lapisan transparansi 8-bit (atas) (bawah). PNG menggunakan deflasi, teknik kompresi data lossless yang tidak dipatenkan. PNG dapat memampatkan gambar lebih efisien daripada GIF dalam banyak kasus, namun beberapa implementasi menggunakan metode filter yang tidak memadai, sehingga menghasilkan file PNG yang sangat besar. Ada tiga jenis transparansi dalam format PNG- satu untuk diindeks, gambar berwarna, dan dua untuk gambar greyscale atau true-color. Nilai gamma, warna latar belakang, dan konten tekstual adalah atribut gambar yang dapat direkam dalam file PNG. Standar ini memungkinkan hingga 16 bit per saluran, namun, sebagian besar pelanggan hanya membutuhkan 8 bit per saluran. Untuk menyimpan gambar, format PNG banyak digunakan, terutama di internet. Hal ini dapat menangani 24-bit RGB atau 32-bit RGBA (RGB dengan alpha channel keempat) gambar warna yang diindeks (berbasis palet). Foto RGB atau RGBA yang penuh warna dan tidak diindeks, serta gambar grayscale, didukung oleh formatnya. File PNG mungkin ditemui oleh berbagai pengguna komputer, apakah mereka mengunduh gambar dari situs web, menerima foto digital yang dilampirkan ke email, atau mengambil tangkapan layar. Untuk penggunaan web, desainer grafis sering menyimpan grafis sebagai file PNG. Mereka juga menggunakan file PNG untuk menyimpan logo tembus atau ikon mockup yang dapat dilapis di atas gambar lainnya.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Gratis "
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Ujung Microsoft",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Foto Microsoft",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                },
+                {
+                    "name": "Penampil Foto Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                },
+                {
+                    "name": "Cat Microsoft",
+                    "link": "https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9",
+                    "image": "/assets/fileimg/AuNqAKT.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                },
+                {
+                    "name": "Microsoft Cat 3D",
+                    "link": "https://www.microsoft.com/en-us/p/paint-3d/9nblggh5fv99?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/7Z9sNdy.jpeg"
+                },
+                {
+                    "name": "ACD Sistem ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/acdsee.png",
+                    "type": "Uji coba gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Pratinjau Apel",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                },
+                {
+                    "name": "Foto Apple",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                },
+                {
+                    "name": "Apel Safari",
+                    "link": "https://www.apple.com/safari/",
+                    "image": "/assets/fileimg/PePZ5cb.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Uji coba gratis"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Foto Google",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Gratis  "
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft OneDrive",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "Uji coba gratis"
+                },
+                {
+                    "name": "Adobe Photoshop Ekspres",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop-express/id331975235?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Uji coba gratis"
+                },
+                {
+                    "name": "Pixelmator 2",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/HmizpGb.jpeg",
+                    "type": "Dibayar"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "File Viewer untuk Android",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Foto Google",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Gratis  "
+                },
+                {
+                    "name": "Microsoft OneDrive",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Adobe Photoshop Ekspres",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Foto Google",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Gratis  "
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Chrome OS",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                }
+            ]
+        }
+    ]
+}

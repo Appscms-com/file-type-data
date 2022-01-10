@@ -1,0 +1,206 @@
+{
+    "Format": "PNG",
+    "ShortName": "PNG",
+    "FullName": "Portable Network Graphics",
+    "Category": "Grafische indeling voor bit-map-afbeeldingen",
+    "Pros": "Compressieverlies wordt tot een absoluut minimum beperkt. Elke compressieverhouding heeft geen effect op de beeldkwaliteit. Het formaat is uitstekend geschikt voor het opslaan van tussenliggende versies van de afbeelding. De kwaliteit van een afbeelding gaat niet verloren wanneer deze opnieuw wordt opgeslagen. PNG ondersteunt een groot aantal kleuren. Het zorgt voor meerdere niveaus van transparantie. De mogelijkheid om met lagen te werken. De mogelijkheid om metagegevens aan het bestand toe te voegen. De grootte van de bestanden is klein.",
+    "Cons": "Niet geschikt voor het werken met kleurenfoto's. Kan niet veel afbeeldingen in één bestand opslaan. Animatie is niet toegestaan.",
+    "Createdby": "PNG-ontwikkelingsgroep",
+    "CreatedbyLink": "http://www.libpng.org/pub/png/",
+    "CreatedInYear": "1996",
+    "BasicInformation": "Een afbeeldingsbestand dat is opgeslagen in de Portable Network Graphic (PNG) -indeling staat bekend als een PNG-bestand. Het bevat een gecomprimeerde bitmap zonder verlies, vergelijkbaar met die van een .GIF-bestand. Webafbeeldingen, digitale afbeeldingen en afbeeldingen met doorschijnende achtergronden worden meestal opgeslagen als PNG-bestanden. Oorspronkelijk was het PNG-afbeeldingsformaat bedoeld om het GIF-afbeeldingsformaat te vervangen omdat ze beide transparante achtergronden ondersteunen. Het gebruik van geïndexeerde kleuren en verliesloze compressie is een andere overeenkomst tussen de twee. PNG-bestanden daarentegen zijn niet onderworpen aan dezelfde auteursrechtbeperkingen.",
+    "DetailedInformation": "Overlay op een geruite achtergrond is een PNG-afbeelding met een 8-bits transparantielaag (boven) (onder). PNG maakt gebruik van deflatie, een niet-gepatenteerde technologie voor gegevenscompressie zonder verlies. PNG kan afbeeldingen in de meeste gevallen efficiënter comprimeren dan GIF, maar sommige implementaties gebruiken onvoldoende filtermethoden, wat resulteert in onnodig grote PNG-bestanden. Er zijn drie soorten transparantie in het PNG-formaat: één voor geïndexeerde kleurenafbeeldingen en twee voor afbeeldingen in grijstinten of ware kleuren. Gammawaarden, achtergrondkleur en tekstuele inhoud zijn allemaal afbeeldingskenmerken die kunnen worden opgenomen in PNG-bestanden. De standaard maakt tot 16 bits per kanaal mogelijk, maar de meeste klanten hebben slechts 8 bits per kanaal nodig. Voor het opslaan van afbeeldingen wordt het PNG-formaat veel gebruikt, vooral op internet. Het kan 24-bits RGB- of 32-bits RGBA (RGB met een vierde alfakanaal) kleurenafbeeldingen verwerken die geïndexeerd zijn (palettengebaseerd). Full colour, niet-geïndexeerde RGB- of RGBA-foto's, evenals afbeeldingen met grijswaarden, worden ondersteund door het formaat. PNG-bestanden kunnen door verschillende computergebruikers worden aangetroffen, of ze nu een afbeelding downloaden van een website, een digitale foto ontvangen die aan een e-mail is gekoppeld of een screenshot maken. Voor webgebruik slaan grafische ontwerpers vaak afbeeldingen op als PNG-bestanden. Ze gebruiken ook PNG-bestanden om doorschijnende logo- of pictogrammockups op te slaan die over andere afbeeldingen kunnen worden gelegd.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Gratis "
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Microsoft Edge",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Ramen",
+            "softwares": [
+                {
+                    "name": "Microsoft-foto's",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "Microsoft Windows-fotoviewer",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "Microsoft Paint",
+                    "link": "https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9",
+                    "image": "/assets/fileimg/AuNqAKT.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "Microsoft Paint 3D",
+                    "link": "https://www.microsoft.com/en-us/p/paint-3d/9nblggh5fv99?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/7Z9sNdy.jpeg"
+                },
+                {
+                    "name": "ACD-systemen ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/acdsee.png",
+                    "type": "Gratis proefversie"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple Preview",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "foto's van Apple",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "Apple Safari",
+                    "link": "https://www.apple.com/safari/",
+                    "image": "/assets/fileimg/PePZ5cb.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Gratis proefversie"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Google foto's",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Gratis  "
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft OneDrive",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "Gratis proefversie"
+                },
+                {
+                    "name": "Adobe Photoshop Express",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop-express/id331975235?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Gratis proefversie"
+                },
+                {
+                    "name": "Pixelmator 2",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/HmizpGb.jpeg",
+                    "type": "Betaald"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Bestandsviewer voor Android",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google foto's",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Gratis  "
+                },
+                {
+                    "name": "Microsoft OneDrive",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Adobe Photoshop Express",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google foto's",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Gratis  "
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Chrome-besturingssysteem",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                }
+            ]
+        }
+    ]
+}

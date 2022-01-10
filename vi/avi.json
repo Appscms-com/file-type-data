@@ -1,0 +1,164 @@
+{
+    "Format": "AVI",
+    "ShortName": "AVI",
+    "FullName": "Audio Video Interleave File",
+    "Category": "Tập tin video",
+    "Pros": "Độ trung thực chất lượng âm thanh tuyệt vời đáng chú ý. Có rất nhiều codec có thể được sử dụng để đạt tỷ lệ thích hợp trong khi nén tệp trực tuyến. Bởi vì nó được tạo ra bởi Microsoft, nó có thể được phát trên tất cả các hệ điều hành lớn của Microsoft và không phải Microsoft. Không giống như các định dạng âm thanh/video khác, tiêu chuẩn DV-AVI có thể được nén. Nó không đòi hỏi phải sử dụng bất kỳ phần cứng hoặc phần mềm cụ thể nào. Do khả năng nén của nó, định dạng video AVI thường được sử dụng cho quảng cáo, phim ngắn và quảng cáo. Đối với các tệp chính, chất lượng được giữ lại với AVI là tốt.",
+    "Cons": "Nhiều người trở nên thất vọng khi họ không thể tìm thấy codec từ một nguồn an toàn, uy tín. Người dùng có thể thấy sự phá vỡ trong kinh nghiệm của họ không mong muốn ngay cả khi những nguồn đó có sẵn. Khi so sánh với các định dạng tệp khác, tệp AVI có thể khá lớn nếu chúng không được nén. Khi bạn nén tệp AVI trực tuyến trên các giới hạn cụ thể, chất lượng video bị ảnh hưởng. Tương tác người dùng không được hỗ trợ. Có ot hỗ trợ softsubs.",
+    "Createdby": "Microsoft",
+    "CreatedbyLink": "https://developer.microsoft.com/en-us/",
+    "CreatedInYear": "1992",
+    "BasicInformation": "Tệp AVI là tệp video được lưu trữ trong định dạng bộ chứa đa phương tiện Audio Video Interleave (AVI) được tạo bởi Microsoft-created. Nó chứa các tập tin video và âm thanh được mã hóa trong một loạt các codec, bao gồm DivX và Xvid. Các tệp AVI có thể được phát bằng nhiều trình phát video khác nhau, bao gồm Microsoft Movies & TV, Windows Media Player và Apple QuickTime Player, tất cả đều được cài đặt sẵn với hệ điều hành tương ứng của chúng.",
+    "DetailedInformation": "Định dạng AVI dựa trên Định dạng tệp trao đổi tài nguyên (RIFF), một định dạng vùng chứa để lưu trữ đa phương tiện được phát hành lần đầu tiên vào năm 1991. Microsoft đã tạo ra định dạng AVI một năm sau đó vào năm 1992, và nó vẫn được sử dụng rộng rãi ngày nay. Nó được hỗ trợ bởi một loạt các trình phát video, tuy nhiên để video phát thành công, trình phát phải hỗ trợ codec được sử dụng để mã hóa dữ liệu video.Để hỗ trợ phát lại đồng thời, AVI kết hợp âm thanh và video vào một tệp duy nhất trong một thùng chứa chung. Ưu điểm của nó là kiến trúc đơn giản, cho phép nó hoạt động trên nhiều hệ điều hành khác nhau, bao gồm Windows, Mac, Linux và Unix, và được hỗ trợ bởi tất cả các trình duyệt web lớn.Nó có thể lưu trữ video và âm thanh chất lượng cao và sử dụng ít nén hơn các định dạng video khác như.MPEG và.MOV.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Xine",
+                    "link": "https://sourceforge.net/projects/xine/",
+                    "image": "/assets/fileimg/11To9CR.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Kodi",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "các cửa sổ",
+            "softwares": [
+                {
+                    "name": "Trình xem tệp Plus - Tải nó từ Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Trình phát phương tiện Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Microsoft Phim và truyền hình",
+                    "link": "https://www.microsoft.com/en-us/p/movies-tv/9wzdncrfj3p2?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/fVyIEs4.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "Kodi",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Máy nghe nhạc Apple QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Kodi",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Adobe Premiere Pro 2020",
+                    "link": "https://www.adobe.com/products/premiere.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/RUVWLwB.jpeg",
+                    "type": "Dùng thử miễn phí"
+                },
+                {
+                    "name": "Trình phát Eltima Elmedia",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Videolan VLC cho điện thoại di động",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Trả tiền"
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Google Drive",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Videolabs VLC dành cho Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "BIT Labs Trình phát video MP4 đơn giản",
+                    "link": "https://play.google.com/store/apps/details?id=air.br.com.bitlabs.VideoPlayer&hl=en",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

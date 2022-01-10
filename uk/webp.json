@@ -1,0 +1,176 @@
+{
+    "Format": "WEBP",
+    "ShortName": "WEBP",
+    "FullName": "Web Picture",
+    "Category": "Файли растрових зображень",
+    "Pros": "Розміри файлів менше. Алгоритм стиснення був вдосконалений. Кольорові градієнти, які є більш плавними. Маскування альфа-каналу.",
+    "Cons": "Бракує підтримки браузера. Інтерфейс для експорту поганий. Артефактінг, здається, зроблений з пластика.",
+    "Createdby": "Google",
+    "CreatedbyLink": "https://developers.google.com/",
+    "CreatedInYear": "2010",
+    "BasicInformation": "Файл WEBP - це формат растрового зображення, розроблений Google для веб-графіки під назвою WebP (вимовляється «Weppy»). Формат WebP стискає файли ефективніше, ніж типове стиснення JPEG, зберігаючи якість зображення, яку можна порівняти або більше, ніж у JPEG. Подібно до.PNG, він дозволяє стиснення без втрат і без втрат і містить альфа-канал для прозорості.",
+    "DetailedInformation": "Відкритий стандартний формат зображення WEBP, створений Google в 2010 році, дозволяє користувачам зберігати фотографії як в стисненні з втратами, так і без втрат. Ефективність стиснення, на думку розробників Google, дозволяє зменшуватися фотографії до розмірів до 34% менше, ніж зображення JPEG та PNG, зберігаючи при цьому чудову якість. Формат WebP заснований на технології On2 Technologies, яка була придбана Google в 2009 році. Формат, який був анонсований в 2010 році, використовує контейнер на основі формату Resource Interchange File Format (RIFF). За винятком Apple Safari та Microsoft Internet Explorer, більшість веб-браузерів приймають файли WEBP станом на 2019 рік. Гіпотеза полягає в тому, що за допомогою технології, що використовується для створення зображень WEBP (припускаючи широке впровадження), Інтернет в цілому може бути прискорений, оскільки зображення WEBP вимагають менше місця для зберігання, що дозволяє переглядати більшу кількість зображень одночасно з більш високими швидкостями по всьому світу.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Гугл Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Опера",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "WebP кодек",
+                    "link": "https://developers.google.com/speed/webp/download",
+                    "image": "/assets/fileimg/NY9GTXm.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "ImageMagick",
+                    "link": "https://imagemagick.org/index.php",
+                    "image": "/assets/fileimg/hJWCII5.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "Вікна",
+            "softwares": [
+                {
+                    "name": "Переглядач файлів плюс — Отримати його від Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Майкрософт Край",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Гугл Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg"
+                },
+                {
+                    "name": "Опера",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Гугл Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Опера",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "WebP кодек",
+                    "link": "https://developers.google.com/speed/webp/download",
+                    "image": "/assets/fileimg/NY9GTXm.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "ImageMagick",
+                    "link": "https://imagemagick.org/index.php",
+                    "image": "/assets/fileimg/hJWCII5.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Google Фото",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Безкоштовно  "
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Переглядач файлів для Android",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Google Фото",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Безкоштовно  "
+                },
+                {
+                    "name": "Гугл Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Фото",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Безкоштовно  "
+                },
+                {
+                    "name": "Гугл Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "ОС Chrome",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                }
+            ]
+        }
+    ]
+}

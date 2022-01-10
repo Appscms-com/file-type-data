@@ -1,0 +1,26 @@
+{
+    "Format": "DVD",
+    "ShortName": "DVD",
+    "FullName": "DOS Device Driver",
+    "Category": "Berkas sistem",
+    "Pros": "Kapasitas penyimpanannya sangat besar. Kualitas suara dan gambar keduanya bagus. Karena diproduksi secara massal, harganya cukup murah. CD dapat dibaca oleh DVD drive.",
+    "Cons": "DVD tidak kompatibel dengan drive CD. Tidak ada standar DVD tunggal. Melanggar atau menggaruknya adalah cara sederhana untuk menghancurkannya.",
+    "Createdby": "N/A",
+    "CreatedbyLink": "n/a",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "File DVD digunakan sebagai driver untuk perangkat berbasis MS-DOS. File driver ini memungkinkan komputer atau perangkat lain untuk berkomunikasi dengan sistem operasi, dalam hal ini MS-DOS. Mereka mungkin datang dikonfigurasi dengan Windows atau memerlukan instalasi dari DVD disertakan dengan perangkat keras.",
+    "DetailedInformation": "File DVD sering bingung dengan file video yang berisi salinan film pada disk. File-file film biasanya disimpan sebagai file VOB, meskipun fakta bahwa media bernama DVD. Driver dan file DVD terkadang sudah terinstal di Windows. Namun, driver mungkin perlu dipasang secara manual pada kesempatan. Hal ini biasanya dilakukan dengan bantuan disk atau media lain yang disertakan dengan perangkat. Di situs web mereka, beberapa perusahaan juga memberikan unduhan driver untuk produk mereka.",
+    "Softwaresused": [
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Microsoft MS-DOS",
+                    "link": "https://www.microsoft.com/en-us/p/ms-dos-mobile/9nblgggxzdtw?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/XxsKREw.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        }
+    ]
+}

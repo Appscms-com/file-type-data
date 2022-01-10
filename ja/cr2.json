@@ -1,0 +1,170 @@
+{
+    "Format": "CR2",
+    "ShortName": "CR2",
+    "FullName": "Canon Raw Image File",
+    "Category": "カメラ RAW ファイル",
+    "Pros": "並外れた品質の写真。一般的に使用されるイメージ形式。オリジナリティは維持された。信頼できるブランド名とファイル形式。",
+    "Cons": "ファイルサイズが大きく、編集が難しい。ストレージの共有に関する懸念は困難な作業です。",
+    "Createdby": "キヤノン",
+    "CreatedbyLink": "https://in.canon/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "さまざまなキヤノンのデジタルカメラで作成されたRAWカメラ画像は、CR2ファイルとして知られています。非圧縮の画像データをCCDと同じ形式で保存します。CR2ファイルは、より高品質の写真を保存するため、プロの写真家が一般的に使用します。",
+    "DetailedInformation": "CR2ファイルの保存には、TIFF仕様に基づいたCanon Rawバージョン2形式が使用されます。CR2写真は、EOS 1DマークIV、EOS 450D、EOS Rebel T3など、キヤノンのさまざまなデジタルカメラタイプで作成できます。センサーからストレージデバイスに直接データを転送します。JPG や PNG のようには見えません。写真を RAW 形式で保存すると、品質低下を最小限に抑えながら、ポストプロダクションでかなり詳細に操作できます。JPG などの画像形式を使用すると、画質が大幅に低下します。CR2 イメージはまだ印刷できる状態になっておらず、ビットマップエディタで修正することはできません。生の写真は、デジタル形式のフィルムネガに類似しています。",
+    "Softwaresused": [
+        {
+            "platform": "リナックス",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "無料 "
+                },
+                {
+                    "name": "gphoto2",
+                    "link": "https://gphoto.sourceforge.io/",
+                    "image": "https://image.flaticon.com/icons/png/512/1063/1063308.png",
+                    "type": "無料"
+                },
+                {
+                    "name": "gThumb",
+                    "link": "https://wiki.gnome.org/Apps/Gthumb",
+                    "image": "/assets/fileimg/lWFl5mc.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "MATE と Atril ドキュメントビューア",
+                    "link": "https://mate-desktop.org/",
+                    "image": "/assets/fileimg/p64BUbi.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "ファイルビューアープラス — マイクロソフトから入手",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "マイクロソフトフォト",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "アドビフォトショップ 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "フリートライアル"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg"
+                },
+                {
+                    "name": "FastStone イメージビューアー",
+                    "link": "https://www.faststone.org/FSViewerDetail.htm",
+                    "image": "/assets/fileimg/6z9n45v.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "マック",
+            "softwares": [
+                {
+                    "name": "Apple プレビュー",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "アップルフォト",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "アドビフォトショップ 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "フリートライアル"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "無料 "
+                },
+                {
+                    "name": "スナップコンバーター",
+                    "link": "https://snapconverter.com/",
+                    "image": "/assets/fileimg/EuFgmVh.jpeg",
+                    "type": "有料"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "アップルフォト",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "アドビフォトショップ ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "グーグル・フォト",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "無料  "
+                }
+            ]
+        },
+        {
+            "platform": "アンドロイド",
+            "softwares": [
+                {
+                    "name": "アンドロイド用ファイルビューア",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "アドビフォトショップエクスプレス",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "グーグル・フォト",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "無料  "
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "グーグル・フォト",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "無料  "
+                }
+            ]
+        }
+    ]
+}

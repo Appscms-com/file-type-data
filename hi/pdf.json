@@ -1,0 +1,212 @@
+{
+    "Format": "PDF",
+    "ShortName": "PDF",
+    "FullName": "Portable Document Format",
+    "Category": "पेज लेआउट फ़ाइल/ दस्तावेज़",
+    "Pros": "PDF एक बहुत ही लोकप्रिय फ़ाइल स्वरूप है। जिस तरह से इसे बनाया गया था, उसी तरह पीडीएफ को किसी भी ऑपरेटिंग सिस्टम के साथ किसी भी डिवाइस पर देखा जा सकता है। इसे देखना बहुत सरल है। क्योंकि यह कई छवि संपीड़न तकनीकों का समर्थन करता है, पीडीएफ आपकी हार्ड ड्राइव पर अपेक्षाकृत कम जगह लेता है। सुरक्षा सेटिंग्स को उपयोगकर्ता द्वारा अनुकूलित किया जा सकता है, उदाहरण के लिए, मुद्रण या संपादन को प्रतिबंधित करना। प्रारूप दस्तावेज़ की प्रामाणिकता को सत्यापित करने के लिए इलेक्ट्रॉनिक हस्ताक्षरों का उपयोग करने की अनुमति देता है।",
+    "Cons": "PDF फाइलों का संपादन मुफ्त नहीं है। अन्य फ़ाइल स्वरूपों को पीडीएफ फाइलों की तुलना में संपादित करना आसान है, जिन्हें विशेष उपकरणों के साथ संशोधित किया जाना चाहिए। पीडीएफ फाइलों में टेक्स्ट के साथ काम करना चुनौतीपूर्ण है क्योंकि उन्हें एक तस्वीर के रूप में व्याख्या किया जाता है।",
+    "Createdby": "एडोब सिस्टम्स",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "1993",
+    "BasicInformation": "एडोब सिस्टम्स ने पीडीएफ प्रारूप बनाया, जो पोर्टेबल डॉक्यूमेंट फॉर्मेट के लिए है। पीडीएफ फाइलें एक परिभाषित लेआउट (एक तस्वीर की तरह) में एक दस्तावेज़ प्रदर्शित करती हैं जो कार्यक्रमों, हार्डवेयर और ऑपरेटिंग सिस्टम की एक विस्तृत श्रृंखला के साथ संगत है। यह उपयोगकर्ता को कई छवियों, फोंट और पाठ प्रारूपों को एक प्रिंट-तैयार दस्तावेज़ में संयोजित करने की अनुमति देता है जिसे किसी भी डिवाइस से साझा किया जा सकता है।",
+    "DetailedInformation": "क्योंकि PDF एक खुला मानक है, कोई भी ऐसे ऐप्स बना सकता है जो लाइसेंस शुल्क का भुगतान किए बिना PDF पढ़ और लिख सकते हैं। 2004 से, 3D आर्टवर्क का समर्थन किया गया है, और इन फ़ाइलों को पासवर्ड सुरक्षित, एन्क्रिप्ट और परिवर्तित किया जा सकता है। एडोब एक्रोबैट रीडर (मल्टी-प्लेटफॉर्म) और एडोब एक्रोबैट (मल्टी-प्लेटफॉर्म) सहित कई तरह के ऐप पीडीएफ फाइलों को खोल और प्रदर्शित कर सकते हैं, जो उन्हें संपादित भी कर सकते हैं। एडोब एक्रोबैट या कोई भी पीडीएफ एप्लीकेशन पीडीएफ फाइल बनाता है। यह एक मल्टी-प्लेटफॉर्म डॉक्यूमेंट है। पीडीएफ प्रारूप का व्यापक रूप से दस्तावेजों और प्रकाशनों को एक सामान्य प्रारूप में सहेजने के लिए उपयोग किया जाता है जिसे विभिन्न प्लेटफार्मों पर देखा जा सकता है। कई परिस्थितियों में, पीडीएफ फाइलों को खरोंच से बनाने के बजाय, मौजूदा दस्तावेजों से पीडीएफ फाइलें बनाई जाती हैं। पीडीएफ फाइलों को विभिन्न प्रकार के टूल के साथ बनाया जा सकता है, जिसमें वर्ड प्रोसेसर, पिक्चर एडिटर्स और पीडीएफ फाइल यूटिलिटीज जैसे एडोब एक्रोबैट शामिल हैं। Windows और macOS में, आप प्रिंट संवाद का उपयोग करके दस्तावेज़ों से PDF फ़ाइलें भी बना सकते हैं।",
+    "Softwaresused": [
+        {
+            "platform": "लिनक्स",
+            "softwares": [
+                {
+                    "name": "एडोब एक्रोबैट रीडर डीसी",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "गूगल क्रोम",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "जताना",
+                    "link": "https://wiki.gnome.org/Apps/Evince",
+                    "image": "/assets/fileimg/diIDQ4M.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "लिब्रे ऑफिस",
+                    "link": "https://www.libreoffice.org/",
+                    "image": "/assets/fileimg/cPO8bqH.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "केडीई ओकुलर",
+                    "link": "https://okular.kde.org/",
+                    "image": "/assets/fileimg/PtakFU2.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "एडोब एक्रोबैट रीडर डीसी",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "गूगल क्रोम",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "लिब्रे ऑफिस",
+                    "link": "https://www.libreoffice.org/",
+                    "image": "/assets/fileimg/cPO8bqH.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट एज",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg"
+                },
+                {
+                    "name": "मोज़िला फ़ायरफ़ॉक्स",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "मैक",
+            "softwares": [
+                {
+                    "name": "एडोब एक्रोबैट रीडर डीसी",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "गूगल क्रोम",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "मोज़िला फ़ायरफ़ॉक्स",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "Apple प्रीव्यू",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "लिब्रे ऑफिस",
+                    "link": "https://www.libreoffice.org/",
+                    "image": "/assets/fileimg/cPO8bqH.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "आईओएस",
+            "softwares": [
+                {
+                    "name": "एपल बुक्स",
+                    "link": "https://www.apple.com/apple-books/",
+                    "image": "/assets/fileimg/5938cLE.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "ऐपल पेज",
+                    "link": "https://apps.apple.com/us/app/pages/id361309726",
+                    "image": "/assets/fileimg/38SErjW.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "गूगल ड्राइव",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "एडोब एक्रोबैट रीडर डीसी",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "Good.iWare गुड रीडर",
+                    "link": "https://apps.apple.com/app/id777310222?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/mF1gtxb.jpeg",
+                    "type": "अदा"
+                }
+            ]
+        },
+        {
+            "platform": "एंड्रॉयड",
+            "softwares": [
+                {
+                    "name": "गूगल ड्राइव",
+                    "link": "https://www.apple.com/apple-books/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "एडोब एक्रोबैट रीडर डीसी",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "Android के लिए फ़ाइल व्यूअर",
+                    "link": "https://play.google.com/store/apps/details?id=com.sharpened.androidfileviewer",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट वनड्राइव",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "गूगल प्ले बुक्स",
+                    "link": "https://play.google.com/store/apps/details?id=com.google.android.apps.books&hl=en",
+                    "image": "/assets/fileimg/rrCOBeO.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "गूगल ड्राइव",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "गूगल क्रोम",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "सेडजा पीडीएफ एडिटर",
+                    "link": "https://www.sejda.com/pdf-editor",
+                    "image": "/assets/fileimg/8A6rYqw.jpeg",
+                    "type": "फ़्रीमियम"
+                }
+            ]
+        }
+    ]
+}

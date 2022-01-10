@@ -1,0 +1,147 @@
+{
+    "Format": "MOV",
+    "ShortName": "MOV",
+    "FullName": "Apple QuickTime Movie",
+    "Category": "विडियो फाइल",
+    "Pros": "मीडिया डेटा के लिए अमूर्त डेटा संदर्भ संग्रहीत कर सकते हैं। बाद में सभी मीडिया डेटा को फिर से लिखने के बिना उन्हें आसानी से संशोधित किया जा सकता है। पेशेवर वीडियो संपादन के लिए, यह उद्योग मानक है।",
+    "Cons": "मुख्य रूप से संपादन के लिए उपयोग किया जाता है लेकिन वास्तविक उद्देश्यों के लिए उपयोग किए जाने वाले मानक नहीं। वास्तविक उपकरणों पर, निम्न स्तर की स्वीकृति होती है। ",
+    "Createdby": "Apple",
+    "CreatedbyLink": "https://developer.apple.com/",
+    "CreatedInYear": "1998",
+    "BasicInformation": "एक MOV फ़ाइल एक मल्टीमीडिया कंटेनर फ़ाइल स्वरूप है जो QuickTime फ़ाइल स्वरूप (QTFF) में फिल्मों को बचाता है। इसमें एक या अधिक ट्रैक हैं जिनमें वीडियो, ऑडियो और टेक्स्ट (उपशीर्षक) सहित विभिन्न प्रकार के मीडिया डेटा होते हैं। फिल्मों और अन्य वीडियो फ़ाइलों को आमतौर पर MOV फ़ाइलों के रूप में सहेजा जाता है।",
+    "DetailedInformation": "Apple ने 1991 में QTFF को विकसित और रिलीज़ किया। कंटेनर प्रारूप का उद्देश्य उपकरणों, ऑपरेटिंग सिस्टम और अनुप्रयोगों के बीच मल्टीमीडिया के प्रसारण को सुविधाजनक बनाने के लिए विभिन्न मीडिया प्रारूपों का समर्थन करना है। QTFF मल्टीमीडिया फ़ाइलों को अक्सर as.mov फ़ाइलों को संग्रहीत किया जाता है, हालांकि उन्हें.qt फ़ाइलों के रूप में भी सहेजा जा सकता है। वीडियो, ऑडियो, टाइमकोड और टेक्स्ट ट्रैक सभी MOV फ़ाइलों में पाए जा सकते हैं, जिनका उपयोग डेटा के विभिन्न रूपों को संग्रहीत और सिंक्रनाइज़ करने के लिए किया जा सकता है। प्रत्येक मीडिया ट्रैक को एन्कोड करने के लिए कई वैकल्पिक कोडेक्स का उपयोग किया जा सकता है। MPEG-4 कोडेक का उपयोग अक्सर MOV फ़ाइलों को संपीड़ित करने के लिए किया जाता है। प्रत्येक फ़ाइल कंटेनर में विभिन्न प्रकार के मीडिया प्रकार हो सकते हैं। वीडियो, वीडियो प्रभाव, पाठ, फ़ोटो, उपशीर्षक और ऑडियो सभी को उनमें संग्रहीत किया जा सकता है। इस फ़ाइल प्रकार का उपयोग अक्सर वीडियो संपादन अनुप्रयोगों द्वारा किया जाता है। MOV और QuickTime फ़ाइलों का उपयोग अक्सर संगीत और वीडियो संपादन (या दो संयुक्त) में किया जाता है।",
+    "Softwaresused": [
+        {
+            "platform": "लिनक्स",
+            "softwares": [
+                {
+                    "name": "वीडियोलैन वीएलसी मीडिया प्लेयर",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "फ़ाइल व्यूअर प्लस - इसे Microsoft से प्राप्त करें",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट विंडोज मीडिया प्लेयर",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "वीडियोलैन वीएलसी मीडिया प्लेयर",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "नलसॉफ्ट विनम्प",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "Xilisoft वीडियो कन्वर्टर अल्टीमेट",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                }
+            ]
+        },
+        {
+            "platform": "मैक",
+            "softwares": [
+                {
+                    "name": "एपल क्विकटाइम प्लेयर",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "एल्टिमा एल्मेडिया प्लेयर",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "वीडियोलैन वीएलसी मीडिया प्लेयर",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "रोक्सियो टोस्ट 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "अदा"
+                },
+                {
+                    "name": "एडोब प्रीमियर रश",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                }
+            ]
+        },
+        {
+            "platform": "आईओएस",
+            "softwares": [
+                {
+                    "name": "ओलिमसॉफ्ट ओप्लेयर",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "अदा"
+                },
+                {
+                    "name": "मोबाइल के लिए वीडियोलन VLC",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "गूगल ड्राइव",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "एडोब प्रीमियर रश",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                }
+            ]
+        },
+        {
+            "platform": "एंड्रॉयड",
+            "softwares": [
+                {
+                    "name": "गूगल ड्राइव",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "एडोब प्रीमियर रश",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "Android के लिए वीडियोलैब्स VLC",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "Format": "OPUS",
+    "ShortName": "OPUS",
+    "FullName": "Opus Audio File",
+    "Category": "오디오 파일",
+    "Pros": "여러 채널을 통해 데이터를 더 빠르게 전송할 수 있습니다.음질 테스트를 통해 다양한 비트 전송률과 샘플링 속도에서 원래 사운드를 더 효율적으로 복원하는 것으로 나타났습니다.다양한 상황에서 일관된 성능을 보장합니다.수많은 통신 서비스를 위한 미래 지향적인 구조입니다.사운드 정보 유형에 적응합니다.전송 중 품질 손실을 부분적으로 보상할 수 있으므로 중단 없이 지속적인 라이브 데이터 전송이 가능합니다. ",
+    "Cons": "여러 애플리케이션에서 지원되지 않습니다.오푸스 코덱은 흔하지 않습니다.",
+    "Createdby": "자이프.오르 ",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "2012",
+    "BasicInformation": "Opus는 Xiph.Org 재단 (모질라 코퍼레이션) 과 스카이프 테크놀로지스 S.A. (마이크로소프트) 의 전문가 팀이 제작한 새로운 코덱입니다.MP3의 결함을 최소화하면서 MP3의 모든 장점을 가지고 있습니다.오푸스는 CELT와 SILK 코덱을 결합합니다.",
+    "DetailedInformation": "OPUS 파일은 인터넷 스트리밍을 위해 설계된 Opus 형식 (“Ogg Opus”이라고도 함) 으로 생성 된 손실 오디오 파일입니다.6kb/s에서 510kb/s까지 다양한 비트 전송률을 지원하며 SILK (스카이프에서 사용) 와 CELT (Xiph.Org) 코덱을 모두 사용합니다.VoIP (VoIP), 화상 회의 및 게임 내 채팅은 모두 Opus 코덱을 사용합니다.IETF는 널리 사용되는 Opus 형식을 정의했습니다.IETF는 Xiph.Org에서 유지 관리하는 오푸스 형식을 표준화했습니다.Opus 코덱은 주로 스트리밍에 사용되므로 확장자가.opus인 파일은 흔하지 않습니다.",
+    "Softwaresused": [
+        {
+            "platform": "리눅스",
+            "softwares": [
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "윈도우",
+            "softwares": [
+                {
+                    "name": "파일 뷰어 플러스 — 마이크로소프트에서 다운로드",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "조준하다",
+                    "link": "http://www.aimp2.us/",
+                    "image": "/assets/fileimg/sOBpiyF.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "푸바 2000",
+                    "link": "https://www.foobar2000.org/",
+                    "image": "/assets/fileimg/c2PuNRk.jpeg"
+                },
+                {
+                    "name": "오푸스 툴",
+                    "link": "https://www.opus-codec.org/downloads/",
+                    "image": "/assets/fileimg/7xNWYRA.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "맥",
+            "softwares": [
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "기계적 인조 인간",
+            "softwares": [
+                {
+                    "name": "안드로이드용 파일 뷰어",
+                    "link": "",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "오푸스 플레이어",
+                    "link": "https://play.google.com/store/apps/details?id=com.littlepako.opusplayer3&hl=en_US&gl=US",
+                    "image": "/assets/fileimg/irCSU4s.jpeg",
+                    "type": "무료"
+                }
+            ]
+        }
+    ]
+}

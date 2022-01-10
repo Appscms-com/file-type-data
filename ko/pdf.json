@@ -1,0 +1,212 @@
+{
+    "Format": "PDF",
+    "ShortName": "PDF",
+    "FullName": "Portable Document Format",
+    "Category": "페이지 레이아웃 파일/문서",
+    "Pros": "PDF는 매우 널리 사용되는 파일 형식입니다.PDF를 만든 것과 같은 방식으로 운영 체제가 설치된 모든 장치에서 PDF를 볼 수 있습니다.보기가 매우 간단합니다.여러 이미지 압축 기술을 지원하기 때문에 PDF는 하드 드라이브의 공간을 비교적 적게 차지합니다.사용자가 보안 설정을 사용자 지정할 수 있습니다 (예: 인쇄 또는 편집 금지).이 형식을 사용하면 전자 서명을 사용하여 문서의 진위 여부를 확인할 수 있습니다.",
+    "Cons": "PDF 파일 편집은 무료가 아닙니다.다른 파일 형식은 특수 도구를 사용하여 수정해야 하는 PDF 파일보다 편집하기가 더 쉽습니다.PDF 파일의 텍스트로 작업하는 것은 그림으로 해석되기 때문에 어렵습니다.",
+    "Createdby": "어도비 시스템즈",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "1993",
+    "BasicInformation": "Adobe Systems는 PDF 형식을 만들었는데, 이 형식은 PDF 형식을 나타냅니다.PDF 파일은 광범위한 프로그램, 하드웨어 및 운영 체제와 호환되는 정의된 레이아웃 (그림처럼) 으로 문서를 표시합니다.이를 통해 사용자는 여러 이미지, 글꼴 및 텍스트 형식을 모든 장치에서 공유할 수 있는 단일 인쇄 가능 문서로 결합할 수 있습니다.",
+    "DetailedInformation": "PDF는 개방형 표준이기 때문에 누구나 라이선스 비용을 지불하지 않고도 PDF를 읽고 쓸 수 있는 앱을 만들 수 있습니다.2004년부터 3D 아트워크가 지원되었으며 이러한 파일은 암호로 보호, 암호화 및 변경할 수 있습니다.Adobe Acrobat Reader (다중 플랫폼) 및 Adobe Acrobat (다중 플랫폼) 을 포함한 다양한 앱에서 PDF 파일을 열고 표시할 수 있으며 편집할 수도 있습니다.Adobe Acrobat 또는 모든 PDF 응용 프로그램에서 PDF 파일을 생성합니다.다중 플랫폼 문서입니다.PDF 형식은 다양한 플랫폼에서 볼 수있는 공통 형식으로 문서 및 출판물을 저장하는 데 널리 사용됩니다.대부분의 경우 PDF 파일을 처음부터 만드는 대신 기존 문서에서 PDF 파일이 생성됩니다.PDF 파일은 워드 프로세서, 그림 편집기 및 Adobe Acrobat과 같은 PDF 파일 유틸리티를 포함한 다양한 도구를 사용하여 만들 수 있습니다.Windows 및 macOS에서는 인쇄 대화 상자를 사용하여 문서에서 PDF 파일을 만들 수도 있습니다.",
+    "Softwaresused": [
+        {
+            "platform": "리눅스",
+            "softwares": [
+                {
+                    "name": "어도비 아크로뱃 리더 DC",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "구글 크롬",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "에빈스",
+                    "link": "https://wiki.gnome.org/Apps/Evince",
+                    "image": "/assets/fileimg/diIDQ4M.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "리브레 오피스",
+                    "link": "https://www.libreoffice.org/",
+                    "image": "/assets/fileimg/cPO8bqH.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "KDE 오큘러",
+                    "link": "https://okular.kde.org/",
+                    "image": "/assets/fileimg/PtakFU2.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "윈도우",
+            "softwares": [
+                {
+                    "name": "어도비 아크로뱃 리더 DC",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "구글 크롬",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "리브레 오피스",
+                    "link": "https://www.libreoffice.org/",
+                    "image": "/assets/fileimg/cPO8bqH.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "마이크로소프트 엣지",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg"
+                },
+                {
+                    "name": "모질라",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "맥",
+            "softwares": [
+                {
+                    "name": "어도비 아크로뱃 리더 DC",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "구글 크롬",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "모질라",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "애플 프리뷰",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "리브레 오피스",
+                    "link": "https://www.libreoffice.org/",
+                    "image": "/assets/fileimg/cPO8bqH.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "애플 북스",
+                    "link": "https://www.apple.com/apple-books/",
+                    "image": "/assets/fileimg/5938cLE.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "애플 페이지",
+                    "link": "https://apps.apple.com/us/app/pages/id361309726",
+                    "image": "/assets/fileimg/38SErjW.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "구글 드라이브",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "어도비 아크로뱃 리더 DC",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "무료 평가판"
+                },
+                {
+                    "name": "좋아요. 저는 좋은 독자입니다",
+                    "link": "https://apps.apple.com/app/id777310222?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/mF1gtxb.jpeg",
+                    "type": "유료"
+                }
+            ]
+        },
+        {
+            "platform": "기계적 인조 인간",
+            "softwares": [
+                {
+                    "name": "구글 드라이브",
+                    "link": "https://www.apple.com/apple-books/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "어도비 아크로뱃 리더 DC",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "안드로이드용 파일 뷰어",
+                    "link": "https://play.google.com/store/apps/details?id=com.sharpened.androidfileviewer",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "마이크로소프트 원드라이브",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "구글 플레이 북",
+                    "link": "https://play.google.com/store/apps/details?id=com.google.android.apps.books&hl=en",
+                    "image": "/assets/fileimg/rrCOBeO.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "크롬 OS",
+            "softwares": [
+                {
+                    "name": "구글 드라이브",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "구글 크롬",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "세자 PDF 편집기",
+                    "link": "https://www.sejda.com/pdf-editor",
+                    "image": "/assets/fileimg/8A6rYqw.jpeg",
+                    "type": "부분 유료화"
+                }
+            ]
+        }
+    ]
+}

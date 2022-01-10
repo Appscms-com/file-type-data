@@ -1,0 +1,153 @@
+{
+    "Format": "AAC",
+    "ShortName": "AAC",
+    "FullName": "Advanced Audio Coding File",
+    "Category": "Audiobestand",
+    "Pros": "Tegenwoordig zijn meer apparaten op de hoogte van AAC. Gecodeerde bestandsgroottes zijn minder. Het doel van standaardisatie is bereikt. De geluidskwaliteit is superieur aan MP3. Het product is overal verkrijgbaar. De bandbreedte voor streaming is beperkt. Compatibiliteit met een breed scala aan apparaten. Er is een breed scala aan coderingsopties beschikbaar.",
+    "Cons": "Het coderen duurt lang. Tijdens het coderingsproces wordt de CPU veel gebruikt. Tijdens het decoderen is het CPU-gebruik iets hoger. Bestandsorganisatie is ingewikkelder geworden. Hoewel het minder is, is het nog steeds een verliezer. Hardware-ondersteuning is beperkt. Bestanden taggen is niet altijd compatibel. Het is misschien te duur om AAC te coderen vanuit originele bestanden zonder verlies. MP3 wordt nog steeds als meer „standaard” beschouwd dan AAC.",
+    "Createdby": "Groep Moving Picture Experts",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "1997",
+    "BasicInformation": "Voor audiocodering bij gemiddelde tot hoge bitsnelheden is AAC (Advanced Audio Coding) de logische opvolger van MP3 (ISO/MPEG Audio Layer-3) (ISO/MPEG Audio Layer-3) (ISO/MPEG Audio Layer-3). Dit gecomprimeerde audioformaat is vergelijkbaar met een MP3-bestand, maar het heeft een paar prestatievoordelen. Hogere coderingsefficiëntie voor zowel stabiele als voorbijgaande signalen, een kleinere filterbank en verbeterde afhandeling van frequenties boven 16 kHz zijn slechts enkele voorbeelden.",
+    "DetailedInformation": "Apple iTunes en de iTunes Music Store gebruiken Advanced Audio Coding (AAC) als standaardcodering. Het concept van het AAC-algoritme is om twee basiscoderingsschema's te gebruiken om de hoeveelheid gegevens die nodig is om digitale audio van hoge kwaliteit te verzenden drastisch te minimaliseren. AAC-bestanden hebben meer samplefrequenties dan MP3-bestanden, evenals tot 48 kanalen, superieure codering en filterbankefficiëntie en een betere nauwkeurigheid van tijdelijke signaalcodering. AAC-bestanden, zoals MP3-bestanden, verwijderen audiofrequenties die het menselijk oor niet kan verwerken, wat resulteert in kleinere, beter beheersbare bestanden. AAC-bestanden zijn aanzienlijk minder dan MP3-bestanden in termen van bestandsruimte.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC-mediaspeler",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Clementine",
+                    "link": "https://www.clementine-player.org/about",
+                    "image": "/assets/fileimg/F87GDJM.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "XMMS",
+                    "link": "http://www.xmms.org/",
+                    "image": "/assets/fileimg/hodO9zz.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Ramen",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Download het van Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Adobe Auditie CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Gratis proefversie"
+                },
+                {
+                    "name": "VideoLan VLC-mediaspeler",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple itunes",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "VideoLan VLC-mediaspeler",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Adobe Auditie CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Gratis proefversie"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Roxio Toast 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "Betaald"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "olimsoft speler",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Betaald"
+                },
+                {
+                    "name": "RealNetworks RealTimes: videomaker",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Bestandsviewer voor Android",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Videolabs VLC voor Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "RealNetworks RealTimes: videomaker",
+                    "link": "https://play.google.com/store/apps/details?id=com.real.RealPlayerCloud",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

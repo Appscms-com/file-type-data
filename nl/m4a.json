@@ -1,0 +1,123 @@
+{
+    "Format": "M4A",
+    "ShortName": "M4A",
+    "FullName": "MPEG-4 Audio File",
+    "Category": "Audiobestand",
+    "Pros": "Hoewel het M4A-bestand is gecomprimeerd, blijft de kwaliteit ongewijzigd. Het feit dat M4A-audiobestanden niet worden beschermd door Digital Rights Management (DRM) betekent dat ze vrijer kunnen worden gewijzigd en verzonden.",
+    "Cons": "M4A is een bestandsformaat dat bekend is in Apple's iTunes, iPod en andere apparaten. In vergelijking met MP3-bestanden is het afspelen van M4A-audio echter problematisch vanwege het gebrek aan compatibiliteit met andere apparaten.",
+    "Createdby": "appel",
+    "CreatedbyLink": "https://developer.apple.com/",
+    "CreatedInYear": "2004",
+    "BasicInformation": "Een M4A-bestand is een MPEG-4-audiobestand dat is gecodeerd met de Advanced Audio Coding (AAC) of Apple Lossless Audio Codec (ALAC). Het kan verschillende audiobestanden bevatten, waaronder nummers, podcasts en audioboeken.",
+    "DetailedInformation": "MPEG-4 is een multimedia-containerformaat voor audio- en videogegevens die worden gecomprimeerd. MP4-bestanden, die audio- en videogegevens opslaan, gebruiken dit formaat. Het.m4a-achtervoegsel, dat staat voor „MPEG-4 Audio”, is gemaakt omdat M4A-bestanden uitsluitend audiogegevens bevatten. Deze naamswijziging maakte het gemakkelijker om het verschil te zien tussen MPEG-4-video- en MPEG-4-bestanden met alleen audio. Er is een compressieoptie met verlies, net als bij andere audiobestandstypen, en deze wordt bereikt met AAC-codering. Het Apple Lossless-formaat maakt compressie zonder verlies mogelijk, wat niet haalbaar is met andere audioformaten.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC-mediaspeler",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Ramen",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Download het van Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft Windows mediaspeler",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "VideoLan VLC-mediaspeler",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "Adobe Auditie CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Gratis proefversie"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple itunes",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Apple QuickTime-speler",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "VideoLan VLC-mediaspeler",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Adobe Auditie CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Gratis proefversie"
+                },
+                {
+                    "name": "Eltima Elmedia-speler",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Videolan VLC voor mobiel",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Bestandsviewer voor Android",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Videolabs VLC voor Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        }
+    ]
+}

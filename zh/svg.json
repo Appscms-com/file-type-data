@@ -1,0 +1,152 @@
+{
+    "Format": "SVG",
+    "ShortName": "SVG",
+    "FullName": "Scalable Vector Graphics File",
+    "Category": "矢量图像文件",
+    "Pros": "尺寸很小。它非常灵活，即您可以使用CSS立即更改网站上的图形设置，例如背景颜色或徽标在页面上的位置。可扩展性不会降低图像质量。提供浏览器支持。",
+    "Cons": "如果对象包含大量的小元素，则文件大小将很快增长。只读一部分图形是不可能的，你必须阅读完整的物体，这会减慢你的速度。",
+    "Createdby": "Adobe 系统",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "2001",
+    "BasicInformation": "SVG（或可缩放矢量图形）是一种基于 XML 的二维矢量图形文件格式。万维网联盟（W3C）于1999年将其设计为在互联网上呈现矢量图像的标准格式。它使用基于 XML 的文本格式来描述图像。正在开发SVG文件作为显示矢量图形的Web标准。",
+    "DetailedInformation": "SVG格式是由万维网联盟（W3C）创建的开放标准，Adobe发挥着关键作用。像 Illustrator 和 GoLive 这样的 Adobe 创意套件产品可以制作和导出 SVG 图片。SVG 允许用户搜索、索引、编写脚本和压缩图片，从而实现交互性和动画效果。因为SVG文件是XML文件，所以文本编辑器可以访问、生成和编辑它们，但是绘图软件是这种文件类型的最典型的创建者。使用 SVG 文件可以进行无损数据压缩。它们支持文本以及光栅和矢量图形。SVG 是一种 XML 标准，它定义了供互联网使用的基于矢量的图形。缩放和调整大小不会影响图像质量。SVG文件可以在其所有组件和部分中进行动画处理。W3C 推荐的 SVG 文件中包含 W3C 标准（包括 DOM 和 XSL）。矢量图片（例如 SVG 文件格式的矢量图片）由预先确定的格式集组成，这样在缩放和缩放时可以获得更清晰的图像。",
+    "Softwaresused": [
+        {
+            "platform": "Linux的",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "免费 "
+                },
+                {
+                    "name": "谷歌浏览器",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "英景观",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "火狐浏览器",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "KolourPain",
+                    "link": "http://kolourpaint.sourceforge.net/",
+                    "image": "/assets/fileimg/3JbciOH.jpeg",
+                    "type": "免费"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — 从微软获取",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "免费增值"
+                },
+                {
+                    "name": "英景观",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "免费 "
+                },
+                {
+                    "name": "Adobe Photos",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg"
+                },
+                {
+                    "name": "土坯插画家 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "免费试用"
+                }
+            ]
+        },
+        {
+            "platform": "苹果电脑",
+            "softwares": [
+                {
+                    "name": "英景观",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "免费 "
+                },
+                {
+                    "name": "土坯插画家 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "免费试用"
+                },
+                {
+                    "name": "谷歌浏览器",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "火狐浏览器",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "免费"
+                }
+            ]
+        },
+        {
+            "platform": "iOS系统",
+            "softwares": [
+                {
+                    "name": "谷歌浏览器",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "免费"
+                }
+            ]
+        },
+        {
+            "platform": "安卓",
+            "softwares": [
+                {
+                    "name": "安卓版文件查看器",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "免费增值"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "谷歌浏览器",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "免费"
+                }
+            ]
+        }
+    ]
+}

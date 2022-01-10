@@ -1,0 +1,212 @@
+{
+    "Format": "JPG",
+    "ShortName": "JPG",
+    "FullName": "Joint Photographics Expert Group",
+    "Category": "Formato de archivo de imagen",
+    "Pros": "Un formato muy popular. La compresión a un nivel alto y controlado resulta en un tamaño de archivo pequeño. El formato es compatible y se muestra correctamente en todos los navegadores, programas de texto y gráficos, en todos los ordenadores, tabletas y dispositivos móviles. Admite imágenes realistas a todo color con muchas transiciones de color y contraste. Imagen de alta calidad con un pequeño grado de coherencia.",
+    "Cons": "Cuando comprime la imagen, puede «desmoronarse» en cuadrados individuales: bloques de 808 píxeles. Esto ocurre porque el algoritmo de compresión analiza los píxeles vecinos. color suave: las transiciones pueden volverse duras o simplemente desaparecer. JPEG es menos adecuado para trabajar con texto o gráficos monocromos con límites claros. Este formato no admite transparencia, aunque es necesario al crear plantillas, logotipos y botones. La calidad de la imagen disminuye con cada paso de compresión posterior.",
+    "Createdby": "Grupo conjunto de expertos en fotografía y del UIT-T",
+    "CreatedbyLink": "https://www.itu.int/en/ITU-T/studygroups/2009-2012/Pages/16/jpeg1x.aspx",
+    "CreatedInYear": "1992",
+    "BasicInformation": "Un archivo JPG es una imagen guardada en el formato de imagen comprimida (JPEG) del Joint Photographic Experts Group. Se usa ampliamente para almacenar fotos digitales y es compatible con la mayoría de las cámaras digitales. Los archivos JPG se encuentran entre los formatos de imagen más utilizados. Es una técnica común para comprimir fotografías fotográficas. JPEG también es el nombre del formato de archivo que utiliza este tipo de compresión. La compresión con pérdida es irreversible, y cuanto menor sea la velocidad de compresión, más nítida será la imagen.",
+    "DetailedInformation": "A principios de la década de 1980, no había tecnología que permitiera a las personas comprimir e intercambiar fotos digitales fácilmente. En 1982, el grupo de trabajo JPEG comenzó a desarrollar un estándar de compresión para reducir el tamaño de los archivos de imagen y, al mismo tiempo, mantener la mayor calidad posible, facilitando su uso compartido. El formato de archivo JPEG fue diseñado por el grupo de trabajo en 1992. Los archivos JPEG, que generalmente se guardan con la extensión the.jpg or.JPEG, son imágenes generadas mediante un proceso de compresión con pérdida que destruye algunos de los datos en el archivo de imagen de origen. Sin embargo, esta pérdida de datos es generalmente indetectable a simple vista. Los archivos JPG son ideales para los productos finales, mientras que los archivos sin pérdida son los mejores para la edición. El estándar JPEG sigue siendo el formato de compresión de imágenes más popular en uso hoy en día porque permite a los usuarios crear archivos de imagen compartibles y de alta calidad y porque está muy integrado en la tecnología utilizada para hacer e intercambiar fotos.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Libre"
+                },
+                {
+                    "name": "Microsoft Edge",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "Libre"
+                },
+                {
+                    "name": "COJO",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Libre "
+                },
+                {
+                    "name": "Shotwell",
+                    "link": "https://wiki.gnome.org/Apps/Shotwell",
+                    "image": "/assets/fileimg/wJy7aoh.jpeg",
+                    "type": "Libre"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Libre"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Fotos de Microsoft",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Gratis, incluido con el sistema operativo"
+                },
+                {
+                    "name": "Visor de fotos de Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "Gratis, incluido con el sistema operativo"
+                },
+                {
+                    "name": "Microsoft OneDrive",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "Prueba gratuita"
+                },
+                {
+                    "name": "Pintura de Microsoft",
+                    "link": "https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9",
+                    "image": "/assets/fileimg/AuNqAKT.jpeg"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Libre"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Vista previa de Apple",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Gratis, incluido con el sistema operativo"
+                },
+                {
+                    "name": "Fotos de Apple",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Gratis, incluido con el sistema operativo"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Prueba gratuita"
+                },
+                {
+                    "name": "ACD Systems ACDSee Photo Studio para Mac",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-mac/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "Prueba gratuita"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Libre"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Fotos de Apple",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Gratis, incluido con el sistema operativo"
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Categoría: Freemium"
+                },
+                {
+                    "name": "Fotos de Google",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Libre  "
+                },
+                {
+                    "name": "Adobe Photoshop Express",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop-express/id331975235?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Prueba gratuita"
+                },
+                {
+                    "name": "Microsoft OneDrive",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "Categoría: Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Categoría: Freemium"
+                },
+                {
+                    "name": "Fotos de Google",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Libre  "
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Libre"
+                },
+                {
+                    "name": "Microsoft OneDrive",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "Categoría: Freemium"
+                },
+                {
+                    "name": "Visor de archivos para Android",
+                    "link": "https://play.google.com/store/apps/details?id=com.sharpened.androidfileviewer",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Categoría: Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Sistema operativo ChromeOS",
+            "softwares": [
+                {
+                    "name": "Fotos de Google",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Libre  "
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Libre"
+                },
+                {
+                    "name": "Sistema operativo Chrome",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "Gratis, incluido con el sistema operativo"
+                }
+            ]
+        }
+    ]
+}

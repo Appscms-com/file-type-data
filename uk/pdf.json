@@ -1,0 +1,212 @@
+{
+    "Format": "PDF",
+    "ShortName": "PDF",
+    "FullName": "Portable Document Format",
+    "Category": "Файл/документ макета сторінки",
+    "Pros": "PDF - це дуже популярний формат файлів. Так само, як він був створений, PDF можна переглядати на будь-якому пристрої з будь-якою операційною системою. Це дуже просто для перегляду. Оскільки він підтримує ряд технологій стиснення зображень, PDF займає відносно мінімальний простір на жорсткому диску. Налаштування безпеки можуть бути налаштовані користувачем, наприклад, забороняючи друк або редагування. Формат дозволяє використовувати електронні підписи для перевірки справжності документа.",
+    "Cons": "Редагування PDF-файлів не безкоштовне. Інші формати файлів редагувати простіше, ніж файли PDF, які необхідно змінити спеціалізованими інструментами. Робота з текстом у PDF-файлах є складною, оскільки вони інтерпретуються як зображення.",
+    "Createdby": "Системи Adobe",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "1993",
+    "BasicInformation": "Adobe Systems створила формат PDF, який розшифровується як Портативний формат документів. PDF-файли відображають документ у визначеному макеті (подібно до зображення), сумісному з широким спектром програм, апаратних засобів та операційних систем. Це дозволяє користувачеві об'єднати багато зображень, шрифтів і текстових форматів в один готовий до друку документ, який можна розділити з будь-якого пристрою.",
+    "DetailedInformation": "Оскільки PDF є відкритим стандартом, будь-хто може створювати програми, які можуть читати та писати PDF-файли, не сплачуючи ліцензійну плату. Починаючи з 2004 року, 3D-ілюстрації підтримуються, і ці файли можуть бути захищені паролем, зашифровані та змінені. Різноманітні програми можуть відкривати та відображати PDF-файли, зокрема Adobe Acrobat Reader (мультиплатформенний) та Adobe Acrobat (мультиплатформенний), які також можуть редагувати їх. Adobe Acrobat або будь-яка програма PDF створює PDF-файл. Це мультиплатформенний документ. Формат PDF широко використовується для збереження документів і публікацій в загальному форматі, який можна переглядати на самих різних платформах. За багатьох обставин замість того, щоб створювати PDF-файли з нуля, PDF-файли виробляються з існуючих документів. PDF-файли можна створювати за допомогою різних інструментів, включаючи текстові процесори, редактори зображень та PDF-файлові утиліти, такі як Adobe Acrobat. У Windows і macOS ви також можете створювати PDF-файли з документів за допомогою діалогового вікна «Друк».",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Adobe Acrobat Reader DC",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Гугл Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Евінс",
+                    "link": "https://wiki.gnome.org/Apps/Evince",
+                    "image": "/assets/fileimg/diIDQ4M.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                },
+                {
+                    "name": "LibreOffice",
+                    "link": "https://www.libreoffice.org/",
+                    "image": "/assets/fileimg/cPO8bqH.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "KDE Okular",
+                    "link": "https://okular.kde.org/",
+                    "image": "/assets/fileimg/PtakFU2.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "Вікна",
+            "softwares": [
+                {
+                    "name": "Adobe Acrobat Reader DC",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Гугл Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "LibreOffice",
+                    "link": "https://www.libreoffice.org/",
+                    "image": "/assets/fileimg/cPO8bqH.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Майкрософт Край",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Adobe Acrobat Reader DC",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Гугл Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Попередній перегляд Apple",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                },
+                {
+                    "name": "LibreOffice",
+                    "link": "https://www.libreoffice.org/",
+                    "image": "/assets/fileimg/cPO8bqH.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Apple Книги",
+                    "link": "https://www.apple.com/apple-books/",
+                    "image": "/assets/fileimg/5938cLE.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                },
+                {
+                    "name": "Apple Сторінки",
+                    "link": "https://apps.apple.com/us/app/pages/id361309726",
+                    "image": "/assets/fileimg/38SErjW.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Google Диск",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Adobe Acrobat Reader DC",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                },
+                {
+                    "name": "Good.iWare GoodReader",
+                    "link": "https://apps.apple.com/app/id777310222?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/mF1gtxb.jpeg",
+                    "type": "Платний"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Google Диск",
+                    "link": "https://www.apple.com/apple-books/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Adobe Acrobat Reader DC",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Переглядач файлів для Android",
+                    "link": "https://play.google.com/store/apps/details?id=com.sharpened.androidfileviewer",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Майкрософт OneDrive",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Google Play Книги",
+                    "link": "https://play.google.com/store/apps/details?id=com.google.android.apps.books&hl=en",
+                    "image": "/assets/fileimg/rrCOBeO.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Диск",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Гугл Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Редакторка PDF",
+                    "link": "https://www.sejda.com/pdf-editor",
+                    "image": "/assets/fileimg/8A6rYqw.jpeg",
+                    "type": "Фреміум"
+                }
+            ]
+        }
+    ]
+}

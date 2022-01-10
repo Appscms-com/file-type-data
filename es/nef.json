@@ -1,0 +1,164 @@
+{
+    "Format": "NEF",
+    "ShortName": "NEF",
+    "FullName": "Nikon Electronic Format RAW Image",
+    "Category": "Archivos RAW de cámara",
+    "Pros": "Cuando se requiere procesamiento informático humano, los archivos NEF son más beneficiosos. Esto abre muchas posibilidades para mejorar la calidad de la imagen, lo que no es posible con los archivos JPEG. Como los datos de píxeles originales se conservan en archivos NEF, la calidad de imagen es considerablemente mejor. Se comprimen mediante técnicas sin pérdidas o no se comprimen en absoluto. Las fotos JPEG y TIFF tienen una gama de tonos y una precisión de color más estrechos que las imágenes NEF.",
+    "Cons": "Como los archivos NEF son considerablemente más grandes que los archivos JPEG, hay menos archivos que se pueden guardar en una tarjeta. Esta es también la razón por la que una cámara Nikon tarda más en guardar archivos RAW en una tarjeta de memoria. Existen numerosos formatos de archivo RAW y los expertos tienen dificultades para definir un estándar de archivo RAW unificado. También se ha reprendido a Nikon por emplear la reducción de ruido, lo que se ha demostrado que degrada la calidad de la imagen.",
+    "Createdby": "Nikon",
+    "CreatedbyLink": "https://www.nikon.co.in/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "Una foto sin procesar tomada con una cámara digital Nikon se guarda como archivo NEF. Se guarda en el formato electrónico Nikon (NEF), que guarda los datos en el mismo formato sin comprimir que el CCD. Los metadatos de imagen, como el ID de la cámara y el objetivo utilizados, también se incluyen en los archivos NEF. Los metadatos incluyen detalles sobre el objetivo, sus ajustes, la cámara y más.",
+    "DetailedInformation": "Los tiradores de Nikon utilizan con mayor frecuencia los archivos NEF. Estos fotógrafos pueden ser profesionales o aficionados que utilizan cámaras Nikon para capturar fotografías y guardar los datos sin procesar como archivos NEF. Los archivos RAW son fotografías que aún no se han procesado, impreso o editado con editores de gráficos de mapa de bits. El archivo sin procesar intenta replicar la escena lo más posible, incluida la iluminación, la intensidad y los colores. Los datos capturados por el sensor de la cámara se graban en imágenes de datos sin procesar. Los archivos NEF se pueden guardar en formato comprimido sin comprimir o sin pérdida en la tarjeta de memoria de la cámara. Los archivos NEF son similares a los «negativos digitales». A pesar de que no hay debate sobre la calidad de imagen de los archivos NEF, los desarrolladores de software no eligen este formato debido a la falta de un estándar común.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Corel AfterShot Pro 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "Prueba gratuita"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Visor de archivos Plus: obténgalo de Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Categoría: Freemium"
+                },
+                {
+                    "name": "Fotos de Microsoft",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Gratis, incluido con el sistema operativo"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Prueba gratuita"
+                },
+                {
+                    "name": "Nikon ViewNX2",
+                    "link": "https://imaging.nikon.com/lineup/software/viewnx2/",
+                    "image": "/assets/fileimg/pgXaxjb.jpeg"
+                },
+                {
+                    "name": "Corel AfterShot Pro 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "Prueba gratuita"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Vista previa de Apple",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Gratis, incluido con el sistema operativo"
+                },
+                {
+                    "name": "Fotos de Apple",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Gratis, incluido con el sistema operativo"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Prueba gratuita"
+                },
+                {
+                    "name": "Nikon ViewNX2",
+                    "link": "https://imaging.nikon.com/lineup/software/viewnx2/",
+                    "image": "/assets/fileimg/pgXaxjb.jpeg",
+                    "type": "Libre"
+                },
+                {
+                    "name": "Corel AfterShot Pro 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "Prueba gratuita"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Fotos de Apple",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Gratis, incluido con el sistema operativo"
+                },
+                {
+                    "name": "Adobe Photoshop ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "Categoría: Freemium"
+                },
+                {
+                    "name": "Fotos de Google",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Libre  "
+                },
+                {
+                    "name": "Google Snapseed",
+                    "link": "https://apps.apple.com/us/app/snapseed/id439438619?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/p5rWIzT.jpeg",
+                    "type": "Libre"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Visor de archivos para Android",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Categoría: Freemium"
+                },
+                {
+                    "name": "Adobe Photoshop Express",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Categoría: Freemium"
+                },
+                {
+                    "name": "Fotos de Google",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Libre  "
+                },
+                {
+                    "name": "Google Snapseed",
+                    "link": "https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en_US",
+                    "image": "/assets/fileimg/p5rWIzT.jpeg",
+                    "type": "Libre"
+                }
+            ]
+        },
+        {
+            "platform": "Sistema operativo ChromeOS",
+            "softwares": [
+                {
+                    "name": "Fotos de Google",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Libre  "
+                }
+            ]
+        }
+    ]
+}

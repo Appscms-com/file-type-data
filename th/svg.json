@@ -1,0 +1,152 @@
+{
+    "Format": "SVG",
+    "ShortName": "SVG",
+    "FullName": "Scalable Vector Graphics File",
+    "Category": "แฟ้มภาพเวกเตอร์",
+    "Pros": "ขนาดมันเล็กมากมันมีความยืดหยุ่นเช่นคุณสามารถเปลี่ยนแปลงการตั้งค่ากราฟิกบนเว็บไซต์โดยใช้ CSS เช่นสีพื้นหลังหรือตำแหน่งของโลโก้บนหน้าเว็บความสามารถในการปรับขยายได้ไม่ทำให้คุณภาพของภาพลดลงให้การสนับสนุนเบราว์เซอร์",
+    "Cons": "หากวัตถุมีองค์ประกอบเล็ก ๆ น้อย ๆ จำนวนมากขนาดไฟล์จะเติบโตขึ้นอย่างรวดเร็วมันเป็นไปไม่ได้ที่จะอ่านเพียงส่วนหนึ่งของสิ่งที่กราฟิกคุณต้องอ่านวัตถุที่สมบูรณ์ซึ่งจะทำให้คุณช้าลง",
+    "Createdby": "Adobe ซิสเต็มส์",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "2001",
+    "BasicInformation": "SVG หรือ SVG Graphics แบบเวกเตอร์แบบปรับขนาดได้ เป็นรูปแบบไฟล์กราฟิกแบบเวกเตอร์สองมิติตามรูปแบบไฟล์ XMLเวิลด์ไวด์เว็บ Consortium (W3C) ออกแบบในปี 1999 เป็นรูปแบบมาตรฐานสำหรับการนำเสนอภาพเวกเตอร์บนอินเทอร์เน็ตมันใช้รูปแบบข้อความ XML ตามที่จะอธิบายภาพไฟล์ SVG กำลังได้รับการพัฒนาเป็นมาตรฐานเว็บสำหรับการแสดงกราฟิกแบบเวกเตอร์",
+    "DetailedInformation": "รูปแบบ SVG เป็นมาตรฐานเปิดที่สร้างขึ้นโดยเวิลด์ไวด์เว็บคอนซอร์เทียม (W3C) โดยมีอะโดบีมีบทบาทสำคัญผลิตภัณฑ์ Adobe Creative Suite เช่น Illustrator และ GoLive สามารถผลิตและส่งออกรูปภาพ SVGSVG ช่วยให้ผู้ใช้สามารถค้นหาดัชนีสคริปต์และบีบอัดภาพช่วยให้การโต้ตอบและภาพเคลื่อนไหวเนื่องจากไฟล์ SVG เป็นไฟล์ XML บรรณาธิการข้อความสามารถเข้าถึงสร้างและแก้ไขได้ แต่ซอฟต์แวร์การวาดภาพเป็นผู้สร้างโดยทั่วไปที่สุดของไฟล์ประเภทนี้การบีบอัดข้อมูลแบบ Lossless เป็นไปได้ด้วยไฟล์ SVGพวกเขาสนับสนุนข้อความเช่นเดียวกับกราฟิกแรสเตอร์และเวกเตอร์SVG เป็นมาตรฐาน XML ที่กำหนดกราฟิกเวกเตอร์ที่ใช้สำหรับการใช้อินเทอร์เน็ตคุณภาพของภาพไม่ได้รับผลกระทบจากการซูมและการปรับขนาดไฟล์ SVG สามารถเคลื่อนไหวได้ในทุกองค์ประกอบและส่วนต่างๆมาตรฐาน W3C (รวมทั้ง DOM และ XSL) จะมาพร้อมกับไฟล์ SVG ที่แนะนำโดย W3Cภาพเวกเตอร์ เช่น ภาพที่มีรูปแบบไฟล์ SVG ประกอบด้วยชุดรูปแบบที่กำหนดไว้ล่วงหน้า ซึ่งช่วยให้ภาพที่คมชัดขึ้นเมื่อซูมและปรับขนาด",
+    "Softwaresused": [
+        {
+            "platform": "ลินุกซ์",
+            "softwares": [
+                {
+                    "name": "กิมป์",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "ฟรี "
+                },
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "อิงค์สเคป",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "มอซิลลา ไฟร์ฟอกซ์",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "โคลูร์เพ้นท์",
+                    "link": "http://kolourpaint.sourceforge.net/",
+                    "image": "/assets/fileimg/3JbciOH.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์พลัส — รับได้จากไมโครซอฟท์",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "อิงค์สเคป",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "กิมป์",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "ฟรี "
+                },
+                {
+                    "name": "อะโดบี โฟโตช็อป 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg"
+                },
+                {
+                    "name": "อะโดบี วาดภาพประกอบ 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "อิงค์สเคป",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "กิมป์",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "ฟรี "
+                },
+                {
+                    "name": "อะโดบี วาดภาพประกอบ 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "มอซิลลา ไฟร์ฟอกซ์",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์สำหรับ Android",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "ฟรีเมียม"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        }
+    ]
+}

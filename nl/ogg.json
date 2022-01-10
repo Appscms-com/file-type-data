@@ -1,0 +1,164 @@
+{
+    "Format": "OGG",
+    "ShortName": "OGG",
+    "FullName": "Ogg Vorbis Audio File",
+    "Category": "Audiobestand",
+    "Pros": "In een OGG-bestand kunnen maximaal 255 kanalen worden opgeslagen. Surround-geluid wordt opgeslagen. Hiermee kunt u zowel audio als video opslaan. Het OGG-formaat heeft een hogere kwaliteit. OGG heeft een superieur etiketteringssysteem.",
+    "Cons": "Niet ondersteund door alle apparaten of toepassingen. Veel besturingssystemen ondersteunen OGG niet. Het batterijverbruik is groter.",
+    "Createdby": "Xiph.Org ",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "1997",
+    "BasicInformation": "Een OGG-bestand is een gecomprimeerd audiobestand dat gebruikmaakt van Ogg Vorbisaudiocompressie, die gratis en niet-gepatenteerd is. Het is vergelijkbaar met een MP3-bestand, behalve dat het beter klinkt dan een MP3-bestand van gelijke grootte, en het kan metagegevens van nummers bevatten, zoals maker- en trackinformatie. Verschillende softwaremuziekspelers, evenals enkele draagbare muziekspelers, verwerken OGG-bestanden.",
+    "DetailedInformation": "De Ogg-container is een bestandsindeling voor het opslaan van audiogegevens. De naam „Vorbis” verwijst naar een coderingstechniek ontwikkeld door Xiph.Org, hetzelfde bedrijf dat Ogg heeft gemaakt. Andere methoden voor audiocompressie, zoals FLAC en Speex, kunnen aanwezig zijn in OGG-bestanden. Omdat ze echter een ander compressie-algoritme gebruiken, kunnen deze bestanden niet wettelijk worden aangeduid als „Vorbis” -bestanden. Hiermee kunnen gebruikers digitale multimediabestanden met hoge resolutie bekijken en bewerken. De term „Ogg” komt van de jargonterm „ogging”. In het spel Netrek verwijst ogging naar een zelfmoordrun waarbij een drager wordt gedood. De OGG-extensie werd ooit gebruikt om elk bestand te beschrijven dat het OGG-containerformaat gebruikte, maar het werd pas na 2007 gebruikt voor Ogg Vorbis-audiobestanden. De OGG-extensie kan worden gebruikt om naar een audiobestand te verwijzen, maar kan ook worden gebruikt om naar een containerbestand te verwijzen.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Zinf",
+                    "link": "http://www.zinf.org/",
+                    "image": "https://image.flaticon.com/icons/png/512/1063/1063308.png",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "VideoLan VLC-mediaspeler",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Amarok",
+                    "link": "https://amarok.kde.org/",
+                    "image": "/assets/fileimg/Dh0nFk6.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Durf",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "PCF Miro",
+                    "link": "http://www.getmiro.com/",
+                    "image": "/assets/fileimg/JeFS57j.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Ramen",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Download het van Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft Windows mediaspeler",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Durf",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg"
+                },
+                {
+                    "name": "Adobe Auditie CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Gratis proefversie"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple QuickTime-speler",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "VideoLan VLC-mediaspeler",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Durf",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Adobe Auditie CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Gratis proefversie"
+                },
+                {
+                    "name": "PCF Miro",
+                    "link": "http://www.getmiro.com/",
+                    "image": "/assets/fileimg/JeFS57j.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "olimsoft speler",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Betaald"
+                },
+                {
+                    "name": "Videolan VLC voor mobiel",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Bestandsviewer voor Android",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "antvplayer mediaconverter",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

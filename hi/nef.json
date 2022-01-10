@@ -1,0 +1,164 @@
+{
+    "Format": "NEF",
+    "ShortName": "NEF",
+    "FullName": "Nikon Electronic Format RAW Image",
+    "Category": "कैमरा रॉ फाइल्स",
+    "Pros": "जब मानव कंप्यूटर प्रसंस्करण की आवश्यकता होती है, तो NEF फाइलें अधिक फायदेमंद होती हैं। यह छवि गुणवत्ता में सुधार के लिए बहुत सारी संभावनाएं खोलता है, जो JPEG फ़ाइलों के साथ संभव नहीं है। क्योंकि मूल पिक्सेल डेटा NEF फ़ाइलों में संरक्षित है, छवि गुणवत्ता काफी बेहतर है। वे या तो दोषरहित तकनीकों का उपयोग करके संपीड़ित होते हैं या बिल्कुल भी संपीड़ित नहीं होते हैं। JPEG और TIFF तस्वीरों में NEF छवियों की तुलना में एक संकीर्ण टोन रेंज और रंग परिशुद्धता है।",
+    "Cons": "क्योंकि NEF फाइलें JPEG फ़ाइलों की तुलना में काफी बड़ी हैं, उनमें से बहुत कम हैं जिन्हें कार्ड पर सहेजा जा सकता है। यही कारण है कि RAW फ़ाइलों को मेमोरी कार्ड में सहेजने में Nikon कैमरा अधिक समय लगता है। कई RAW फ़ाइल प्रारूप हैं, और विशेषज्ञों को एकीकृत RAW फ़ाइल मानक को परिभाषित करने में कठिनाई हो रही है। निकॉन को शोर में कमी के लिए भी दंडित किया गया है, जिसे छवि गुणवत्ता को नीचा दिखाने के लिए दिखाया गया है।",
+    "Createdby": "निकॉन",
+    "CreatedbyLink": "https://www.nikon.co.in/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "Nikon डिजिटल कैमरे के साथ ली गई कच्ची तस्वीर को NEF फ़ाइल के रूप में सहेजा जाता है। यह Nikon Electronic Format (NEF) में सहेजा गया है, जो सीसीडी के समान असम्पीडित प्रारूप में डेटा बचाता है। छवि मेटाडेटा, जैसे कि कैमरा ID और लेंस का उपयोग किया जाता है, को NEF फ़ाइलों में भी शामिल किया जाता है। मेटाडेटा में लेंस, इसकी सेटिंग्स, कैमरा और बहुत कुछ के बारे में विवरण शामिल हैं।",
+    "DetailedInformation": "NEF फ़ाइलों का उपयोग आमतौर पर Nikon निशानेबाजों द्वारा किया जाता है। ये फ़ोटोग्राफ़र पेशेवर या शौकीनों हो सकते हैं जो तस्वीरों को कैप्चर करने और कच्चे डेटा को NEF फ़ाइलों के रूप में सहेजने के लिए Nikon कैमरों का उपयोग करते हैं। कच्ची फाइलें ऐसी तस्वीरें हैं जिन्हें अभी तक बिटमैप ग्राफिक्स संपादकों के साथ संसाधित, मुद्रित या संपादित नहीं किया गया है। कच्ची फ़ाइल दृश्य को लगभग संभव के रूप में दोहराने की कोशिश करती है, जिसमें प्रकाश, तीव्रता और रंग शामिल हैं। कैमरे के सेंसर द्वारा कैप्चर किया गया डेटा कच्चे डेटा चित्रों में दर्ज किया गया है। NEF फ़ाइलों को कैमरा मेमोरी कार्ड पर असम्पीडित या दोषरहित संपीड़ित प्रारूप में सहेजा जा सकता है। NEF फाइलें “डिजिटल नेगेटिव” के समान हैं। इस तथ्य के बावजूद कि एनईएफ फाइलों की छवि गुणवत्ता के बारे में कोई बहस नहीं है, सॉफ्टवेयर डेवलपर्स एक सामान्य मानक की कमी के कारण इस प्रारूप का चयन नहीं करते हैं।",
+    "Softwaresused": [
+        {
+            "platform": "लिनक्स",
+            "softwares": [
+                {
+                    "name": "कोरल आफ्टरशॉट प्रो 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "फ़ाइल व्यूअर प्लस - इसे Microsoft से प्राप्त करें",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट फोटोज",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "एडोब फोटोशॉप 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "निकॉन व्यू Nx2",
+                    "link": "https://imaging.nikon.com/lineup/software/viewnx2/",
+                    "image": "/assets/fileimg/pgXaxjb.jpeg"
+                },
+                {
+                    "name": "कोरल आफ्टरशॉट प्रो 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                }
+            ]
+        },
+        {
+            "platform": "मैक",
+            "softwares": [
+                {
+                    "name": "Apple प्रीव्यू",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "Apple फोटो",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "एडोब फोटोशॉप 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "निकॉन व्यू Nx2",
+                    "link": "https://imaging.nikon.com/lineup/software/viewnx2/",
+                    "image": "/assets/fileimg/pgXaxjb.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "कोरल आफ्टरशॉट प्रो 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                }
+            ]
+        },
+        {
+            "platform": "आईओएस",
+            "softwares": [
+                {
+                    "name": "Apple फोटो",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "एडोब फोटोशॉप ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "गूगल फोटोज",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "मुफ़्त  "
+                },
+                {
+                    "name": "गूगल स्नैप्सड",
+                    "link": "https://apps.apple.com/us/app/snapseed/id439438619?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/p5rWIzT.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "एंड्रॉयड",
+            "softwares": [
+                {
+                    "name": "Android के लिए फ़ाइल व्यूअर",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "एडोब फोटोशॉप एक्सप्रेस",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "गूगल फोटोज",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "मुफ़्त  "
+                },
+                {
+                    "name": "गूगल स्नैप्सड",
+                    "link": "https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en_US",
+                    "image": "/assets/fileimg/p5rWIzT.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "गूगल फोटोज",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "मुफ़्त  "
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "Format": "PSD",
+    "ShortName": "PSD",
+    "FullName": "Adobe Photoshop Document",
+    "Category": "光栅图像文件",
+    "Pros": "充分利用 Photoshop 的功能。由于连接紧密，您可以直接将 Photoshop 文件导入 Illustrator、InDesign 和其他 Adobe 程序。在图层模式下打开保存的文件。如果你需要保持事情透明，这是一个很好的工具。",
+    "Cons": "文件很大。Adobe 拥有 PSD 格式。因此，它没有被其他应用程序广泛使用。",
+    "Createdby": "Adobe 系统",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "PSD 是 Photoshop 用于保存文件的本机文件格式。它也被称为 PDD。PSD，通常称为PDD，是一种常用的文件类型。PSD 与所有图像模式（位图、灰度、双色调、索引颜色、RGB、CMYK、Lab 和多通道）兼容。它是由Adobe Photoshop制作的图片文件，这是一种专业的图像编辑工具，通常用于改进数码照片和制作网络图形。",
+    "DetailedInformation": "图像图层、调整图层、图层蒙版、注释、文件信息、关键字和其他特定于 Photoshop 的组件都可以在 PSD 文件中找到。它们经常由平面设计师制作和共享。可以使用各种 Photoshop 工具打开 PSD 文件，并将其拼合为其他图像格式（如 PNG、JPEG 和 GIF）以进行上传、发送和保存。所有图层在从 PSD 转换为另一种文件类型后合并为一个图层。使用 PSD 文件扩展名保存时，可以存储、访问和编辑图层。这些文件经常用作处理中的文档，而不是用于最终图像制作和交付。可以修改 PSD 图层以及其他元素，如照片、形状、文本和效果。PSD 格式支持 RGB、CMYK、灰度、单色、双色调、索引颜色、实验室颜色和多通道颜色模式。具有 PSD 文件扩展名的 Photoshop 文件可以保存图像，同时允许在 Adobe Photoshop 产品中使用多种编辑选项。蒙版、透明度、双色调设置、渐变、色彩平衡、混合和剪切路径只是可用的几种编辑工具。",
+    "Softwaresused": [
+        {
+            "platform": "Linux的",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "免费 "
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — 从微软获取",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "免费增值"
+                },
+                {
+                    "name": "Adobe Photos",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "免费试用"
+                },
+                {
+                    "name": "土坯插画家 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "免费试用"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg"
+                },
+                {
+                    "name": "CorelDRAW 图形套件 2021",
+                    "link": "https://www.coreldraw.com/en/product/coreldraw/purchase.html?AID=10816204&PID=3081440&cjevent=51885051cce111eb80d1d3470a180510&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&x-vehicle=cj",
+                    "image": "/assets/fileimg/cfwD39J.jpeg",
+                    "type": "免费试用"
+                }
+            ]
+        },
+        {
+            "platform": "苹果电脑",
+            "softwares": [
+                {
+                    "name": "苹果预览版",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "免费，包含在操作系统中"
+                },
+                {
+                    "name": "土坯插画家 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "免费试用"
+                },
+                {
+                    "name": "Adobe Photos",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "免费试用"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "免费 "
+                },
+                {
+                    "name": "Pixelmator",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id407963104?ign-mpt=uo%3D4&mt=12",
+                    "image": "/assets/fileimg/0RX6D8V.jpeg",
+                    "type": "已付"
+                }
+            ]
+        },
+        {
+            "platform": "iOS系统",
+            "softwares": [
+                {
+                    "name": "Pixelmator 2",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/HmizpGb.jpeg",
+                    "type": "已付"
+                },
+                {
+                    "name": "Adobe ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "免费增值"
+                }
+            ]
+        },
+        {
+            "platform": "安卓",
+            "softwares": [
+                {
+                    "name": "安卓版文件查看器",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "免费增值"
+                },
+                {
+                    "name": "Adobe Photos",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "免费增值"
+                }
+            ]
+        }
+    ]
+}

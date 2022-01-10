@@ -1,0 +1,26 @@
+{
+    "Format": "ACC",
+    "ShortName": "ACC",
+    "FullName": "Graphics Accounts Data File",
+    "Category": "Tập tin dữ liệu",
+    "Pros": "n/a",
+    "Cons": "n/a",
+    "Createdby": "Phần mềm FKJ",
+    "CreatedbyLink": "https://download.cnet.com/developer/fkj-software/i-6201467/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "Tệp ACC là định dạng tệp dữ liệu tài khoản đồ họa. Đối với Tài khoản đồ họa, tệp này chứa thông tin tài khoản tài chính. Đó là một công cụ giúp bạn tạo và quản lý ngân sách cá nhân. Nó có thể chứa thông tin từ một hoặc nhiều tài khoản ngân hàng.",
+    "DetailedInformation": "Các tệp ACC chứa dữ liệu tài khoản tài chính cho tài khoản đồ họa. Chúng có thể được mở kết hợp với một tập tin ngân sách (.BGT).",
+    "Softwaresused": [
+        {
+            "platform": "các cửa sổ",
+            "softwares": [
+                {
+                    "name": "Tài khoản đồ họa phần mềm FKJ",
+                    "link": "https://download.cnet.com/developer/fkj-software/i-6201467/",
+                    "image": "https://image.flaticon.com/icons/png/512/1063/1063308.png",
+                    "type": "Free"
+                }
+            ]
+        }
+    ]
+}

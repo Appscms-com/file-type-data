@@ -1,0 +1,164 @@
+{
+    "Format": "BMP",
+    "ShortName": "BMP",
+    "FullName": "Bitmap Image File",
+    "Category": "Rasterbild-Dateien",
+    "Pros": "Einfach zu verwenden. Weitverbreitete Vertrautheit. Gut dokumentiert. Frei von Patenten.  ",
+    "Cons": "Unkomprimiert. Kann groß sein. Manchmal kann es auf verschiedenen Geräten anders aussehen.",
+    "Createdby": "Microsoft",
+    "CreatedbyLink": "https://developer.microsoft.com/en-us/",
+    "CreatedInYear": "1995",
+    "BasicInformation": "Eine BMP-Datei ist ein von Microsoft entwickeltes Rasterbildformat namens Bitmap (BMP). Es enthält Bildinformationen sowie unkomprimierte Bilddaten, die Schwarzweiß- und Farbbilder mit unterschiedlichen Farbbittiefen unterstützen. BMP-Dateien werden häufig zum Speichern zweidimensionaler digitaler Fotos verwendet. DIB, was für geräteunabhängige Bitmap steht, ist ein anderer Name dafür.",
+    "DetailedInformation": "Der Begriff Bitmap stammt aus dem Konzept einer Bitmap in der Computerprogrammierung. Im Allgemeinen werden BMP-Bilder nicht komprimiert oder verlustfrei komprimiert (z. B. über ZIP oder RAR aufgrund redundanter Daten in der Datei). Microsoft hat das BMP-Format, auch als Device Independent Bitmap (DIB) bekannt, entwickelt, um Bilder beizubehalten, die bei der Anzeige auf mehreren Geräten nicht verformt werden. Ein Datei-Header im BMP-Format enthält die Bitmap-Identifikation, Dateigröße, -breite und -höhe, Datenkomprimierungsmethode (optional), Farboptionen und Startpunkt der Bitmap-Daten. Rohe Pixelbilddaten und optionale ICC-Farbprofildaten folgen der Kopfzeile. Ohne Datenkomprimierung, Farbprofile oder Alphakanäle werden BMP-Dateien als 2D-Bilder unterschiedlicher Größe, Farbtöne und Farbtiefe gespeichert.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Edge-Technologie",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Holen Sie es sich von Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Kostenlose Testversion"
+                },
+                {
+                    "name": "Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Kostenlose Testversion"
+                },
+                {
+                    "name": "Microsoft-Fotos",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg"
+                },
+                {
+                    "name": "Microsoft Windows Foto-Viewer",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "Kostenlos, im Betriebssystem enthalten"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple-Vorschau",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Kostenlos, im Betriebssystem enthalten"
+                },
+                {
+                    "name": "Apple Fotos",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Kostenlos, im Betriebssystem enthalten"
+                },
+                {
+                    "name": "Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Kostenlose Testversion"
+                },
+                {
+                    "name": "ACD Systems ACDSee Photo Studio für Mac",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-mac/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "Kostenlose Testversion"
+                },
+                {
+                    "name": "Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Kostenlose Testversion"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Google Fotos",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Kostenlos  "
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Dateibetrachter für Android",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Fotos",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Kostenlos  "
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Fotos",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Kostenlos  "
+                }
+            ]
+        }
+    ]
+}

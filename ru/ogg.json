@@ -1,0 +1,164 @@
+{
+    "Format": "OGG",
+    "ShortName": "OGG",
+    "FullName": "Ogg Vorbis Audio File",
+    "Category": "Аудиофайл",
+    "Pros": "В файле OGG можно сохранить до 255 каналов. Объемный звук сохраняется. Позволяет сохранять аудио и видео. Формат OGG имеет более высокое качество. OGG имеет превосходную систему маркировки.",
+    "Cons": "Поддерживается не всеми устройствами или приложениями. Многие ОС не поддерживают OGG. Расход батареи больше.",
+    "Createdby": "Xiph.Org ",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "1997",
+    "BasicInformation": "Файл OGG - это сжатый аудиофайл, в котором используется бесплатное и незапатентованное сжатие звука Ogg Vorbis. Он сопоставим с файлом MP3, за исключением того, что он звучит лучше, чем MP3-файл такого же размера, и может содержать метаданные песни, такие как создатель и информация о треке. Файлы OGG обрабатываются несколькими программными музыкальными проигрывателями, а также некоторыми портативными музыкальными плеерами.",
+    "DetailedInformation": "Контейнер Ogg — это формат файла для хранения аудиоданных. Название «Vorbis» относится к технике кодирования, разработанной Xiph.Org, той же компанией, которая создала Ogg. Другие методы сжатия звука, такие как FLAC и Speex, могут присутствовать в файлах OGG. Тем не менее, поскольку они используют другой алгоритм сжатия, эти файлы нельзя юридически называть файлами «Vorbis». Он позволяет пользователям просматривать и редактировать цифровые мультимедийные файлы высокого разрешения. Термин «Огг» происходит от жаргонного термина «бег». В игре Netrek бег относится к самоубийственному бегу, который убивает перевозчика. Расширение OGG когда-то использовалось для описания любого файла, использующего формат контейнера OGG, но оно использовалось только для аудиофайлов Ogg Vorbis после 2007 года. Расширение OGG можно использовать для ссылки на аудиофайл, но его также можно использовать для ссылки на файл-контейнер.",
+    "Softwaresused": [
+        {
+            "platform": "Линукс",
+            "softwares": [
+                {
+                    "name": "Зинф",
+                    "link": "http://www.zinf.org/",
+                    "image": "https://image.flaticon.com/icons/png/512/1063/1063308.png",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Медиаплеер VLC VLC VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Амарок",
+                    "link": "https://amarok.kde.org/",
+                    "image": "/assets/fileimg/Dh0nFk6.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "дерзость",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "ПКФ Миро",
+                    "link": "http://www.getmiro.com/",
+                    "image": "/assets/fileimg/JeFS57j.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Просмотрщик файлов Plus — получите его от корпорации Майкрософт",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Фримиум"
+                },
+                {
+                    "name": "Медиа-проигрыватель Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Бесплатно, в комплекте с ОС"
+                },
+                {
+                    "name": "Нуллсофт Винамп",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "дерзость",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg"
+                },
+                {
+                    "name": "Адобе прослушивание CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Бесплатная пробная версия"
+                }
+            ]
+        },
+        {
+            "platform": "Мак",
+            "softwares": [
+                {
+                    "name": "Проигрыватель Apple QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Бесплатно, в комплекте с ОС"
+                },
+                {
+                    "name": "Медиаплеер VLC VLC VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "дерзость",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Адобе прослушивание CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Бесплатная пробная версия"
+                },
+                {
+                    "name": "ПКФ Миро",
+                    "link": "http://www.getmiro.com/",
+                    "image": "/assets/fileimg/JeFS57j.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "IOS",
+            "softwares": [
+                {
+                    "name": "Олимсофт Плеер",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Оплаченный"
+                },
+                {
+                    "name": "VLC Videolan для мобильных устройств",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Просмотрщик файлов для Android",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Фримиум"
+                },
+                {
+                    "name": "медиаконвертер antvplayer",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Диск",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Фримиум"
+                }
+            ]
+        }
+    ]
+}

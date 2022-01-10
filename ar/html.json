@@ -1,0 +1,212 @@
+{
+    "Format": "HTML",
+    "ShortName": "HTML",
+    "FullName": "Hypertext Markup Language File",
+    "Category": "ملف ويب",
+    "Pros": "HTML هي لغة شائعة الاستخدام. HTML مدعوم من قبل جميع المتصفحات. من السهل التعلم والاستفادة. HTML هي لغة خفيفة الوزن وسريعة التحميل. لا تحتاج إلى شراء أي برنامج.",
+    "Cons": "لأنها لغة ثابتة، لا يمكنها إنتاج إخراج ديناميكي من تلقاء نفسها. أصبح فهم هيكل مستندات HTML أكثر صعوبة. يمكن أن تكون الأخطاء باهظة الثمن. يستغرق الأمر وقتًا طويلاً. يحتوي HTML على مجموعة محدودة من تدابير الأمان.",
+    "Createdby": "تيم بيرنرز لي في CERN",
+    "CreatedbyLink": "https://home.cern/",
+    "CreatedInYear": "1989",
+    "BasicInformation": "لغة ترميز النص التشعبي (HTML) هي لغة ترميز يتم استخدامها لتنسيق بنية صفحة ويب. يتم حفظه بتنسيق نص قياسي ويحتوي على علامات تحدد تخطيط صفحة الويب والمحتوى، مثل النص والجداول والصور والارتباطات التشعبية. غالبًا ما يتم استخدام ملفات HTML على الإنترنت ويمكن عرضها في متصفحات الويب.",
+    "DetailedInformation": "المعيار لإنشاء مواقع الويب هو HTML (لغة ترميز النص التشعبي). اقترح تيم بيرنرز لي، الفيزيائي في CERN، الفكرة في عام 1989. يمكن لمتصفحات الويب قراءة هذه اللغة وترجمتها إلى نصوص وألوان ونماذج مختلفة (العناوين والفقرات والاقتباسات والدلالات الأخرى) والارتباطات التشعبية وتضمين عنوان URL لإدراج الصور أو الصوت. يتم استخدام مكونات HTML لإنشاء بنية صفحات الويب بلغة الترميز. يحتوي كل عنصر عادةً على علامة فتح محاطة بأقواس زاوية (علامة>) وعلامة إغلاق محاطة بأقواس زاوية ولكن يسبقها شرطة مائلة للأمام (/tag>). يمكن للمستخدمين رؤية ترميز HTML بالانتقال إلى علامة التبويب «عرض المصدر» في متصفحهم. يمكن استخدام HTML لتنسيق نص مستند في بعض تطبيقات البريد الإلكتروني. على الرغم من تشابه HTML و XHTML، إلا أنهما ليسا متماثلين.",
+    "Softwaresused": [
+        {
+            "platform": "لينكس",
+            "softwares": [
+                {
+                    "name": "موزيلا فايرفوكس",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "أوبرا",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "W3C أمايا",
+                    "link": "https://www.w3.org/Amaya/",
+                    "image": "/assets/fileimg/e9cgmZo.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "جوجل كروم",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "كومبوزر",
+                    "link": "https://sourceforge.net/projects/kompozer/",
+                    "image": "/assets/fileimg/8aN9yEj.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "شبابيك",
+            "softwares": [
+                {
+                    "name": "عارض الملفات بلس - احصل عليه من Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "ميكروسوفت نوتيباد",
+                    "link": "https://www.microsoft.com/en-us/p/windows-notepad/9msmlrh6lzf3#activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/82vepge.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "مايكروسوفت وورد",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/word?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-xMQ4Sl1Ik8DLCMUAH94NdQ&epi=4LioSo.jxMc-xMQ4Sl1Ik8DLCMUAH94NdQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xurkqpvnupuk000%29%287593%29%281243925%29%284LioSo.jxMc-xMQ4Sl1Ik8DLCMUAH94NdQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xurkqpvnupuk000",
+                    "image": "/assets/fileimg/Kp0egqG.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "كومبوزر",
+                    "link": "https://sourceforge.net/projects/kompozer/",
+                    "image": "/assets/fileimg/8aN9yEj.jpeg"
+                },
+                {
+                    "name": "كود مايكروسوفت فيسوال ستوديو",
+                    "link": "https://code.visualstudio.com/",
+                    "image": "/assets/fileimg/51PJjGr.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "رفيق",
+            "softwares": [
+                {
+                    "name": "W3C أمايا",
+                    "link": "https://www.w3.org/Amaya/",
+                    "image": "/assets/fileimg/e9cgmZo.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "كود مايكروسوفت فيسوال ستوديو",
+                    "link": "https://code.visualstudio.com/",
+                    "image": "/assets/fileimg/51PJjGr.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "كومبوزر",
+                    "link": "https://sourceforge.net/projects/kompozer/",
+                    "image": "/assets/fileimg/8aN9yEj.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "موزيلا فايرفوكس",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "جوجل كروم",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "موزيلا فايرفوكس",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "جوجل كروم",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "أوبرا",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "فورناس إسبرسو إتش تي أم أل",
+                    "link": "https://apps.apple.com/us/app/espresso-html/id487303069?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/t2WljZe.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "ألكسندر بلاش محرر التعليمات البرمجية النصية",
+                    "link": "https://apps.apple.com/us/app/textastic-code-editor-6/id1049254261?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/d5byEov.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "أندرويد",
+            "softwares": [
+                {
+                    "name": "عارض الملفات لنظام Android",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "موزيلا فايرفوكس",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "جوجل كروم",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "أوبرا",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "نظام كرومي أوس",
+            "softwares": [
+                {
+                    "name": "نص جوجل كروم",
+                    "link": "https://chrome.google.com/webstore/detail/text/mmfbcljfglbokpmkimbfghdkjmjhdgbg",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "موزيلا فايرفوكس",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "جوجل كروم",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "أوبرا",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "Format": "MKV",
+    "ShortName": "MKV",
+    "FullName": "Matroska Video File",
+    "Category": "Videobestand",
+    "Pros": "Zeer flexibel. Heeft zowel lossy als lossless optie. Goed gedocumenteerd. Niet-eigendomsrechtelijk. Toevoeging van metadata is toegestaan.",
+    "Cons": "Er is momenteel geen zelfstandige hardwarespeler die MKV-bestanden kan afspelen. Grotere bestandsgrootte. Nog steeds in ontwikkeling. ",
+    "Createdby": "Matroska",
+    "CreatedbyLink": "https://www.matroska.org/",
+    "CreatedInYear": "2002",
+    "BasicInformation": "Een videobestand dat is opgeslagen in het Matroska-multimediacontainerformaat staat bekend als een MKV-bestand. Het kan een verscheidenheid aan audio- en videocodecs aan, waaronder .SRT, .SSA, .USF (Universal Subtitle Format) en VobSub-ondertitels. Korte videoclips, tv-programma's en films worden meestal opgeslagen als MKV-bestanden.",
+    "DetailedInformation": "De Matroska Multimedia Container (MKV) is een open en gratis standaard voor het opslaan van videogegevens. Het bestand kan een onbeperkt aantal audio-, video-, beeld- en ondertitelnummers bevatten, waardoor het een handige manier is om films, volledige tv-programma's en meer op te slaan. De gebruiker kan naar alle verschillende gegevenssporen in het RAW-formaat springen. Het is vergelijkbaar met de.AVI-, .ASF- en.MOV-formaten omdat het een verscheidenheid aan video-, audio-, beeld- en ondertitelnummers kan hebben. Matroska Videobestanden zijn multimediabestanden die het Matroska-containerformaat gebruiken om een of meer videotracks op te slaan en worden geïdentificeerd door de bestandsextensie the.mkv. Het MKV-formaat, dat vaak wordt gebruikt om korte videofragmenten, tv-series en films op te slaan, is populair geworden onder anime-fansubbers. Veel van deze gebruikers voegen ondertitels toe en het MKV-formaat is bijzonder handig omdat het mogelijk maakt om verschillende audio- en ondertitelnummers in één bestand te combineren.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC-mediaspeler",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Handrem",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Ramen",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Download het van Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "VideoLan VLC-mediaspeler",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Handrem",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Klassieke mediaspeler",
+                    "link": "https://github.com/clsid2/mpc-hc/",
+                    "image": "/assets/fileimg/PLx4Opv.jpeg"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Eltima Elmedia-speler",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "ShedWorx slimme converter",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "Gratis proefversie"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Handrem",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "VideoLan VLC-mediaspeler",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "olimsoft speler",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Betaald"
+                },
+                {
+                    "name": "Videolan VLC voor mobiel",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Oka Apps Omni-speler",
+                    "link": "https://apps.apple.com/us/app/omni-player-mkv-video-player/id1470926410",
+                    "image": "/assets/fileimg/TmHdEAq.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Pentaloop PlayerXtreme mediaspeler",
+                    "link": "https://apps.apple.com/us/app/playerxtreme-media-player/id456584471?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/uoX9gqI.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "BIT Labs eenvoudige MP4-videospeler",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Videolabs VLC voor Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Bestandsviewer voor Android",
+                    "link": "https://play.google.com/store/apps/details?id=com.sharpened.androidfileviewer",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

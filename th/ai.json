@@ -1,0 +1,164 @@
+{
+    "Format": "AI",
+    "ShortName": "AI",
+    "FullName": "Adobe Illustrator File",
+    "Category": "แฟ้มภาพเวกเตอร์",
+    "Pros": "รองรับเลเยอร์สามารถมีองค์ประกอบข้อความความละเอียดไม่มีที่สิ้นสุดเสนอความโปร่งใสพวกเขามีขนาดเล็กเมื่อเทียบกับขนาด",
+    "Cons": "มันเป็นซอฟแวร์ขึ้นอยู่กับ.ไม่เหมาะที่จะทำงานกับพิกเซล",
+    "Createdby": "Adobe ซิสเต็มส์",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "2000",
+    "BasicInformation": "การออกแบบที่สร้างขึ้นด้วย Adobe Illustrator ซึ่งเป็นโปรแกรมแก้ไขกราฟิกแบบเวกเตอร์เป็นที่รู้จักกันเป็นไฟล์ AIมากกว่าข้อมูลภาพบิตแมปมันถูกสร้างขึ้นจากเส้นทางที่เชื่อมต่อกันโดยจุดไฟล์ AI สามารถปรับขนาดได้โดยไม่ต้องเสียคุณภาพของภาพเนื่องจากไฟล์เหล่านี้จะถูกบันทึกในรูปแบบเวกเตอร์",
+    "DetailedInformation": "ไฟล์ Adobe Illustrator Artwork (AI) เป็นกราฟิกแบบเวกเตอร์ที่พอดีกับหน้าเดียวและถูกสร้างโดย Adobe Systems สำหรับ Adobe Illustratorมักจะถูกบันทึกไว้ในรูปแบบไฟล์ EPS หรือ PDF Illustrator มักใช้โดยนักออกแบบกราฟิกเพื่อสร้างงานศิลปะเวกเตอร์เช่นไอคอน โลโก้ ป้ายและแบบจำลองต่างๆIllustrator สร้างไฟล์ AI เพื่อจัดเก็บเนื้อหาของงานศิลปะดิจิตอลเมื่อจัดเก็บคุณสามารถปิดแฟ้ม เปิดใหม่ และดำเนินการเปลี่ยนงานศิลป์ต่อไปหลังจากบันทึกแล้วAdobe Illustrator จะบันทึกงานออกแบบเหล่านี้ด้วยนามสกุลไฟล์ AI หากมีการบันทึกไว้สำหรับการแก้ไขในอนาคต",
+    "Softwaresused": [
+        {
+            "platform": "ลินุกซ์",
+            "softwares": [
+                {
+                    "name": "กิมป์",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "ฟรี "
+                },
+                {
+                    "name": "SK1",
+                    "link": "https://github.com/sk1project/sk1-wx",
+                    "image": "/assets/fileimg/MX9qrvZ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "อิงค์สเคป",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "อะโดบี อะโครบัต",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "อิงค์สเคป",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "อะโดบี โฟโตช็อป 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "อะโดบี วาดภาพประกอบ 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg"
+                },
+                {
+                    "name": "ไอเดียมเค ไอ Viewer",
+                    "link": "https://aiviewer.com/",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "ตัวอย่างแอปเปิ้ล",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "อะโดบี วาดภาพประกอบ 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "อะโดบี อะโครบัต",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "อะโดบี โฟโตช็อป 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "อิงค์สเคป",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Adobe Illustrator วาด",
+                    "link": "https://apps.apple.com/in/app/adobe-illustrator-draw/id911156590",
+                    "image": "/assets/fileimg/YaqCA2d.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "AI Viewer",
+                    "link": "https://apps.apple.com/us/app/ai-viewer/id1505083223",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "อะโดบี โฟโตช็อ ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "ฟรีเมียม"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดู AI",
+                    "link": "https://apps.apple.com/in/app/adobe-illustrator-draw/id911156590",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "อะโดบี โฟโต้ช็อป",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "Adobe Illustrator วาด",
+                    "link": "https://adobe-illustrator-draw.en.uptodown.com/android#:~:text=Adobe%20Illustrator%20Draw%20is%20a,in%20a%20good%20drawing%20application.",
+                    "image": "/assets/fileimg/YaqCA2d.jpeg",
+                    "type": "ฟรีเมียม"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "AI Viewer ออนไลน์",
+                    "link": "https://aiviewer.com/onlineviewer.aspx",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,200 @@
+{
+    "Format": "MP4",
+    "ShortName": "MP4",
+    "FullName": "MPEG-4 Part 14",
+    "Category": "แฟ้มวิดีโอ",
+    "Pros": "ให้การสนับสนุนหลายแพลตฟอร์มใช้งานง่ายสามารถกระจายได้อย่างง่ายดายการบีบอัดในระดับสูงในขณะที่สร้างไฟล์ขนาดเล็กซึ่งทำให้เหมาะสำหรับการสตรีมวิดีโอหรือบีบอัดไฟล์เสียงความละเอียดสูงข้อมูลเมตาของเนื้อหาสามารถได้สามารถบูรณาการกับกราฟิก 3D และเครื่องมืออื่น ๆ ในการโต้ตอบสนับสนุนโดยทุกแพลตฟอร์มรูปแบบไฟล์อเนกประสงค์",
+    "Cons": "ความยากลำบากของ Codec อาจทำให้เสียงหลุดออกจากการซิงค์กับวิดีโอการเล่นและการแก้ไขอาจจำเป็นต้องใช้พลังงานในการคำนวณเป็นจำนวนมากเนื่องจากเป็นฟอร์แมท lossy ระดับการบีบอัดที่สูงขึ้นและขนาดไฟล์ที่เล็กลงจะทำให้คุณภาพของเสียงและวิดีโอลดลงเนื่องจากความนิยมไฟล์ที่มีลิขสิทธิ์จึงสามารถแจกจ่ายอย่างผิดกฎหมายได้",
+    "Createdby": "กลุ่มผู้เชี่ยวชาญด้านภาพเคลื่อนไหว",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "2001-2003",
+    "BasicInformation": "MPEG4 เป็นรูปแบบไฟล์สำหรับจัดเก็บประเภทสื่อที่กำหนดโดย ISO/IEC Moving Picture Experts Group ในขณะที่ยังสามารถจัดเก็บสื่อประเภทอื่น. mp4 เป็นส่วนขยายที่พบมากที่สุดสำหรับไฟล์ประเภทนี้เป็นไฟล์มัลติมีเดียประเภทหนึ่งที่ใช้ในการบันทึกภาพยนตร์หรือคลิปวิดีโอนอกจากนี้ยังอาจรวมถึงกราฟิกหรือคำบรรยาย.MP4 เป็นคำย่อสำหรับ MPEG-4 ส่วนที่ 14 (MPEG-4) รูปแบบคอนเทนเนอร์ตามรูปแบบไฟล์ QuickTime (QTFF) ซึ่งใช้ไฟล์ by.MOV และ.qt",
+    "DetailedInformation": "ไฟล์ MP4 ใช้มาตรฐานการบีบอัด MPEG-4 (MPEG) ของกลุ่มผู้เชี่ยวชาญด้านการย้ายภาพแทร็กเสียงและวิดีโอถูกบีบอัดแยกต่างหากในรูปแบบนี้วิดีโอถูกบีบอัดโดยใช้การเข้ารหัสวิดีโอ MPEG-4 และเสียงจะถูกเข้ารหัสโดยใช้การบีบอัด AAC ซึ่งเหมือนกับที่ใช้ในไฟล์. AACApple และผู้ผลิตอุปกรณ์มือถือรายอื่นๆ มักใช้ไฟล์ประเภทนี้เพื่อจัดเก็บเสียง รูปภาพนิ่ง หรือวิดีโอหนังสือเสียง เพลง ภาพยนตร์ วิดีโอ รูปภาพ และพ็อดคาสท์เป็นตัวอย่างทั้งหมดนี้MPEG-4 เป็นรูปแบบสตรีมมิ่งวิดีโอยอดนิยมเครื่องเล่น MP3 หลายคนอ้างว่าสามารถเล่นไฟล์ MP4 ซึ่งโดยทั่วไปหมายถึงพวกเขาสามารถเล่นเพลงและไฟล์วิดีโอบางไฟล์ (แม้ว่าจะไม่ใช่ไฟล์ MP4 จริงเสมอไป)ส่วนขยาย MP4 ช่วยให้คุณสามารถดาวน์โหลดหรือสตรีมภาพยนตร์วิดีโอและไฟล์เสียงได้",
+    "Softwaresused": [
+        {
+            "platform": "ลินุกซ์",
+            "softwares": [
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "เบรคมือ",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์พลัส — รับได้จากไมโครซอฟท์",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "โปรแกรมเล่นสื่อ Windows ของ Microsoft",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "เบรคมือ",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "โปรแกรมเล่น Apple QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "เบรคมือ",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ร็อกซิโอ ขนมปังปิ้ง 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "จ่ายแล้ว"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "แอปเปิ้ลมิวสิก",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "แอปเปิลรูปภาพ",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "กูเกิลไดรฟ์",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "โอลิมซอฟท์ โอเพลเยอร์",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "จ่ายแล้ว"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์สำหรับ Android",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "วีดีโอแลบ VLC สำหรับ Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "วิ่งรอบปฐมทัศน์ Adobe",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "กูเกิลไดรฟ์",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "BIT Labs เครื่องเล่นวิดีโอ MP4 แบบง่าย",
+                    "link": "https://play.google.com/store/apps/details?id=air.br.com.bitlabs.VideoPlayer&hl=en",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "กูเกิลไดรฟ์",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "โครเมียม โอเอส",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        }
+    ]
+}

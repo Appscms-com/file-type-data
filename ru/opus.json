@@ -1,0 +1,88 @@
+{
+    "Format": "OPUS",
+    "ShortName": "OPUS",
+    "FullName": "Opus Audio File",
+    "Category": "Аудиофайл",
+    "Pros": "Обеспечивает более быструю передачу данных по нескольким каналам. Тесты качества звука показывают, что он более эффективно восстанавливает исходный звук при различных битрейтах и частотах дискретизации. Обеспечивает стабильную производительность в различных ситуациях. Ориентированная на будущее структура для многочисленных телекоммуникационных услуг. Адаптируется к типу звуковой информации. Может частично компенсировать потери качества во время передачи, обеспечивая непрерывную передачу данных в реальном времени без перерывов. ",
+    "Cons": "Не поддерживается несколькими приложениями. Кодеки Opus встречаются редко.",
+    "Createdby": "Xiph.Org ",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "2012",
+    "BasicInformation": "Opus — это новый кодек, разработанный группой экспертов из Фонда Xiph.Org (корпорация Mozilla) и Skype Technologies S.A. (Microsoft). Он обладает всеми преимуществами MP3, минимизируя его недостатки. Opus объединяет кодеки CELT и SILK.",
+    "DetailedInformation": "Файл OPUS - это аудиофайл с потерями, созданный в формате Opus (иногда называемом «Ogg Opus»), который был разработан для потоковой передачи через Интернет. Он поддерживает различные скорости передачи данных от 6 кбит/с до 510 Кбит/с и использует кодеки SILK (используется Skype) и CELT (от Xiph.Org). Голосовая связь по IP (VoIP), видеоконференции и внутриигровой чат — все это использует кодек Opus. IETF определил широко используемый формат Opus. IETF стандартизировал формат Opus, который поддерживается Xiph.Org. Поскольку кодек Opus в основном используется для потоковой передачи, файлы с расширением.opus встречаются редко.",
+    "Softwaresused": [
+        {
+            "platform": "Линукс",
+            "softwares": [
+                {
+                    "name": "Медиаплеер VLC VLC VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Просмотрщик файлов Plus — получите его от корпорации Майкрософт",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Фримиум"
+                },
+                {
+                    "name": "Медиаплеер VLC VLC VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "АИМП",
+                    "link": "http://www.aimp2.us/",
+                    "image": "/assets/fileimg/sOBpiyF.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Футболка 2000",
+                    "link": "https://www.foobar2000.org/",
+                    "image": "/assets/fileimg/c2PuNRk.jpeg"
+                },
+                {
+                    "name": "Опус Тулс",
+                    "link": "https://www.opus-codec.org/downloads/",
+                    "image": "/assets/fileimg/7xNWYRA.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "Мак",
+            "softwares": [
+                {
+                    "name": "Медиаплеер VLC VLC VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Просмотрщик файлов для Android",
+                    "link": "",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Фримиум"
+                },
+                {
+                    "name": "Опус-плеер",
+                    "link": "https://play.google.com/store/apps/details?id=com.littlepako.opusplayer3&hl=en_US&gl=US",
+                    "image": "/assets/fileimg/irCSU4s.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        }
+    ]
+}

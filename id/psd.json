@@ -1,0 +1,129 @@
+{
+    "Format": "PSD",
+    "ShortName": "PSD",
+    "FullName": "Adobe Photoshop Document",
+    "Category": "File Gambar Raster",
+    "Pros": "Manfaatkan fitur Photoshop. Anda dapat langsung mengimpor file Photoshop ke Illustrator, InDesign, dan program Adobe lainnya berkat konektivitas yang ketat. Buka file yang disimpan dalam mode layer. Jika Anda perlu untuk menjaga hal-hal transparan, ini adalah alat yang baik untuk memiliki.",
+    "Cons": "File ini cukup besar. Adobe memiliki format PSD. Akibatnya, aplikasi ini tidak banyak digunakan oleh aplikasi lain.",
+    "Createdby": "Sistem Adobe",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "PSD adalah format file asli Photoshop untuk menyimpan file. Hal ini juga dikenal sebagai PDD. PSD, sering dikenal sebagai PDD, adalah jenis file yang umum digunakan. PSD kompatibel dengan semua mode gambar (Bitmap, Grayscale, Duotone, Indexed Color, RGB, CMYK, Lab, dan Multichannel). Ini adalah file gambar yang dibuat oleh Adobe Photoshop, alat pengeditan gambar profesional yang biasa digunakan untuk meningkatkan foto digital dan membuat grafis web.",
+    "DetailedInformation": "Lapisan gambar, lapisan penyesuaian, masker lapisan, anotasi, informasi file, kata kunci, dan komponen khusus Photoshop lainnya semuanya dapat ditemukan dalam file PSD. Mereka sering dibuat dan dibagi oleh desainer grafis. File PSD dapat dibuka dengan berbagai alat Photoshop dan diratakan ke format gambar lainnya (seperti PNG, JPEG, dan GIF) untuk mengunggah, mengirim, dan menyimpan. Semua lapisan digabungkan menjadi satu lapisan tunggal setelah dikonversi dari PSD ke jenis file lain. Lapisan disimpan, dapat diakses, dan dapat diedit saat disimpan dengan ekstensi file PSD. File-file ini sering digunakan sebagai dokumen work-in-progress, bukan untuk produksi gambar akhir dan pengiriman. Lapisan PSD, serta elemen lain seperti foto, bentuk, teks, dan efek, dapat dimodifikasi. RGB, CMYK, grayscale, monokrom, duotone, warna diindeks, warna Lab, dan mode warna multichannel semuanya didukung oleh format PSD. File Photoshop dengan ekstensi file PSD memegang gambar sambil memungkinkan untuk berbagai pilihan pengeditan di seluruh produk Adobe Photoshop. Masker, transparansi, pengaturan duotone, gradien, penyeimbangan warna, pencampuran, dan jalur kliping hanyalah beberapa alat pengeditan yang tersedia.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Gratis "
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Dapatkan dari Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Uji coba gratis"
+                },
+                {
+                    "name": "Adobe Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Uji coba gratis"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg"
+                },
+                {
+                    "name": "Suite Grafis CorelDRAW 2021",
+                    "link": "https://www.coreldraw.com/en/product/coreldraw/purchase.html?AID=10816204&PID=3081440&cjevent=51885051cce111eb80d1d3470a180510&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&x-vehicle=cj",
+                    "image": "/assets/fileimg/cfwD39J.jpeg",
+                    "type": "Uji coba gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Pratinjau Apel",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                },
+                {
+                    "name": "Adobe Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Uji coba gratis"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Uji coba gratis"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Gratis "
+                },
+                {
+                    "name": "Pixelmator",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id407963104?ign-mpt=uo%3D4&mt=12",
+                    "image": "/assets/fileimg/0RX6D8V.jpeg",
+                    "type": "Dibayar"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Pixelmator 2",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/HmizpGb.jpeg",
+                    "type": "Dibayar"
+                },
+                {
+                    "name": "Adobe Photoshop ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Penampil file untuk Android",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Adobe Photoshop Ekspres",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

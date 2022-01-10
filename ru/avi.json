@@ -1,0 +1,164 @@
+{
+    "Format": "AVI",
+    "ShortName": "AVI",
+    "FullName": "Audio Video Interleave File",
+    "Category": "Видео файл",
+    "Pros": "Удивительно отличное качество звука. Существует множество кодеков, которые можно использовать для достижения соответствующего соотношения при сжатии файлов в Интернете. Поскольку он был создан Microsoft, его можно воспроизводить во всех основных операционных системах Microsoft и других производителей. В отличие от других аудио/видео форматов, стандарт DV-AVI можно сжимать. Это не требует использования какого-либо конкретного оборудования или программного обеспечения. Благодаря своим возможностям сжатия видеоформат AVI чаще всего используется для промо, короткометражных фильмов и рекламы. Для мастер-файлов качество, сохраняемое AVI, хорошее.",
+    "Cons": "Многие люди расстраиваются, когда не могут найти кодек в надежном и авторитетном источнике. Пользователи могут счесть перерыв в их опыте нежелательным, даже если эти источники доступны. По сравнению с другими форматами файлов файлы AVI могут быть довольно большими, если они не сжаты. Когда вы сжимаете файл AVI онлайн сверх определенных ограничений, качество видео ухудшается. Взаимодействие с пользователем не поддерживается. Не поддерживает софтсабы.",
+    "Createdby": "Microsoft",
+    "CreatedbyLink": "https://developer.microsoft.com/en-us/",
+    "CreatedInYear": "1992",
+    "BasicInformation": "Файл AVI — это видеофайл, хранящийся в созданном корпорацией Майкрософт формате мультимедийного контейнера Audio Video Interleave (AVI). Он содержит видео и аудио файлы, закодированные различными кодеками, включая DivX и XviD. Файлы AVI можно воспроизводить с помощью различных видеоплееров, включая Microsoft Movies & TV, проигрыватель Windows Media и Apple QuickTime Player, каждый из которых предустановлен вместе с соответствующими операционными системами.",
+    "DetailedInformation": "Формат AVI основан на формате файлов обмена ресурсами (RIFF), контейнерном формате для хранения мультимедиа, который был впервые выпущен в 1991 году. Microsoft создала формат AVI годом позже в 1992 году, и он до сих пор широко используется. Он поддерживается широким спектром видеоплееров, однако для успешного воспроизведения видео проигрыватель должен поддерживать кодек, используемый для кодирования видеоданных. Для поддержки одновременного воспроизведения AVI объединяет аудио и видео в один файл в общем контейнере. Его преимуществом является простая архитектура, которая позволяет ему работать в различных операционных системах, включая Windows, Mac, Linux и Unix, и поддерживается всеми основными веб-браузерами. Он может хранить высококачественное видео и аудио и использует меньшее сжатие, чем другие форматы видео like.MPEG and.MOV.",
+    "Softwaresused": [
+        {
+            "platform": "Линукс",
+            "softwares": [
+                {
+                    "name": "Медиаплеер VLC VLC VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Сине",
+                    "link": "https://sourceforge.net/projects/xine/",
+                    "image": "/assets/fileimg/11To9CR.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Коди",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Просмотрщик файлов Plus — получите его от корпорации Майкрософт",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Фримиум"
+                },
+                {
+                    "name": "Медиа-проигрыватель Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Бесплатно, в комплекте с ОС"
+                },
+                {
+                    "name": "Фильмы и ТВ Microsoft",
+                    "link": "https://www.microsoft.com/en-us/p/movies-tv/9wzdncrfj3p2?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/fVyIEs4.jpeg",
+                    "type": "Бесплатно, в комплекте с ОС"
+                },
+                {
+                    "name": "Медиаплеер VLC VLC VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "Коди",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "Мак",
+            "softwares": [
+                {
+                    "name": "Проигрыватель Apple QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Бесплатно, в комплекте с ОС"
+                },
+                {
+                    "name": "Медиаплеер VLC VLC VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Коди",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Адобе Премьера Pro 2020",
+                    "link": "https://www.adobe.com/products/premiere.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/RUVWLwB.jpeg",
+                    "type": "Бесплатная пробная версия"
+                },
+                {
+                    "name": "Эльтима Элмедиа Плеер",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "IOS",
+            "softwares": [
+                {
+                    "name": "VLC Videolan для мобильных устройств",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Олимсофт Плеер",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Оплаченный"
+                },
+                {
+                    "name": "Google Диск",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Фримиум"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Google Диск",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Фримиум"
+                },
+                {
+                    "name": "Видеолаборатории VLC для Андроид",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "BIT Лаборатории Простой MP4 видеоплеер",
+                    "link": "https://play.google.com/store/apps/details?id=air.br.com.bitlabs.VideoPlayer&hl=en",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Диск",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Фримиум"
+                }
+            ]
+        }
+    ]
+}

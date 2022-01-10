@@ -1,0 +1,100 @@
+{
+    "Format": "WMA",
+    "ShortName": "WMA",
+    "FullName": "Windows Media Audio File",
+    "Category": "ऑडियो फाइल",
+    "Pros": "अब तक, Microsoft ने WMA के आठ संस्करणों को प्रकाशित किया है, जिसमें संगीत कॉपीराइट की सुरक्षा के लिए WMA 7 सपोर्टिंग सर्टिफिकेट एन्क्रिप्शन के बाद संस्करण हैं, जिनसे संगीतकारों और संगीत प्रकाशकों को सबसे अधिक लाभ हो सकता है। WMA ऑडियो को अधिक दर पर संपीड़ित कर सकता है, जिससे यह कम जगह का उपयोग करते हुए उच्च-गुणवत्ता वाले ऑडियो को संग्रहीत करने की अनुमति देता है।",
+    "Cons": "जब आप WMA कोडेक के साथ ऑडियो को संपीड़ित करते हैं, तो आप आमतौर पर कुछ गुणवत्ता खो देते हैं। WMA उन उपभोक्ताओं के लिए एकदम सही है जो ध्वनि की गुणवत्ता की परवाह करते हैं, लेकिन वे इसके बजाय FLAC (फ्री लॉसलेस ऑडियो कोडेक) या APE (आमतौर पर बंदर के ऑडियो के रूप में जाना जाता है) चुन सकते हैं। Microsoft WMA मानक का मालिक है और इसे अन्य कंपनियों के साथ साझा करने से इनकार करता है।",
+    "Createdby": "माइक्रोसॉफ्ट",
+    "CreatedbyLink": "https://developer.microsoft.com/en-us/",
+    "CreatedInYear": "1999",
+    "BasicInformation": "WMA फ़ाइल एक ऑडियो फ़ाइल है जिसे Microsoft के स्वामित्व वाले उन्नत सिस्टम स्वरूप (ASF) प्रारूप में सहेजा जाता है। इसमें विंडोज मीडिया ऑडियो के साथ-साथ मेटाडेटा तत्व जैसे ट्रैक का शीर्षक, कलाकार, एल्बम और शैली शामिल हैं। WMA फ़ाइलें MP3 फ़ाइलों के समान होती हैं, जिनमें वे आमतौर पर इंटरनेट के माध्यम से संगीत स्ट्रीम करने के लिए उपयोग की जाती हैं।",
+    "DetailedInformation": "यह फ़ाइल प्रारूप प्रसिद्ध MP3 और RealAudio प्रारूपों के साथ प्रतिस्पर्धा करने के लिए बनाया गया था। डीवीडी प्लेयर पर वीडियो प्लेबैक के साथ-साथ Playstation और Nokia के लिए मोबाइल/पोर्टेबल उपकरणों पर वीडियो प्लेबैक सुविधाओं के साथ उपयोग के लिए WMA फ़ाइलों की लोकप्रियता ने उनकी सफलता में योगदान दिया। हालांकि अधिकांश WMA फ़ाइलें हानिपूर्ण हैं, कुछ प्रारूप दोषरहित संपीड़न के लिए अनुमति देते हैं। ASF Microsoft द्वारा विकसित एक मालिकाना डिजिटल संगीत और वीडियो कंटेनर प्रारूप है। यदि इसमें विंडोज मीडिया ऑडियो के बजाय विंडोज मीडिया वीडियो शामिल है तो इसका उपयोग करता है। WMV एक वीडियो प्रारूप एक्सटेंशन है। WMA और WMV फ़ाइलें विनिमेय हैं। हालाँकि, ASF फ़ाइलों का अधिक बार उपयोग किया जाता है। ",
+    "Softwaresused": [
+        {
+            "platform": "लिनक्स",
+            "softwares": [
+                {
+                    "name": "दुस्साहसी",
+                    "link": "https://audacious-media-player.org/",
+                    "image": "/assets/fileimg/6WTDOAw.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "फ़ाइल व्यूअर प्लस - इसे Microsoft से प्राप्त करें",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट विंडोज मीडिया प्लेयर",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "नलसॉफ्ट विनम्प",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "Xilisoft वीडियो कन्वर्टर अल्टीमेट",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg"
+                },
+                {
+                    "name": "विंडोज मीडिया प्लेयर प्लगइन के साथ Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "मैक",
+            "softwares": [
+                {
+                    "name": "एपल क्विकटाइम प्लेयर",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "एल्टिमा एल्मेडिया प्लेयर",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "Flip4Mac WMV प्लगइन के साथ ओपेरा",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "शेडवॉर्क्स स्मार्ट कन्वर्टर",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                }
+            ]
+        },
+        {
+            "platform": "आईओएस",
+            "softwares": [
+                {
+                    "name": "ओलिमसॉफ्ट ओप्लेयर",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "अदा"
+                }
+            ]
+        }
+    ]
+}

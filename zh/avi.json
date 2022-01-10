@@ -1,0 +1,164 @@
+{
+    "Format": "AVI",
+    "ShortName": "AVI",
+    "FullName": "Audio Video Interleave File",
+    "Category": "视频文件",
+    "Pros": "卓越的音频质量保真度。在线压缩文件时，可以使用许多编解码器来达到适当的比例。由于它是由微软创建的，因此可以在所有主要的微软和非微软操作系统上播放。与其他音频/视频格式不同，DV-AVI标准可以压缩。它不需要使用任何特定的硬件或软件。由于其压缩功能，AVI视频格式最常用于促销，短片和广告。对于主文件，AVI保留的质量很好。",
+    "Cons": "当许多人无法从安全、信誉良好的来源找到编解码器时，他们会感到沮丧。即使有这些来源，用户也可能会发现他们的体验中断是不可取的。与其他文件格式相比，如果不压缩，AVI文件可能会非常庞大。当您在线压缩AVI文件超过特定限制时，视频质量会受到影响。不支持用户交互。不支持软订阅。",
+    "Createdby": "微软",
+    "CreatedbyLink": "https://developer.microsoft.com/en-us/",
+    "CreatedInYear": "1992",
+    "BasicInformation": "AVI文件是以微软创建的音频视频交错（AVI）多媒体容器格式存储的视频文件。它保存以各种编解码器（包括DivX和XviD）编码的视频和音频文件。AVI 文件可以使用各种视频播放器播放，包括微软电影和电视、Windows Media Player 和 Apple QuickTime Player，所有这些播放器都预装了各自的操作系统。",
+    "DetailedInformation": "AVI 格式基于资源交换文件格式 (RIFF)，这是一种存储多媒体的容器格式，于 1991 年首次发布。一年后的1992年，微软创建了AVI格式，至今仍在广泛使用。它受到各种视频播放器的支持，但是为了使视频成功播放，播放器必须支持用于对视频数据进行编码的编解码器。要支持同时播放，AVI将音频和视频合并到公共容器中的单个文件中。它的优势在于其简单的架构，允许它在各种操作系统上运行，包括 Windows、Mac、Linux 和 Unix，并受到所有主流网络浏览器的支持。它可以存储高质量的视频和音频，并且压缩率低于其他视频格式 like.MPEG and.MOV。",
+    "Softwaresused": [
+        {
+            "platform": "Linux的",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC 媒体播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "Xine",
+                    "link": "https://sourceforge.net/projects/xine/",
+                    "image": "/assets/fileimg/11To9CR.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "Kodi",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "免费"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — 从微软获取",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "免费增值"
+                },
+                {
+                    "name": "微软 Windows 媒体播放器",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "免费，包含在操作系统中"
+                },
+                {
+                    "name": "微软电影和电视",
+                    "link": "https://www.microsoft.com/en-us/p/movies-tv/9wzdncrfj3p2?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/fVyIEs4.jpeg",
+                    "type": "免费，包含在操作系统中"
+                },
+                {
+                    "name": "VideoLan VLC 媒体播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "Kodi",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "免费"
+                }
+            ]
+        },
+        {
+            "platform": "苹果电脑",
+            "softwares": [
+                {
+                    "name": "苹果 QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "免费，包含在操作系统中"
+                },
+                {
+                    "name": "VideoLan VLC 媒体播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "Kodi",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "Adobe 首映专业版 2020",
+                    "link": "https://www.adobe.com/products/premiere.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/RUVWLwB.jpeg",
+                    "type": "免费试用"
+                },
+                {
+                    "name": "Eltima Elmedia 播放器",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "免费"
+                }
+            ]
+        },
+        {
+            "platform": "iOS系统",
+            "softwares": [
+                {
+                    "name": "适用于移动设备的 Videolan VLC",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "已付"
+                },
+                {
+                    "name": "谷歌驱动器",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "免费增值"
+                }
+            ]
+        },
+        {
+            "platform": "安卓",
+            "softwares": [
+                {
+                    "name": "谷歌驱动器",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "免费增值"
+                },
+                {
+                    "name": "适用于安卓的 Videolabs VLC",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "BIT Labs 简单 MP4 视频播放器",
+                    "link": "https://play.google.com/store/apps/details?id=air.br.com.bitlabs.VideoPlayer&hl=en",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "免费"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "谷歌驱动器",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "免费增值"
+                }
+            ]
+        }
+    ]
+}

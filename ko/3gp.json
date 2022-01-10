@@ -1,0 +1,141 @@
+{
+    "Format": "3GP",
+    "ShortName": "3GP",
+    "FullName": "3rd Generation Partnership Project",
+    "Category": "비디오 파일",
+    "Pros": "파일 크기가 작기 때문에 디스크 공간이 절약됩니다.모바일 데이터가 적게 필요합니다.기업의 경우 연결된 환경을 생성합니다.의사 소통에 매우 중요합니다 (문자 메시지를 통해).",
+    "Cons": "품질이 기준에 미치지 못할 수 있습니다.고해상도 비디오를 재생할 수 없습니다.많은 프로그램에서 지원되지 않습니다. ",
+    "Createdby": "3세대 파트너십 프로젝트",
+    "CreatedbyLink": "https://www.3gpp.org/",
+    "CreatedInYear": "1998",
+    "BasicInformation": "3GP 파일은 3세대 파트너십 프로젝트의 오디오 및 비디오 컨테이너 형식 (3GPP) 으로 저장된 멀티미디어 파일입니다.인터넷을 통해 그리고 3G 휴대폰간에 전송되는 비디오 및 오디오 스트림을 저장합니다.",
+    "DetailedInformation": "3GP는 iPhone과 같은 3G 지원 모바일 장치에서 비디오 및 오디오를 사용하기 위해 3GPP (3 세대 파트너십 프로젝트) 에서 개발 한 멀티미디어 파일 컨테이너입니다.이러한 파일은 3G (2G 및 4G) 가없는 전화기에서도 볼 수 있지만 특정 제한이 있습니다.비디오 녹화 기능이 있는 모바일 장치에서는 3GP 파일을 편집, 내보내기 및 볼 수 있습니다.3G2 파일은 3GP 파일과 동일하지만 고유한 제한과 확장자가 있습니다.MPEG-14 구조는 3GP 파일 형식을 만드는 데 사용됩니다. 3GP는 대역폭과 저장 공간 요구 사항을 낮추어 전화 사용자가 온라인으로 파일을 전송, 편집 및 저장할 수 있도록 합니다.H.263 및 H.264 비디오 스트림뿐만 아니라 AMR-WB, AMR-WB+, AMR-NB, HE-AAC v1, AAC-LC 및 향상된 AAC플러스 오디오 스트림을 지원합니다.",
+    "Softwaresused": [
+        {
+            "platform": "리눅스",
+            "softwares": [
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "윈도우",
+            "softwares": [
+                {
+                    "name": "파일 뷰어 플러스 — 마이크로소프트에서 다운로드",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "마이크로소프트 윈도 미디어 플레이어",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "마이크로소프트 영화 및 TV",
+                    "link": "https://www.microsoft.com/en-us/p/movies-tv/9wzdncrfj3p2?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/fVyIEs4.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "자일 소프트 비디오 컨버터 얼티밋",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg",
+                    "type": "무료 평가판"
+                }
+            ]
+        },
+        {
+            "platform": "맥",
+            "softwares": [
+                {
+                    "name": "애플 퀵타임 플레이어",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "엘티마 엘미디어 플레이어",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "록시오 토스트 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "유료"
+                },
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "올림소프트 플레이어",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "유료"
+                }
+            ]
+        },
+        {
+            "platform": "기계적 인조 인간",
+            "softwares": [
+                {
+                    "name": "안드로이드용 파일 뷰어",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "비트 랩스 심플 MP4 비디오 플레이어",
+                    "link": "https://play.google.com/store/apps/details?id=air.br.com.bitlabs.VideoPlayer&hl=en",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "J2 인터랙티브 MX 플레이어",
+                    "link": "https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en",
+                    "image": "/assets/fileimg/Cjoa7OB.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "판도라.TV KM플레이어",
+                    "link": "https://play.google.com/store/apps/details?id=com.kmplayer",
+                    "image": "/assets/fileimg/hnkzD4T.jpeg",
+                    "type": "무료"
+                }
+            ]
+        }
+    ]
+}

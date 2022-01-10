@@ -1,0 +1,129 @@
+{
+    "Format": "PSD",
+    "ShortName": "PSD",
+    "FullName": "Adobe Photoshop Document",
+    "Category": "Rasterbild-Dateien",
+    "Pros": "Machen Sie das Beste aus den Funktionen von Photoshop. Dank der engen Konnektivität können Sie eine Photoshop-Datei direkt in Illustrator, InDesign und andere Adobe-Programme importieren. Öffnen Sie die gespeicherte Datei im Ebenenmodus. Wenn Sie die Dinge transparent halten müssen, ist dies ein gutes Tool.",
+    "Cons": "Die Datei ist ziemlich groß. Adobe besitzt das PSD-Format. Daher wird es nicht ausgiebig von anderen Apps verwendet.",
+    "Createdby": "Adobe-Systeme",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "PSD ist Photoshops natives Dateiformat zum Speichern von Dateien. Es ist auch als PDD bekannt. PSD, oft PDD genannt, ist ein häufig verwendeter Dateityp. PSD ist mit allen Bildmodi kompatibel (Bitmap, Graustufen, Duotone, indizierte Farbe, RGB, CMYK, Lab und Mehrkanal). Es ist eine Bilddatei von Adobe Photoshop, einem professionellen Bildbearbeitungsprogramm, das häufig zur Verbesserung digitaler Fotos und zur Erstellung von Webgrafiken verwendet wird.",
+    "DetailedInformation": "Bildebenen, Einstellungsebenen, Ebenenmasken, Anmerkungen, Dateiinformationen, Schlüsselwörter und andere Photoshop-spezifische Komponenten finden Sie in PSD-Dateien. Sie werden häufig von Grafikdesignern hergestellt und geteilt. PSD-Dateien können mit einer Vielzahl von Photoshop-Werkzeugen geöffnet und in andere Bildformate (wie PNG, JPEG und GIF) zum Hochladen, Senden und Speichern abgeflacht werden. Alle Ebenen wurden zu einer einzigen Ebene zusammengeführt, nachdem sie von einer PSD in einen anderen Dateityp umgewandelt wurden. Die Layer sind gespeichert, zugänglich und editierbar, wenn sie mit der PSD-Dateierweiterung gespeichert werden. Diese Dateien werden häufig als Dokumente in Arbeit und nicht für die endgültige Bildproduktion und -bereitstellung verwendet. PSD-Ebenen sowie andere Elemente wie Fotos, Formen, Text und Effekte können geändert werden. RGB-, CMYK-, Graustufen-, Monochrom-, Duoton-, indizierte Farben-, Lab-Farben- und Mehrkanal-Farbmodi werden alle vom PSD-Format unterstützt. Photoshop-Dateien mit der PSD-Dateierweiterung enthalten Bilder und ermöglichen gleichzeitig zahlreiche Bearbeitungsoptionen für alle Adobe Photoshop-Produkte. Masken, Transparenz, Duoton-Einstellungen, Farbverläufe, Farbausgleich, Mischen und Beschneidungspfade sind nur einige der verfügbaren Bearbeitungswerkzeuge.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Kostenlos "
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Holen Sie es sich von Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Kostenlose Testversion"
+                },
+                {
+                    "name": "Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Kostenlose Testversion"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg"
+                },
+                {
+                    "name": "CorelDraw Graphics Suite 2021",
+                    "link": "https://www.coreldraw.com/en/product/coreldraw/purchase.html?AID=10816204&PID=3081440&cjevent=51885051cce111eb80d1d3470a180510&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&x-vehicle=cj",
+                    "image": "/assets/fileimg/cfwD39J.jpeg",
+                    "type": "Kostenlose Testversion"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple-Vorschau",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Kostenlos, im Betriebssystem enthalten"
+                },
+                {
+                    "name": "Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Kostenlose Testversion"
+                },
+                {
+                    "name": "Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Kostenlose Testversion"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Kostenlos "
+                },
+                {
+                    "name": "Pixelmator",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id407963104?ign-mpt=uo%3D4&mt=12",
+                    "image": "/assets/fileimg/0RX6D8V.jpeg",
+                    "type": "Bezahlt"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Pixelmator 2",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/HmizpGb.jpeg",
+                    "type": "Bezahlt"
+                },
+                {
+                    "name": "Photoshop ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Dateibetrachter für Android",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Photoshop Express",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "Format": "AI",
+    "ShortName": "AI",
+    "FullName": "Adobe Illustrator File",
+    "Category": "벡터 이미지 파일",
+    "Pros": "레이어를 지원합니다.텍스트 요소를 포함할 수 있습니다.해상도는 무한합니다.투명성을 제공합니다.크기가 비교적 작습니다.",
+    "Cons": "소프트웨어에 따라 다릅니다.픽셀 작업에는 적합하지 않습니다.",
+    "Createdby": "어도비 시스템즈",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "2000",
+    "BasicInformation": "벡터 그래픽 편집 응용 프로그램인 Adobe Illustrator로 생성된 디자인을 AI 파일이라고 합니다.비트맵 이미지 데이터가 아니라 점으로 연결된 경로로 구성됩니다.AI 파일은 벡터 형식으로 저장되므로 이미지 품질을 저하시키지 않고 크기를 조정할 수 있습니다.",
+    "DetailedInformation": "어도비 일러스트레이터 아트웍 (AI) 파일은 단일 페이지에 맞는 벡터 그래픽이며 Adobe Illustrator용 Adobe Systems에서 만들었습니다.일반적으로 EPS 또는 PDF 파일 형식으로 저장됩니다. Illustrator는 그래픽 디자이너가 아이콘, 로고, 표지판 및 모형과 같은 벡터 아트웍을 만드는 데 일반적으로 사용됩니다.Illustrator에서는 AI 파일을 만들어 디지털 아트웍을 저장할 때 해당 내용을 저장합니다.파일을 닫았다가 다시 연 다음 저장한 후 아트웍을 계속 변경할 수 있습니다.Adobe Illustrator는 이러한 디자인을 나중에 편집할 수 있도록 저장한 경우 AI 파일 확장자로 저장합니다.",
+    "Softwaresused": [
+        {
+            "platform": "리눅스",
+            "softwares": [
+                {
+                    "name": "김프",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "무료 "
+                },
+                {
+                    "name": "Sk1",
+                    "link": "https://github.com/sk1project/sk1-wx",
+                    "image": "/assets/fileimg/MX9qrvZ.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "잉크스케이프",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "윈도우",
+            "softwares": [
+                {
+                    "name": "어도비 아크로뱃 DC",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "무료 평가판"
+                },
+                {
+                    "name": "잉크스케이프",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "어도비 포토샵 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "무료 평가판"
+                },
+                {
+                    "name": "어도비 일러스트레이터 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg"
+                },
+                {
+                    "name": "아이디어맥 Ai 뷰어",
+                    "link": "https://aiviewer.com/",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "맥",
+            "softwares": [
+                {
+                    "name": "애플 프리뷰",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "어도비 일러스트레이터 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "무료 평가판"
+                },
+                {
+                    "name": "어도비 아크로뱃 DC",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "무료 평가판"
+                },
+                {
+                    "name": "어도비 포토샵 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "무료 평가판"
+                },
+                {
+                    "name": "잉크스케이프",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "어도비 일러스트레이터 그리기",
+                    "link": "https://apps.apple.com/in/app/adobe-illustrator-draw/id911156590",
+                    "image": "/assets/fileimg/YaqCA2d.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "AI 뷰어",
+                    "link": "https://apps.apple.com/us/app/ai-viewer/id1505083223",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "어도비 포토샵 ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "부분 유료화"
+                }
+            ]
+        },
+        {
+            "platform": "기계적 인조 인간",
+            "softwares": [
+                {
+                    "name": "AI 뷰어",
+                    "link": "https://apps.apple.com/in/app/adobe-illustrator-draw/id911156590",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "어도비 포토샵 익스프레스",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "어도비 일러스트레이터 그리기",
+                    "link": "https://adobe-illustrator-draw.en.uptodown.com/android#:~:text=Adobe%20Illustrator%20Draw%20is%20a,in%20a%20good%20drawing%20application.",
+                    "image": "/assets/fileimg/YaqCA2d.jpeg",
+                    "type": "부분 유료화"
+                }
+            ]
+        },
+        {
+            "platform": "크롬 OS",
+            "softwares": [
+                {
+                    "name": "AI 뷰어 온라인",
+                    "link": "https://aiviewer.com/onlineviewer.aspx",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "무료"
+                }
+            ]
+        }
+    ]
+}

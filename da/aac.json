@@ -1,0 +1,153 @@
+{
+    "Format": "AAC",
+    "ShortName": "AAC",
+    "FullName": "Advanced Audio Coding File",
+    "Category": "Lyd-fil",
+    "Pros": "I dag er flere enheder opmærksomme på AAC. Kodede filstørrelser er mindre. Målet med standardisering er blevet opfyldt. Lydkvaliteten er bedre end MP3. Produktet er bredt tilgængeligt. Streaming Båndbredde er begrænset. Kompatibilitet med en bred vifte af enheder. En bred vifte af kodningsmuligheder er tilgængelige.",
+    "Cons": "Det tager lang tid at kode. Under kodningsprocessen anvendes CPU'en stærkt. Under afkodning er CPU-forbruget lidt højere. Filorganisation er blevet mere kompliceret. Selvom det er mindre, er det stadig en taber. Hardware Support er begrænset. Tagging Files er ikke altid kompatible. Det kan være for dyrt at kode AAC fra Lossless Original Files. MP3 betragtes stadig som mere „standard“ end AAC.",
+    "Createdby": "Moving Picture Eksperter Group",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "1997",
+    "BasicInformation": "Til lydkodning ved medium til høje bithastigheder er AAC (Advanced Audio Coding) den logiske efterfølger til MP3 (ISO/MPEG Audio Layer-3) (ISO/MPEG Audio Layer-3). Denne komprimerede lydformat kan sammenlignes med en MP3-fil, men det har et par ydeevne fordele. Højere kodningseffektivitet for både stabile og forbigående signaler, en mindre filterbank og forbedret håndtering af frekvenser ud over 16 kHz er blot nogle få eksempler.",
+    "DetailedInformation": "Apple iTunes og iTunes Music Store anvender Advanced Audio Coding (AAC) som standardkodning. AAC-algoritmens koncept er at bruge to grundlæggende kodningsordninger til drastisk at minimere mængden af data, der kræves for at overføre digital lyd i høj kvalitet. AAC-filer har flere prøve frekvenser end MP3-filer, samt op til 48 kanaler, overlegen kodning og filter bank effektivitet, og bedre forbigående signal kodning nøjagtighed. AAC-filer, som MP3-filer, fjerner lydfrekvenser, som det menneskelige øre ikke kan behandle, hvilket resulterer i mindre, mere håndterbare filer. AAC-filer er væsentligt mindre end MP3-filer i form af filplads.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLAN VLC medieafspiller",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Clementine",
+                    "link": "https://www.clementine-player.org/about",
+                    "image": "/assets/fileimg/F87GDJM.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "XMMS",
+                    "link": "http://www.xmms.org/",
+                    "image": "/assets/fileimg/hodO9zz.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "vinduer",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Hent det fra Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Gratis prøveversion"
+                },
+                {
+                    "name": "VideoLAN VLC medieafspiller",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple iTunes",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "VideoLAN VLC medieafspiller",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Gratis prøveversion"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Roxio Toast 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "Betalt"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Olimsoft Olayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Betalt"
+                },
+                {
+                    "name": "RealNetwork RealTimes: Video Maker",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Filfremviser til Android",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Videolabs VLC til Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "RealNetwork RealTimes: Video Maker",
+                    "link": "https://play.google.com/store/apps/details?id=com.real.RealPlayerCloud",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

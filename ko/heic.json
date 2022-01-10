@@ -1,0 +1,182 @@
+{
+    "Format": "HEIC",
+    "ShortName": "HEIC",
+    "FullName": "High Efficiency Image Format",
+    "Category": "래스터 이미지 파일",
+    "Pros": "뛰어난 이미지 품질.저장 공간을 적게 차지합니다.여러 이미지를 하나의 파일에 저장할 수 있습니다.이미지 파생도 저장할 수 있습니다.",
+    "Cons": "모든 시스템 및 장치와 호환되지는 않습니다.별로 인기가 없습니다.특허에 문제가 있습니다. ",
+    "Createdby": "움직이는 그림 전문가 그룹",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "2001",
+    "BasicInformation": "iOS 장치에서 사진을 저장하는 데 가장 일반적으로 사용되는 파일 형식인 HEIF (고효율 이미지 형식) 로 저장된 하나 이상의 사진이 HEIC 파일에 포함되어 있습니다.iPhone 또는 iPad의 카메라 앱을 사용하여 생성되었을 가능성이 가장 높은 이미지 또는 일련의 이미지와 각 이미지를 특징 짓는 메타데이터로 구성됩니다.HEIC 파일은 일반적으로.heic 파일로 저장되지만.HEIF 파일로 저장할 수도 있습니다.",
+    "DetailedInformation": "HEIF 또는 H.265는 사진을 더 높은 품질과 낮은 파일로 유지하는 디지털 사진 저장 표준입니다.JPEG는 디지털 이미지 형식입니다.이렇게 하면 사진 크기를 줄여 메모리 카드 및 모바일 장치의 공간을 절약할 수 있습니다.애플은 2017년 iOS 11이 출시되면서 iOS 기기의 기본 사진 저장 형식인 HEIF를 도입했습니다.이 조정의 결과로 iPhone과 iPad는 사용자의 이미지를 HEIC로 저장하기 시작했습니다.하이 시에라의 도입으로 애플은 iOS와 macOS 모두에 HEIF 호환성을 활성화했습니다.구글은 2018년에 HEIF 지원을 안드로이드로 확대했고, 마이크로소프트는 2018년에 윈도우에 HEIF 지원을 도입했습니다.사용자는 Microsoft 앱에서 HEIC 파일을 열려면 Microsoft 스토어에서 Microsoft HEIF 이미지 확장 및 HEVC 비디오 확장 패키지를 명시적으로 설치해야 합니다.iOS 장치에서 카메라 앱을 사용하여 촬영한 사진을 iOS 이외의 기기 또는 애플리케이션으로 내보내거나 공유하는 경우 일반적으로 HEIC 형식에서 JPEG or.JPG 파일로 변환됩니다.",
+    "Softwaresused": [
+        {
+            "platform": "리눅스",
+            "softwares": [
+                {
+                    "name": "김프",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "무료 "
+                }
+            ]
+        },
+        {
+            "platform": "윈도우",
+            "softwares": [
+                {
+                    "name": "파일 뷰어 플러스 — 마이크로소프트에서 다운로드",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "김프",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "무료 "
+                },
+                {
+                    "name": "어도비 프리미어 러쉬",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "무료 평가판"
+                },
+                {
+                    "name": "HEIF 이미지 확장 및 HEVC 비디오 확장 패키지가 설치된 마이크로소프트 윈도우 포토",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab&ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-Tcw4tJawHA2VbfUU47cFuA&epi=4LioSo.jxMc-Tcw4tJawHA2VbfUU47cFuA&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xurhnaenupuk000%29%287593%29%281243925%29%284LioSo.jxMc-Tcw4tJawHA2VbfUU47cFuA%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xurhnaenupuk000",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg"
+                },
+                {
+                    "name": "튠즈브로 HEIC 변환기",
+                    "link": "https://www.tunesbro.com/heic-converter.html",
+                    "image": "/assets/fileimg/7eQehmc.jpeg",
+                    "type": "무료 평가판"
+                }
+            ]
+        },
+        {
+            "platform": "맥",
+            "softwares": [
+                {
+                    "name": "애플 프리뷰",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "애플 포토",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "어도비 포토샵 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "무료 평가판"
+                },
+                {
+                    "name": "김프",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "무료 "
+                },
+                {
+                    "name": "튠즈브로 HEIC 변환기",
+                    "link": "https://www.tunesbro.com/heic-converter.html",
+                    "image": "/assets/fileimg/7eQehmc.jpeg",
+                    "type": "무료 평가판"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "애플 포토",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "드롭박스",
+                    "link": "https://www.dropbox.com/?landing=dbv2",
+                    "image": "/assets/fileimg/ovQYI78.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "구글 드라이브",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "구글 포토",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "무료  "
+                },
+                {
+                    "name": "어도비 프리미어 러쉬",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "무료 평가판"
+                }
+            ]
+        },
+        {
+            "platform": "기계적 인조 인간",
+            "softwares": [
+                {
+                    "name": "안드로이드용 파일 뷰어",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "구글 포토",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "무료  "
+                },
+                {
+                    "name": "어도비 프리미어 러쉬",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "무료 평가판"
+                },
+                {
+                    "name": "드롭박스",
+                    "link": "https://www.dropbox.com/?landing=dbv2",
+                    "image": "/assets/fileimg/ovQYI78.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "단순 소프트 얼라이언스 루마: HEIF 뷰어 및 변환기",
+                    "link": "https://play.google.com/store/apps/details?id=luma.hevc.heif.image.viewer.converter",
+                    "image": "/assets/fileimg/1o2rNBD.jpeg",
+                    "type": "부분 유료화"
+                }
+            ]
+        },
+        {
+            "platform": "크롬 OS",
+            "softwares": [
+                {
+                    "name": "구글 포토",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "무료  "
+                },
+                {
+                    "name": "HEIC 이미지 뷰어 디코더",
+                    "link": "https://speedtesting.herokuapp.com/heicviewer/",
+                    "image": "/assets/fileimg/KXTzTK7.jpeg",
+                    "type": "무료"
+                }
+            ]
+        }
+    ]
+}

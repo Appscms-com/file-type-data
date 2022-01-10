@@ -1,0 +1,88 @@
+{
+    "Format": "OPUS",
+    "ShortName": "OPUS",
+    "FullName": "Opus Audio File",
+    "Category": "ऑडियो फाइल",
+    "Pros": "कई चैनलों के माध्यम से तेजी से डेटा ट्रांसमिशन की अनुमति देता है। ध्वनि गुणवत्ता परीक्षणों से पता चलता है कि यह मूल ध्वनि को विभिन्न बिटरेट और नमूना दरों पर अधिक कुशलता से पुनर्स्थापित करता है। विभिन्न स्थितियों में लगातार प्रदर्शन सुनिश्चित करता है। कई दूरसंचार सेवाओं के लिए एक भविष्य-उन्मुख संरचना। ध्वनि सूचना प्रकार के अनुकूल। ट्रांसमिशन के दौरान गुणवत्ता के नुकसान के लिए आंशिक रूप से क्षतिपूर्ति कर सकता है, बिना किसी रुकावट के निरंतर लाइव डेटा ट्रांसफर की अनुमति देता है। ",
+    "Cons": "कई अनुप्रयोगों द्वारा समर्थित नहीं है। ओपस कोडेक असामान्य हैं।",
+    "Createdby": "Xiph.Org ",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "2012",
+    "BasicInformation": "ओपस एक नया कोडेक है जो Xiph.Org फाउंडेशन (मोज़िला कॉर्पोरेशन) और Skype Technologies SA (Microsoft) के विशेषज्ञों की एक टीम द्वारा निर्मित है। इसकी खामियों को कम करते हुए एमपी 3 के सभी फायदे हैं। ओपस कोडेक्स CELT और SILK को जोड़ती है।",
+    "DetailedInformation": "एक ओपस फ़ाइल ओपस प्रारूप में बनाई गई एक हानिपूर्ण ऑडियो फ़ाइल है (जिसे कभी-कभी “ओग ओपस” के रूप में जाना जाता है), जिसे इंटरनेट स्ट्रीमिंग के लिए डिज़ाइन किया गया था। यह 6 kb/s से 510 kb/s तक अलग-अलग बिट दरों का समर्थन करता है और SILK (Skype द्वारा उपयोग किया जाता है) और CELT (Xiph.Org से) कोडेक्स दोनों को नियोजित करता है। वॉयस ओवर आईपी (वीओआईपी), वीडियो कॉन्फ्रेंसिंग और इन-गेम चैट सभी ओपस कोडेक को नियोजित करते हैं। आईईटीएफ ने ओपस प्रारूप को परिभाषित किया, जिसका व्यापक रूप से उपयोग किया जाता है। IETF ने ओपस प्रारूप को मानकीकृत किया, जिसे Xiph.Org द्वारा बनाए रखा गया है। क्योंकि ओपस कोडेक का उपयोग ज्यादातर स्ट्रीमिंग के लिए किया जाता है, .opus एक्सटेंशन वाली फाइलें असामान्य हैं।",
+    "Softwaresused": [
+        {
+            "platform": "लिनक्स",
+            "softwares": [
+                {
+                    "name": "वीडियोलैन वीएलसी मीडिया प्लेयर",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "फ़ाइल व्यूअर प्लस - इसे Microsoft से प्राप्त करें",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "वीडियोलैन वीएलसी मीडिया प्लेयर",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "लक्ष्य",
+                    "link": "http://www.aimp2.us/",
+                    "image": "/assets/fileimg/sOBpiyF.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "फूबर 2000",
+                    "link": "https://www.foobar2000.org/",
+                    "image": "/assets/fileimg/c2PuNRk.jpeg"
+                },
+                {
+                    "name": "ओपस टूल्स",
+                    "link": "https://www.opus-codec.org/downloads/",
+                    "image": "/assets/fileimg/7xNWYRA.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "मैक",
+            "softwares": [
+                {
+                    "name": "वीडियोलैन वीएलसी मीडिया प्लेयर",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "एंड्रॉयड",
+            "softwares": [
+                {
+                    "name": "Android के लिए फ़ाइल व्यूअर",
+                    "link": "",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "ओपस प्लेयर",
+                    "link": "https://play.google.com/store/apps/details?id=com.littlepako.opusplayer3&hl=en_US&gl=US",
+                    "image": "/assets/fileimg/irCSU4s.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "Format": "AI",
+    "ShortName": "AI",
+    "FullName": "Adobe Illustrator File",
+    "Category": "ملف صورة المتجهات",
+    "Pros": "يدعم الطبقات. يمكن أن تحتوي على عناصر نصية. القرار لا حصر له. يوفر الشفافية. إنها صغيرة الحجم نسبيًا.",
+    "Cons": "إنها تعتمد على البرامج. غير مناسب للعمل مع وحدات البكسل.",
+    "Createdby": "أنظمة أدوبي",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "2000",
+    "BasicInformation": "يُعرف التصميم الذي تم إنشاؤه باستخدام Adobe Illustrator، وهو تطبيق لتحرير الرسومات المتجهة، باسم ملف AI. بدلاً من بيانات الصورة النقطية، فهي تتكون من مسارات متصلة بالنقاط. يمكن تغيير حجم ملفات AI دون التضحية بجودة الصورة لأنه يتم حفظها بتنسيق متجه.",
+    "DetailedInformation": "ملفات Adobe Illustrator Artwork (AI) هي رسومات متجهة تتناسب مع صفحة واحدة وتم إنشاؤها بواسطة Adobe Systems لـ Adobe Illustrator. عادة ما يتم حفظها في تنسيقات ملف EPS أو PDF. يشيع استخدام Illustrator من قبل مصممي الجرافيك لإنشاء عمل فني متجه مثل الرموز والشعارات والعلامات والنموذج الطبيعي. يقوم Illustrator بإنشاء ملف AI لتخزين محتويات العمل الفني الرقمي عند تخزينه. يمكنك إغلاق الملف وإعادة فتحه ومتابعة تغيير العمل الفني بعد حفظه. يحفظ Adobe Illustrator هذه التصميمات باستخدام ملحق ملف AI إذا تم حفظها للتحرير في المستقبل.",
+    "Softwaresused": [
+        {
+            "platform": "لينكس",
+            "softwares": [
+                {
+                    "name": "جيمب",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "مجاني "
+                },
+                {
+                    "name": "sk1",
+                    "link": "https://github.com/sk1project/sk1-wx",
+                    "image": "/assets/fileimg/MX9qrvZ.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "إنكسكيب",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "شبابيك",
+            "softwares": [
+                {
+                    "name": "أدوبي أكروبات دي سي",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "إنكسكيب",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "أدوبي فوتوشوب 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "أدوبي إيلوستراتور 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg"
+                },
+                {
+                    "name": "عارض أفكار ماك",
+                    "link": "https://aiviewer.com/",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "رفيق",
+            "softwares": [
+                {
+                    "name": "معاينة أبل",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "أدوبي إيلوستراتور 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "أدوبي أكروبات دي سي",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "أدوبي فوتوشوب 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "إنكسكيب",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "رسم أدوبي إيلوستراتور",
+                    "link": "https://apps.apple.com/in/app/adobe-illustrator-draw/id911156590",
+                    "image": "/assets/fileimg/YaqCA2d.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "عارض الذكاء الاصطناعي",
+                    "link": "https://apps.apple.com/us/app/ai-viewer/id1505083223",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "أدوبي فوتوشوب ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "فريميوم"
+                }
+            ]
+        },
+        {
+            "platform": "أندرويد",
+            "softwares": [
+                {
+                    "name": "عارض الذكاء الاصطناعي",
+                    "link": "https://apps.apple.com/in/app/adobe-illustrator-draw/id911156590",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "أدوبي فوتوشوب إكسبريس",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "رسم أدوبي إيلوستراتور",
+                    "link": "https://adobe-illustrator-draw.en.uptodown.com/android#:~:text=Adobe%20Illustrator%20Draw%20is%20a,in%20a%20good%20drawing%20application.",
+                    "image": "/assets/fileimg/YaqCA2d.jpeg",
+                    "type": "فريميوم"
+                }
+            ]
+        },
+        {
+            "platform": "نظام كرومي أوس",
+            "softwares": [
+                {
+                    "name": "عارض الذكاء الاصطناعي عبر الإنترنت",
+                    "link": "https://aiviewer.com/onlineviewer.aspx",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        }
+    ]
+}

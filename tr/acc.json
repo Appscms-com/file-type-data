@@ -1,0 +1,26 @@
+{
+    "Format": "ACC",
+    "ShortName": "ACC",
+    "FullName": "Graphics Accounts Data File",
+    "Category": "Veri Dosyaları",
+    "Pros": "n/a",
+    "Cons": "n/a",
+    "Createdby": "FKJ Yazılımı",
+    "CreatedbyLink": "https://download.cnet.com/developer/fkj-software/i-6201467/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "ACC dosyası Grafik Hesap Verileri dosya formatıdır. Grafik Hesapları için bu dosya finansal hesap bilgilerini içerir. Kişisel bütçeler oluşturmanıza ve yönetmenize yardımcı olan bir araçtır. Bir veya daha fazla banka hesabından bilgi içerebilir.",
+    "DetailedInformation": "ACC dosyaları grafik hesapları için finansal hesap verilerini içerir. Bir bütçe (.BGT) dosyası ile birlikte açılabilirler.",
+    "Softwaresused": [
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "FKJ Yazılım Grafik Hesapları",
+                    "link": "https://download.cnet.com/developer/fkj-software/i-6201467/",
+                    "image": "https://image.flaticon.com/icons/png/512/1063/1063308.png",
+                    "type": "Ücretsiz"
+                }
+            ]
+        }
+    ]
+}

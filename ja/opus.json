@@ -1,0 +1,88 @@
+{
+    "Format": "OPUS",
+    "ShortName": "OPUS",
+    "FullName": "Opus Audio File",
+    "Category": "音声ファイル",
+    "Pros": "複数のチャネルを介した高速なデータ伝送を可能にします。音質テストでは、さまざまなビットレートとサンプリングレートで元のサウンドをより効率的に復元できることが明らかになりました。さまざまな状況で一貫したパフォーマンスを確保します。多数の通信サービスのための未来志向の構造。サウンド情報タイプに適応。伝送中の品質低下を部分的に補うことができ、中断のない連続的なライブデータ転送が可能です。 ",
+    "Cons": "複数のアプリケーションではサポートされていません。オーパスコーデックは珍しいです。",
+    "Createdby": "Xiph.Org ",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "2012",
+    "BasicInformation": "Opus は、Xiph.Org 財団 (Mozilla Corporation) および Skype Technologies S.A. (マイクロソフト) の専門家チームによって作成された新しいコーデックです。欠陥を最小限に抑えながら、MP3の利点をすべて備えています。OpusはCELTとSILKのコーデックを組み合わせています。",
+    "DetailedInformation": "OPUSファイルは、インターネットストリーミング用に設計されたOpus形式（「Ogg Opus」とも呼ばれる）で作成された非可逆オーディオファイルです。6 kb/s から 510 kb/s までのさまざまなビットレートをサポートし、Silk (Skype で使用) と CELT (Xiph.Org) の両方のコーデックを採用しています。ボイスオーバー IP (VoIP)、ビデオ会議、ゲーム内チャットはすべて Opus コーデックを採用しています。IETF は、広く使われている Opus フォーマットを定義しました。IETF は、Xiph.Org によって維持されている Opus フォーマットを標準化しました。Opus コーデックは主にストリーミングに使用されるため、拡張子が.opus のファイルは一般的ではありません。",
+    "Softwaresused": [
+        {
+            "platform": "リナックス",
+            "softwares": [
+                {
+                    "name": "VideoLAN VLC メディアプレーヤー",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "ファイルビューアープラス — マイクロソフトから入手",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "VideoLAN VLC メディアプレーヤー",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "AIMP",
+                    "link": "http://www.aimp2.us/",
+                    "image": "/assets/fileimg/sOBpiyF.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "foobar2000",
+                    "link": "https://www.foobar2000.org/",
+                    "image": "/assets/fileimg/c2PuNRk.jpeg"
+                },
+                {
+                    "name": "オーパスツール",
+                    "link": "https://www.opus-codec.org/downloads/",
+                    "image": "/assets/fileimg/7xNWYRA.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "マック",
+            "softwares": [
+                {
+                    "name": "VideoLAN VLC メディアプレーヤー",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "アンドロイド",
+            "softwares": [
+                {
+                    "name": "アンドロイド用ファイルビューア",
+                    "link": "",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "オーパスプレイヤー",
+                    "link": "https://play.google.com/store/apps/details?id=com.littlepako.opusplayer3&hl=en_US&gl=US",
+                    "image": "/assets/fileimg/irCSU4s.jpeg",
+                    "type": "無料"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "Format": "JFIF",
+    "ShortName": "JFIF",
+    "FullName": "JPEG File Interchange Format",
+    "Category": "ラスターイメージファイル",
+    "Pros": "非常に一般的な形式です。高度に圧縮され、ファイルサイズが小さくなります。形式は互換性があり、すべてのコンピューター、タブレット、モバイルデバイスのすべてのブラウザ、テキスト、およびグラフィックプログラムで正しく表示されます。カラーとコントラストの変化が多いフルカラーのリアルなイメージをサポートします。コヒーレンスの少ない高品質の画像。",
+    "Cons": "画像を圧縮すると、個々の正方形（808ピクセルのブロック）に「崩れる」ことがあります。これは、圧縮アルゴリズムが隣接するピクセルを分析するためです。smoothcolor — トランジションが粗くなったり、単に消えたりすることがあります。JPEG は、境界がはっきりしたテキストやモノクログラフィックの処理にはあまり適していません。この形式は、テンプレート、ロゴ、ボタンの作成時に必要ですが、透過表示をサポートしていません。イメージの品質は、その後の圧縮ステップごとに低下します。",
+    "Createdby": "C-cube マイクロシステムズと共同写真専門家グループ",
+    "CreatedbyLink": "https://jpeg.org/",
+    "CreatedInYear": "2011",
+    "BasicInformation": "JFIF ファイルは、JPEG で圧縮されたビットマップグラフィックです。標準のバリアントで保存されています。JPEGファイル形式は、少量のデータを保存し、プラットフォームとアプリ間で簡単に転送できるようにすることを目的として作成されました。JPEG ファイル交換形式は JPEG ファイル交換形式の頭文字です。",
+    "DetailedInformation": "JFIF 形式では、元の JPEG 形式にはなかった多くの特性が指定されています。ユーザーは、標準のヘッダー、解像度とアスペクト比、カラーモデルなどの特性を定義した後、JPEG 圧縮を使用してファイルを保存および共有できるようになりました。多くのデジタルカメラは、JFIF 形式で画像を保存するために使用されていました。しかし、JPEG 形式が時間の経過とともに改善されるにつれて、JFIF 標準はほぼ廃止されました。",
+    "Softwaresused": [
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "マイクロソフトフォト",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "オペラ",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "グーグルクローム",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg"
+                },
+                {
+                    "name": "ACD システム ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "フリートライアル"
+                }
+            ]
+        },
+        {
+            "platform": "マック",
+            "softwares": [
+                {
+                    "name": "Apple プレビュー",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "オペラ",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "グーグルクローム",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "ACD システム ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "フリートライアル"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "グーグルクローム",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "無料"
+                }
+            ]
+        }
+    ]
+}

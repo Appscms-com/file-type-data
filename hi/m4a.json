@@ -1,0 +1,123 @@
+{
+    "Format": "M4A",
+    "ShortName": "M4A",
+    "FullName": "MPEG-4 Audio File",
+    "Category": "ऑडियो फाइल",
+    "Pros": "हालांकि M4A फ़ाइल संपीड़ित है, गुणवत्ता अपरिवर्तित रहती है। तथ्य यह है कि M4A ऑडियो फाइलें डिजिटल राइट्स मैनेजमेंट (DRM) द्वारा संरक्षित नहीं हैं, इसका मतलब है कि उन्हें संशोधित किया जा सकता है और अधिक स्वतंत्र रूप से प्रसारित किया जा सकता है।",
+    "Cons": "M4A एक फ़ाइल स्वरूप है जो Apple के iTunes, iPod और अन्य उपकरणों में अच्छी तरह से जाना जाता है। हालाँकि, MP3 फ़ाइलों की तुलना में, M4A ऑडियो प्लेबैक अन्य उपकरणों के साथ संगतता की कमी के कारण समस्याग्रस्त है।",
+    "Createdby": "Apple",
+    "CreatedbyLink": "https://developer.apple.com/",
+    "CreatedInYear": "2004",
+    "BasicInformation": "एक M4A फ़ाइल एक MPEG-4 ऑडियो फ़ाइल है जिसे उन्नत ऑडियो कोडिंग (AAC) या Apple दोषरहित ऑडियो कोडेक (ALAC) के साथ एन्कोड किया गया है। इसमें गाने, पॉडकास्ट और ऑडियोबुक सहित कई प्रकार की ऑडियो फाइलें हो सकती हैं।",
+    "DetailedInformation": "MPEG-4 ऑडियो और वीडियो डेटा के लिए एक मल्टीमीडिया कंटेनर प्रारूप है जो संपीड़ित है। .mp4 फ़ाइलें, जो ऑडियो और वीडियो डेटा संग्रहीत करती हैं, इस प्रारूप का उपयोग करती हैं। .m4a प्रत्यय, जो “MPEG-4 ऑडियो” के लिए खड़ा है, तब से बनाया गया था जब M4A फाइलें विशेष रूप से ऑडियो डेटा ले जाती हैं। इस नामकरण परिवर्तन ने MPEG-4 वीडियो और MPEG-4 ऑडियो-ओनली फ़ाइलों के बीच अंतर बताना आसान बना दिया। एक हानिपूर्ण संपीड़न विकल्प है, जैसे अन्य ऑडियो फ़ाइल प्रकारों के साथ, और यह AAC एन्कोडिंग का उपयोग करके प्राप्त किया जाता है। Apple दोषरहित प्रारूप दोषरहित संपीड़न के लिए अनुमति देता है, जो अन्य ऑडियो प्रारूपों के साथ प्राप्त करने योग्य नहीं है।",
+    "Softwaresused": [
+        {
+            "platform": "लिनक्स",
+            "softwares": [
+                {
+                    "name": "वीडियोलैन वीएलसी मीडिया प्लेयर",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "फ़ाइल व्यूअर प्लस - इसे Microsoft से प्राप्त करें",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट विंडोज मीडिया प्लेयर",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "वीडियोलैन वीएलसी मीडिया प्लेयर",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "नलसॉफ्ट विनम्प",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "एडोब ऑडिशन सीसी 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                }
+            ]
+        },
+        {
+            "platform": "मैक",
+            "softwares": [
+                {
+                    "name": "एप्पल आईट्यून्स",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "एपल क्विकटाइम प्लेयर",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "वीडियोलैन वीएलसी मीडिया प्लेयर",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "एडोब ऑडिशन सीसी 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "एल्टिमा एल्मेडिया प्लेयर",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "आईओएस",
+            "softwares": [
+                {
+                    "name": "मोबाइल के लिए वीडियोलन VLC",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "एंड्रॉयड",
+            "softwares": [
+                {
+                    "name": "Android के लिए फ़ाइल व्यूअर",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "Android के लिए वीडियोलैब्स VLC",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        }
+    ]
+}

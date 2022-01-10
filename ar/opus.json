@@ -1,0 +1,88 @@
+{
+    "Format": "OPUS",
+    "ShortName": "OPUS",
+    "FullName": "Opus Audio File",
+    "Category": "ملف صوتي",
+    "Pros": "يسمح بنقل البيانات بشكل أسرع عبر عدة قنوات. تكشف اختبارات جودة الصوت أنه يعيد الصوت الأصلي بشكل أكثر كفاءة بمعدلات البت المختلفة ومعدلات أخذ العينات. يضمن أداء ثابت في مجموعة متنوعة من المواقف. هيكل موجه نحو المستقبل للعديد من خدمات الاتصالات. التكيف مع نوع المعلومات الصوتية. يمكن أن يعوض جزئيًا عن خسائر الجودة أثناء الإرسال، مما يسمح بنقل البيانات الحية المستمر دون انقطاع. ",
+    "Cons": "غير مدعوم من تطبيقات متعددة. برنامج ترميز Opus غير شائع.",
+    "Createdby": "Xiph.Org ",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "2012",
+    "BasicInformation": "أوبوس هو برنامج ترميز جديد أنتجه فريق من الخبراء من مؤسسة Xiph.Org (شركة موزيلا) وسكايب تكنولوجيز S.A. (مايكروسوفت). لديها جميع مزايا MP3 مع تقليل عيوبها. يجمع Opus بين برامج الترميز CELT و SILK.",
+    "DetailedInformation": "ملف OPUS هو ملف صوتي ضياع تم إنشاؤه بتنسيق Opus (يُعرف أحيانًا باسم «Ogg Opus»)، والذي تم تصميمه لتدفق الإنترنت. وهو يدعم معدلات بت متفاوتة من 6 كيلوبايت/ثانية إلى 510 كيلوبايت/ثانية ويستخدم كل من برامج الترميز SILK (المستخدمة من قبل سكايب) و CELT (من Xiph.Org). يستخدم الصوت عبر IP (VoIP) ومؤتمرات الفيديو والدردشة داخل اللعبة برنامج ترميز Opus. حدد IETF تنسيق Opus، والذي يستخدم على نطاق واسع. قام IETF بتوحيد تنسيق Opus، الذي يتم الحفاظ عليه بواسطة Xiph.Org. نظرًا لأن برنامج ترميز Opus يستخدم في الغالب للبث، فإن الملفات التي تحتوي على ملحق.opus غير شائعة.",
+    "Softwaresused": [
+        {
+            "platform": "لينكس",
+            "softwares": [
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "شبابيك",
+            "softwares": [
+                {
+                    "name": "عارض الملفات بلس - احصل عليه من Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "AIMP",
+                    "link": "http://www.aimp2.us/",
+                    "image": "/assets/fileimg/sOBpiyF.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "فوبار 2000",
+                    "link": "https://www.foobar2000.org/",
+                    "image": "/assets/fileimg/c2PuNRk.jpeg"
+                },
+                {
+                    "name": "أدوات أوبوس",
+                    "link": "https://www.opus-codec.org/downloads/",
+                    "image": "/assets/fileimg/7xNWYRA.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "رفيق",
+            "softwares": [
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "أندرويد",
+            "softwares": [
+                {
+                    "name": "عارض الملفات لنظام Android",
+                    "link": "",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "لاعب أوبوس",
+                    "link": "https://play.google.com/store/apps/details?id=com.littlepako.opusplayer3&hl=en_US&gl=US",
+                    "image": "/assets/fileimg/irCSU4s.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "Format": "BMP",
+    "ShortName": "BMP",
+    "FullName": "Bitmap Image File",
+    "Category": "रेखापुंज छवि फ़ाइलें",
+    "Pros": "उपयोग करने में आसान। व्यापक प्रसार परिचितता। अच्छी तरह से प्रलेखित। पेटेंट से मुक्त।  ",
+    "Cons": "असम्पीडित। आकार में बड़ा हो सकता है। कभी-कभी विभिन्न उपकरणों पर अलग दिख सकता है।",
+    "Createdby": "माइक्रोसॉफ्ट",
+    "CreatedbyLink": "https://developer.microsoft.com/en-us/",
+    "CreatedInYear": "1995",
+    "BasicInformation": "BMP फ़ाइल Microsoft द्वारा विकसित एक रेखापुंज छवि प्रारूप है जिसे बिटमैप (BMP) कहा जाता है। इसमें चित्र जानकारी के साथ-साथ असम्पीडित छवि डेटा भी शामिल है जो अलग-अलग रंग बिट गहराई के साथ मोनोक्रोम और रंगीन छवियों का समर्थन करता है। BMP फ़ाइलों का उपयोग अक्सर द्वि-आयामी डिजिटल तस्वीरों को संग्रहीत करने के लिए किया जाता है। डीआईबी, जो डिवाइस-स्वतंत्र बिटमैप के लिए खड़ा है, इसके लिए एक और नाम है।",
+    "DetailedInformation": "बिटमैप शब्द कंप्यूटर प्रोग्रामिंग में बिटमैप की अवधारणा से आता है। आम तौर पर, बीएमपी छवियां संपीड़ित नहीं होती हैं या दोषरहित तरीके से संपीड़ित होती हैं (जैसे कि फ़ाइल के भीतर अनावश्यक डेटा के कारण ज़िप या आरएआर के माध्यम से)। Microsoft ने BMP प्रारूप बनाया, जिसे डिवाइस इंडिपेंडेंट बिटमैप (DIB) के रूप में भी जाना जाता है, उन छवियों को संरक्षित करने के लिए जो कई उपकरणों पर देखे जाने पर विकृत नहीं होंगे। BMP प्रारूप में फ़ाइल हेडर में बिटमैप पहचान, फ़ाइल आकार, चौड़ाई और ऊंचाई, डेटा संपीड़न विधि (वैकल्पिक), रंग विकल्प, और बिटमैप डेटा प्रारंभिक बिंदु कच्चे पिक्सेल चित्र डेटा और वैकल्पिक ICC रंग प्रोफ़ाइल डेटा हेडर का अनुसरण करते हैं। डेटा संपीड़न, रंग प्रोफाइल, या अल्फा चैनलों के बिना, BMP फ़ाइलों को अलग-अलग आकार, रंग और रंग गहराई की 2D छवियों के रूप में सहेजा जाता है।",
+    "Softwaresused": [
+        {
+            "platform": "लिनक्स",
+            "softwares": [
+                {
+                    "name": "मोज़िला फ़ायरफ़ॉक्स",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "गूगल क्रोम",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट एज",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "फ़ाइल व्यूअर प्लस - इसे Microsoft से प्राप्त करें",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "एडोब फोटोशॉप 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "एडोब इलस्ट्रेटर 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट फोटोज",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट विंडोज फोटो व्यूअर",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                }
+            ]
+        },
+        {
+            "platform": "मैक",
+            "softwares": [
+                {
+                    "name": "Apple प्रीव्यू",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "Apple फोटो",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "एडोब फोटोशॉप 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "मैक के लिए एसीडी सिस्टम्स ACDSee फोटो स्टूडियो",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-mac/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "एडोब इलस्ट्रेटर 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                }
+            ]
+        },
+        {
+            "platform": "आईओएस",
+            "softwares": [
+                {
+                    "name": "गूगल फोटोज",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "मुफ़्त  "
+                },
+                {
+                    "name": "गूगल ड्राइव",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "फ़्रीमियम"
+                }
+            ]
+        },
+        {
+            "platform": "एंड्रॉयड",
+            "softwares": [
+                {
+                    "name": "Android के लिए फ़ाइल व्यूअर",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "गूगल फोटोज",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "मुफ़्त  "
+                },
+                {
+                    "name": "गूगल ड्राइव",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "फ़्रीमियम"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "गूगल ड्राइव",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "गूगल फोटोज",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "मुफ़्त  "
+                }
+            ]
+        }
+    ]
+}

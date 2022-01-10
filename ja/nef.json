@@ -1,0 +1,164 @@
+{
+    "Format": "NEF",
+    "ShortName": "NEF",
+    "FullName": "Nikon Electronic Format RAW Image",
+    "Category": "カメラ RAW ファイル",
+    "Pros": "人間のコンピューター処理が必要な場合、NEFファイルの方が有益です。これにより、JPEG ファイルでは不可能な、画質を向上させる多くの可能性が開かれます。元のピクセルデータは NEF ファイルに保存されるため、画質が大幅に向上します。可逆圧縮技術を使用して圧縮されるか、まったく圧縮されません。JPEG および TIFF 写真は、NEF 画像よりも階調範囲と色精度が狭くなります。",
+    "Cons": "NEF ファイルは JPEG ファイルよりもかなり大きいので、カードに保存できるファイルは少なくなります。これは、ニコンのカメラがRAWファイルをメモリカードに保存するのに時間がかかる理由でもあります。RAWファイル形式は数多くあり、専門家は統一されたRAWファイル規格の定義に苦労しています。ニコンはまた、画質を低下させることが示されているノイズリダクションを採用したことで非難されています。",
+    "Createdby": "ニコン",
+    "CreatedbyLink": "https://www.nikon.co.in/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "ニコン製デジタルカメラで撮影したRAW写真は、NEFファイルとして保存されます。Nikon Electronic Format（NEF）で保存され、CCDと同じ非圧縮形式でデータを保存します。使用するカメラ ID やレンズなどの画像メタデータも NEF ファイルに含まれています。メタデータには、レンズ、レンズ設定、カメラなどの詳細が含まれます。",
+    "DetailedInformation": "NEFファイルは、ニコンのシューティングゲームで最も一般的に使用されています。これらの写真家は、ニコンのカメラを使用して写真をキャプチャし、生データをNEFファイルとして保存するプロまたはアマチュアです。RAW ファイルとは、ビットマップグラフィックエディタでまだ処理、印刷、または編集されていない写真のことです。RAW ファイルは、ライティング、強度、カラーなど、できる限りシーンを再現しようとします。カメラのセンサーでキャプチャされたデータは、RAW Data Pictureに記録されます。NEFファイルは、カメラのメモリカードに非圧縮または可逆圧縮形式で保存できます。NEF ファイルは「デジタルネガ」に似ています。NEFファイルの画質については議論がないという事実にもかかわらず、ソフトウェア開発者は共通の標準がないためにこの形式を選択しません。",
+    "Softwaresused": [
+        {
+            "platform": "リナックス",
+            "softwares": [
+                {
+                    "name": "コーレルアフターショットプロ 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "フリートライアル"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "ファイルビューアープラス — マイクロソフトから入手",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "マイクロソフトフォト",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "アドビフォトショップ 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "フリートライアル"
+                },
+                {
+                    "name": "ニコン ViewNX2",
+                    "link": "https://imaging.nikon.com/lineup/software/viewnx2/",
+                    "image": "/assets/fileimg/pgXaxjb.jpeg"
+                },
+                {
+                    "name": "コーレルアフターショットプロ 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "フリートライアル"
+                }
+            ]
+        },
+        {
+            "platform": "マック",
+            "softwares": [
+                {
+                    "name": "Apple プレビュー",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "アップルフォト",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "アドビフォトショップ 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "フリートライアル"
+                },
+                {
+                    "name": "ニコン ViewNX2",
+                    "link": "https://imaging.nikon.com/lineup/software/viewnx2/",
+                    "image": "/assets/fileimg/pgXaxjb.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "コーレルアフターショットプロ 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "フリートライアル"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "アップルフォト",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "アドビフォトショップ ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "グーグル・フォト",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "無料  "
+                },
+                {
+                    "name": "グーグルスナップシード",
+                    "link": "https://apps.apple.com/us/app/snapseed/id439438619?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/p5rWIzT.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "アンドロイド",
+            "softwares": [
+                {
+                    "name": "アンドロイド用ファイルビューア",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "アドビフォトショップエクスプレス",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "グーグル・フォト",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "無料  "
+                },
+                {
+                    "name": "グーグルスナップシード",
+                    "link": "https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en_US",
+                    "image": "/assets/fileimg/p5rWIzT.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "グーグル・フォト",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "無料  "
+                }
+            ]
+        }
+    ]
+}

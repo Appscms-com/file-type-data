@@ -1,0 +1,170 @@
+{
+    "Format": "FLAC",
+    "ShortName": "FLAC",
+    "FullName": "Free Lossless Audio Codec",
+    "Category": "Audiobestand",
+    "Pros": "Uitstekende audiokwaliteit in een klein bestand. Veel systemen zijn er compatibel mee. De broncode is open en de licentie is gratis. Hardware-assistentie (PhatBox, Kenwood MusicKeg, Rio Karma, enz.) beschikbaar. Ondersteuning voor streaming. Decoderen gaat heel snel. Feeds met meerdere kanalen en hoge resolutie worden ondersteund. Replay Gain wordt ondersteund. Ondersteunt het gebruik van een keu sheet (met enkele beperkingen) Als vervanging voor Shorten wint het aan populariteit.",
+    "Cons": "Andere prominente stroomcompressoren (Monkey's Audio, LPAC, OptimFROG) comprimeren efficiënter. Hogere compressieopties zijn traag en bieden minimale verbetering ten opzichte van de standaardinstelling.",
+    "Createdby": "Stichting Xiph.Org",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "2001",
+    "BasicInformation": "Het acroniem FLAC verwijst naar de Free Lossless Audio Codec. FLAC is een MP3-formaat zonder verlies. FLAC wordt het meest gebruikt in klassieke muziek, waar de geluidskwaliteit van cruciaal belang is. FLAC is behoorlijk populair geworden als gevolg van de geluidskwaliteit. FLAC-bestanden kunnen nu worden afgespeeld in uw favoriete speler (of in uw auto of thuisstereo), precies zoals MP3-bestanden.",
+    "DetailedInformation": "FLAC is een audiocompressieformaat ontwikkeld door leden van Xiph.org. De compressie is verliesloos, wat betekent dat er geen gegevens verloren gaan en er geen kwaliteit wordt opgeofferd. FLAC stelt gebruikers in staat om bestanden op hun oorspronkelijke mediakwaliteit op te slaan, waardoor het uitstekend is voor het maken van back-ups van audiogegevens omdat tastbare kopieën van audiobestanden vatbaar zijn voor vernietiging. FLAC is een algemeen aangenomen formaat dat de grootte van digitale audio met ongeveer 60% verkleint en over het algemeen wordt ondersteund op de belangrijkste platforms. De Xiph.Org Foundation creëerde het formaat, dat open source is. Samen met het FLAC-bestand kan een FLAC-vingerafdrukbestand worden gegenereerd, dat de bestandsnaam- en controlesominformatie voor het FLAC-bestand bevat. FLAC-bestanden worden vaak gebruikt voor realtime streaming en decodering. Het FLAC-project bestaat uit verschillende componenten, waaronder een streamformaat, een containerformaat, een encoder- en decoderreferentiebibliotheek en invoerplug-ins.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC-mediaspeler",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Durf",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Tunes",
+                    "link": "http://www.atunes.org/",
+                    "image": "/assets/fileimg/U6hLUgu.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Ramen",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Download het van Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "VideoLan VLC-mediaspeler",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Durf",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg"
+                },
+                {
+                    "name": "Adobe Auditie CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Gratis proefversie"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC-mediaspeler",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Durf",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Tunes",
+                    "link": "http://www.atunes.org/",
+                    "image": "/assets/fileimg/U6hLUgu.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Adobe Auditie CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Gratis proefversie"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Videolan VLC voor mobiel",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Gouden oor",
+                    "link": "https://apps.apple.com/us/app/golden-ear/id407945101?ign-mpt=uo%3D8",
+                    "image": "/assets/fileimg/upbts7y.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Moliplayer",
+                    "link": "https://apps.apple.com/us/app/moli-player-hd-free-movie-music-player-for-network/id598886783?ign-mpt=uo%3D8",
+                    "image": "/assets/fileimg/FAo0QEL.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Bestandsviewer voor Android",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Videolabs VLC voor Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "jet Audio",
+                    "link": "https://play.google.com/store/apps/details?id=com.jetappfactory.jetaudio",
+                    "image": "/assets/fileimg/jcTagMw.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Chrome-bètaversie",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        }
+    ]
+}

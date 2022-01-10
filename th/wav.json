@@ -1,0 +1,176 @@
+{
+    "Format": "WAV",
+    "ShortName": "WAV",
+    "FullName": "WAVE Audio File",
+    "Category": "แฟ้มเสียง",
+    "Pros": "เกือบทุกแอ็พพลิเคชัน Windows ที่สนับสนุนเสียงสามารถเล่นได้ถอดรหัสรีบร้อน",
+    "Cons": "ขนาดไฟล์มีขนาดใหญ่มาก",
+    "Createdby": "ไอบีเอ็มและไมโครซอฟ",
+    "CreatedbyLink": "https://www.ni.com/en-in/support/downloads/dataplugins/download.microsoft-ibm-dataplugin-for-audio.html",
+    "CreatedInYear": "1991",
+    "BasicInformation": "Microsoft สร้างรูปแบบไฟล์ WAV สำหรับแฟ้มเสียงปัจจุบันมีการอ้างถึงรูปแบบไฟล์เสียงพีซีมาตรฐานเนื่องจากมีการใช้งานอย่างแพร่หลายWAV เป็นส่วนขยายของไฟล์ที่ระบุไฟล์ Wave (.wav)รูปแบบไฟล์ Wave ซึ่งส่วนใหญ่ใช้ในเครื่องพีซีได้รับการอนุมัติให้เป็นสื่อแลกเปลี่ยนที่ถูกต้องตามกฎหมายสำหรับแพลตฟอร์มคอมพิวเตอร์อื่น ๆ รวมทั้ง Macintosh",
+    "DetailedInformation": "ไฟล์ WAV คือไฟล์ออดิโอที่บันทึกไว้ในรูปแบบ WAVE ซึ่งเป็นรูปแบบไฟล์เสียงดิจิตอลทั่วไปสำหรับการจัดเก็บข้อมูลรูปคลื่นไฟล์ WAV สามารถรวมการบันทึกเสียงที่มีอัตราการสุ่มตัวอย่างและบิตเรตที่หลากหลายแม้ว่าจะได้รับการบันทึกไว้ในรูปแบบสเตอริโอ 44.1 kHz, 16 บิตซึ่งเป็นมาตรฐานสำหรับเสียงซีดีซึ่งช่วยให้ผู้สร้างเนื้อหาสามารถย้ายไฟล์เสียงระหว่างแพลตฟอร์มได้อย่างง่ายดาย เช่น สำหรับการประมวลผลซึ่งช่วยให้ผู้สร้างเนื้อหาสามารถย้ายไฟล์เสียงระหว่างแพลตฟอร์มได้อย่างง่ายดาย เช่น สำหรับการประมวลผลเสียงเหมือนเอฟเฟกต์เพลงและการบันทึกเสียงสามารถพบได้ในพวกเขาไฟล์ WAV สามารถเปิดและเล่นได้โดยเครื่องเล่นมัลติมีเดียเช่น Windows Media Player, QuickTime และอื่น ๆรูปแบบ WAVE จะขึ้นอยู่กับรูปแบบไฟล์ Resource Interchange (RIFF) ซึ่งส่วนใหญ่จะใช้บันทึกไฟล์วิดีโอและเสียงในช่วงต้นคริสต์ทศวรรษ 1990 ไมโครซอฟท์และไอบีเอ็มได้ร่วมมือกันสร้างรูปแบบ WAVE ซึ่งกลายเป็นมาตรฐานสำหรับการจัดเก็บเสียงดิบที่ไม่มีการบีบอัดในไมโครซอฟท์ วินโดวส์",
+    "Softwaresused": [
+        {
+            "platform": "ลินุกซ์",
+            "softwares": [
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "XMMS",
+                    "link": "http://www.xmms.org/",
+                    "image": "/assets/fileimg/hodO9zz.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "คลีเมนไทน์",
+                    "link": "https://www.clementine-player.org/about",
+                    "image": "/assets/fileimg/F87GDJM.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์พลัส — รับได้จากไมโครซอฟท์",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "โปรแกรมเล่นสื่อ Windows ของ Microsoft",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "อะโดบี ออดิชั่น CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg"
+                },
+                {
+                    "name": "คลีเมนไทน์",
+                    "link": "https://www.clementine-player.org/about",
+                    "image": "/assets/fileimg/F87GDJM.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "โปรแกรมเล่น Apple QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "แอปเปิ้ลไอทูนส์",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ร็อกซิโอ ขนมปังปิ้ง 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "จ่ายแล้ว"
+                },
+                {
+                    "name": "อะโดบี ออดิชั่น CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "โอลิมซอฟท์ โอเพลเยอร์",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "จ่ายแล้ว"
+                },
+                {
+                    "name": "VLC Videolan สำหรับมือถือ",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์สำหรับ Android",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "วีดีโอแลบ VLC สำหรับ Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ตัวแปลงสื่อ antvplayer",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "กูเกิลไดรฟ์",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "ฟรีเมียม"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "กูเกิลไดรฟ์",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "โครเมียม โอเอส",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        }
+    ]
+}

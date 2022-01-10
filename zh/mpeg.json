@@ -1,0 +1,134 @@
+{
+    "Format": "MPEG",
+    "ShortName": "MPEG",
+    "FullName": "Moving Pictures Experts Group Video",
+    "Category": "视频文件",
+    "Pros": "MPEG文件可提供出色的效果，与其原始文件完全相同。大多数在线浏览器都支持这种格式，并且可以在各种平台上播放，包括 Windows Media Player 和 QuickTime。",
+    "Cons": "尽管MPEG的最终产品质量很高，但这会导致较差的压缩率和更大的文件大小。打开较大的文件可能需要更长的时间。",
+    "Createdby": "移动画面专家组",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "1993",
+    "BasicInformation": "MPEG文件是采用移动图像专家组的标准化数字视频格式（MPEG）的视频文件。它包含使用 MPEG-1 或 MPEG-2 压缩的压缩视频和音频。通常，MPEG文件用于通过互联网交换视频。",
+    "DetailedInformation": "移动图像专家组（MPEG）是一个开发媒体压缩和编码标准的国际组织。最重要的是，MPEG建立了视频和音频压缩标准。MPEG-1 是 MPEG 视频和音频压缩的第一个版本，于 1993 年发布。MPEG-2 是 MPEG-1 的继任者，创建于 1995 年。有损压缩允许在保持良好质量的同时下载和上传减小的文件大小。这些音频和视频文件容器在使用 MPEG-1 或 MPEG-2 压缩进行压缩时使这两个部分保持同步。.MPG 文件可用于保存 MPEG-1 和 MPEG-2 影片。MPEG 电影越来越多地被保存 as.MP4 文件，这些文件使用 MPEG-4 压缩。",
+    "Softwaresused": [
+        {
+            "platform": "Linux的",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC 媒体播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免费"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — 从微软获取",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "免费增值"
+                },
+                {
+                    "name": "微软 Windows 媒体播放器",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "免费，包含在操作系统中"
+                },
+                {
+                    "name": "VideoLan VLC 媒体播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "Xilisoft 视频转换器旗舰版",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg",
+                    "type": "免费试用"
+                }
+            ]
+        },
+        {
+            "platform": "苹果电脑",
+            "softwares": [
+                {
+                    "name": "苹果 QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "免费，包含在操作系统中"
+                },
+                {
+                    "name": "Eltima Elmedia 播放器",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "Roxio Toast 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "已付"
+                },
+                {
+                    "name": "VideoLan VLC 媒体播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免费"
+                }
+            ]
+        },
+        {
+            "platform": "iOS系统",
+            "softwares": [
+                {
+                    "name": "适用于移动设备的 Videolan VLC",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "Pentaloop PlayerXtreme 媒体播放器",
+                    "link": "https://apps.apple.com/us/app/playerxtreme-media-player/id456584471?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/uoX9gqI.jpeg",
+                    "type": "免费增值"
+                }
+            ]
+        },
+        {
+            "platform": "安卓",
+            "softwares": [
+                {
+                    "name": "适用于安卓的 Videolabs VLC",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "antvPlayer 媒体转换器",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "免费"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC 媒体播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免费"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,212 @@
+{
+    "Format": "JPG",
+    "ShortName": "JPG",
+    "FullName": "Joint Photographics Expert Group",
+    "Category": "Định dạng tệp hình ảnh",
+    "Pros": "Một định dạng rất phổ biến. Nén ở mức cao, được kiểm soát dẫn đến kích thước tệp nhỏ. định dạng tương thích và hiển thị chính xác trong tất cả các trình duyệt, văn bản và chương trình đồ họa, trên tất cả các máy tính, máy tính bảng và thiết bị di động. Hỗ trợ hình ảnh thực tế đầy đủ màu sắc với rất nhiều màu sắc và độ tương phản chuyển tiếp. Chất lượng cao của hình ảnh với một mức độ nhỏ của sự gắn kết.",
+    "Cons": "Khi bạn nén hình ảnh, nó có thể “rơi ra” thành các ô vuông riêng lẻ - các khối 808 pixel. Điều này xảy ra bởi vì thuật toán nén phân tích các điểm ảnh lân cận. Màu mịn - chuyển tiếp có thể trở nên khắc nghiệt hoặc đơn giản là biến mất. JPEG ít phù hợp để làm việc với văn bản hoặc đồ họa đơn sắc với ranh giới rõ ràng. Định dạng này không hỗ trợ độ trong suốt mặc dù nó được yêu cầu khi tạo mẫu, logo và nút. Chất lượng của hình ảnh giảm dần với mỗi bước nén tiếp theo.",
+    "Createdby": "ITU-T và nhóm chuyên gia chụp ảnh chung",
+    "CreatedbyLink": "https://www.itu.int/en/ITU-T/studygroups/2009-2012/Pages/16/jpeg1x.aspx",
+    "CreatedInYear": "1992",
+    "BasicInformation": "Tệp JPG là một hình ảnh được lưu trong định dạng hình ảnh nén (JPEG) của Nhóm chuyên gia chụp ảnh chung. Nó được sử dụng rộng rãi để lưu trữ ảnh kỹ thuật số và được hỗ trợ bởi hầu hết các máy ảnh kỹ thuật số. Tệp JPG là một trong những định dạng hình ảnh được sử dụng phổ biến nhất. Đó là một kỹ thuật phổ biến để nén ảnh chụp ảnh. JPEG cũng là tên của định dạng tệp sử dụng loại nén này. Nén mất dữ liệu là không thể đảo ngược, và tốc độ nén càng thấp, hình ảnh càng sắc nét.",
+    "DetailedInformation": "Không có công nghệ vào đầu những năm 1980 cho phép mọi người dễ dàng nén và trao đổi ảnh kỹ thuật số. Năm 1982, nhóm làm việc JPEG bắt đầu phát triển một tiêu chuẩn nén để giảm kích thước của các tệp hình ảnh trong khi vẫn duy trì chất lượng càng nhiều càng tốt, giúp chúng dễ dàng chia sẻ hơn. Định dạng tệp JPEG được thiết kế bởi nhóm làm việc vào năm 1992. Các tệp JPEG, thường được lưu với phần mở rộng the.jpg hoặc.JPEG, là hình ảnh được tạo ra bằng cách sử dụng quá trình nén mất dữ liệu phá hủy một số dữ liệu trong tệp hình ảnh nguồn. Tuy nhiên, mất dữ liệu này thường không thể phát hiện được bằng mắt thường. Các tệp JPG lý tưởng cho các sản phẩm cuối cùng, trong khi các tệp không mất dữ liệu là tốt nhất để chỉnh sửa. Tiêu chuẩn JPEG vẫn là định dạng nén hình ảnh phổ biến nhất được sử dụng hiện nay vì nó cho phép người dùng tạo các tệp hình ảnh có thể chia sẻ, chất lượng cao và vì nó được nhúng sâu vào công nghệ được sử dụng để tạo và trao đổi ảnh.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Microsoft Edge",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Free "
+                },
+                {
+                    "name": "Shotwell",
+                    "link": "https://wiki.gnome.org/Apps/Shotwell",
+                    "image": "/assets/fileimg/wJy7aoh.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "các cửa sổ",
+            "softwares": [
+                {
+                    "name": "Microsoft Ảnh",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Trình xem ảnh Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Microsoft OneDrive",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "Dùng thử miễn phí"
+                },
+                {
+                    "name": "Microsoft Paint",
+                    "link": "https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9",
+                    "image": "/assets/fileimg/AuNqAKT.jpeg"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple Xem trước",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Apple Hình ảnh",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Adobe Photoshop",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Dùng thử miễn phí"
+                },
+                {
+                    "name": "Hệ thống ACD ACDSee Photo Studio cho Mac",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-mac/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "Dùng thử miễn phí"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Apple Hình ảnh",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Ảnh",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Free  "
+                },
+                {
+                    "name": "Adobe Photoshop nhanh",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop-express/id331975235?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Dùng thử miễn phí"
+                },
+                {
+                    "name": "Microsoft OneDrive",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Ảnh",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Free  "
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Microsoft OneDrive",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Trình xem tệp dành cho Android",
+                    "link": "https://play.google.com/store/apps/details?id=com.sharpened.androidfileviewer",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Ảnh",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Free  "
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Hệ điều hành Chrome",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                }
+            ]
+        }
+    ]
+}

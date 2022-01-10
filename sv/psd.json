@@ -1,0 +1,129 @@
+{
+    "Format": "PSD",
+    "ShortName": "PSD",
+    "FullName": "Adobe Photoshop Document",
+    "Category": "Rasterbild",
+    "Pros": "Få ut mesta möjliga av Photoshops funktioner. Du kan importera en Photoshop-fil direkt till Illustrator, InDesign och andra Adobe-program tack vare snäva anslutningsmöjligheter. Öppna den sparade filen i lagerläge. Om du behöver hålla saker transparenta är detta ett bra verktyg att ha.",
+    "Cons": "Filen är ganska stor. Adobe äger PSD-formatet. Som ett resultat av detta används det inte i stor utsträckning av andra appar.",
+    "Createdby": "Adobe-system",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "PSD är Photoshops inbyggda filformat för att spara filer. Det kallas även PDD. PSD, som ofta kallas PDD, är en vanlig filtyp. PSD är kompatibelt med alla bildlägen (bitmapp, gråskala, duoton, indexerad färg, RGB, CMYK, Lab och Flerkanals). Det är en bildfil gjord av Adobe Photoshop, ett professionellt bildredigeringsverktyg som ofta används för att förbättra digitala foton och göra webbgrafik.",
+    "DetailedInformation": "Bildlager, justeringslager, lagermasker, anteckningar, filinformation, nyckelord och andra Photoshop-specifika komponenter finns alla i PSD-filer. De tillverkas ofta och delas av grafiska designers. PSD-filer kan öppnas med en mängd olika Photoshop-verktyg och förenklas till andra bildformat (t.ex. PNG, JPEG och GIF) för uppladdning, sändning och sparande.Alla lager slås samman till ett enda lager efter att ha konverterats från en PSD till en annan filtyp. Lagren lagras, är åtkomliga och redigerbara när de sparas med PSD-filtillägget. Dessa filer används ofta som pågående dokument, snarare än för slutlig bildproduktion och leverans. PSD-lager, liksom andra element som foton, former, text och effekter, kan ändras. Färglägena RGB, CMYK, gråskala, svartvitt, duoton, indexerad färg, Lab-färg och flerkanaliga färger stöds av PSD-formatet. Photoshop-filer med PSD-filtillägget innehåller bilder samtidigt som det finns många redigeringsalternativ i Adobe Photoshop-produkter. Masker, genomskinlighet, duotoninställningar, övertoningar, färgbalansering, blandning och urklippsbanor är bara några av de tillgängliga redigeringsverktygen.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Gratis "
+                }
+            ]
+        },
+        {
+            "platform": "Fönster",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Hämta det från Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Kostnadsfri provperiod"
+                },
+                {
+                    "name": "Adobe Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Kostnadsfri provperiod"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg"
+                },
+                {
+                    "name": "CorelDRAW Grafiksvit 2021",
+                    "link": "https://www.coreldraw.com/en/product/coreldraw/purchase.html?AID=10816204&PID=3081440&cjevent=51885051cce111eb80d1d3470a180510&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&x-vehicle=cj",
+                    "image": "/assets/fileimg/cfwD39J.jpeg",
+                    "type": "Kostnadsfri provperiod"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Förhandsgranska Apple",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Kostnadsfritt, ingår i OS"
+                },
+                {
+                    "name": "Adobe Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Kostnadsfri provperiod"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Kostnadsfri provperiod"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Gratis "
+                },
+                {
+                    "name": "Pixelmator",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id407963104?ign-mpt=uo%3D4&mt=12",
+                    "image": "/assets/fileimg/0RX6D8V.jpeg",
+                    "type": "Betald"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Pixelmator 2",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/HmizpGb.jpeg",
+                    "type": "Betald"
+                },
+                {
+                    "name": "Adobe Photoshop ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Filvisare för Android",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Adobe Photoshop Express",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

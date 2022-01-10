@@ -1,0 +1,26 @@
+{
+    "Format": "ACC",
+    "ShortName": "ACC",
+    "FullName": "Graphics Accounts Data File",
+    "Category": "Datafiler",
+    "Pros": "n/a",
+    "Cons": "n/a",
+    "Createdby": "FKJ Programvara",
+    "CreatedbyLink": "https://download.cnet.com/developer/fkj-software/i-6201467/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "ACC-filen är Graphics Account Data filformat. För Grafiska konton innehåller den här filen ekonomisk kontoinformation. Det är ett verktyg som hjälper dig att skapa och hantera personliga budgetar. Det kan innehålla information från ett eller flera bankkonton.",
+    "DetailedInformation": "ACC-filer innehåller ekonomiska kontodata för grafikkonton. De kan öppnas tillsammans med en budgetfil (.BGT).",
+    "Softwaresused": [
+        {
+            "platform": "Fönster",
+            "softwares": [
+                {
+                    "name": "FKJ Software Grafiska konton",
+                    "link": "https://download.cnet.com/developer/fkj-software/i-6201467/",
+                    "image": "https://image.flaticon.com/icons/png/512/1063/1063308.png",
+                    "type": "Gratis"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "Format": "MKV",
+    "ShortName": "MKV",
+    "FullName": "Matroska Video File",
+    "Category": "Plik wideo",
+    "Pros": "Bardzo elastyczny. Ma stratną, jak również bezstratną opcję. Dobrze udokumentowane. Niezastrzeżone. Dopuszczalne jest dodawanie metadanych.",
+    "Cons": "Obecnie nie ma autonomicznego odtwarzacza sprzętowego, który może odtwarzać pliki MKV. Większy rozmiar pliku. Ciągle się rozwijam. ",
+    "Createdby": "Matroska",
+    "CreatedbyLink": "https://www.matroska.org/",
+    "CreatedInYear": "2002",
+    "BasicInformation": "Plik wideo zapisany w formacie kontenera multimedialnego Matroska jest znany jako plik MKV. Może obsługiwać różne kodeki audio i wideo, w tym napisy.srt, .SSA, .USF (Universal Subtitle Format) i VobSub napisy. Krótkie klipy wideo, programy telewizyjne i filmy są często przechowywane jako pliki MKV.",
+    "DetailedInformation": "Matroska Multimedia Container (MKV) to otwarty i darmowy standard przechowywania danych wideo. Plik może zawierać nieograniczoną liczbę ścieżek audio, wideo, obrazów i napisów, co czyni go poręcznym sposobem zapisywania filmów, pełnych programów telewizyjnych i nie tylko. Użytkownik może przejść do wszystkich różnych ścieżek danych w formacie surowym. Jest porównywalny do formatów the.AVI, .ASF, and.MOV, ponieważ może mieć wiele ścieżek wideo, audio, obrazów i napisów. Pliki Matroska Video to pliki multimedialne, które używają formatu kontenera Matroska do przechowywania jednej lub więcej ścieżek wideo i są identyfikowane przez rozszerzenie pliku the.mkv. Format MKV, który jest powszechnie używany do zapisywania krótkich fragmentów wideo, seriali telewizyjnych i filmów, zyskał popularność wśród fansubberów anime. Wielu z tych użytkowników dodaje napisy, a format MKV jest szczególnie przydatny, ponieważ pozwala na łączenie kilku ścieżek audio i napisów w jednym pliku.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Odtwarzacz multimedialny VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Hamulec ręczny",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Darmowy"
+                }
+            ]
+        },
+        {
+            "platform": "Okna",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Pobierz go od firmy Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Odtwarzacz multimedialny VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Hamulec ręczny",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Odtwarzacz multimedialny",
+                    "link": "https://github.com/clsid2/mpc-hc/",
+                    "image": "/assets/fileimg/PLx4Opv.jpeg"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Darmowy"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Eltima Elmedia Odtwarzacz",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Inteligentny konwerter ShedWorx",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "Bezpłatne wersje próbne"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Hamulec ręczny",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Odtwarzacz multimedialny VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Darmowy"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "olimsoft Olayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Płatne"
+                },
+                {
+                    "name": "Videolan VLC dla urządzeń przenośnych",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Oka Aplikacje Omni Player",
+                    "link": "https://apps.apple.com/us/app/omni-player-mkv-video-player/id1470926410",
+                    "image": "/assets/fileimg/TmHdEAq.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Odtwarzacz multimedialny Pentaloop PlayerXtreme",
+                    "link": "https://apps.apple.com/us/app/playerxtreme-media-player/id456584471?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/uoX9gqI.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "BIT Labs Simple MP4 Odtwarzacz wideo",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Videolabs VLC dla Androida",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Przeglądarka plików dla Androida",
+                    "link": "https://play.google.com/store/apps/details?id=com.sharpened.androidfileviewer",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

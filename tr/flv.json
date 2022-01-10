@@ -1,0 +1,135 @@
+{
+    "Format": "FLV",
+    "ShortName": "FLV",
+    "FullName": "Flash Video File",
+    "Category": "Video dosyası",
+    "Pros": "Filmler, çevrimiçi sunumlar, afiş reklamları, İnternet animasyonları ve Flash için diğer kullanımlar sadece birkaç örnektir. Web sitesi ziyaretçilerinin%90'ından fazlası bunu görebilecek. Flash dosyaları genellikle küçük ve indirilmesi kolaydır. Flash hem geniş bant hem de çevirmeli bağlantılarda ve eski ve daha yavaş sistemlerde görülebilir. Çok çeşitli video dosyaları kolaylıkla Flash formatına dönüştürülebilir.",
+    "Cons": "Flash içeriği oluşturmak maliyetli ve zaman alıcı olabilir. Arama motoru örümcekleri Flash dosyalarını tanımlamadığından, site optimizasyonuna katkıda bulunmazlar. Flash özelliğine sahip bir web sayfasına erişirken ziyaretçiler, özellikle çevirmeli bağlantı kullanıyorlarsa daha uzun bekleme süreleriyle karşılaşabilirler.",
+    "Createdby": "Adobe Sistemleri",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "2003",
+    "BasicInformation": "Adobe Flash Video (FLV) kapsayıcı biçiminde kaydedilen bir video dosyası FLV dosyası olarak bilinir. Kısa bir başlık, senkronize ses ve video veri akışları (standart Flash.SWF formatındaki akışlarla aynı şekilde kodlanır) ve meta veri paketleri depolanır.",
+    "DetailedInformation": "Adobe Systems'ın Flash Video Formatı, YouTube, Hulu, Vevo gibi sitelerdeki çevrimiçi videolar ve çeşitli diğer akış video hizmetleri için yaygın olarak kullanılmaktadır. Adobe Flash Player (tarayıcı eklentileri dahil) ve üçüncü taraf yazılımlar neredeyse her işletim sisteminde (iOS hariç) FLV dosyalarını okuyabilir ve izleyebilir. 2003 yılında Adobe Flash Player 7'nin piyasaya sürülmesiyle FLV formatı başlatıldı. Adobe Flash Player öncelikle filmler ve TV bölümleri gibi çevrimiçi video içeriği sunmak için kullanır. Öte yandan FLV, Adobe/Macromedia olmayan çeşitli uygulamalar tarafından desteklenen açık bir formattır. Flash Video Exporter eklentisi (Adobe Animate ile kullanılabilir) veya FLV dosyalarını destekleyen herhangi bir program Flash Video içeriği üretmek ve FLV dosyaları olarak dışa aktarmak için kullanılabilir. Adobe Media Encoder ile kullanıcılar artık QuickTime veya Windows Media gibi çeşitli video formatlarını kodlayabilir. 2010'larda çevrimiçi teknolojiler geliştikçe, Flash'ın performans ve güvenlik açıklarını içeren kusurları giderek daha belirgin hale geldi. Adobe ve çok sayıda çevrimiçi tarayıcı üreticisi, Flash Player ve FLV formatının kullanımı düşerken 31 Aralık 2020'de Flash desteğini resmen durdurdu.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC Medya Oynatıcı",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "RealNetworks RealPlayer Bulutu",
+                    "link": "https://www.real.com/in",
+                    "image": "/assets/fileimg/FdqTl1x.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Microsoft'tan edinin",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "VideoLan VLC Medya Oynatıcı",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Xilisoft Video Dönüştürücü Ultimate",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg",
+                    "type": "Ücretsiz deneme"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "Media Player klasiği",
+                    "link": "https://github.com/clsid2/mpc-hc/",
+                    "image": "/assets/fileimg/PLx4Opv.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple QuickTime Oynatıcı",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "Adobe Animate CC 2019",
+                    "link": "https://www.adobe.com/products/animate.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/pqcWQ2F.jpeg",
+                    "type": "Ücretsiz deneme"
+                },
+                {
+                    "name": "Eltima Elmedia Oynatıcı",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "VideoLan VLC Medya Oynatıcı",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "RealNetworks RealTimes: Video Oluşturucu",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "BIT Labs Basit MP4 Video Oynatıcı",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "antvplayer Medya Dönüştürücü",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "J2 Etkileşimli MX Oynatıcı",
+                    "link": "https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en",
+                    "image": "/assets/fileimg/Cjoa7OB.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "RealNetworks RealTimes Video Oluşturucu",
+                    "link": "https://play.google.com/store/apps/details?id=com.real.RealPlayerCloud",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

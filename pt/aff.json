@@ -1,0 +1,66 @@
+{
+    "Format": "AFF",
+    "ShortName": "AFF",
+    "FullName": "Advanced Forensics Format",
+    "Category": "Arquivos de dados",
+    "Pros": "Aberto e extensível. Livre de patentes. Comprimido e buscável. Camada dupla. Flexível.",
+    "Cons": "Não é popular. Falta de transparência. ",
+    "Createdby": "Simson Garfinkel e a Basis Technology",
+    "CreatedbyLink": "https://www.basistech.com/",
+    "CreatedInYear": "2005-2006",
+    "BasicInformation": "Um arquivo AFF é um arquivo de dicionário de verificação ortográfica usado pelos programas gratuitos do pacote Office Kingsoft WPS Office e Apache OpenOffice. Ele contém informações sobre o arquivo de dicionário.DIC de verificação ortográfica que vem com ele.",
+    "DetailedInformation": "Os arquivos AFF e DIC são usados para adicionar novos dicionários de verificação ortográfica ao WPS Office para uma variedade de idiomas, incluindo italiano e francês. Normalmente, os usuários farão o download. Extraia o conteúdo dos pacotes de dicionário ZIP que contêm os arquivos AFF e DIC e instale-os no WPS Office.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Escritório Kingsoft WPS",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Apache OpenOffice",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "Grátis"
+                }
+            ]
+        },
+        {
+            "platform": "Janela",
+            "softwares": [
+                {
+                    "name": "Escritório Kingsoft WPS",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Apache OpenOffice",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "Grátis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Escritório Kingsoft WPS",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Apache OpenOffice",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "Grátis"
+                }
+            ]
+        }
+    ]
+}

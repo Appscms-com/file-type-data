@@ -1,0 +1,100 @@
+{
+    "Format": "WMA",
+    "ShortName": "WMA",
+    "FullName": "Windows Media Audio File",
+    "Category": "音頻文件",
+    "Pros": "到目前為止，微軟已經發佈了八個版本的 WMA，其版本遵循 WMA 7 支持證書加密，以保護音樂版權，音樂家和音樂出版商可能從中獲益最多。WMA 可以以更高的速率壓縮音頻，從而允許它存儲高質量音頻，同時佔用更少的空間。",
+    "Cons": "當您使用 WMA 編解碼器壓縮音頻時，通常會失去一些質量。WMA 遠不是完美的誰關心音質的消費者, 但他們可以選擇 FLAC (免費無損音頻編解碼器) 或 APE (通常稱為猴子的音頻) 代替.微軟擁有 WMA 標準，並拒絕與其他公司共享。",
+    "Createdby": "微軟",
+    "CreatedbyLink": "https://developer.microsoft.com/en-us/",
+    "CreatedInYear": "1999",
+    "BasicInformation": "WMA 文件是以微軟專有的高級系統格式 (ASF) 格式保存的音頻文件。它包括 Windows 媒體音頻以及元數據元素，如軌道的標題、藝術家、專輯和類型。WMA 文件與 MP3 文件類似，因為它們通常用於通過互聯網流式傳輸音樂。",
+    "DetailedInformation": "此文件格式是為了與眾所周知的 MP3 和 RealAudio 格式競爭而創建的。WMA 文件在 DVD 播放器上的視頻播放使用，以及 Playstation 和諾基亞的移動/便攜式設備上的視頻播放功能的普及，為他們的成功做出了貢獻。雖然大多數 WMA 文件都是有損的，但某些格式允許無損壓縮。ASF 是微軟開發的專有數字音樂和視頻容器格式。它使用如果它包含 Windows 媒體視頻而不是 Windows 媒體音頻。WMV 是一種視頻格式擴展。WMA 和 WMV 文件是可互換的。但是，ASF 文件被更頻繁地使用。 ",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "大膽",
+                    "link": "https://audacious-media-player.org/",
+                    "image": "/assets/fileimg/6WTDOAw.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "視窗",
+            "softwares": [
+                {
+                    "name": "文件查看器加 — 從微軟獲取",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "微軟視窗媒體播放器",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                },
+                {
+                    "name": "諾爾軟件酒莊",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "Xilisoft 視頻轉換器終極",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg"
+                },
+                {
+                    "name": "谷歌瀏覽器與視窗媒體播放器插件",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "蘋果快速播放器",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                },
+                {
+                    "name": "艾蒂瑪埃爾媒體播放器",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "歌劇與 Flip4Mac WMV 插件",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "謝德沃克斯智能轉換器",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "免費試用"
+                }
+            ]
+        },
+        {
+            "platform": "iOS版",
+            "softwares": [
+                {
+                    "name": "奧姆軟膠光層",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "已付費"
+                }
+            ]
+        }
+    ]
+}

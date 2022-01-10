@@ -1,0 +1,170 @@
+{
+    "Format": "CR2",
+    "ShortName": "CR2",
+    "FullName": "Canon Raw Image File",
+    "Category": "Raw файлы камеры",
+    "Pros": "Изображение исключительного качества. Обычно используемый формат изображения. Оригинальность была сохранена. Фирменное наименование и формат файла, которому можно доверять.",
+    "Cons": "Большие размеры файлов, которые трудно редактировать. Опасения по поводу совместного использования хранилища — сложная задача.",
+    "Createdby": "Канон",
+    "CreatedbyLink": "https://in.canon/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "Изображение в формате RAW, созданное различными цифровыми камерами Canon, называется файлом CR2. Он сохраняет несжатые данные изображения в том же формате, что и ПЗС. Файлы CR2 обычно используются профессиональными фотографами, потому что они хранят фотографии более высокого качества.",
+    "DetailedInformation": "Формат Canon Raw версии 2, основанный на спецификации TIFF, используется для сохранения файлов CR2. Фотографии CR2 могут быть созданы с помощью различных типов цифровых камер Canon, включая EOS 1D Марк IV, EOS 450D и EOS Rebel T3. Он напрямую передает данные с датчика на запоминающее устройство. Его нельзя увидеть так же, как JPG или PNG. Когда фотографии сохраняются в формате RAW, они могут быть обработаны значительно более подробно в постпродакшн с минимальной потерей качества. При использовании JPG или других форматов изображений качество резко снижается. Изображения CR2 еще не готовы к печати и не могут быть изменены с помощью растрового редактора. Необработанные фотографии аналогичны негативам на пленке в цифровой форме.",
+    "Softwaresused": [
+        {
+            "platform": "Линукс",
+            "softwares": [
+                {
+                    "name": "КАНИТЕЛЬ",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Бесплатный "
+                },
+                {
+                    "name": "фото 2",
+                    "link": "https://gphoto.sourceforge.io/",
+                    "image": "https://image.flaticon.com/icons/png/512/1063/1063308.png",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "большой палец",
+                    "link": "https://wiki.gnome.org/Apps/Gthumb",
+                    "image": "/assets/fileimg/lWFl5mc.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "MATE с программой просмотра документов Atril",
+                    "link": "https://mate-desktop.org/",
+                    "image": "/assets/fileimg/p64BUbi.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Просмотрщик файлов Plus — получите его от корпорации Майкрософт",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Фримиум"
+                },
+                {
+                    "name": "Фото Майкрософт",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Бесплатно, в комплекте с ОС"
+                },
+                {
+                    "name": "Адоб Фотошоп",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Бесплатная пробная версия"
+                },
+                {
+                    "name": "КАНИТЕЛЬ",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg"
+                },
+                {
+                    "name": "Средство просмотра изображений FastStone",
+                    "link": "https://www.faststone.org/FSViewerDetail.htm",
+                    "image": "/assets/fileimg/6z9n45v.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "Мак",
+            "softwares": [
+                {
+                    "name": "Предварительный просмотр Apple",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Бесплатно, в комплекте с ОС"
+                },
+                {
+                    "name": "Фото компании Apple",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Бесплатно, в комплекте с ОС"
+                },
+                {
+                    "name": "Адоб Фотошоп",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Бесплатная пробная версия"
+                },
+                {
+                    "name": "КАНИТЕЛЬ",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Бесплатный "
+                },
+                {
+                    "name": "Конвертер оснастки",
+                    "link": "https://snapconverter.com/",
+                    "image": "/assets/fileimg/EuFgmVh.jpeg",
+                    "type": "Оплаченный"
+                }
+            ]
+        },
+        {
+            "platform": "IOS",
+            "softwares": [
+                {
+                    "name": "Фото компании Apple",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Бесплатно, в комплекте с ОС"
+                },
+                {
+                    "name": "Adobe Фотошо ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "Фримиум"
+                },
+                {
+                    "name": "Гугл Фото",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Бесплатный  "
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Просмотрщик файлов для Android",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Фримиум"
+                },
+                {
+                    "name": "Adobe Фотошоп",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Фримиум"
+                },
+                {
+                    "name": "Гугл Фото",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Бесплатный  "
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Гугл Фото",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Бесплатный  "
+                }
+            ]
+        }
+    ]
+}

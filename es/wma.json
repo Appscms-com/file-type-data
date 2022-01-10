@@ -1,0 +1,100 @@
+{
+    "Format": "WMA",
+    "ShortName": "WMA",
+    "FullName": "Windows Media Audio File",
+    "Category": "Archivo de audio",
+    "Pros": "Hasta ahora, Microsoft ha publicado ocho ediciones de WMA, y las ediciones posteriores a la WMA 7 admiten el cifrado de certificados para proteger los derechos de autor de la música, de los que los músicos y los editores de música pueden beneficiarse al máximo. WMA puede comprimir el audio a una velocidad mayor, lo que le permite almacenar audio de alta calidad y utilizar menos espacio.",
+    "Cons": "Cuando comprime audio con el códec WMA, normalmente pierde algo de calidad. WMA está lejos de ser perfecto para los consumidores que se preocupan por la calidad del sonido, pero pueden elegir FLAC (códec de audio sin pérdida) o APE (comúnmente conocido como audio de mono) en su lugar. Microsoft es propietario del estándar AMM y se niega a compartirlo con otras empresas.",
+    "Createdby": "Microsoft",
+    "CreatedbyLink": "https://developer.microsoft.com/en-us/",
+    "CreatedInYear": "1999",
+    "BasicInformation": "Un archivo WMA es un archivo de audio guardado en el formato Advanced Systems Format (ASF) patentado por Microsoft. Incluye audio de Windows Media y elementos de metadatos como el título, el artista, el álbum y el género de la pista. Los archivos WMA son similares a los archivos MP3 en que normalmente se utilizan para transmitir música a través de Internet.",
+    "DetailedInformation": "Este formato de archivo se creó para competir con los conocidos formatos MP3 y RealAudio. La popularidad de los archivos WMA para su uso con la reproducción de vídeo en reproductores de DVD, así como las funciones de reproducción de vídeo en dispositivos móviles/portátiles para Playstation y Nokia contribuyeron a su éxito. Aunque la mayoría de los archivos WMA tienen pérdidas, algunos formatos permiten una compresión sin pérdidas. ASF es un formato contenedor de música y vídeo digital patentado desarrollado por Microsoft. Utiliza si contiene vídeo de Windows Media en lugar de audio de Windows Media. WMV es una extensión de formato de vídeo. Los archivos WMA y WMV son intercambiables. Sin embargo, los archivos ASF se utilizan con mayor frecuencia. ",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Audaz",
+                    "link": "https://audacious-media-player.org/",
+                    "image": "/assets/fileimg/6WTDOAw.jpeg",
+                    "type": "Libre"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Visor de archivos Plus: obténgalo de Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Categoría: Freemium"
+                },
+                {
+                    "name": "Reproductor multimedia de Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Gratis, incluido con el sistema operativo"
+                },
+                {
+                    "name": "Winamp de Nullsoft",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "Libre"
+                },
+                {
+                    "name": "Xilisoft Video Converter Ultimate",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg"
+                },
+                {
+                    "name": "Complemento de reproductor de Google Chrome con Windows Media",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Libre"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Reproductor QuickTime de Apple",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Gratis, incluido con el sistema operativo"
+                },
+                {
+                    "name": "Reproductor Eltima Elmedia",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Libre"
+                },
+                {
+                    "name": "Opera con el complemento WMV de Flip4Mac",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Libre"
+                },
+                {
+                    "name": "Convertidor inteligente de ShedWorx",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "Prueba gratuita"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Pagado"
+                }
+            ]
+        }
+    ]
+}

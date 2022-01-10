@@ -1,0 +1,48 @@
+{
+    "Format": "VMV",
+    "ShortName": "VMV",
+    "FullName": "VisualBoyAdvance Recording",
+    "Category": "ゲームファイル",
+    "Pros": "N/A",
+    "Cons": "N/A",
+    "Createdby": "ビジュアルボーイアドバンス",
+    "CreatedbyLink": "https://visualboyadvance.en.softonic.com/",
+    "CreatedInYear": "N/A",
+    "BasicInformation": "ゲームボーイアドバンスのエミュレータである VisualBoyAdvance は、キーストロークやその他のデータを保存するゲームレコーディングを作成して、そのレコーディングをエミュレータで再度再生できるようにしました。録画は、標準のビデオプレーヤーでは再生できない独自の形式で保存されます。",
+    "DetailedInformation": "VisualBoyAdvance で使用されている VMV フォーマットは VirtuaNes が使用する VMV フォーマットと互換性がありません。",
+    "Softwaresused": [
+        {
+            "platform": "リナックス",
+            "softwares": [
+                {
+                    "name": "ビジュアルボーイアドバンス",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "ビジュアルボーイアドバンス",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "マック",
+            "softwares": [
+                {
+                    "name": "ビジュアルボーイアドバンス",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "無料"
+                }
+            ]
+        }
+    ]
+}

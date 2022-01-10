@@ -1,0 +1,164 @@
+{
+    "Format": "NEF",
+    "ShortName": "NEF",
+    "FullName": "Nikon Electronic Format RAW Image",
+    "Category": "Máy ảnh Raw Files",
+    "Pros": "Khi cần xử lý máy tính của con người, các tệp NEF có lợi hơn. Điều này mở ra rất nhiều khả năng để cải thiện chất lượng hình ảnh, điều này không thể thực hiện được với các tệp JPEG. Bởi vì dữ liệu pixel ban đầu được bảo tồn trong các tệp NEF, chất lượng hình ảnh tốt hơn đáng kể. Chúng được nén bằng cách sử dụng các kỹ thuật không mất dữ liệu hoặc hoàn toàn không bị nén. Ảnh JPEG và TIFF có dải tông màu và độ chính xác màu hẹp hơn so với hình ảnh NEF.",
+    "Cons": "Bởi vì các tệp NEF lớn hơn đáng kể so với tệp JPEG, nên có ít tệp có thể được lưu trên thẻ. Đây cũng là lý do tại sao phải mất một máy ảnh Nikon lâu hơn để lưu các tệp RAW vào thẻ nhớ. Có rất nhiều định dạng tệp RAW và các chuyên gia đang gặp khó khăn trong việc xác định tiêu chuẩn tệp RAW thống nhất. Nikon cũng đã bị trinh tiết vì sử dụng giảm nhiễu, điều này đã được chứng minh là làm giảm chất lượng hình ảnh.",
+    "Createdby": "Nikon",
+    "CreatedbyLink": "https://www.nikon.co.in/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "Ảnh thô được chụp bằng máy ảnh kỹ thuật số Nikon được lưu dưới dạng tệp NEF. Nó được lưu ở Định dạng điện tử Nikon (NEF), giúp lưu dữ liệu ở cùng định dạng không nén như CCD. Siêu dữ liệu hình ảnh, chẳng hạn như ID máy ảnh và ống kính được sử dụng, cũng được bao gồm trong các tệp NEF. Siêu dữ liệu bao gồm chi tiết về ống kính, cài đặt của ống kính, máy ảnh và hơn thế nữa.",
+    "DetailedInformation": "Các tệp NEF được sử dụng phổ biến nhất bởi các game bắn súng Nikon. Những nhiếp ảnh gia này có thể là chuyên gia hoặc nghiệp dư sử dụng máy ảnh Nikon để chụp ảnh và lưu dữ liệu thô dưới dạng tệp NEF. Tệp thô là ảnh chưa được xử lý, in hoặc chỉnh sửa bằng trình chỉnh sửa đồ họa bitmap. Tệp thô cố gắng sao chép cảnh càng gần càng tốt, bao gồm ánh sáng, cường độ và màu sắc. Dữ liệu được chụp bởi cảm biến của máy ảnh được ghi lại trong ảnh dữ liệu thô. Các tệp NEF có thể được lưu ở định dạng nén không nén hoặc không mất dữ liệu trên thẻ nhớ máy ảnh. Các tệp NEF tương tự như “tiêu cực kỹ thuật số”. Mặc dù thực tế là không có cuộc tranh luận về chất lượng hình ảnh của các tệp NEF, các nhà phát triển phần mềm không chọn định dạng này do thiếu một tiêu chuẩn chung.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Corel AfterShot Pro 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "Dùng thử miễn phí"
+                }
+            ]
+        },
+        {
+            "platform": "các cửa sổ",
+            "softwares": [
+                {
+                    "name": "Trình xem tệp Plus - Tải nó từ Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft Ảnh",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Adobe Photoshop",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Dùng thử miễn phí"
+                },
+                {
+                    "name": "Nikon ViewNX2",
+                    "link": "https://imaging.nikon.com/lineup/software/viewnx2/",
+                    "image": "/assets/fileimg/pgXaxjb.jpeg"
+                },
+                {
+                    "name": "Corel AfterShot Pro 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "Dùng thử miễn phí"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple Xem trước",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Apple Hình ảnh",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Adobe Photoshop",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Dùng thử miễn phí"
+                },
+                {
+                    "name": "Nikon ViewNX2",
+                    "link": "https://imaging.nikon.com/lineup/software/viewnx2/",
+                    "image": "/assets/fileimg/pgXaxjb.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Corel AfterShot Pro 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "Dùng thử miễn phí"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Apple Hình ảnh",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Adobe Photoshop ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Ảnh",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Free  "
+                },
+                {
+                    "name": "Google Snapseed",
+                    "link": "https://apps.apple.com/us/app/snapseed/id439438619?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/p5rWIzT.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Trình xem tệp dành cho Android",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Adobe Photoshop nhanh",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Ảnh",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Free  "
+                },
+                {
+                    "name": "Google Snapseed",
+                    "link": "https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en_US",
+                    "image": "/assets/fileimg/p5rWIzT.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Ảnh",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Free  "
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "Format": "WMA",
+    "ShortName": "WMA",
+    "FullName": "Windows Media Audio File",
+    "Category": "오디오 파일",
+    "Pros": "지금까지 Microsoft는 음악가와 음악 출판사가 가장 많은 이익을 얻을 수있는 음악 저작권을 보호하기 위해 인증서 암호화를 지원하는 WMA 7 이후 에디션과 함께 8 개의 WMA 에디션을 발표했습니다.WMA는 오디오를 더 빠른 속도로 압축하여 공간을 적게 사용하면서 고품질 오디오를 저장할 수 있습니다.",
+    "Cons": "WMA 코덱으로 오디오를 압축하면 일반적으로 품질이 떨어집니다.WMA는 음질에 관심이있는 소비자에게는 완벽하지 않지만 대신 FLAC (무료 무손실 오디오 코덱) 또는 APE (일반적으로 원숭이의 오디오라고 함) 를 선택할 수 있습니다.Microsoft는 WMA 표준을 소유하고 있으며 다른 회사와의 공유를 거부합니다.",
+    "Createdby": "마이크로소프트",
+    "CreatedbyLink": "https://developer.microsoft.com/en-us/",
+    "CreatedInYear": "1999",
+    "BasicInformation": "WMA 파일은 Microsoft의 독점적 인 고급 시스템 형식 (ASF) 형식으로 저장된 오디오 파일입니다.여기에는 Windows Media Audio와 트랙 제목, 아티스트, 앨범 및 장르와 같은 메타 데이터 요소가 포함됩니다.WMA 파일은 일반적으로 인터넷을 통해 음악을 스트리밍하는 데 사용된다는 점에서 MP3 파일과 유사합니다.",
+    "DetailedInformation": "이 파일 형식은 잘 알려진 MP3 및 RealAudio 형식과 경쟁하기 위해 만들어졌습니다.Playstation 및 Nokia 용 모바일/휴대용 장치의 비디오 재생 기능뿐만 아니라 DVD 플레이어에서 비디오를 재생하는 데 사용되는 WMA 파일의 인기가 성공에 기여했습니다.대부분의 WMA 파일은 손실이 있지만 일부 형식에서는 무손실 압축이 가능합니다.ASF는 Microsoft에서 개발한 독점 디지털 음악 및 비디오 컨테이너 형식입니다.윈도우 미디어 오디오가 아닌 윈도우 미디어 비디오가 포함 된 경우를 사용합니다.WMV는 비디오 형식 확장입니다.WMA 및 WMV 파일은 서로 교환할 수 있습니다.그러나 ASF 파일이 더 자주 사용됩니다. ",
+    "Softwaresused": [
+        {
+            "platform": "리눅스",
+            "softwares": [
+                {
+                    "name": "대담한",
+                    "link": "https://audacious-media-player.org/",
+                    "image": "/assets/fileimg/6WTDOAw.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "윈도우",
+            "softwares": [
+                {
+                    "name": "파일 뷰어 플러스 — 마이크로소프트에서 다운로드",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "마이크로소프트 윈도 미디어 플레이어",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "널소프트 윈앰프",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "자일 소프트 비디오 컨버터 얼티밋",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg"
+                },
+                {
+                    "name": "구글 크롬 (윈도우 미디어 플레이어 플러그인 포함)",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "맥",
+            "softwares": [
+                {
+                    "name": "애플 퀵타임 플레이어",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "엘티마 엘미디어 플레이어",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "플립4 맥 WMV 플러그인이 있는 오페라",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "셰드웍스 스마트 컨버터",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "무료 평가판"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "올림소프트 플레이어",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "유료"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "Format": "FLV",
+    "ShortName": "FLV",
+    "FullName": "Flash Video File",
+    "Category": "แฟ้มวิดีโอ",
+    "Pros": "ภาพยนตร์ งานนำเสนอออนไลน์ โฆษณาแบนเนอร์ ภาพเคลื่อนไหวทางอินเทอร์เน็ต และการใช้งานอื่นๆ สำหรับ Flash เป็นเพียงตัวอย่างบางส่วนกว่า 90% ของผู้เข้าชมเว็บไซต์จะสามารถดูได้ไฟล์ Flash มักจะมีขนาดเล็กและตรงไปตรงมาในการดาวน์โหลดแฟลชอาจมองเห็นได้ทั้งการเชื่อมต่อบรอดแบนด์และการเชื่อมต่อผ่านสายโทรศัพท์ รวมถึงระบบที่เก่ากว่าและช้ากว่าไฟล์วิดีโอที่หลากหลายสามารถแปลงเป็นรูปแบบ Flash ได้อย่างง่ายดาย",
+    "Cons": "อาจมีค่าใช้จ่ายและใช้เวลานานในการสร้างเนื้อหา Flashเนื่องจากแมงมุมเครื่องมือค้นหาไม่ได้ระบุไฟล์ Flash, พวกเขาไม่ได้มีส่วนร่วมในการเพิ่มประสิทธิภาพเว็บไซต์.เมื่อเข้าถึงหน้าเว็บที่มี Flash ผู้เข้าชมอาจพบเวลารอที่ยาวขึ้น โดยเฉพาะอย่างยิ่งหากพวกเขาใช้การเชื่อมต่อแบบ dial-up",
+    "Createdby": "Adobe ซิสเต็มส์",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "2003",
+    "BasicInformation": "ไฟล์วิดีโอที่บันทึกไว้ในรูปแบบคอนเทนเนอร์ของ Adobe Flash Video (FLV) จะเรียกว่าไฟล์ FLVสตรีมข้อมูลเสียงและวิดีโอที่ซิงโครไนซ์ส่วนหัวสั้น (เข้ารหัสในลักษณะเดียวกับสตรีมในรูปแบบ Flash.SWF มาตรฐาน) และแพ็คเก็ตข้อมูลเมตาจะถูกจัดเก็บไว้ทั้งหมด",
+    "DetailedInformation": "รูปแบบวิดีโอแฟลชของ Adobe Systems' ถูกนำมาใช้กันอย่างแพร่หลายสำหรับวิดีโอออนไลน์บนเว็บไซต์เช่น YouTube, Hulu, Vevo, และความหลากหลายของบริการวิดีโอสตรีมมิ่งอื่น ๆAdobe Flash Player (รวมถึงปลั๊กอินของเบราว์เซอร์) และซอฟต์แวร์ของบุคคลที่สามสามารถอ่านและดูไฟล์ FLV บนระบบปฏิบัติการเกือบทุกระบบปฏิบัติการ (ยกเว้น iOS)ด้วยการเปิดตัว Adobe Flash Player 7 ในปี 2003 ได้มีการเปิดตัวรูปแบบ FLVAdobe Flash Player ใช้เป็นหลักในการนำเสนอเนื้อหาวิดีโอออนไลน์เช่นภาพยนตร์และตอนทีวีFLV, ในทางตรงกันข้าม, เป็นรูปแบบเปิดที่ได้รับการสนับสนุนโดยความหลากหลายของแอปที่ไม่ใช่ของ adobe/ Macromedia.ปลั๊กอิน Flash Video Exporter (ใช้ได้กับ Adobe Animate) หรือโปรแกรมใดๆ ที่รองรับไฟล์ FLV สามารถใช้เพื่อสร้างเนื้อหา Flash Video และส่งออกเป็นไฟล์ FLV ได้ด้วย Adobe Media Encoder ผู้ใช้อาจเข้ารหัสรูปแบบวิดีโอต่าง ๆ เช่น QuickTime หรือ Windows Mediaเมื่อเทคโนโลยีออนไลน์ก้าวหน้าในทศวรรษที่ 2010 ข้อบกพร่องของ Flash ซึ่งรวมถึงช่องโหว่ด้านประสิทธิภาพและความปลอดภัยก็กลายเป็นที่ชัดเจนมากขึ้นAdobe และผู้ผลิตเบราว์เซอร์ออนไลน์จำนวนมากหยุดการสนับสนุน Flash อย่างเป็นทางการในวันที่ 31 ธันวาคม 2020 เนื่องจากการใช้ Flash Player และรูปแบบ FLV ลดลง",
+    "Softwaresused": [
+        {
+            "platform": "ลินุกซ์",
+            "softwares": [
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "RealNetworks RealPlayer เมฆ",
+                    "link": "https://www.real.com/in",
+                    "image": "/assets/fileimg/FdqTl1x.jpeg",
+                    "type": "ฟรีเมียม"
+                }
+            ]
+        },
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์พลัส — รับได้จากไมโครซอฟท์",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "Xilisoft แปลงวิดีโอที่ดีที่สุด",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "นัลล์ซอฟท์ วินแอมป์",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "เครื่องเล่นมีเดียคลาสสิค",
+                    "link": "https://github.com/clsid2/mpc-hc/",
+                    "image": "/assets/fileimg/PLx4Opv.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "โปรแกรมเล่น Apple QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "อะโดบี แอนิเมท CC 2019",
+                    "link": "https://www.adobe.com/products/animate.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/pqcWQ2F.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "เอลติมาเอลมีเดียเพลเยอร์",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "RealNetworks เรียลไทม์: เครื่องมือสร้างวิดีโอ",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "ฟรีเมียม"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "BIT Labs เครื่องเล่นวิดีโอ MP4 แบบง่าย",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ตัวแปลงสื่อ antvplayer",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ผู้เล่น MX แบบโต้ตอบ J2",
+                    "link": "https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en",
+                    "image": "/assets/fileimg/Cjoa7OB.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "เครื่องมือสร้างวิดีโอเรียลไทม์ RealNetworks",
+                    "link": "https://play.google.com/store/apps/details?id=com.real.RealPlayerCloud",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "ฟรีเมียม"
+                }
+            ]
+        }
+    ]
+}

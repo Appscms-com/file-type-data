@@ -1,0 +1,206 @@
+{
+    "Format": "PNG",
+    "ShortName": "PNG",
+    "FullName": "Portable Network Graphics",
+    "Category": "Графический формат растровых изображений",
+    "Pros": "Потери сжатия сведены к минимуму. Любая степень сжатия не влияет на качество изображения. Формат отлично подходит для хранения промежуточных версий изображения. При повторном сохранении качество изображения не теряется. PNG поддерживает огромное количество цветов. Он обеспечивает несколько уровней прозрачности. Возможность работы со слоями. Возможность добавлять в файл метаданные. Размер файлов невелик.",
+    "Cons": "Не подходит для работы с полноцветными фотографиями. Невозможно сохранить много изображений в одном файле. Не разрешает анимацию.",
+    "Createdby": "Группа разработки PNG",
+    "CreatedbyLink": "http://www.libpng.org/pub/png/",
+    "CreatedInYear": "1996",
+    "BasicInformation": "Файл изображения, сохраненный в формате Portable Network Graphic (PNG), называется файлом PNG. Он содержит сжатое растровое изображение без потерь, сравнимое с растровым изображением файла GIF. Веб-графика, цифровые изображения и изображения с полупрозрачным фоном обычно сохраняются в виде файлов PNG. Изначально формат изображения PNG предназначался для замены формата изображения GIF, поскольку оба они поддерживают прозрачный фон. Использование индексированных цветов и сжатие без потерь является еще одним сходством между ними. С другой стороны, на файлы PNG не распространяются те же ограничения авторских прав.",
+    "DetailedInformation": "На клетчатый фон наложено изображение PNG с 8-битным прозрачным слоем (сверху) (снизу). PNG использует дефляцию, незапатентованный метод сжатия данных без потерь. PNG может сжимать изображения более эффективно, чем GIF в большинстве случаев, но в некоторых реализациях используются неадекватные методы фильтрации, что приводит к ненужным огромным файлам PNG. Существует три типа прозрачности в формате PNG: один для индексированных цветных изображений и два для изображений в оттенках серого или полноцветных изображений. Значения гаммы, цвет фона и текстовое содержимое — все это атрибуты изображения, которые можно записать в файлы PNG. Стандарт позволяет использовать до 16 бит на канал, однако большинству клиентов требуется только 8 бит на канал. Для сохранения изображений широко используется формат PNG, особенно в Интернете. Он может обрабатывать 24-битные цветные изображения RGB или 32-битные RGBA (RGB с четвертым альфа-каналом), которые индексируются (на основе палитры). Формат поддерживает полноцветные, неиндексированные фотографии RGB или RGBA, а также изображения в оттенках серого. Файлы PNG могут встречаться различными пользователями компьютеров, независимо от того, загружают ли они изображение с веб-сайта, получают цифровые фотографии, прикрепленные к электронному письму, или делают снимок экрана. Для использования в Интернете графические дизайнеры часто сохраняют графику в виде файлов PNG. Они также используют файлы PNG для сохранения полупрозрачных макетов логотипов или значков, которые можно наложить поверх других изображений.",
+    "Softwaresused": [
+        {
+            "platform": "Линукс",
+            "softwares": [
+                {
+                    "name": "КАНИТЕЛЬ",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Бесплатный "
+                },
+                {
+                    "name": "Google Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Майкрософт",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Мозилла Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Фото Майкрософт",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Бесплатно, в комплекте с ОС"
+                },
+                {
+                    "name": "Средство просмотра фотографий Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "Бесплатно, в комплекте с ОС"
+                },
+                {
+                    "name": "Microsoft Пейнт",
+                    "link": "https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9",
+                    "image": "/assets/fileimg/AuNqAKT.jpeg",
+                    "type": "Бесплатно, в комплекте с ОС"
+                },
+                {
+                    "name": "Майкрософт краска 3D",
+                    "link": "https://www.microsoft.com/en-us/p/paint-3d/9nblggh5fv99?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/7Z9sNdy.jpeg"
+                },
+                {
+                    "name": "Системы АЦД ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/acdsee.png",
+                    "type": "Бесплатная пробная версия"
+                }
+            ]
+        },
+        {
+            "platform": "Мак",
+            "softwares": [
+                {
+                    "name": "Предварительный просмотр Apple",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Бесплатно, в комплекте с ОС"
+                },
+                {
+                    "name": "Фото компании Apple",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Бесплатно, в комплекте с ОС"
+                },
+                {
+                    "name": "яблочное сафари",
+                    "link": "https://www.apple.com/safari/",
+                    "image": "/assets/fileimg/PePZ5cb.jpeg",
+                    "type": "Бесплатно, в комплекте с ОС"
+                },
+                {
+                    "name": "Адоб Фотошоп",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Бесплатная пробная версия"
+                },
+                {
+                    "name": "Google Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "IOS",
+            "softwares": [
+                {
+                    "name": "Гугл Фото",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Бесплатный  "
+                },
+                {
+                    "name": "Google Диск",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Фримиум"
+                },
+                {
+                    "name": "Майкрософт OneDrive",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "Бесплатная пробная версия"
+                },
+                {
+                    "name": "Adobe Фотошоп",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop-express/id331975235?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Бесплатная пробная версия"
+                },
+                {
+                    "name": "Пиксельматор 2",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/HmizpGb.jpeg",
+                    "type": "Оплаченный"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Просмотрщик файлов для Android",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Фримиум"
+                },
+                {
+                    "name": "Google Диск",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Фримиум"
+                },
+                {
+                    "name": "Гугл Фото",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Бесплатный  "
+                },
+                {
+                    "name": "Майкрософт OneDrive",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "Фримиум"
+                },
+                {
+                    "name": "Adobe Фотошоп",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Гугл Фото",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Бесплатный  "
+                },
+                {
+                    "name": "Google Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Хромированная ОС",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "Бесплатно, в комплекте с ОС"
+                }
+            ]
+        }
+    ]
+}

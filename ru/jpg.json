@@ -1,0 +1,212 @@
+{
+    "Format": "JPG",
+    "ShortName": "JPG",
+    "FullName": "Joint Photographics Expert Group",
+    "Category": "Формат файла изображения",
+    "Pros": "Очень популярный формат. Сжатие на высоком контролируемом уровне, что приводит к небольшому размеру файла. Формат совместим и корректно отображается во всех браузерах, текстовых и графических программах, на всех компьютерах, планшетах и мобильных устройствах. Поддерживает полноцветные реалистичные изображения с большим количеством цветовых и контрастных переходов. Высокое качество изображения с небольшой степенью согласованности.",
+    "Cons": "При сжатии изображение может «развалиться» на отдельные квадраты — блоки на 808 пикселей. Это происходит потому, что алгоритм сжатия анализирует соседние пиксели. Плавный цвет — переходы могут стать резкими или просто исчезнуть. JPEG менее подходит для работы с текстом или монохромной графикой с четкими границами. Этот формат не поддерживает прозрачность, хотя она требуется при создании шаблонов, логотипов и кнопок. Качество изображения снижается с каждым последующим шагом сжатия.",
+    "Createdby": "МСЭ-Т и Объединенная группа экспертов по фотографии",
+    "CreatedbyLink": "https://www.itu.int/en/ITU-T/studygroups/2009-2012/Pages/16/jpeg1x.aspx",
+    "CreatedInYear": "1992",
+    "BasicInformation": "Файл JPG — это изображение, сохраненное в формате сжатого изображения Объединенной группы экспертов по фотографии (JPEG). Он широко используется для хранения цифровых фотографий и поддерживается большинством цифровых камер. Файлы JPG относятся к наиболее часто используемым форматам изображений. Это распространенная техника сжатия фотографий. JPEG — это также имя формата файла, в котором используется этот тип сжатия. Сжатие с потерями необратимо, и чем ниже степень сжатия, тем четче изображение.",
+    "DetailedInformation": "В начале 1980-х годов не существовало технологии, позволяющей людям легко сжимать цифровые фотографии и обмениваться ими. В 1982 году рабочая группа JPEG начала разработку стандарта сжатия, позволяющего уменьшить размер файлов изображений, сохраняя при этом максимально возможное качество, что упрощает обмен ими. Формат файла JPEG был разработан рабочей группой в 1992 году. Файлы JPEG, которые обычно сохраняются с расширением the.jpg or.JPEG, представляют собой изображения, созданные с использованием процесса сжатия с потерями, который уничтожает некоторые данные в исходном файле изображения. Однако эту потерю данных, как правило, невозможно обнаружить невооруженным глазом. Файлы JPG идеально подходят для конечных продуктов, а файлы без потерь лучше всего подходят для редактирования. Стандарт JPEG по-прежнему остается самым популярным форматом сжатия изображений, используемым сегодня, поскольку он позволяет пользователям создавать высококачественные файлы изображений для совместного использования, а также потому, что он глубоко встроен в технологии, используемые для создания фотографий и обмена ими.",
+    "Softwaresused": [
+        {
+            "platform": "Линукс",
+            "softwares": [
+                {
+                    "name": "Google Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Майкрософт",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "КАНИТЕЛЬ",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Бесплатный "
+                },
+                {
+                    "name": "Шотвелл",
+                    "link": "https://wiki.gnome.org/Apps/Shotwell",
+                    "image": "/assets/fileimg/wJy7aoh.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Мозилла Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Фото Майкрософт",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Бесплатно, в комплекте с ОС"
+                },
+                {
+                    "name": "Средство просмотра фотографий Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "Бесплатно, в комплекте с ОС"
+                },
+                {
+                    "name": "Майкрософт OneDrive",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "Бесплатная пробная версия"
+                },
+                {
+                    "name": "Microsoft Пейнт",
+                    "link": "https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9",
+                    "image": "/assets/fileimg/AuNqAKT.jpeg"
+                },
+                {
+                    "name": "Google Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "Мак",
+            "softwares": [
+                {
+                    "name": "Предварительный просмотр Apple",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Бесплатно, в комплекте с ОС"
+                },
+                {
+                    "name": "Фото компании Apple",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Бесплатно, в комплекте с ОС"
+                },
+                {
+                    "name": "Адоб Фотошоп",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Бесплатная пробная версия"
+                },
+                {
+                    "name": "АЦД Системс Фотостудия ACDSee для Mac",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-mac/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "Бесплатная пробная версия"
+                },
+                {
+                    "name": "Google Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "IOS",
+            "softwares": [
+                {
+                    "name": "Фото компании Apple",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Бесплатно, в комплекте с ОС"
+                },
+                {
+                    "name": "Google Диск",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Фримиум"
+                },
+                {
+                    "name": "Гугл Фото",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Бесплатный  "
+                },
+                {
+                    "name": "Adobe Фотошоп",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop-express/id331975235?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Бесплатная пробная версия"
+                },
+                {
+                    "name": "Майкрософт OneDrive",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "Фримиум"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Google Диск",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Фримиум"
+                },
+                {
+                    "name": "Гугл Фото",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Бесплатный  "
+                },
+                {
+                    "name": "Google Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Майкрософт OneDrive",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "Фримиум"
+                },
+                {
+                    "name": "Просмотрщик файлов для Android",
+                    "link": "https://play.google.com/store/apps/details?id=com.sharpened.androidfileviewer",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Фримиум"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Гугл Фото",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Бесплатный  "
+                },
+                {
+                    "name": "Google Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Хромированная ОС",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "Бесплатно, в комплекте с ОС"
+                }
+            ]
+        }
+    ]
+}

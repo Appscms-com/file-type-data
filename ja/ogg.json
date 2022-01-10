@@ -1,0 +1,164 @@
+{
+    "Format": "OGG",
+    "ShortName": "OGG",
+    "FullName": "Ogg Vorbis Audio File",
+    "Category": "音声ファイル",
+    "Pros": "OGG ファイルには最大 255 チャンネルまで保存できます。サラウンドサウンドが格納されます。オーディオとビデオの両方を保存できます。OGGフォーマットはより高品質です。OGGには優れたラベリングシステムがあります。",
+    "Cons": "一部のデバイスまたはアプリケーションではサポートされていません。多くの OS は OGG をサポートしていません。バッテリーの消費量が多くなります。",
+    "Createdby": "Xiph.Org ",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "1997",
+    "BasicInformation": "OGG ファイルは、Ogg Vorbis オーディオ圧縮を使用する圧縮オーディオファイルで、無料で特許を取得していません。MP3 ファイルに匹敵しますが、同じサイズの MP3 ファイルよりも音が良く、作成者やトラック情報などの曲のメタデータが含まれている場合があります。いくつかのソフトウェアミュージックプレーヤーと一部のポータブルミュージックプレーヤーが OGG ファイルを処理します。",
+    "DetailedInformation": "Ogg コンテナは、オーディオデータを格納するためのファイル形式です。「Vorbis」という名前は、Oggを作成したのと同じ会社であるXiph.Orgが開発したエンコード技術を指します。OGG ファイルには、FLAC や Speex などのオーディオ圧縮方法もあります。ただし、これらのファイルは異なる圧縮アルゴリズムを使用しているため、これらのファイルを合法的に「Vorbis」ファイルとして参照することはできません。これにより、ユーザーは高解像度のデジタルマルチメディアファイルを表示および編集できます。「Ogg」という用語は、「ogging」という専門用語に由来します。Netrekのゲームでは、オギングは空母を殺す自爆走を指します。OGG エクステンションは、OGG コンテナ形式を使用するすべてのファイルを記述するために使用されていましたが、2007 年以降は Ogg Vorbis オーディオファイルにのみ使用されていました。OGG エクステンションはオーディオファイルを参照するために使用できますが、コンテナファイルを参照するためにも使用できます。",
+    "Softwaresused": [
+        {
+            "platform": "リナックス",
+            "softwares": [
+                {
+                    "name": "Zinf",
+                    "link": "http://www.zinf.org/",
+                    "image": "https://image.flaticon.com/icons/png/512/1063/1063308.png",
+                    "type": "無料"
+                },
+                {
+                    "name": "VideoLAN VLC メディアプレーヤー",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "アマロク",
+                    "link": "https://amarok.kde.org/",
+                    "image": "/assets/fileimg/Dh0nFk6.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "Audacity",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "PCF ミロ",
+                    "link": "http://www.getmiro.com/",
+                    "image": "/assets/fileimg/JeFS57j.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "ファイルビューアープラス — マイクロソフトから入手",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "マイクロソフトウィンドウズメディアプレーヤー",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "Audacity",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg"
+                },
+                {
+                    "name": "アドビオーディション CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "フリートライアル"
+                }
+            ]
+        },
+        {
+            "platform": "マック",
+            "softwares": [
+                {
+                    "name": "Apple QuickTime プレイヤー",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "VideoLAN VLC メディアプレーヤー",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "Audacity",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "アドビオーディション CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "フリートライアル"
+                },
+                {
+                    "name": "PCF ミロ",
+                    "link": "http://www.getmiro.com/",
+                    "image": "/assets/fileimg/JeFS57j.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "有料"
+                },
+                {
+                    "name": "Videolan モバイル用 VLC",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "アンドロイド",
+            "softwares": [
+                {
+                    "name": "アンドロイド用ファイルビューア",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "antvplayer メディアコンバーター",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "グーグル・ドライブ",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "フリーミアム"
+                }
+            ]
+        }
+    ]
+}

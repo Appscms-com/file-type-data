@@ -1,0 +1,147 @@
+{
+    "Format": "MOV",
+    "ShortName": "MOV",
+    "FullName": "Apple QuickTime Movie",
+    "Category": "ملف فيديو",
+    "Pros": "يمكن تخزين مراجع البيانات المجردة لبيانات الوسائط. يمكن تعديلها بسهولة دون الحاجة إلى إعادة كتابة جميع بيانات الوسائط بعد ذلك. لتحرير الفيديو الاحترافي، هذا هو معيار الصناعة.",
+    "Cons": "تستخدم بشكل أساسي للتحرير ولكن ليس المعيار الذي سيتم استخدامه للأغراض الفعلية. على الأجهزة الفعلية، هناك مستوى منخفض من القبول. ",
+    "Createdby": "تفاحة",
+    "CreatedbyLink": "https://developer.apple.com/",
+    "CreatedInYear": "1998",
+    "BasicInformation": "ملف MOV هو تنسيق ملف حاوية الوسائط المتعددة الذي يحفظ الأفلام بتنسيق ملف QuickTime (QTFF). يحتوي على واحد أو أكثر من المسارات التي تحتوي على أنواع مختلفة من بيانات الوسائط، بما في ذلك الفيديو والصوت والنص (الترجمة). عادةً ما يتم حفظ الأفلام وملفات الفيديو الأخرى كملفات MOV.",
+    "DetailedInformation": "قامت شركة Apple بتطوير وإطلاق QTFF في عام 1991. يهدف تنسيق الحاوية إلى دعم مجموعة متنوعة من تنسيقات الوسائط من أجل تسهيل نقل الوسائط المتعددة بين الأجهزة وأنظمة التشغيل والتطبيقات. غالبًا ما يتم تخزين ملفات الوسائط المتعددة QTFF ملفات as.mov، ولكن يمكن أيضًا حفظها كملفات.qt. يمكن العثور على مسارات الفيديو والصوت والرمز الزمني والنص في ملفات MOV، والتي يمكن استخدامها لتخزين ومزامنة أشكال مختلفة من البيانات. يمكن استخدام العديد من برامج الترميز البديلة لتشفير كل مسار وسائط. غالبًا ما يتم استخدام برنامج ترميز MPEG-4 لضغط ملفات MOV. يمكن أن تحتوي كل حاوية ملفات على مجموعة متنوعة من أنواع الوسائط. يمكن تخزين مقاطع الفيديو وتأثيرات الفيديو والنصوص والصور والترجمات والصوت فيها. يتم استخدام هذا النوع من الملفات بشكل متكرر بواسطة تطبيقات تحرير الفيديو. يتم استخدام ملفات MOV و QuickTime بشكل متكرر في تحرير الموسيقى والفيديو (أو الاثنين مجتمعين).",
+    "Softwaresused": [
+        {
+            "platform": "لينكس",
+            "softwares": [
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "شبابيك",
+            "softwares": [
+                {
+                    "name": "عارض الملفات بلس - احصل عليه من Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "ميكروسوفت ويندوز ميديا بلاير",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "نولسوفت وينامب",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "محول فيديو Xilisoft في نهاية المطاف",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                }
+            ]
+        },
+        {
+            "platform": "رفيق",
+            "softwares": [
+                {
+                    "name": "أبل كويك تايم بلاير",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "مشغل ألتيما الميديا",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "روكسيو توست 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "مدفوعة"
+                },
+                {
+                    "name": "أدوبي بريمير روش",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "أوليمسفت أوبلاير",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "مدفوعة"
+                },
+                {
+                    "name": "Videolan VLC للجوال",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "محرك جوجل",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "أدوبي بريمير روش",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                }
+            ]
+        },
+        {
+            "platform": "أندرويد",
+            "softwares": [
+                {
+                    "name": "محرك جوجل",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "أدوبي بريمير روش",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "Videolabs VLC لالروبوت",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        }
+    ]
+}

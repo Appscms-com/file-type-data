@@ -1,0 +1,146 @@
+{
+    "Format": "TIFF",
+    "ShortName": "TIFF",
+    "FullName": "Tagged Image File Format",
+    "Category": "래스터 이미지 파일",
+    "Pros": "무손실 및 우수한 품질의 이미지.다양한 형식이 지원됩니다.여러 레이어를 지원합니다.",
+    "Cons": "파일 크기가 상당히 큽니다.인터넷에서의 사용에는 적합하지 않습니다.",
+    "Createdby": "어도비 시스템즈",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "1986",
+    "BasicInformation": "TIFF라는 용어는 태그가 지정된 이미지 파일 형식을 의미합니다.디지털 그림 래스터 파일 형식입니다.1 ~ 24 비트 범위의 색 깊이와 손실 및 무손실 압축을 갖춘 고품질 그래픽을 제공합니다.TIFF 파일에서는 여러 레이어와 페이지도 지원됩니다.",
+    "DetailedInformation": "TIFF는 1980년대 중반 Aldus Corporation에 의해 다양한 컴퓨터 플랫폼에서 고품질 컬러 이미지를 보존하기 위한 표준 그림 형식으로 만들어졌습니다.널리 사용되었지만 JPEG 형식은 더 효율적이고 웹 친화적이기 때문에 결국 JPEG 형식을 가렸습니다.사진과 선 그림도 저장할 수 있습니다.스캔 소프트웨어 및 기술의 인기가 높아짐에 따라 TIFF 파일 형식이 생성되었으며 스캔 이미지의 표준 형식으로 간주되었습니다.",
+    "Softwaresused": [
+        {
+            "platform": "리눅스",
+            "softwares": [
+                {
+                    "name": "김프",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "무료 "
+                },
+                {
+                    "name": "리브레 오피스",
+                    "link": "https://www.libreoffice.org/",
+                    "image": "/assets/fileimg/cPO8bqH.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "윈도우",
+            "softwares": [
+                {
+                    "name": "파일 뷰어 플러스 — 마이크로소프트에서 다운로드",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "마이크로소프트 포토스",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "마이크로소프트 윈도 포토 뷰어",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "마이크로소프트 페인트",
+                    "link": "https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9",
+                    "image": "/assets/fileimg/AuNqAKT.jpeg"
+                },
+                {
+                    "name": "CAD 시스템 CDSEE",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "무료 평가판"
+                }
+            ]
+        },
+        {
+            "platform": "맥",
+            "softwares": [
+                {
+                    "name": "애플 프리뷰",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "애플 포토",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "어도비 포토샵 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "무료 평가판"
+                },
+                {
+                    "name": "어도비 일러스트레이터 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "무료 평가판"
+                },
+                {
+                    "name": "록시오 토스트 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "유료"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "애플 포토",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "구글 포토",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "무료  "
+                }
+            ]
+        },
+        {
+            "platform": "기계적 인조 인간",
+            "softwares": [
+                {
+                    "name": "안드로이드용 파일 뷰어",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "구글 포토",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "무료  "
+                }
+            ]
+        },
+        {
+            "platform": "크롬 OS",
+            "softwares": [
+                {
+                    "name": "구글 포토",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "무료  "
+                }
+            ]
+        }
+    ]
+}

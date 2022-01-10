@@ -1,0 +1,170 @@
+{
+    "Format": "FLAC",
+    "ShortName": "FLAC",
+    "FullName": "Free Lossless Audio Codec",
+    "Category": "오디오 파일",
+    "Pros": "작은 파일 크기로 뛰어난 오디오 품질.많은 시스템이 이 시스템과 호환됩니다.소스 코드는 공개되어 있으며 라이선스는 무료입니다.하드웨어 지원 (팟박스, 켄우드 뮤직케그, 리오 카르마 등) 을 이용할 수 있습니다.스트리밍을 지원합니다.디코딩이 정말 빠릅니다.다중 채널 및 고해상도 피드가 지원됩니다.리플레이 게인이 지원됩니다.큐 시트 사용 지원 (일부 제한 있음) Shorten을 대신하여 인기를 얻고 있습니다.",
+    "Cons": "다른 저명한 전류 압축기 (원숭이의 오디오, LPAC, OptimFrog) 는 더 효율적으로 압축됩니다압축 옵션이 높을수록 속도가 느려지고 기본 설정에 비해 개선이 최소화됩니다.",
+    "Createdby": "자이프.ORG 재단",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "2001",
+    "BasicInformation": "약어 FLAC는 무료 무손실 오디오 코덱을 나타냅니다.FLAC는 무손실 MP3 형식입니다.FLAC는 음질이 중요한 클래식 음악에서 가장 일반적으로 사용됩니다.FLAC는 음질의 결과로 상당히 인기를 얻었습니다.FLAC 파일은 이제 MP3 파일과 똑같이 좋아하는 플레이어 (또는 차량 또는 홈 스테레오) 에서 재생할 수 있습니다.",
+    "DetailedInformation": "FLAC는 Xiph.org 회원이 개발 한 오디오 압축 형식입니다.압축은 무손실이므로 데이터가 손실되지 않고 품질이 저하되지 않습니다.FLAC를 사용하면 파일을 원본 미디어 품질로 저장할 수 있으므로 오디오 파일의 유형 사본이 파괴되기 쉽기 때문에 오디오 데이터를 백업하는 데 탁월합니다.FLAC는 디지털 오디오의 크기를 약 60% 줄이는 널리 사용되는 형식이며 일반적으로 대부분의 주요 플랫폼에서 지원됩니다.Xiph.Org 재단은 오픈 소스 형식을 만들었습니다.FLAC 파일과 함께 FLAC 파일의 파일 이름 및 체크섬 정보를 포함하는 FLAC 지문 파일을 생성할 수 있습니다.FLAC 파일은 실시간 스트리밍 및 디코딩에 자주 사용됩니다.FLAC 프로젝트는 스트림 형식, 컨테이너 형식, 인코더 및 디코더 참조 라이브러리, 입력 플러그인 등 여러 구성 요소로 구성됩니다.",
+    "Softwaresused": [
+        {
+            "platform": "리눅스",
+            "softwares": [
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "대담함",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "ATunes",
+                    "link": "http://www.atunes.org/",
+                    "image": "/assets/fileimg/U6hLUgu.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "윈도우",
+            "softwares": [
+                {
+                    "name": "파일 뷰어 플러스 — 마이크로소프트에서 다운로드",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "대담함",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg"
+                },
+                {
+                    "name": "어도비 오디션 CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "무료 평가판"
+                }
+            ]
+        },
+        {
+            "platform": "맥",
+            "softwares": [
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "대담함",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "ATunes",
+                    "link": "http://www.atunes.org/",
+                    "image": "/assets/fileimg/U6hLUgu.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "어도비 오디션 CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "무료 평가판"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "모바일용 비디오란 VLC",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "골든 이어",
+                    "link": "https://apps.apple.com/us/app/golden-ear/id407945101?ign-mpt=uo%3D8",
+                    "image": "/assets/fileimg/upbts7y.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "몰리플레이어",
+                    "link": "https://apps.apple.com/us/app/moli-player-hd-free-movie-music-player-for-network/id598886783?ign-mpt=uo%3D8",
+                    "image": "/assets/fileimg/FAo0QEL.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "기계적 인조 인간",
+            "softwares": [
+                {
+                    "name": "안드로이드용 파일 뷰어",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "안드로이드용 비디오랩 VLC",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "제트오디오",
+                    "link": "https://play.google.com/store/apps/details?id=com.jetappfactory.jetaudio",
+                    "image": "/assets/fileimg/jcTagMw.jpeg",
+                    "type": "부분 유료화"
+                }
+            ]
+        },
+        {
+            "platform": "크롬 OS",
+            "softwares": [
+                {
+                    "name": "크롬 베타 버전",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "무료"
+                }
+            ]
+        }
+    ]
+}

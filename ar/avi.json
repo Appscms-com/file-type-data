@@ -1,0 +1,164 @@
+{
+    "Format": "AVI",
+    "ShortName": "AVI",
+    "FullName": "Audio Video Interleave File",
+    "Category": "ملف فيديو",
+    "Pros": "دقة جودة صوت ممتازة بشكل ملحوظ. هناك العديد من برامج الترميز التي يمكن استخدامها للوصول إلى النسبة المناسبة أثناء ضغط الملفات عبر الإنترنت. نظرًا لأنه تم إنشاؤه بواسطة Microsoft، يمكن تشغيله على جميع أنظمة التشغيل الرئيسية من Microsoft وغير Microsoft. على عكس تنسيقات الصوت/الفيديو الأخرى، يمكن ضغط معيار DV-AVI. لا يتطلب استخدام أي أجهزة أو برامج محددة. نظرًا لقدراته على الضغط، فإن تنسيق فيديو AVI هو الأكثر استخدامًا في العروض الترويجية والأفلام القصيرة والإعلانات. بالنسبة للملفات الرئيسية، فإن الجودة المحتفظ بها مع AVI جيدة.",
+    "Cons": "يشعر الكثير من الأشخاص بالإحباط عندما لا يمكنهم العثور على برنامج الترميز من مصدر آمن وذو سمعة طيبة. قد يجد المستخدمون أن الفاصل في تجربتهم غير مرغوب فيه حتى عندما تكون هذه المصادر متاحة. عند مقارنتها بتنسيقات الملفات الأخرى، يمكن أن تكون ملفات AVI ضخمة جدًا إذا لم يتم ضغطها. عند ضغط ملف AVI عبر الإنترنت فوق حدود محددة، تعاني جودة الفيديو. تفاعل المستخدم غير مدعوم. لا يدعم softsubs.",
+    "Createdby": "مايكروسوفت",
+    "CreatedbyLink": "https://developer.microsoft.com/en-us/",
+    "CreatedInYear": "1992",
+    "BasicInformation": "ملف AVI هو ملف فيديو مخزنة في تنسيق حاوية الوسائط المتعددة (AVI) الذي أنشأته Microsoft. وهو يحمل ملفات الفيديو والصوت المشفرة في مجموعة متنوعة من برامج الترميز، بما في ذلك DivX و XviD. يمكن تشغيل ملفات AVI باستخدام مجموعة متنوعة من مشغلات الفيديو، بما في ذلك Microsoft Movies & TV و Windows Media Player و Apple QuickTime Player، وكلها تأتي مثبتة مسبقًا مع أنظمة التشغيل الخاصة بها.",
+    "DetailedInformation": "يعتمد تنسيق AVI على تنسيق ملف تبادل الموارد (RIFF)، وهو تنسيق حاوية لتخزين الوسائط المتعددة الذي تم إصداره لأول مرة في عام 1991. أنشأت Microsoft تنسيق AVI بعد عام في عام 1992، ولا يزال يستخدم على نطاق واسع اليوم. يتم دعمه من قبل مجموعة واسعة من مشغلات الفيديو، ولكن من أجل تشغيل الفيديو بنجاح، يجب على المشغل دعم برنامج الترميز المستخدم لتشفير بيانات الفيديو. لدعم التشغيل المتزامن، يجمع AVI بين الصوت والفيديو في ملف واحد في حاوية مشتركة. ميزته هي بنيتها البسيطة، والتي تسمح لها بالعمل على مجموعة متنوعة من أنظمة التشغيل، بما في ذلك Windows و Mac و Linux و Unix، وهي مدعومة من قبل جميع متصفحات الويب الرئيسية. يمكنه تخزين الفيديو والصوت عالي الجودة ويستخدم ضغطًا أقل من تنسيقات الفيديو الأخرى مثل. MPEG و.MOV.",
+    "Softwaresused": [
+        {
+            "platform": "لينكس",
+            "softwares": [
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "زيني",
+                    "link": "https://sourceforge.net/projects/xine/",
+                    "image": "/assets/fileimg/11To9CR.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "كودي",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "شبابيك",
+            "softwares": [
+                {
+                    "name": "عارض الملفات بلس - احصل عليه من Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "ميكروسوفت ويندوز ميديا بلاير",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "أفلام مايكروسوفت والتلفزيون",
+                    "link": "https://www.microsoft.com/en-us/p/movies-tv/9wzdncrfj3p2?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/fVyIEs4.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "كودي",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "رفيق",
+            "softwares": [
+                {
+                    "name": "أبل كويك تايم بلاير",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "كودي",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "أدوبي بريمير برو 2020",
+                    "link": "https://www.adobe.com/products/premiere.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/RUVWLwB.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "مشغل ألتيما الميديا",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Videolan VLC للجوال",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "أوليمسفت أوبلاير",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "مدفوعة"
+                },
+                {
+                    "name": "محرك جوجل",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "فريميوم"
+                }
+            ]
+        },
+        {
+            "platform": "أندرويد",
+            "softwares": [
+                {
+                    "name": "محرك جوجل",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "Videolabs VLC لالروبوت",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "BIT Labs بسيط مشغل فيديو MP4",
+                    "link": "https://play.google.com/store/apps/details?id=air.br.com.bitlabs.VideoPlayer&hl=en",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "نظام كرومي أوس",
+            "softwares": [
+                {
+                    "name": "محرك جوجل",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "فريميوم"
+                }
+            ]
+        }
+    ]
+}
