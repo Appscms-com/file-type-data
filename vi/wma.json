@@ -1,0 +1,100 @@
+{
+    "Format": "WMA",
+    "ShortName": "WMA",
+    "FullName": "Windows Media Audio File",
+    "Category": "Tập tin âm thanh",
+    "Pros": "Cho đến nay, Microsoft đã xuất bản tám phiên bản của WMA, với các phiên bản sau WMA 7 hỗ trợ mã hóa chứng chỉ để bảo vệ bản quyền âm nhạc, mà các nhạc sĩ và nhà xuất bản âm nhạc có thể thu lợi nhiều nhất từ. WMA có thể nén âm thanh với tốc độ lớn hơn, cho phép nó lưu trữ âm thanh chất lượng cao trong khi sử dụng ít không gian hơn.",
+    "Cons": "Khi bạn nén âm thanh bằng codec WMA, bạn thường mất một số chất lượng. WMA không hoàn hảo cho những người tiêu dùng quan tâm đến chất lượng âm thanh, nhưng họ có thể chọn FLAC (Free Lossless Audio Codec) hoặc APE (thường được gọi là âm thanh của khỉ) thay thế. Microsoft sở hữu tiêu chuẩn WMA và từ chối chia sẻ nó với các công ty khác.",
+    "Createdby": "Microsoft",
+    "CreatedbyLink": "https://developer.microsoft.com/en-us/",
+    "CreatedInYear": "1999",
+    "BasicInformation": "Tệp WMA là tệp âm thanh được lưu ở định dạng định dạng hệ thống nâng cao (ASF) độc quyền của Microsoft. Nó bao gồm Windows Media Audio cũng như các yếu tố siêu dữ liệu như tiêu đề, nghệ sĩ, album và thể loại của bản nhạc. Các tệp WMA tương tự như các tệp MP3 ở chỗ chúng thường được sử dụng để truyền phát nhạc qua internet.",
+    "DetailedInformation": "Định dạng tệp này được tạo ra để cạnh tranh với các định dạng MP3 và RealAudio nổi tiếng. Sự phổ biến của các tệp WMA để sử dụng với phát lại video trên đầu DVD cũng như các tính năng phát lại video trên thiết bị di động/di động cho Playstation và Nokia đã góp phần vào thành công của họ. Mặc dù hầu hết các tệp WMA là mất dữ liệu, một số định dạng cho phép nén không mất dữ liệu. ASF là một định dạng chứa nhạc và video kỹ thuật số độc quyền được phát triển bởi Microsoft. Nó sử dụng nếu nó chứa Windows Media Video chứ không phải Windows Media Audio. WMV là một phần mở rộng định dạng video. Các tệp WMA và WMV có thể hoán đổi cho nhau. Tuy nhiên, các tệp ASF thường được sử dụng hơn. ",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Táo bạo",
+                    "link": "https://audacious-media-player.org/",
+                    "image": "/assets/fileimg/6WTDOAw.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "các cửa sổ",
+            "softwares": [
+                {
+                    "name": "Trình xem tệp Plus - Tải nó từ Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Trình phát phương tiện Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Xilisoft Video Converter",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg"
+                },
+                {
+                    "name": "Google Chrome với Windows Media Player Plugin",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Máy nghe nhạc Apple QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Trình phát Eltima Elmedia",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Opera vớiFlip4Mac WMV plugin",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "ShedWorx Smart Converter",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "Dùng thử miễn phí"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Trả tiền"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "Format": "SVG",
+    "ShortName": "SVG",
+    "FullName": "Scalable Vector Graphics File",
+    "Category": "Файл векторного зображення",
+    "Pros": "Розмір досить невеликий. Він гнучкий, тобто ви можете миттєво змінити налаштування графіки на сайті за допомогою CSS, таких як колір фону або розташування логотипу на сторінці. Масштабованість не погіршує якість зображення. Забезпечує підтримку браузера.",
+    "Cons": "Якщо об'єкт містить значну кількість маленьких елементів, розмір файлу зростає дуже швидко. Неможливо прочитати просто порцію графічної речі, ви повинні прочитати повний об'єкт, який уповільнює вас.",
+    "Createdby": "Системи Adobe",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "2001",
+    "BasicInformation": "SVG, або масштабована векторна графіка, - це двовимірний формат векторної графіки на основі XML. Консорціум Всесвітньої павутини (W3C) розробив його в 1999 році як стандартний формат для представлення векторних зображень в інтернеті. Він використовує текстовий формат на основі XML для опису зображень. SVG файли розробляються як веб-стандарт для відображення векторної графіки.",
+    "DetailedInformation": "Формат SVG - це відкритий стандарт, створений консорціумом Всесвітньої павутини (W3C), причому Adobe грає ключову роль. Продукти Adobe Creative Suite, такі як Illustrator та GoLive, можуть створювати та експортувати зображення SVG. SVG дозволяє користувачам шукати, індексувати, скриптувати та стискати зображення, дозволяючи інтерактивність та анімацію. Оскільки файли SVG - це файли XML, текстові редактори можуть отримувати доступ до них, генерувати та редагувати, однак програмне забезпечення для малювання є найбільш типовим творцем цього типу файлів. Стиснення даних без втрат можливе за допомогою файлів SVG. Вони підтримують текстову, а також растрову та векторну графіку. SVG - це стандарт XML, який визначає векторну графіку для використання в Інтернеті. На якість зображення не впливає масштабування та зміна розміру. Файли SVG можуть бути анімовані у всіх його компонентах і розділах. Стандарти W3C (включаючи DOM та XSL) включені до файлів SVG, рекомендованих W3C. Векторні зображення, такі як файли формату SVG, складаються з заздалегідь визначених наборів форм, що дозволяє чіткіші зображення при збільшенні та масштабі.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Безкоштовно "
+                },
+                {
+                    "name": "Гугл Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Inkscape",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "KolourPaint",
+                    "link": "http://kolourpaint.sourceforge.net/",
+                    "image": "/assets/fileimg/3JbciOH.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "Вікна",
+            "softwares": [
+                {
+                    "name": "Переглядач файлів плюс — Отримати його від Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Inkscape",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Безкоштовно "
+                },
+                {
+                    "name": "Adobe Фотошоп 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg"
+                },
+                {
+                    "name": "Адобе Ілюстратор 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Inkscape",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Безкоштовно "
+                },
+                {
+                    "name": "Адобе Ілюстратор 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                },
+                {
+                    "name": "Гугл Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Гугл Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Переглядач файлів для Android",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Фреміум"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Гугл Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        }
+    ]
+}

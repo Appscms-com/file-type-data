@@ -1,0 +1,135 @@
+{
+    "Format": "FLV",
+    "ShortName": "FLV",
+    "FullName": "Flash Video File",
+    "Category": "Fichier vidéo",
+    "Pros": "Les films, les présentations en ligne, les bannières publicitaires, les animations sur Internet et d'autres utilisations de Flash ne sont que quelques exemples. Plus de 90 % des visiteurs du site seront en mesure de le voir. Les fichiers Flash sont souvent petits et faciles à télécharger. Le flash peut être observé à la fois sur les connexions haut débit et par ligne commutée, ainsi que sur les anciens systèmes plus lents. Un large éventail de fichiers vidéo peuvent être facilement convertis au format Flash.",
+    "Cons": "La création de contenu Flash peut être coûteuse et fastidieuse. Étant donné que les robots des moteurs de recherche n'identifient pas les fichiers Flash, ils ne contribuent pas à l'optimisation du site. Lorsqu'ils accèdent à une page Web comportant Flash, les visiteurs peuvent rencontrer des temps d'attente plus longs, en particulier s'ils utilisent une connexion par ligne commutée.",
+    "Createdby": "Systèmes Adobe",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "2003",
+    "BasicInformation": "Un fichier vidéo enregistré au format conteneur Adobe Flash Video (FLV) est appelé fichier FLV. Un en-tête court, des flux de données audio et vidéo synchronisés (codés de la même manière que les flux au format standard Flash.SWF) et des paquets de métadonnées sont tous stockés.",
+    "DetailedInformation": "Le format vidéo Flash d'Adobe Systems est largement utilisé pour les vidéos en ligne sur des sites tels que YouTube, Hulu, Vevo et divers autres services de streaming vidéo. Adobe Flash Player (y compris les plug-ins de navigateur) et les logiciels tiers peuvent lire et regarder des fichiers FLV sur presque tous les systèmes d'exploitation (à l'exception d'iOS). Avec la sortie d'Adobe Flash Player 7 en 2003, le format FLV a été lancé. Adobe Flash Player l'utilise principalement pour proposer du contenu vidéo en ligne tel que des films et des épisodes télévisés. Le format FLV, quant à lui, est un format ouvert pris en charge par diverses applications autres qu'Adobe/ Macromedia. Le module externe Flash Video Exporter (disponible avec Adobe Animate) ou tout programme prenant en charge les fichiers FLV peut être utilisé pour produire du contenu Flash Video et l'exporter en tant que fichiers FLV. Avec Adobe Media Encoder, les utilisateurs peuvent désormais encoder différents formats vidéo tels que QuickTime ou Windows Media. À mesure que les technologies en ligne progressaient dans les années 2010, les failles de Flash, notamment les failles de performance et de sécurité, sont devenues de plus en plus apparentes Adobe et de nombreux fabricants de navigateurs en ligne ont officiellement arrêté la prise en charge de Flash le 31 décembre 2020, alors que l'utilisation de Flash Player et du format FLV s'effondrait.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Lecteur multimédia VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "RealNetworks RealPlayer Cloud",
+                    "link": "https://www.real.com/in",
+                    "image": "/assets/fileimg/FdqTl1x.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Obtenez-le auprès de Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Lecteur multimédia VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "Convertisseur vidéo Xilisoft Ultimate",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg",
+                    "type": "Essai gratuit"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "Lecteur multimédia classique",
+                    "link": "https://github.com/clsid2/mpc-hc/",
+                    "image": "/assets/fileimg/PLx4Opv.jpeg",
+                    "type": "Gratuit"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Lecteur Apple QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Gratuit, inclus avec le système d'exploitation"
+                },
+                {
+                    "name": "Adobe Animate CC 2019",
+                    "link": "https://www.adobe.com/products/animate.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/pqcWQ2F.jpeg",
+                    "type": "Essai gratuit"
+                },
+                {
+                    "name": "Lecteur Eltima Elmedia",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "Lecteur multimédia VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratuit"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "RealNetworks RealTimes : Créateur de vidéos",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Lecteur vidéo MP4 simple BIT Labs",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "Convertisseur de média antvplayer",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "Lecteur MX interactif J2",
+                    "link": "https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en",
+                    "image": "/assets/fileimg/Cjoa7OB.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "Créateur de vidéos RealNetworks RealTimes",
+                    "link": "https://play.google.com/store/apps/details?id=com.real.RealPlayerCloud",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "Format": "JFIF",
+    "ShortName": "JFIF",
+    "FullName": "JPEG File Interchange Format",
+    "Category": "Rasterafbeeldingsbestanden",
+    "Pros": "Een zeer populair formaat. Compressie op een hoog, gecontroleerd niveau resulterend in een kleine bestandsgrootte. formaat is compatibel en wordt correct weergegeven in alle browsers, tekst- en grafische programma's, op alle computers, tablets en mobiele apparaten. Ondersteunt realistische afbeeldingen in kleur met veel kleur- en contrastovergangen. Hoge beeldkwaliteit met een kleine mate van samenhang.",
+    "Cons": "Wanneer u de afbeelding comprimeert, kan deze „uit elkaar vallen” in afzonderlijke vierkanten - blokken van 808 pixels. Dit gebeurt omdat het compressiealgoritme naburige pixels analyst. vloeiende kleur - overgangen kunnen hard worden of gewoon verdwijnen. JPEG is minder geschikt voor het werken met tekst- of monochrome afbeeldingen met duidelijke grenzen. Dit formaat ondersteunt geen transparantie, ook al is dit vereist bij het maken van sjablonen, logo's en knoppen. De kwaliteit van de afbeelding neemt af bij elke volgende compressiestap.",
+    "Createdby": "C-cube Microsystemen en gezamenlijke fotografische expertengroep",
+    "CreatedbyLink": "https://jpeg.org/",
+    "CreatedInYear": "2011",
+    "BasicInformation": "Een JFIF-bestand is een bitmapafbeelding gecomprimeerd met JPEG. Het is bewaard met een variant van de standaard. Het JPEG-bestandsformaat is gemaakt met als doel een kleine hoeveelheid gegevens op te slaan en eenvoudige overdracht tussen platforms en apps mogelijk te maken. JPEG File Interchange Format is het acroniem voor JPEG File Interchange Format.",
+    "DetailedInformation": "Het JFIF-formaat specificeert veel kenmerken die ontbraken in het originele JPEG-formaat. Gebruikers konden bestanden opslaan en delen met behulp van JPEG-compressie nadat ze deze kenmerken hadden gedefinieerd, waaronder een standaard koptekst, resolutie en beeldverhouding, en kleurmodel. Veel digitale camera's die worden gebruikt om afbeeldingen op te slaan in het JFIF-formaat. Naarmate het JPEG-formaat in de loop van de tijd verbeterde, raakte de JFIF-standaard echter grotendeels achterhaald.",
+    "Softwaresused": [
+        {
+            "platform": "Ramen",
+            "softwares": [
+                {
+                    "name": "Microsoft-foto's",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg"
+                },
+                {
+                    "name": "ACD-systemen ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "Gratis proefversie"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple Preview",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "ACD-systemen ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "Gratis proefversie"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "Format": "HEIC",
+    "ShortName": "HEIC",
+    "FullName": "High Efficiency Image Format",
+    "Category": "ラスターイメージファイル",
+    "Pros": "素晴らしい品質の画像。占有するストレージが少なくなります。複数の画像を 1 つのファイルに保存できます。イメージ派生を保存することもできます。",
+    "Cons": "すべてのシステムおよびデバイスと互換性があるわけではありません。あまり人気がない。特許に問題がある。 ",
+    "Createdby": "動画専門家グループ",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "2001",
+    "BasicInformation": "高効率画像フォーマット (HEIF) で保存された 1 枚以上の写真は、iOS デバイスでの写真の保存に最もよく使用されるファイル形式で、HEIC ファイルに格納されます。画像または一連の画像、および各画像を特徴付けるメタデータで構成され、iPhoneまたはiPadのカメラアプリを使用して作成された可能性が最も高いです。HEICファイルは通常.heicファイルとして保存されますが、.heifファイルとして保存することもできます。",
+    "DetailedInformation": "HEIF（H.265）は、より高品質で低ファイル形式で写真を保持するデジタル画像ストレージ規格です。JPEG はデジタル画像形式です。これにより、写真のサイズが小さくなり、メモリカードやモバイルデバイスの容量が節約されます。Appleは、2017年のiOS 11のリリースに伴い、iOSデバイス用のデフォルトのフォトストレージフォーマットであるHEIFを導入しました。この調整の結果、iPhoneとiPadはユーザーの画像をHEICとして保存し始めました。ハイシエラの導入により、AppleはiOSとmacOSの両方に対するHEIF互換性を実現しました。Googleは2018年にHEIFサポートをAndroidに拡張し、マイクロソフトは2018年にHEIFサポートをWindowsに導入しました。ユーザーが Microsoft アプリで HEIC ファイルを開くには、Microsoft Store から Microsoft HEIF イメージ拡張機能および HEVC ビデオ拡張機能パッケージを明示的にインストールする必要があります。iOS デバイスでカメラアプリを使用して撮影した写真を iOS 以外のデバイスまたはアプリケーションにエクスポートまたは共有する場合、通常、写真は HEIC 形式から JPEG or.JPG ファイルに変換されます。",
+    "Softwaresused": [
+        {
+            "platform": "リナックス",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "無料 "
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "ファイルビューアープラス — マイクロソフトから入手",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "無料 "
+                },
+                {
+                    "name": "アドビプレミアラッシュ",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "フリートライアル"
+                },
+                {
+                    "name": "HEIF イメージ拡張機能と HEVC ビデオ拡張機能パッケージがインストールされた Microsoft Windows フォト",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab&ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-Tcw4tJawHA2VbfUU47cFuA&epi=4LioSo.jxMc-Tcw4tJawHA2VbfUU47cFuA&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xurhnaenupuk000%29%287593%29%281243925%29%284LioSo.jxMc-Tcw4tJawHA2VbfUU47cFuA%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xurhnaenupuk000",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg"
+                },
+                {
+                    "name": "TunesBro HEIC コンバーター",
+                    "link": "https://www.tunesbro.com/heic-converter.html",
+                    "image": "/assets/fileimg/7eQehmc.jpeg",
+                    "type": "フリートライアル"
+                }
+            ]
+        },
+        {
+            "platform": "マック",
+            "softwares": [
+                {
+                    "name": "Apple プレビュー",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "アップルフォト",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "アドビフォトショップ 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "フリートライアル"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "無料 "
+                },
+                {
+                    "name": "TunesBro HEIC コンバーター",
+                    "link": "https://www.tunesbro.com/heic-converter.html",
+                    "image": "/assets/fileimg/7eQehmc.jpeg",
+                    "type": "フリートライアル"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "アップルフォト",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "Dropbox",
+                    "link": "https://www.dropbox.com/?landing=dbv2",
+                    "image": "/assets/fileimg/ovQYI78.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "グーグル・ドライブ",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "グーグル・フォト",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "無料  "
+                },
+                {
+                    "name": "アドビプレミアラッシュ",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "フリートライアル"
+                }
+            ]
+        },
+        {
+            "platform": "アンドロイド",
+            "softwares": [
+                {
+                    "name": "アンドロイド用ファイルビューア",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "グーグル・フォト",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "無料  "
+                },
+                {
+                    "name": "アドビプレミアラッシュ",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "フリートライアル"
+                },
+                {
+                    "name": "Dropbox",
+                    "link": "https://www.dropbox.com/?landing=dbv2",
+                    "image": "/assets/fileimg/ovQYI78.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "シンプルなソフトアライアンス Luma: HEIF ビューアーとコンバーター",
+                    "link": "https://play.google.com/store/apps/details?id=luma.hevc.heif.image.viewer.converter",
+                    "image": "/assets/fileimg/1o2rNBD.jpeg",
+                    "type": "フリーミアム"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "グーグル・フォト",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "無料  "
+                },
+                {
+                    "name": "HEIC イメージビューアデコーダ",
+                    "link": "https://speedtesting.herokuapp.com/heicviewer/",
+                    "image": "/assets/fileimg/KXTzTK7.jpeg",
+                    "type": "無料"
+                }
+            ]
+        }
+    ]
+}

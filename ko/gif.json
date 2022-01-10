@@ -1,0 +1,170 @@
+{
+    "Format": "GIF",
+    "ShortName": "GIF",
+    "FullName": "Graphical Interchange Format File",
+    "Category": "래스터 이미지 파일",
+    "Pros": "파일 크기가 작습니다.전문가처럼 보이는 이미지.더 나은 메시지 전달 투명성이 선호됩니다.",
+    "Cons": "제한된 색상 팔레트가 있는 패턴.편집할 수 없습니다.인터넷 연결 상태가 양호해야 합니다.",
+    "Createdby": "컴퍼스 이브",
+    "CreatedbyLink": "https://www.compuserve.com/",
+    "CreatedInYear": "1987",
+    "BasicInformation": "GIF 파일은 GIF (그래픽 교환 형식) (GIF) 로 저장된 그래픽 파일입니다.최대 256개의 인덱스 색상과 미리 정의된 색상 집합으로 구성되거나 이미지 색상에 맞게 사용자 지정할 수 있는 색상표를 포함할 수 있습니다.GIF 파일은 무손실 형식으로 유지되므로 이미지의 선명도가 GIF 압축의 영향을 받지 않습니다.",
+    "DetailedInformation": "이미지를 이동할 수 있기 때문에 GIF는 인터넷에서 가장 많이 사용되는 이미지 파일 유형입니다.GIF는 특히 탐색 버튼과 같이 텍스트가 있는 작은 이미지와 이미지에 널리 사용되는 웹 그래픽 형식입니다.반면에 JPEG (.JPG) 이미지는 표시할 수 있는 색상 수가 제한되지 않기 때문에 사진을 표시하는 데 더 좋습니다.GIF 이미지는 애니메이션으로 만들고 “애니메이션 GIF”로 저장할 수 있습니다. 이 GIF는 웹 사이트에서 기본 애니메이션을 표시하는 데 자주 사용됩니다.또한 반투명 픽셀이 포함되어있어 다양한 색상 배경과 혼합할 수 있습니다.그러나 a.PNG 이미지와 달리 GIF 이미지의 픽셀은 완전히 투명하거나 완전히 불투명해야 하므로 투명도를 페이드할 수 없습니다.",
+    "Softwaresused": [
+        {
+            "platform": "리눅스",
+            "softwares": [
+                {
+                    "name": "김프",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "무료 "
+                },
+                {
+                    "name": "구글 크롬",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "마이크로소프트 엣지",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "모질라",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "윈도우",
+            "softwares": [
+                {
+                    "name": "파일 뷰어 플러스 — 마이크로소프트에서 다운로드",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "마이크로소프트 포토스",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "마이크로소프트 윈도 포토 뷰어",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "마이크로소프트 페인트",
+                    "link": "https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9",
+                    "image": "/assets/fileimg/AuNqAKT.jpeg"
+                },
+                {
+                    "name": "어도비 일러스트레이터 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "무료 평가판"
+                }
+            ]
+        },
+        {
+            "platform": "맥",
+            "softwares": [
+                {
+                    "name": "애플 사파리",
+                    "link": "https://www.apple.com/safari/",
+                    "image": "/assets/fileimg/PePZ5cb.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "애플 프리뷰",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "어도비 포토샵 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "무료 평가판"
+                },
+                {
+                    "name": "코렐드로우 그래픽 스위트 2021",
+                    "link": "https://www.coreldraw.com/en/product/coreldraw/purchase.html?AID=10816204&PID=3081440&cjevent=51885051cce111eb80d1d3470a180510&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&x-vehicle=cj",
+                    "image": "/assets/fileimg/cfwD39J.jpeg",
+                    "type": "무료 평가판"
+                },
+                {
+                    "name": "어도비 일러스트레이터 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "무료 평가판"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "구글 포토",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "무료  "
+                },
+                {
+                    "name": "구글 드라이브",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "부분 유료화"
+                }
+            ]
+        },
+        {
+            "platform": "기계적 인조 인간",
+            "softwares": [
+                {
+                    "name": "안드로이드용 파일 뷰어",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "구글 포토",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "무료  "
+                },
+                {
+                    "name": "구글 드라이브",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "부분 유료화"
+                }
+            ]
+        },
+        {
+            "platform": "크롬 OS",
+            "softwares": [
+                {
+                    "name": "구글 포토",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "무료  "
+                },
+                {
+                    "name": "구글 드라이브",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "부분 유료화"
+                }
+            ]
+        }
+    ]
+}

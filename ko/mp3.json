@@ -1,0 +1,188 @@
+{
+    "Format": "MP3",
+    "ShortName": "MP3",
+    "FullName": "MPEG-1 Audio Layer III or MPEG-2 Audio Layer III",
+    "Category": "오디오 파일",
+    "Pros": "모두에게 광범위하게 받아 들여졌습니다.거의 모든 하드웨어 오디오 플레이어와 가젯이 지원합니다.매우 높은 압축률이 제공됩니다.매우 빠르고 더 정교한 방식으로 디코딩할 수 있습니다.MPEG 사양의 일부인 ISO 표준입니다.누구나 사용 가능한 데모 소스와 함께 자신의 버전을 만들 수 있습니다.라이선스 요구 사항이 완화되었습니다.다중 채널 파일을 지원합니다. ",
+    "Cons": "성능과 효율성은 현재 코덱보다 낮습니다.최대 비트 전송률 (320kbps) 이 항상 충분하지는 않습니다. 아직 사용 가능한 다중 채널 구현이 없습니다.고화질 오디오와 호환되지 않습니다 (샘플링 속도가 48kHz보다 높음).가용성과 사용 편의성으로 인해 음악 불법 복제가 증가합니다.",
+    "Createdby": "움직이는 그림 전문가 그룹",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "1987",
+    "BasicInformation": "MP3 파일 형식은 “레이어 3\"오디오 압축을 사용하는 압축 오디오 파일입니다.동영상 전문가 그룹 (MPEG) (MP3) 에서 제작했습니다.오디오 녹음, 팟 캐스트, 사운드 트랙, 설교, 오디오 북, 강의 등은 모두 MP3 파일로 널리 저장됩니다.",
+    "DetailedInformation": "MPEG는 1990 년대 초에 개발 한 후 1993 년에 MP3 형식을 출시했습니다.이때 오디오를 다른 일반적인 오디오 파일 유형의 일부 크기로 압축할 수 있습니다 (uncompressed.WAV or.AIF 파일 크기의 약 1/10).따라서이 형식은 빠르게 음악을 저장하는 표준이되었고 기존의 다른 형식보다 높아졌습니다.당시 컴퓨터는 저장 공간이 매우 적었습니다.따라서 MP3 형식의 개발은 매우 중요한 사건이었습니다.현재 MP3는 가장 많이 사용되는 오디오 파일 형식입니다.MPEG 압축을 사용하면 멀티미디어 파일의 파일 크기를 크게 줄일 수 있으며 품질 손실을 최소화할 수 있습니다.이를 통해 인터넷을 통한 파일 전송의 효율성이 향상됩니다.1990 년대와 2000 년대에 MP3 기술은 사람들이 인터넷에서 음악을 더 간단하고 빠르게 다운로드 할 수 있도록하여 녹음 된 음악 스트리밍의 개념에 혁명을 일으켰습니다.",
+    "Softwaresused": [
+        {
+            "platform": "리눅스",
+            "softwares": [
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "XMMS",
+                    "link": "http://www.xmms.org/",
+                    "image": "/assets/fileimg/hodO9zz.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "아마록",
+                    "link": "https://amarok.kde.org/",
+                    "image": "/assets/fileimg/Dh0nFk6.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "대담함",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "클레멘타인",
+                    "link": "https://www.clementine-player.org/about",
+                    "image": "/assets/fileimg/F87GDJM.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "윈도우",
+            "softwares": [
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "마이크로소프트 윈도 미디어 플레이어",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "대담함",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "파일 뷰어 플러스 — 마이크로소프트에서 다운로드",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg"
+                },
+                {
+                    "name": "애플 아이튠즈",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "맥",
+            "softwares": [
+                {
+                    "name": "어도비 오디션 CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "무료 평가판"
+                },
+                {
+                    "name": "애플 뮤직",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "대담함",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "록시오 토스트",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/vyEg9wb.jpeg",
+                    "type": "유료"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "애플 뮤직",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "올림소프트 플레이어",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "유료"
+                }
+            ]
+        },
+        {
+            "platform": "기계적 인조 인간",
+            "softwares": [
+                {
+                    "name": "안드로이드용 파일 뷰어",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "앤티 플레이어 미디어 컨버터",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "구글 드라이브",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "부분 유료화"
+                }
+            ]
+        },
+        {
+            "platform": "크롬 OS",
+            "softwares": [
+                {
+                    "name": "구글 드라이브",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "크롬 OS",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "구글 크롬",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "무료"
+                }
+            ]
+        }
+    ]
+}

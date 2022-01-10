@@ -1,0 +1,26 @@
+{
+    "Format": "DVD",
+    "ShortName": "DVD",
+    "FullName": "DOS Device Driver",
+    "Category": "System-Dateien",
+    "Pros": "Die Lagerkapazität ist enorm. Die Ton- und Bildqualität sind beide hervorragend. Da sie in Massenproduktion hergestellt werden, sind sie recht preiswert. CDs können von DVD-Laufwerken gelesen werden.",
+    "Cons": "DVDs sind nicht mit CD-Laufwerken kompatibel. Es gibt keinen einzigen DVD-Standard. Sie zu zerbrechen oder zu kratzen ist eine einfache Möglichkeit, sie zu ruinieren",
+    "Createdby": "N/A",
+    "CreatedbyLink": "n/a",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "DVD-Dateien werden als Treiber für MS-DOS-basierte Geräte verwendet. Diese Treiberdateien ermöglichen einem Computer oder einem anderen Gerät die Kommunikation mit dem Betriebssystem, in diesem Fall MS-DOS. Sie sind möglicherweise mit Windows vorkonfiguriert oder müssen von einer im Lieferumfang der Hardware enthaltenen DVD installiert werden.",
+    "DetailedInformation": "DVD-Dateien werden häufig mit Videodateien verwechselt, die eine Kopie eines Films auf einer Disc enthalten. Die Filmdateien werden normalerweise als VOB-Dateien gespeichert, obwohl das Medium als DVD bezeichnet wird. Die Treiber und DVD-Dateien sind manchmal bereits unter Windows installiert. Die Treiber müssen jedoch gelegentlich manuell installiert werden. Dies erfolgt normalerweise mit Hilfe einer Disc oder eines anderen Mediums, das mit dem Gerät geliefert wurde. Auf ihren Websites bieten mehrere Unternehmen auch Treiber-Downloads für ihre Produkte an.",
+    "Softwaresused": [
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Microsoft MS-DOS",
+                    "link": "https://www.microsoft.com/en-us/p/ms-dos-mobile/9nblgggxzdtw?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/XxsKREw.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        }
+    ]
+}

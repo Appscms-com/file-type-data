@@ -1,0 +1,141 @@
+{
+    "Format": "3GP",
+    "ShortName": "3GP",
+    "FullName": "3rd Generation Partnership Project",
+    "Category": "विडियो फाइल",
+    "Pros": "छोटा फ़ाइल आकार, इसलिए डिस्क स्थान बचाता है। कम मोबाइल डेटा की आवश्यकता होती है। उद्यमों के लिए, यह जुड़े हुए वातावरण उत्पन्न करता है। संवाद करने के लिए बेहद महत्वपूर्ण (पाठ संदेशों के माध्यम से)।",
+    "Cons": "गुणवत्ता निशान तक नहीं हो सकती है। उच्च रिज़ॉल्यूशन वाले वीडियो नहीं चला सकते। कई कार्यक्रमों के द्वारा समर्थित नहीं। ",
+    "Createdby": "तीसरी जनरेशन पार्टनरशिप प्रोजेक्ट",
+    "CreatedbyLink": "https://www.3gpp.org/",
+    "CreatedInYear": "1998",
+    "BasicInformation": "3GP फ़ाइल एक मल्टीमीडिया फ़ाइल है जिसे 3rd जनरेशन पार्टनरशिप प्रोजेक्ट के ऑडियो और वीडियो कंटेनर फॉर्मेट (3GPP) में सेव किया गया है। यह वीडियो और ऑडियो स्ट्रीम को बचाता है जो इंटरनेट पर और 3 जी मोबाइल फोन के बीच भेजे जाते हैं।",
+    "DetailedInformation": "3GP iPhone जैसे 3G सक्षम मोबाइल उपकरणों पर वीडियो और ऑडियो के उपयोग के लिए 3GPP (थर्ड जनरेशन पार्टनरशिप प्रोजेक्ट) द्वारा विकसित एक मल्टीमीडिया फ़ाइल कंटेनर है। इन फ़ाइलों को 3 जी (2 जी और 4 जी) के बिना फोन पर भी देखा जा सकता है, हालांकि कुछ सीमाओं के साथ। वीडियो रिकॉर्डिंग क्षमताओं वाले मोबाइल उपकरणों पर, 3GP फ़ाइलों को संपादित, निर्यात और देखा जा सकता है। 3G2 फ़ाइल 3GP फ़ाइल के समान है, हालाँकि इसकी अलग-अलग सीमाएँ और एक्सटेंशन हैं। MPEG-14 संरचनाओं का उपयोग 3GP फ़ाइल प्रकार बनाने के लिए किया जाता है। 3GP ने बैंडविड्थ और भंडारण आवश्यकताओं को कम कर दिया है, जिससे फोन उपयोगकर्ताओं को ऑनलाइन फ़ाइलों को परिवहन, संपादन और स्टोर करने की अनुमति मिलती है। यह H.263 और H.264 वीडियो स्ट्रीम, साथ ही AMR-WB, AMR-WB +, AMR-NB, HE-AAC v1, AAC-LC और एन्हांस्ड AACplus ऑडियो स्ट्रीम का समर्थन करता है।",
+    "Softwaresused": [
+        {
+            "platform": "लिनक्स",
+            "softwares": [
+                {
+                    "name": "वीडियोलैन वीएलसी मीडिया प्लेयर",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "फ़ाइल व्यूअर प्लस - इसे Microsoft से प्राप्त करें",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट विंडोज मीडिया प्लेयर",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट मूवीज़ और टीवी",
+                    "link": "https://www.microsoft.com/en-us/p/movies-tv/9wzdncrfj3p2?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/fVyIEs4.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "वीडियोलैन वीएलसी मीडिया प्लेयर",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "Xilisoft वीडियो कन्वर्टर अल्टीमेट",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                }
+            ]
+        },
+        {
+            "platform": "मैक",
+            "softwares": [
+                {
+                    "name": "एपल क्विकटाइम प्लेयर",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "एल्टिमा एल्मेडिया प्लेयर",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "रोक्सियो टोस्ट 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "अदा"
+                },
+                {
+                    "name": "वीडियोलैन वीएलसी मीडिया प्लेयर",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "आईओएस",
+            "softwares": [
+                {
+                    "name": "ओलिमसॉफ्ट ओप्लेयर",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "अदा"
+                }
+            ]
+        },
+        {
+            "platform": "एंड्रॉयड",
+            "softwares": [
+                {
+                    "name": "Android के लिए फ़ाइल व्यूअर",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "बीआईटी लैब्स सिंपल MP4 वीडियो प्लेयर",
+                    "link": "https://play.google.com/store/apps/details?id=air.br.com.bitlabs.VideoPlayer&hl=en",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "J2 इंटरएक्टिव MX प्लेयर",
+                    "link": "https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en",
+                    "image": "/assets/fileimg/Cjoa7OB.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "पेंडोरा. टीवी केएम प्लेयर",
+                    "link": "https://play.google.com/store/apps/details?id=com.kmplayer",
+                    "image": "/assets/fileimg/hnkzD4T.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        }
+    ]
+}

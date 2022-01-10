@@ -1,0 +1,153 @@
+{
+    "Format": "AAC",
+    "ShortName": "AAC",
+    "FullName": "Advanced Audio Coding File",
+    "Category": "Berkas audio",
+    "Pros": "Saat ini, lebih banyak perangkat yang menyadari AAC. Ukuran file yang dikodekan kurang. Tujuan standardisasi telah terpenuhi. Kualitas suara lebih unggul dari MP3. Produk ini banyak tersedia. Bandwidth Streaming Terbatas. Kompatibilitas dengan berbagai perangkat. Berbagai pilihan pengkodean tersedia.",
+    "Cons": "Butuh waktu lama untuk mengkodekan. Selama proses pengkodean, CPU sangat digunakan. Selama decoding, penggunaan CPU sedikit lebih tinggi. Organisasi File Telah Menjadi Lebih Rumit. Meskipun kurang, itu masih pecundang. Dukungan Perangkat Keras terbatas. Tagging File Tidak Selalu Kompatibel. Mungkin Terlalu Mahal untuk Mengkodekan AAC dari File Asli Lossless. MP3 masih dianggap lebih “standar” daripada AAC.",
+    "Createdby": "Kelompok Ahli Gambar Bergerak",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "1997",
+    "BasicInformation": "Untuk pengkodean audio pada kecepatan bit menengah hingga tinggi, AAC (Advanced Audio Coding) adalah penerus logis MP3 (ISO/MPEG Audio Layer-3) (ISO/MPEG Audio Layer-3). Format audio terkompresi ini sebanding dengan file MP3, namun memiliki beberapa keunggulan kinerja. Efisiensi pengkodean yang lebih tinggi untuk sinyal stabil dan sementara, bank filter yang lebih kecil, dan penanganan frekuensi yang lebih baik di luar 16 kHz hanyalah beberapa contoh.",
+    "DetailedInformation": "Apple iTunes dan iTunes Music Store menggunakan Advanced Audio Coding (AAC) sebagai pengkodean default. Konsep algoritma AAC adalah dengan menggunakan dua skema pengkodean dasar untuk secara drastis meminimalkan jumlah data yang diperlukan untuk mengirimkan audio digital berkualitas tinggi. File AAC memiliki frekuensi sampel lebih banyak daripada file MP3, serta hingga 48 saluran, pengkodean superior dan efisiensi bank filter, dan akurasi pengkodean sinyal transien yang lebih baik. File AAC, seperti file MP3, menghapus frekuensi audio yang telinga manusia tidak dapat memproses, menghasilkan file yang lebih kecil dan lebih mudah dikelola. File AAC secara substansial kurang dari file MP3 dalam hal ruang file.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Pemutar Media VLC VideoLAN",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "clementine",
+                    "link": "https://www.clementine-player.org/about",
+                    "image": "/assets/fileimg/F87GDJM.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "XMMS",
+                    "link": "http://www.xmms.org/",
+                    "image": "/assets/fileimg/hodO9zz.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Dapatkan dari Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Adobe Audisi CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Uji coba gratis"
+                },
+                {
+                    "name": "Pemutar Media VLC VideoLAN",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "iTunes apel",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Pemutar Media VLC VideoLAN",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Adobe Audisi CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Uji coba gratis"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Roti Roxio 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "Dibayar"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Dibayar"
+                },
+                {
+                    "name": "RealNetworks RealTimes: Pembuat Video",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Penampil file untuk Android",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Videolabs VLC untuk Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "RealNetworks RealTimes: Pembuat Video",
+                    "link": "https://play.google.com/store/apps/details?id=com.real.RealPlayerCloud",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

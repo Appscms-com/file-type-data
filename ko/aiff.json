@@ -1,0 +1,141 @@
+{
+    "Format": "AIFF",
+    "ShortName": "AIFF",
+    "FullName": "Audio Interchange File Format",
+    "Category": "오디오 파일",
+    "Pros": "매우 높은 품질. ",
+    "Cons": "방대한 저장 공간이 필요합니다. ",
+    "Createdby": "사과",
+    "CreatedbyLink": "https://developer.apple.com/",
+    "CreatedInYear": "1998",
+    "BasicInformation": "AIFF (오디오 교환 파일 형식) 확장은 다양한 전자 오디오 장치의 사운드 데이터 저장 표준입니다.여기에는 압축되지 않은 무손실 형식으로 보존된 고해상도 오디오가 포함됩니다.AIFF 파일도 형식으로 저장할 수 있습니다..AIFC로 끝나는 파일을 AIF 파일 (압축된 경우) 이라고 합니다.",
+    "DetailedInformation": "Apple은 1988년에 일렉트로닉 아트의 인터체인지 파일 형식을 사용하여 제작했습니다.(IFF).AIFF 파일은 압축되지 않은 (무손실) 파일이며 압축되고 손실이 많은 인기있는 MP3 파일보다 훨씬 큽니다.루프 정보와 사운드 샘플은 모두 AIFF 파일에서 가능합니다.AIFF 파일은 MAC OS 컴퓨터에서 널리 볼 수 있습니다.파일의 높은 품질을 중요시하고 막대한 저장 요구 사항을 처리 할 수있는 전문 음악가가 AIFF 파일의 가장 일반적인 소비자입니다.저장 메커니즘의 사소한 차이와 품질 차이는 거의 없지만 여러 종류의 AIFF 파일이 동일한 파일 확장자로 저장되는 경우가 많습니다.AIFF 파일, unlike.MP3 및 기타 여러 일반 오디오 파일은 압축되지 않습니다.AIFF 파일은 데이터가 압축되지 않기 때문에 동등한 MP3 파일보다 고품질 오디오를 포함하는 경우가 많습니다.그러나 파일에 더 많은 데이터가 포함되어 있기 때문에 더 많은 저장 공간을 차지합니다.",
+    "Softwaresused": [
+        {
+            "platform": "리눅스",
+            "softwares": [
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "아마록",
+                    "link": "https://amarok.kde.org/",
+                    "image": "/assets/fileimg/Dh0nFk6.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "대담함",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "윈도우",
+            "softwares": [
+                {
+                    "name": "파일 뷰어 플러스 — 마이크로소프트에서 다운로드",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "마이크로소프트 윈도 미디어 플레이어",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "널소프트 윈앰프",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "어도비 오디션 CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "무료 평가판"
+                }
+            ]
+        },
+        {
+            "platform": "맥",
+            "softwares": [
+                {
+                    "name": "애플 퀵타임 플레이어",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "애플 뮤직",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "대담함",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "어도비 오디션 CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "무료 평가판"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "애플 뮤직",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "올림소프트 플레이어",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "유료"
+                },
+                {
+                    "name": "모바일용 비디오란 VLC",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "기계적 인조 인간",
+            "softwares": [
+                {
+                    "name": "안드로이드용 비디오랩 VLC",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "무료"
+                }
+            ]
+        }
+    ]
+}

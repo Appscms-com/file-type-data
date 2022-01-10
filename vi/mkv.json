@@ -1,0 +1,159 @@
+{
+    "Format": "MKV",
+    "ShortName": "MKV",
+    "FullName": "Matroska Video File",
+    "Category": "Tập tin video",
+    "Pros": "Rất linh hoạt. Có tùy chọn lossy cũng như lossless. Vâng tài liệu. Không độc quyền. Bổ sung siêu dữ liệu được cho phép.",
+    "Cons": "Hiện tại không có trình phát phần cứng độc lập nào có thể phát các tệp MKV. Kích thước tệp lớn hơn. Vẫn đang phát triển. ",
+    "Createdby": "Matroska",
+    "CreatedbyLink": "https://www.matroska.org/",
+    "CreatedInYear": "2002",
+    "BasicInformation": "Tệp video được lưu ở định dạng vùng chứa đa phương tiện Matroska được gọi là tệp MKV. Nó có thể xử lý nhiều codec âm thanh và video, bao gồm.SRT, .SSA, .USF (Định dạng phụ đề phổ quát) và phụ đề VobSub. Video clip ngắn, chương trình TV và phim thường được lưu trữ dưới dạng tệp MKV.",
+    "DetailedInformation": "Matroska Multimedia Container (MKV) là một tiêu chuẩn mở và miễn phí để lưu trữ dữ liệu video. Tệp có thể chứa số lượng âm thanh, video, hình ảnh và các bản nhạc phụ đề không giới hạn, làm cho nó trở thành một cách tiện dụng để lưu phim, chương trình TV đầy đủ và hơn thế nữa. Người dùng có thể chuyển đến tất cả các bản nhạc dữ liệu khác nhau ở định dạng thô. Nó có thể so sánh với các định dạng.AVI, .ASF và.MOV ở chỗ nó có thể có nhiều bản nhạc video, âm thanh, hình ảnh và phụ đề. Các tệp video Matroska là các tệp đa phương tiện sử dụng định dạng vùng chứa Matroska để lưu trữ một hoặc nhiều bản nhạc video và được xác định bằng phần mở rộng tệp the.mkv. Định dạng MKV, thường được sử dụng để lưu các đoạn video ngắn, phim truyền hình và phim, đã trở nên phổ biến trong số các fansubbers anime. Nhiều người trong số những người dùng này thêm phụ đề và định dạng MKV đặc biệt tiện dụng vì nó cho phép một số bản nhạc âm thanh và phụ đề được kết hợp trong một tệp.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Phanh tay",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "các cửa sổ",
+            "softwares": [
+                {
+                    "name": "Trình xem tệp Plus - Tải nó từ Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Phanh tay",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Media Player cổ điển",
+                    "link": "https://github.com/clsid2/mpc-hc/",
+                    "image": "/assets/fileimg/PLx4Opv.jpeg"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Trình phát Eltima Elmedia",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "ShedWorx Smart Converter",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "Dùng thử miễn phí"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Phanh tay",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Trả tiền"
+                },
+                {
+                    "name": "Videolan VLC cho điện thoại di động",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Oka Ứng dụng Omni Player",
+                    "link": "https://apps.apple.com/us/app/omni-player-mkv-video-player/id1470926410",
+                    "image": "/assets/fileimg/TmHdEAq.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Pentaloop PlayerXtreme Media Player",
+                    "link": "https://apps.apple.com/us/app/playerxtreme-media-player/id456584471?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/uoX9gqI.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "BIT Labs Trình phát video MP4 đơn giản",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Videolabs VLC dành cho Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Trình xem tệp dành cho Android",
+                    "link": "https://play.google.com/store/apps/details?id=com.sharpened.androidfileviewer",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

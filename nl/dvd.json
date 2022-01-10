@@ -1,0 +1,26 @@
+{
+    "Format": "DVD",
+    "ShortName": "DVD",
+    "FullName": "DOS Device Driver",
+    "Category": "Systeembestanden",
+    "Pros": "De opslagcapaciteit is enorm. De geluids- en beeldkwaliteit zijn beide geweldig. Omdat ze in massa worden geproduceerd, zijn ze vrij goedkoop. cd's kunnen worden gelezen door dvd-stations.",
+    "Cons": "dvd's zijn niet compatibel met cd-stations. Er is geen enkele dvd-standaard. Ze breken of krabben is een eenvoudige manier om ze te verpesten.",
+    "Createdby": "N/A",
+    "CreatedbyLink": "n/a",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "DVD-bestanden worden gebruikt als stuurprogramma's voor MS-DOS-gebaseerde apparaten. Met deze stuurprogrammabestanden kan een computer of ander apparaat communiceren met het besturingssysteem, in dit geval MS-DOS. Ze kunnen vooraf zijn geconfigureerd met Windows of vereisen installatie vanaf een dvd die bij de hardware is meegeleverd.",
+    "DetailedInformation": "Dvd-bestanden worden vaak verward met videobestanden die een kopie van een film op een schijf bevatten. De filmbestanden worden normaal gesproken opgeslagen als VOB-bestanden, ondanks het feit dat de media een dvd worden genoemd. De stuurprogramma's en dvd-bestanden zijn soms al op Windows geïnstalleerd. Het is echter mogelijk dat de stuurprogramma's soms handmatig moeten worden geïnstalleerd. Dit gebeurt meestal met behulp van een schijf of ander medium dat bij het apparaat is geleverd. Op hun websites geven verschillende bedrijven ook downloads van stuurprogramma's voor hun producten.",
+    "Softwaresused": [
+        {
+            "platform": "Ramen",
+            "softwares": [
+                {
+                    "name": "Microsoft MS-DOS",
+                    "link": "https://www.microsoft.com/en-us/p/ms-dos-mobile/9nblgggxzdtw?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/XxsKREw.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        }
+    ]
+}

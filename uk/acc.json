@@ -1,0 +1,26 @@
+{
+    "Format": "ACC",
+    "ShortName": "ACC",
+    "FullName": "Graphics Accounts Data File",
+    "Category": "Файли даних",
+    "Pros": "п/а",
+    "Cons": "п/а",
+    "Createdby": "Програмне забезпечення FKJ",
+    "CreatedbyLink": "https://download.cnet.com/developer/fkj-software/i-6201467/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "Файл ACC - це формат файлу даних графічного облікового запису. Для графічних облікових записів цей файл містить інформацію про фінансовий рахунок. Це інструмент, який допомагає створювати особисті бюджети та керувати ними. Він може містити інформацію з одного або декількох банківських рахунків.",
+    "DetailedInformation": "Файли ACC містять дані фінансового рахунку для графічних рахунків. Вони можуть бути відкриті спільно з бюджетним (.BGT) файлом.",
+    "Softwaresused": [
+        {
+            "platform": "Вікна",
+            "softwares": [
+                {
+                    "name": "Графічні облікові записи програмного забезпечення FKJ",
+                    "link": "https://download.cnet.com/developer/fkj-software/i-6201467/",
+                    "image": "https://image.flaticon.com/icons/png/512/1063/1063308.png",
+                    "type": "Безкоштовно"
+                }
+            ]
+        }
+    ]
+}

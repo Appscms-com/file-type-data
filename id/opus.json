@@ -1,0 +1,88 @@
+{
+    "Format": "OPUS",
+    "ShortName": "OPUS",
+    "FullName": "Opus Audio File",
+    "Category": "Berkas audio",
+    "Pros": "Memungkinkan transmisi data yang lebih cepat melalui beberapa saluran. Tes kualitas suara mengungkapkan bahwa ia mengembalikan suara asli lebih efisien pada berbagai bitrate dan laju pengambilan sampel. Memastikan kinerja yang konsisten dalam berbagai situasi. Struktur berorientasi masa depan untuk berbagai layanan telekomunikasi. Adaptif dengan jenis informasi suara. Dapat sebagian mengkompensasi kerugian kualitas selama transmisi, memungkinkan transfer data langsung terus menerus tanpa interupsi. ",
+    "Cons": "Tidak didukung oleh beberapa aplikasi. Opus codec jarang terjadi.",
+    "Createdby": "Xiph.Org ",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "2012",
+    "BasicInformation": "Opus adalah codec baru yang diproduksi oleh tim ahli dari Xiph.Org Foundation (Mozilla Corporation) dan Skype Technologies S.A. (Microsoft). Ini memiliki semua keuntungan dari MP3 sambil meminimalkan kekurangannya. Opus menggabungkan codec CELT dan SILK.",
+    "DetailedInformation": "File OPUS adalah file audio lossy yang dibuat dalam format Opus (kadang-kadang dikenal sebagai “Ogg Opus”), yang dirancang untuk streaming Internet. Ini mendukung berbagai bit rate dari 6 kb/s untuk 510 kb/s dan mempekerjakan kedua SILK (digunakan oleh Skype) dan CELT (dari Xiph.Org) codec. Voice over IP (VoIP), konferensi video, dan obrolan dalam game semuanya menggunakan codec Opus. IETF mendefinisikan format Opus, yang banyak digunakan. IETF menstandarisasi format Opus, yang dikelola oleh Xiph.Org. Karena codec Opus sebagian besar digunakan untuk streaming, file dengan ekstensi.opus jarang terjadi.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Pemutar Media VLC VideoLAN",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Dapatkan dari Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Pemutar Media VLC VideoLAN",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "AIMP",
+                    "link": "http://www.aimp2.us/",
+                    "image": "/assets/fileimg/sOBpiyF.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Foobar2000",
+                    "link": "https://www.foobar2000.org/",
+                    "image": "/assets/fileimg/c2PuNRk.jpeg"
+                },
+                {
+                    "name": "Alat Opus",
+                    "link": "https://www.opus-codec.org/downloads/",
+                    "image": "/assets/fileimg/7xNWYRA.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Pemutar Media VLC VideoLAN",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Penampil file untuk Android",
+                    "link": "",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Opus Pemain",
+                    "link": "https://play.google.com/store/apps/details?id=com.littlepako.opusplayer3&hl=en_US&gl=US",
+                    "image": "/assets/fileimg/irCSU4s.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        }
+    ]
+}

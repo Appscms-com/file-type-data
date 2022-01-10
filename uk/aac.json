@@ -1,0 +1,153 @@
+{
+    "Format": "AAC",
+    "ShortName": "AAC",
+    "FullName": "Advanced Audio Coding File",
+    "Category": "Аудіофайл",
+    "Pros": "У наш час більше пристроїв знають про AAC. Закодовані розміри файлів менше. Мета стандартизації була досягнута. Якість звуку перевершує MP3. Продукт широко доступний. Пропускна здатність потокового передавання обмежена. Сумісність з широким спектром пристроїв. Доступний широкий спектр варіантів кодування.",
+    "Cons": "Кодувати потрібно багато часу. В процесі кодування центральний процесор сильно використовується. Під час декодування використання ЦП трохи вище. Організація файлів стала складнішою. Незважаючи на те, що це менше, це все одно невдаха. Апаратна підтримка обмежена. Додавання тегів файлів не завжди сумісно. Це може бути занадто дорогим, щоб кодувати AAC з оригінальних файлів без втрат. MP3 все ще вважається більш «стандартним», ніж AAC.",
+    "Createdby": "Група експертів з рухомих зображень",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "1997",
+    "BasicInformation": "Для кодування звуку на середніх та високих швидкостях передачі даних AAC (Advanced Audio Coding) є логічним наступником MP3 (ISO/MPEG Audio Layer-3) (ISO/MPEG Audio Layer-3). Цей стиснений аудіоформат порівнянний з MP3-файлом, однак він має кілька переваг продуктивності. Більш висока ефективність кодування як для стабільних, так і для перехідних сигналів, меншого банку фільтрів та покращена обробка частот понад 16 кГц - лише кілька прикладів.",
+    "DetailedInformation": "Apple iTunes і iTunes Music Store використовують розширене кодування аудіо (AAC) як кодування за замовчуванням. Концепція алгоритму AAC полягає у використанні двох основних схем кодування, щоб різко мінімізувати кількість даних, необхідних для передачі високоякісного цифрового аудіо. Файли AAC мають більше вибіркових частот, ніж MP3-файли, а також до 48 каналів, чудову ефективність кодування та фільтрбанку, а також кращу точність кодування перехідних сигналів. Файли AAC, як MP3-файли, видаляють звукові частоти, які людське вухо не може обробити, що призводить до менших, більш керованих файлів. Файли AAC значно менше, ніж MP3-файли з точки зору файлового простору.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "ВідеоЛан VLC медіаплеєр",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Клементина",
+                    "link": "https://www.clementine-player.org/about",
+                    "image": "/assets/fileimg/F87GDJM.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "XMMS",
+                    "link": "http://www.xmms.org/",
+                    "image": "/assets/fileimg/hodO9zz.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "Вікна",
+            "softwares": [
+                {
+                    "name": "Переглядач файлів плюс — Отримати його від Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                },
+                {
+                    "name": "ВідеоЛан VLC медіаплеєр",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "Нулсофт Вінамп",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple itunes",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "ВідеоЛан VLC медіаплеєр",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Роксио Тост 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "Платний"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Олімсофт Оплеєр",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Платний"
+                },
+                {
+                    "name": "RealNetwork RealTimes: Виробник відео",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "Фреміум"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Переглядач файлів для Android",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Відеолаб VLC для Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "RealNetwork RealTimes: Виробник відео",
+                    "link": "https://play.google.com/store/apps/details?id=com.real.RealPlayerCloud",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "Фреміум"
+                }
+            ]
+        }
+    ]
+}

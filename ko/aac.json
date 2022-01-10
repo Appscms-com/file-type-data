@@ -1,0 +1,153 @@
+{
+    "Format": "AAC",
+    "ShortName": "AAC",
+    "FullName": "Advanced Audio Coding File",
+    "Category": "오디오 파일",
+    "Pros": "요즘에는 더 많은 장치가 AAC를 인식하고 있습니다.인코딩된 파일 크기가 더 작습니다.표준화의 목표가 충족되었습니다.음질은 MP3보다 우수합니다.이 제품은 널리 사용 가능합니다.스트리밍 대역폭이 제한되어 있습니다.다양한 장치와의 호환성.다양한 인코딩 옵션을 사용할 수 있습니다.",
+    "Cons": "인코딩하는 데 시간이 오래 걸립니다.인코딩 프로세스 중에 CPU가 많이 사용됩니다.디코딩하는 동안 CPU 사용량이 약간 더 높습니다.파일 구성이 더욱 복잡해졌습니다.더 적지 만 여전히 패배자입니다.하드웨어 지원은 제한적입니다.파일 태그 지정이 항상 호환되는 것은 아닙니다.무손실 원본 파일에서 AAC를 인코딩하는 것은 너무 비쌀 수 있습니다.MP3는 여전히 AAC보다 “표준”으로 간주됩니다.",
+    "Createdby": "움직이는 그림 전문가 그룹",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "1997",
+    "BasicInformation": "중간에서 높은 비트 전송률의 오디오 코딩의 경우 AAC (고급 오디오 코딩) 는 MP3 (ISO/MPEG 오디오 레이어 -3) (ISO/MPEG 오디오 레이어 -3) 의 논리적 후속 제품입니다.이 압축 오디오 형식은 MP3 파일과 비슷하지만 몇 가지 성능상의 이점이 있습니다.안정 신호와 과도 신호 모두에 대한 높은 코딩 효율, 더 작은 필터 뱅크, 16kHz 이상의 주파수 처리 개선은 몇 가지 예에 불과합니다.",
+    "DetailedInformation": "Apple iTunes와 iTunes 뮤직 스토어는 고급 오디오 코딩 (AAC) 을 기본 인코딩으로 사용합니다.AAC 알고리즘의 개념은 두 가지 기본 코딩 방식을 사용하여 고품질 디지털 오디오를 전송하는 데 필요한 데이터 양을 크게 최소화하는 것입니다.AAC 파일은 MP3 파일보다 더 많은 샘플 주파수와 최대 48 채널, 뛰어난 코딩 및 필터 뱅크 효율성, 더 나은 과도 신호 코딩 정확도를 제공합니다.MP3 파일과 같은 AAC 파일은 사람의 귀로는 처리할 수 없는 오디오 주파수를 제거하여 더 작고 관리하기 쉬운 파일을 만듭니다.AAC 파일은 파일 공간 측면에서 MP3 파일보다 훨씬 적습니다.",
+    "Softwaresused": [
+        {
+            "platform": "리눅스",
+            "softwares": [
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "클레멘타인",
+                    "link": "https://www.clementine-player.org/about",
+                    "image": "/assets/fileimg/F87GDJM.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "XMMS",
+                    "link": "http://www.xmms.org/",
+                    "image": "/assets/fileimg/hodO9zz.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "윈도우",
+            "softwares": [
+                {
+                    "name": "파일 뷰어 플러스 — 마이크로소프트에서 다운로드",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "어도비 오디션 CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "무료 평가판"
+                },
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "널소프트 윈앰프",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "맥",
+            "softwares": [
+                {
+                    "name": "애플 아이튠즈",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "어도비 오디션 CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "무료 평가판"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "록시오 토스트 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "유료"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "올림소프트 플레이어",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "유료"
+                },
+                {
+                    "name": "리얼네트웍스 리얼타임즈: 동영상",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "부분 유료화"
+                }
+            ]
+        },
+        {
+            "platform": "기계적 인조 인간",
+            "softwares": [
+                {
+                    "name": "안드로이드용 파일 뷰어",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "안드로이드용 비디오랩 VLC",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "리얼네트웍스 리얼타임즈: 동영상",
+                    "link": "https://play.google.com/store/apps/details?id=com.real.RealPlayerCloud",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "부분 유료화"
+                }
+            ]
+        }
+    ]
+}

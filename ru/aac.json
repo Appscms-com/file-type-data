@@ -1,0 +1,153 @@
+{
+    "Format": "AAC",
+    "ShortName": "AAC",
+    "FullName": "Advanced Audio Coding File",
+    "Category": "Аудиофайл",
+    "Pros": "В настоящее время все больше устройств знают об AAC. Закодированные размеры файлов меньше. Цель стандартизации была достигнута. Качество звука превосходит MP3. Продукт широко доступен. Пропускная способность потоковой передачи ограничена. Совместимость с широким спектром устройств. Доступен широкий выбор вариантов кодирования.",
+    "Cons": "Для кодирования требуется много времени. Во время процесса кодирования сильно используется центральный процессор. Во время декодирования загрузка ЦП немного выше. Организация файлов стала более сложной. Хоть и меньше, он все равно проигрывает. Поддержка оборудования ограничена. Файлы тегов не всегда совместимы. Кодирование AAC из оригинальных файлов без потерь может оказаться слишком дорогим. MP3 по-прежнему считается более «стандартным», чем AAC.",
+    "Createdby": "Группа экспертов по движущимся изображениям",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "1997",
+    "BasicInformation": "Для кодирования звука со средней и высокой скоростью передачи данных AAC (расширенное кодирование звука) является логическим преемником MP3 (ISO/MPEG Audio Layer-3) (ISO/MPEG Audio Layer-3). Этот сжатый аудиоформат сопоставим с файлом MP3, однако он имеет несколько преимуществ в производительности. Более высокая эффективность кодирования как стабильных, так и переходных сигналов, меньший набор фильтров и улучшенная обработка частот выше 16 кГц — вот лишь несколько примеров.",
+    "DetailedInformation": "Apple iTunes и iTunes Music Store используют расширенное кодирование звука (AAC) в качестве кодировки по умолчанию. Концепция алгоритма AAC заключается в использовании двух базовых схем кодирования, чтобы значительно минимизировать объем данных, необходимых для передачи высококачественного цифрового звука. Файлы AAC имеют больше частот дискретизации, чем файлы MP3, а также до 48 каналов, превосходную эффективность кодирования и банка фильтров, а также лучшую точность кодирования переходных сигналов. Файлы AAC, такие как файлы MP3, удаляют звуковые частоты, которые человеческое ухо не может обработать, что приводит к уменьшению размера и упрощению управления файлами. Файлы AAC значительно меньше, чем файлы MP3 с точки зрения файлового пространства.",
+    "Softwaresused": [
+        {
+            "platform": "Линукс",
+            "softwares": [
+                {
+                    "name": "Медиаплеер VLC VLC VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Клементина",
+                    "link": "https://www.clementine-player.org/about",
+                    "image": "/assets/fileimg/F87GDJM.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "XMMS",
+                    "link": "http://www.xmms.org/",
+                    "image": "/assets/fileimg/hodO9zz.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Просмотрщик файлов Plus — получите его от корпорации Майкрософт",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Фримиум"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Адобе прослушивание CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Бесплатная пробная версия"
+                },
+                {
+                    "name": "Медиаплеер VLC VLC VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "Нуллсофт Винамп",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "Мак",
+            "softwares": [
+                {
+                    "name": "яблочный itunes",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Медиаплеер VLC VLC VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Адобе прослушивание CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Бесплатная пробная версия"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Роксио Тост 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "Оплаченный"
+                }
+            ]
+        },
+        {
+            "platform": "IOS",
+            "softwares": [
+                {
+                    "name": "Олимсофт Плеер",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Оплаченный"
+                },
+                {
+                    "name": "Реальные сети в реальном времени: видео мейкер",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "Фримиум"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Просмотрщик файлов для Android",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Фримиум"
+                },
+                {
+                    "name": "Видеолаборатории VLC для Андроид",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Бесплатный"
+                },
+                {
+                    "name": "Реальные сети в реальном времени: видео мейкер",
+                    "link": "https://play.google.com/store/apps/details?id=com.real.RealPlayerCloud",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "Фримиум"
+                }
+            ]
+        }
+    ]
+}

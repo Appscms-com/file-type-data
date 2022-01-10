@@ -1,0 +1,206 @@
+{
+    "Format": "PNG",
+    "ShortName": "PNG",
+    "FullName": "Portable Network Graphics",
+    "Category": "ビットマップイメージグラフィックス形式",
+    "Pros": "圧縮損失は最低限に抑えられます。圧縮率を問わず、画質には影響しません。このフォーマットは、中間バージョンのイメージを保存するのに最適です。画像を再保存しても、画質は失われません。PNG は膨大な数の色をサポートしています。これにより、複数レベルの透明度が可能になります。レイヤーを操作する機能。ファイルにメタデータを追加する機能。ファイルのサイズは小さいです。",
+    "Cons": "フルカラー写真の作業には適していません。1 つのファイルに多数の画像を保存できない。アニメーションは許可されません。",
+    "Createdby": "PNG 開発グループ",
+    "CreatedbyLink": "http://www.libpng.org/pub/png/",
+    "CreatedInYear": "1996",
+    "BasicInformation": "ポータブルネットワークグラフィックス (PNG) 形式で保存されたイメージファイルは、PNG ファイルと呼ばれます。このファイルには、.GIF ファイルに匹敵する可逆圧縮ビットマップが含まれています。Web グラフィック、デジタル画像、半透明の背景を持つイメージは、通常 PNG ファイルとして保存されます。もともと PNG 画像形式は、両方とも透明な背景をサポートしているため、GIF 画像形式を置き換えることを目的としていました。インデックスカラーと可逆圧縮の使い方も、この 2 つの類似点です。一方、PNG ファイルには同じ著作権制限はありません。",
+    "DetailedInformation": "市松模様の背景には、8 ビットの透明レイヤー (上) (下) の PNG イメージがオーバーレイされます。PNGは、特許を取得していないロスレスデータ圧縮技術であるデフレーションを採用しています。ほとんどの場合、PNG は GIF よりも効率的に画像を圧縮できますが、一部の実装では不十分なフィルタ方法が使用され、不必要に巨大な PNG ファイルが生成されます。PNG 形式には 3 種類の透過表示があります。1 つはインデックス付きカラーイメージ用、もう 1 つはグレースケールイメージまたは True Color イメージ用です。ガンマ値、背景色、およびテキストコンテンツはすべて、PNG ファイルに記録できるイメージ属性です。標準ではチャネルあたり最大16ビットまで可能ですが、ほとんどのお客様はチャネルあたり8ビットしか必要としません。画像の保存には、特にインターネット上でPNG形式が広く使用されています。インデックス化された (パレットベースの) 24 ビットの RGB または 32 ビット RGBA (第 4 のアルファチャンネルを持つ RGB) カラーイメージを処理できます。このフォーマットでは、フルカラーのインデックス化されていない RGB または RGBA 写真、およびグレースケールイメージがサポートされています。PNGファイルは、Webサイトから画像をダウンロードしたり、電子メールに添付されたデジタル写真を受信したり、スクリーンショットを撮ったりするなど、さまざまなコンピューターユーザーが遭遇する可能性があります。Web で使用する場合、グラフィックデザイナーはグラフィックを PNG ファイルとして保存することがよくあります。また、PNGファイルを使用して、他の画像の上に重ねることができる半透明のロゴやアイコンのモックアップを保存します。",
+    "Softwaresused": [
+        {
+            "platform": "リナックス",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "無料 "
+                },
+                {
+                    "name": "グーグルクローム",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "マイクロソフトエッジ",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "マイクロソフトフォト",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "マイクロソフトウィンドウズフォトビューアー",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "マイクロソフトペイント",
+                    "link": "https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9",
+                    "image": "/assets/fileimg/AuNqAKT.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "マイクロソフトペイント 3D",
+                    "link": "https://www.microsoft.com/en-us/p/paint-3d/9nblggh5fv99?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/7Z9sNdy.jpeg"
+                },
+                {
+                    "name": "ACD システム ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/acdsee.png",
+                    "type": "フリートライアル"
+                }
+            ]
+        },
+        {
+            "platform": "マック",
+            "softwares": [
+                {
+                    "name": "Apple プレビュー",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "アップルフォト",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "アップルサファリ",
+                    "link": "https://www.apple.com/safari/",
+                    "image": "/assets/fileimg/PePZ5cb.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "アドビフォトショップ 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "フリートライアル"
+                },
+                {
+                    "name": "グーグルクローム",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "グーグル・フォト",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "無料  "
+                },
+                {
+                    "name": "グーグル・ドライブ",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "マイクロソフト OneDrive",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "フリートライアル"
+                },
+                {
+                    "name": "アドビフォトショップエクスプレス",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop-express/id331975235?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "フリートライアル"
+                },
+                {
+                    "name": "ピクセルメーター 2",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/HmizpGb.jpeg",
+                    "type": "有料"
+                }
+            ]
+        },
+        {
+            "platform": "アンドロイド",
+            "softwares": [
+                {
+                    "name": "アンドロイド用ファイルビューアー",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "グーグル・ドライブ",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "グーグル・フォト",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "無料  "
+                },
+                {
+                    "name": "マイクロソフト OneDrive",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "アドビフォトショップエクスプレス",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "グーグル・フォト",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "無料  "
+                },
+                {
+                    "name": "グーグルクローム",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "クロームOS",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "無料、OSに付属"
+                }
+            ]
+        }
+    ]
+}

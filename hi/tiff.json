@@ -1,0 +1,146 @@
+{
+    "Format": "TIFF",
+    "ShortName": "TIFF",
+    "FullName": "Tagged Image File Format",
+    "Category": "रेखापुंज छवि फ़ाइलें",
+    "Pros": "ऐसी छवियां जो दोषरहित और उत्कृष्ट गुणवत्ता की हैं। कई स्वरूपों का समर्थन किया जाता है। कई परतों का समर्थन करता है।",
+    "Cons": "फ़ाइल का आकार काफी बड़ा है। इंटरनेट पर उपयोग के लिए आदर्श नहीं है।",
+    "Createdby": "एडोब सिस्टम्स",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "1986",
+    "BasicInformation": "टीआईएफएफ शब्द टैग की गई छवि फ़ाइल प्रारूप के लिए है। यह एक डिजिटल चित्र रेखापुंज फ़ाइल स्वरूप है। इसमें उच्च गुणवत्ता वाले ग्राफिक्स हैं जिनमें रंग की गहराई 1 से 24 बिट तक होती है और हानिपूर्ण और दोषरहित संपीड़न होता है। TIFF फ़ाइलों द्वारा कई परतों और पृष्ठों का भी समर्थन किया जाता है।",
+    "DetailedInformation": "TIFF को 1980 के दशक के मध्य में एल्डस कॉर्पोरेशन द्वारा विभिन्न प्रकार के कंप्यूटर प्लेटफार्मों पर उच्च-गुणवत्ता वाली रंगीन छवियों को संरक्षित करने के लिए एक मानक चित्र प्रारूप के रूप में बनाया गया था। इसके व्यापक उपयोग के बावजूद, जेपीईजी प्रारूप ने अंततः इसे ग्रहण कर लिया क्योंकि यह अधिक कुशल और वेब-अनुकूल था। इस पर फोटोग्राफ और लाइन ड्रॉइंग भी स्टोर किए जा सकते हैं। स्कैनिंग सॉफ्टवेयर और प्रौद्योगिकी की बढ़ती लोकप्रियता के कारण, टीआईएफएफ फ़ाइल प्रारूप बनाया गया था, और इसे स्कैन की गई छवियों के लिए मानक प्रारूप भी माना जाता था।",
+    "Softwaresused": [
+        {
+            "platform": "लिनक्स",
+            "softwares": [
+                {
+                    "name": "जिम्प",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "मुफ़्त "
+                },
+                {
+                    "name": "लिब्रे ऑफिस",
+                    "link": "https://www.libreoffice.org/",
+                    "image": "/assets/fileimg/cPO8bqH.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "फ़ाइल व्यूअर प्लस - इसे Microsoft से प्राप्त करें",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट फोटोज",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट विंडोज फोटो व्यूअर",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट पेंट",
+                    "link": "https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9",
+                    "image": "/assets/fileimg/AuNqAKT.jpeg"
+                },
+                {
+                    "name": "एसीडी सिस्टम्स एसीडीएसई",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                }
+            ]
+        },
+        {
+            "platform": "मैक",
+            "softwares": [
+                {
+                    "name": "Apple प्रीव्यू",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "Apple फोटो",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "एडोब फोटोशॉप 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "एडोब इलस्ट्रेटर 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "रोक्सियो टोस्ट 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "अदा"
+                }
+            ]
+        },
+        {
+            "platform": "आईओएस",
+            "softwares": [
+                {
+                    "name": "Apple फोटो",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "गूगल फोटोज",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "मुफ़्त  "
+                }
+            ]
+        },
+        {
+            "platform": "एंड्रॉयड",
+            "softwares": [
+                {
+                    "name": "Android के लिए फ़ाइल व्यूअर",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "गूगल फोटोज",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "मुफ़्त  "
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "गूगल फोटोज",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "मुफ़्त  "
+                }
+            ]
+        }
+    ]
+}

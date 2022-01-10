@@ -1,0 +1,170 @@
+{
+    "Format": "FLAC",
+    "ShortName": "FLAC",
+    "FullName": "Free Lossless Audio Codec",
+    "Category": "Fichier audio",
+    "Pros": "Excellente qualité audio dans un fichier de petite taille. De nombreux systèmes sont compatibles avec celui-ci. Le code source est ouvert et la licence est gratuite. Assistance matérielle (PhatBox, Kenwood MusicKeg, Rio Karma, etc.) disponible. Prise en charge du streaming. Le décodage est très rapide. Les flux multicanaux et haute résolution sont pris en charge. Le gain de relecture est pris en charge. Prend en charge l'utilisation d'une feuille de route (avec certaines limitations) En remplacement de Shorten, il gagne en popularité.",
+    "Cons": "D'autres compresseurs de courant de premier plan (Monkey's Audio, LPAC, OptimFrog) compressent plus efficacement. Les options de compression plus élevées sont lentes et offrent une amélioration minimale par rapport au paramètre par défaut.",
+    "Createdby": "Fondation Xiph.Org",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "2001",
+    "BasicInformation": "L'acronyme FLAC fait référence au codec audio sans perte gratuit. Le format FLAC est un format MP3 sans perte. Le FLAC est le plus couramment utilisé dans la musique classique, où la qualité du son est essentielle. Le FLAC est devenu assez populaire en raison de sa qualité sonore. Les fichiers FLAC peuvent désormais être lus sur votre lecteur préféré (ou dans votre véhicule ou votre chaîne stéréo) exactement comme les fichiers MP3.",
+    "DetailedInformation": "FLAC est un format de compression audio développé par les membres de Xiph.org. La compression est sans perte, ce qui signifie qu'aucune donnée n'est perdue et qu'aucune qualité n'est sacrifiée. FLAC permet aux utilisateurs d'enregistrer des fichiers avec leur qualité multimédia d'origine, ce qui le rend excellent pour la sauvegarde de données audio, car les copies tangibles des fichiers audio sont susceptibles d'être détruites. Le format FLAC est un format largement adopté qui réduit la taille de l'audio numérique d'environ 60 % et est généralement pris en charge sur les principales plateformes. La Fondation Xiph.Org a créé le format, qui est open source. Parallèlement au fichier FLAC, un fichier d'empreintes digitales FLAC, qui comprend le nom de fichier et les informations de somme de contrôle pour le fichier FLAC, peut être généré. Les fichiers FLAC sont fréquemment utilisés pour le streaming et le décodage en temps réel. Le projet FLAC est composé de plusieurs composants, dont un format de flux, un format de conteneur, une bibliothèque de référence d'encodeurs et de décodeurs, et des plugins d'entrée.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Lecteur multimédia VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "Audacity",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "aTunes",
+                    "link": "http://www.atunes.org/",
+                    "image": "/assets/fileimg/U6hLUgu.jpeg",
+                    "type": "Gratuit"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Obtenez-le auprès de Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Lecteur multimédia VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "Audacity",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Essai gratuit"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Lecteur multimédia VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "Audacity",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "aTunes",
+                    "link": "http://www.atunes.org/",
+                    "image": "/assets/fileimg/U6hLUgu.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Essai gratuit"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Videolan VLC pour mobile",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "Oreille d'or",
+                    "link": "https://apps.apple.com/us/app/golden-ear/id407945101?ign-mpt=uo%3D8",
+                    "image": "/assets/fileimg/upbts7y.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Moliplayer",
+                    "link": "https://apps.apple.com/us/app/moli-player-hd-free-movie-music-player-for-network/id598886783?ign-mpt=uo%3D8",
+                    "image": "/assets/fileimg/FAo0QEL.jpeg",
+                    "type": "Gratuit"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Visionneuse de fichiers pour Android",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Videolabs VLC pour Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Gratuit"
+                },
+                {
+                    "name": "JetAudio",
+                    "link": "https://play.google.com/store/apps/details?id=com.jetappfactory.jetaudio",
+                    "image": "/assets/fileimg/jcTagMw.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Version bêta de Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "Gratuit"
+                }
+            ]
+        }
+    ]
+}

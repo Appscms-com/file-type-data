@@ -1,0 +1,152 @@
+{
+    "Format": "SVG",
+    "ShortName": "SVG",
+    "FullName": "Scalable Vector Graphics File",
+    "Category": "Vektoravbildningsfil",
+    "Pros": "Storleken är ganska liten. Den är flexibel, dvs. du kan omedelbart ändra grafikinställningarna på webbplatsen med hjälp av CSS, till exempel bakgrundsfärgen eller logotypen på sidan. Skalbarheten försämrar inte bildkvaliteten. Ger webbläsarstöd.",
+    "Cons": "Om objektet innehåller ett betydande antal små element växer filstorleken mycket snabbt. Det är omöjligt att läsa bara en del av en grafisk sak, du måste läsa hela objektet, vilket saktar ner dig.",
+    "Createdby": "Adobe-system",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "2001",
+    "BasicInformation": "SVG, eller Scalable Vector Graphics, är ett tvådimensionellt vektorgrafikfilformat baserat på XML. World Wide Web Consortium (W3C) utformade det 1999 som ett standardformat för att presentera vektorbilder på Internet. Det använder ett XML-baserat textformat för att beskriva bilder. SVG-filer utvecklas som en webbstandard för att visa vektorgrafik.",
+    "DetailedInformation": "SVG-formatet är en öppen standard som skapats av World Wide Web Consortium (W3C), där Adobe spelar en nyckelroll. Adobe Creative Suite-produkter som Illustrator och GoLive kan producera och exportera SVG-bilder. SVG tillåter användare att söka, indexera, skript och komprimera bilder, vilket möjliggör interaktivitet och animering. Eftersom SVG-filer är XML-filer kan textredigerare komma åt, generera och redigera dem, men ritprogram är den vanligaste skaparen av den här filtypen. Förlustfri datakomprimering är möjlig med SVG-filer. De stöder text samt raster- och vektorgrafik. SVG är en XML-standard som definierar vektorbaserad grafik för internetanvändning. Bildkvaliteten påverkas inte av zoomning och storleksändring. SVG-filer kan animeras i alla dess komponenter och sektioner. W3C-standarder (inklusive DOM och XSL) ingår i SVG-filer som rekommenderas av W3C. Vektorbilder, till exempel de med SVG-filformat, består av förutbestämda uppsättningar formulär, vilket möjliggör skarpare bilder när de zoomas och skalas.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Gratis "
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Inkscape",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "KolourPaint",
+                    "link": "http://kolourpaint.sourceforge.net/",
+                    "image": "/assets/fileimg/3JbciOH.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Fönster",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Hämta det från Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Inkscape",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Gratis "
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg"
+                },
+                {
+                    "name": "Adobe Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Kostnadsfri provperiod"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Inkscape",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Gratis "
+                },
+                {
+                    "name": "Adobe Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Kostnadsfri provperiod"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Filvisare för Android",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        }
+    ]
+}

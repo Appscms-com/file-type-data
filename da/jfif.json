@@ -1,0 +1,95 @@
+{
+    "Format": "JFIF",
+    "ShortName": "JFIF",
+    "FullName": "JPEG File Interchange Format",
+    "Category": "Raster-billedfiler",
+    "Pros": "Et meget populært format. Komprimering på et højt, kontrolleret niveau resulterer i en lille filstørrelse. formatet er kompatibelt og vises korrekt i alle browsere, tekst og grafikprogrammer, på alle computere, tablets og mobile enheder. Understøtter fuldfarve realistiske billeder med mange farve- og kontrastovergange. Høj billedkvalitet med en lille grad af sammenhæng.",
+    "Cons": "Når du komprimerer billedet, kan det „falde fra hinanden“ i individuelle firkanter - 808-pixel blokke. Dette sker, fordi komprimeringsalgoritmen analyserer nabolandet pixels. glat farve — overgange kan blive barske eller blot forsvinde. JPEG er mindre egnet til at arbejde med tekst eller monokrom grafik med klare grænser. Dette format understøtter ikke gennemsigtighed, selvom det er nødvendigt, når du opretter skabeloner, logoer og knapper. Billedets kvalitet falder med hvert efterfølgende komprimeringstrin.",
+    "Createdby": "C-Cube Mikrosystemer og Fælles Fotografiske Ekspertgruppe",
+    "CreatedbyLink": "https://jpeg.org/",
+    "CreatedInYear": "2011",
+    "BasicInformation": "En JFIF-fil er en bitmapgrafik komprimeret med JPEG. Det er bevaret med en variant af standarden. JPEG-filformatet blev oprettet med det formål at lagre en lille mængde data og giver mulighed for nem overførsel mellem platforme og apps. JPEG File Interchange Format er forkortelsen for JPEG File Interchange Format.",
+    "DetailedInformation": "JFIF-formatet angiver mange egenskaber, der manglede i det oprindelige JPEG-format. Brugere var i stand til at gemme og dele filer ved hjælp af JPEG-komprimering efter at have defineret disse egenskaber, som omfattede en standard header, opløsning og billedformat og farvemodel. Mange digitale kameraer bruges til at gemme billeder i JFIF-format. Men da JPEG-formatet forbedrede sig over tid, blev JFIF-standarden stort set forældet.",
+    "Softwaresused": [
+        {
+            "platform": "vinduer",
+            "softwares": [
+                {
+                    "name": "Billeder af Microsoft",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Gratis, inkluderet med OS"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg"
+                },
+                {
+                    "name": "ACD Systemer ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "Gratis prøveversion"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple Eksempel",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Gratis, inkluderet med OS"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "ACD Systemer ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "Gratis prøveversion"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        }
+    ]
+}

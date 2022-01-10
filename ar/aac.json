@@ -1,0 +1,153 @@
+{
+    "Format": "AAC",
+    "ShortName": "AAC",
+    "FullName": "Advanced Audio Coding File",
+    "Category": "ملف صوتي",
+    "Pros": "في الوقت الحاضر، يدرك المزيد من الأجهزة AAC. أحجام الملفات المشفرة أقل. تم تحقيق هدف توحيد المعايير. جودة الصوت متفوقة على MP3. المنتج متاح على نطاق واسع. عرض النطاق الترددي المتدفق محدود. التوافق مع مجموعة واسعة من الأجهزة. تتوفر مجموعة واسعة من خيارات التشفير.",
+    "Cons": "يستغرق الأمر وقتًا طويلاً للتشفير. أثناء عملية الترميز، يتم استخدام وحدة المعالجة المركزية بكثافة. أثناء فك التشفير، يكون استخدام وحدة المعالجة المركزية أعلى قليلاً. أصبحت منظمة الملفات أكثر تعقيدًا. على الرغم من أنها أقل، إلا أنها لا تزال خاسرة. دعم الأجهزة محدود. وضع علامات على الملفات غير متوافق دائمًا. قد يكون من المكلف للغاية ترميز AAC من الملفات الأصلية التي لا تفقد. لا يزال MP3 يعتبر أكثر «قياسيًا» من AAC.",
+    "Createdby": "مجموعة خبراء الصور المتحركة",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "1997",
+    "BasicInformation": "بالنسبة للترميز الصوتي بمعدلات بت متوسطة إلى عالية، AAC (ترميز الصوت المتقدم) هو الخلف المنطقي لـ MP3 (ISO/MPEG Audio Layer-3) (ISO/MPEG Audio Layer-3). تنسيق الصوت المضغوط هذا قابل للمقارنة مع ملف MP3، ولكن لديه بعض مزايا الأداء. كفاءة ترميز أعلى لكل من الإشارات المستقرة والعابرة، وبنك مرشح أصغر، وتحسين التعامل مع الترددات التي تتجاوز 16 كيلو هرتز ليست سوى أمثلة قليلة.",
+    "DetailedInformation": "يستخدم Apple iTunes ومتجر iTunes Music الترميز الصوتي المتقدم (AAC) كترميز افتراضي. مفهوم خوارزمية AAC هو استخدام مخططين أساسيين للترميز لتقليل كمية البيانات المطلوبة لنقل صوت رقمي عالي الجودة بشكل كبير. تحتوي ملفات AAC على ترددات عينات أكثر من ملفات MP3، بالإضافة إلى ما يصل إلى 48 قناة، وكفاءة فائقة لبنك الترشيح والترميز، ودقة ترميز إشارة عابرة أفضل. تقوم ملفات AAC، مثل ملفات MP3، بإزالة الترددات الصوتية التي لا تستطيع الأذن البشرية معالجتها، مما يؤدي إلى ملفات أصغر وأكثر قابلية للإدارة. ملفات AAC أقل بكثير من ملفات MP3 من حيث مساحة الملف.",
+    "Softwaresused": [
+        {
+            "platform": "لينكس",
+            "softwares": [
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "Mplayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "كليمنتين",
+                    "link": "https://www.clementine-player.org/about",
+                    "image": "/assets/fileimg/F87GDJM.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "XMMS",
+                    "link": "http://www.xmms.org/",
+                    "image": "/assets/fileimg/hodO9zz.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "شبابيك",
+            "softwares": [
+                {
+                    "name": "عارض الملفات بلس - احصل عليه من Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "Mplayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "نولسوفت وينامب",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "رفيق",
+            "softwares": [
+                {
+                    "name": "آبل اي تيونز",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "Mplayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "روكسيو توست 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "مدفوعة"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "أوليمسفت أوبلاير",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "مدفوعة"
+                },
+                {
+                    "name": "RealNetworks RealTimes: صانع الفيديو",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "فريميوم"
+                }
+            ]
+        },
+        {
+            "platform": "أندرويد",
+            "softwares": [
+                {
+                    "name": "عارض الملفات لنظام Android",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "Videolabs VLC لالروبوت",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "RealNetworks RealTimes: صانع الفيديو",
+                    "link": "https://play.google.com/store/apps/details?id=com.real.RealPlayerCloud",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "فريميوم"
+                }
+            ]
+        }
+    ]
+}

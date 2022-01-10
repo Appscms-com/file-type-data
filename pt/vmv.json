@@ -1,0 +1,48 @@
+{
+    "Format": "VMV",
+    "ShortName": "VMV",
+    "FullName": "VisualBoyAdvance Recording",
+    "Category": "Arquivos de jogos",
+    "Pros": "n/a",
+    "Cons": "n/a",
+    "Createdby": "Avanço Visual Boy",
+    "CreatedbyLink": "https://visualboyadvance.en.softonic.com/",
+    "CreatedInYear": "N/A",
+    "BasicInformation": "VisualBoyAdvance, um emulador do Gameboy Advance, criou uma gravação de jogo que salva as teclas digitadas e outros dados que permitem que a gravação seja reproduzida no emulador. A gravação é salva em um formato proprietário que não pode ser reproduzido por reprodutores de vídeo padrão.",
+    "DetailedInformation": "O formato VMV usado pelo VisualBoyAdvance é incompatível com o formato VMV usado pelo VirtuaNES.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Avanço Visual Boy",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "Grátis"
+                }
+            ]
+        },
+        {
+            "platform": "Janela",
+            "softwares": [
+                {
+                    "name": "Avanço Visual Boy",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "Grátis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Avanço Visual Boy",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "Grátis"
+                }
+            ]
+        }
+    ]
+}

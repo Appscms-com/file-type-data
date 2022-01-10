@@ -1,0 +1,152 @@
+{
+    "Format": "SVG",
+    "ShortName": "SVG",
+    "FullName": "Scalable Vector Graphics File",
+    "Category": "ملف صورة المتجهات",
+    "Pros": "الحجم صغير جدًا. إنه مرن، أي يمكنك تغيير إعدادات الرسومات على الموقع على الفور باستخدام CSS، مثل لون الخلفية أو موقع الشعار على الصفحة. لا تؤدي قابلية التوسع إلى تدهور جودة الصورة. يوفر دعم المتصفح.",
+    "Cons": "إذا كان الكائن يحتوي على عدد كبير من العناصر الصغيرة، فإن حجم الملف ينمو بسرعة كبيرة. من المستحيل قراءة جزء فقط من شيء رسومي، عليك قراءة الكائن الكامل، الذي يبطئك.",
+    "Createdby": "أنظمة أدوبي",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "2001",
+    "BasicInformation": "SVG، أو رسومات متجه قابلة للتطوير، هو تنسيق ملف رسومات متجه ثنائي الأبعاد يعتمد على XML. وقد صممه اتحاد شبكة الويب العالمية (W3C) في عام 1999 كتنسيق قياسي لعرض الصور المتجهة على شبكة الإنترنت. يستخدم تنسيق نص يستند إلى XML لوصف الصور. يتم تطوير ملفات SVG كمعيار ويب لعرض الرسومات المتجهة.",
+    "DetailedInformation": "تنسيق SVG هو معيار مفتوح تم إنشاؤه بواسطة اتحاد الويب العالمي (W3C)، حيث تلعب Adobe دورًا رئيسيًا. يمكن لمنتجات Adobe Creative Suite مثل Illustrator و GoLive إنتاج وتصدير صور SVG. يتيح SVG للمستخدمين البحث عن الصور وفهرستها والبرنامج النصي وضغط الصور، مما يتيح التفاعل والرسوم المتحركة. نظرًا لأن ملفات SVG هي ملفات XML، يمكن لمحرري النصوص الوصول إليها وتوليدها وتحريرها، ولكن برنامج الرسم هو المنشئ الأكثر شيوعًا لهذا النوع من الملفات. ضغط البيانات بدون فقدان ممكن مع ملفات SVG. وهي تدعم النص وكذلك الرسومات النقطية والمتجهات. SVG هو معيار XML يحدد الرسومات المستندة إلى المتجه لاستخدام الإنترنت. لا تتأثر جودة الصورة بالتكبير وتغيير الحجم. يمكن تحريك ملفات SVG في جميع مكوناتها وأقسام. يتم تضمين معايير W3C (بما في ذلك DOM و XSL) مع ملفات SVG الموصى بها من قبل W3C. تتكون صور المتجهات، مثل تلك التي تحتوي على تنسيق ملف SVG، من مجموعات محددة مسبقًا من النماذج، والتي تسمح بصور أكثر وضوحًا عند التكبير والتكبير.",
+    "Softwaresused": [
+        {
+            "platform": "لينكس",
+            "softwares": [
+                {
+                    "name": "جيمب",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "مجاني "
+                },
+                {
+                    "name": "جوجل كروم",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "إنكسكيب",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "موزيلا فايرفوكس",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "طلاء الألوان",
+                    "link": "http://kolourpaint.sourceforge.net/",
+                    "image": "/assets/fileimg/3JbciOH.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "شبابيك",
+            "softwares": [
+                {
+                    "name": "عارض الملفات بلس - احصل عليه من Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "إنكسكيب",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "جيمب",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "مجاني "
+                },
+                {
+                    "name": "أدوبي فوتوشوب 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg"
+                },
+                {
+                    "name": "أدوبي إيلوستراتور 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                }
+            ]
+        },
+        {
+            "platform": "رفيق",
+            "softwares": [
+                {
+                    "name": "إنكسكيب",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "جيمب",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "مجاني "
+                },
+                {
+                    "name": "أدوبي إيلوستراتور 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "جوجل كروم",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "موزيلا فايرفوكس",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "جوجل كروم",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "أندرويد",
+            "softwares": [
+                {
+                    "name": "عارض الملفات لنظام Android",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "فريميوم"
+                }
+            ]
+        },
+        {
+            "platform": "نظام كرومي أوس",
+            "softwares": [
+                {
+                    "name": "جوجل كروم",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        }
+    ]
+}

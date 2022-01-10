@@ -1,0 +1,48 @@
+{
+    "Format": "VMV",
+    "ShortName": "VMV",
+    "FullName": "VisualBoyAdvance Recording",
+    "Category": "Oyun dosyaları",
+    "Pros": "N/A",
+    "Cons": "n/a",
+    "Createdby": "VisualBoyAdvance",
+    "CreatedbyLink": "https://visualboyadvance.en.softonic.com/",
+    "CreatedInYear": "N/A",
+    "BasicInformation": "VisualBoyAdvance, bir Gameboy Advance emülatörü, tuş vuruşlarını ve kayıt emülatörü tekrar çalınmasını sağlayan diğer verileri kaydeden bir oyun kaydı yarattı. Kayıt, standart video oynatıcılar tarafından oynatılamayan tescilli bir biçimde kaydedilir.",
+    "DetailedInformation": "VisualBoyAdvance tarafından kullanılan VMV formatı VirtuaNES tarafından kullanılan VMV formatı ile uyumsuz.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VisualBoyAdvance",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "VisualBoyAdvance",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "VisualBoyAdvance",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "Format": "WEBM",
+    "ShortName": "WEBM",
+    "FullName": "WebM Video File",
+    "Category": "비디오 파일",
+    "Pros": "우수한 품질의 비디오.누구나 무료로 공개되는 이 행사에 참여할 수 있습니다.인기 사이트로는 유튜브, 포찬, 비메오 등이 있습니다.",
+    "Cons": "일부 브라우저와 미디어 플레이어만 지원됩니다.대부분의 모바일 기기에서는 게임을 할 수 없습니다.",
+    "Createdby": "구글",
+    "CreatedbyLink": "https://developers.google.com/",
+    "CreatedInYear": "2010",
+    "BasicInformation": "WEBM 파일은 WebM 형식으로 저장된 비디오로, 로열티가 없는 개방형 비디오 공유 표준입니다.WebM은 Matroska (.MKV) 비디오 형식에 필적하는 컨테이너 구조에 오디오 및 비디오 데이터를 모두 보관합니다.VP8 또는 VP9 비디오 코덱은 비디오를 압축하는 데 사용되며 Vorbis 또는 Opus 오디오 코덱은 오디오를 압축하는 데 사용됩니다.",
+    "DetailedInformation": "WEBM 파일 형식은 Matroska 파일 컨테이너를 사용하고 로열티가 없는 HTML5 비디오에 사용하기 위한 것입니다.WEBM 비디오 재생은 모질라 파이어폭스, 오페라 및 구글 크롬에서 지원되지만 인터넷 익스플로러 9와 사파리는 일반적으로 WEBM 미디어를 재생하려면 타사 도움말 (예: QuickTime) 이 필요합니다.HTML5 플레이어 실험의 일환으로 YouTube는 WEBM 파일을 사용합니다.WebM 미디어 파일을 재생하려면 브라우저가 지원하지 않는 WebM 플러그인 (예: Safari 또는 Internet Explorer) 을 다운로드해야 합니다.WebM은 특허받은 H.264 및 H.265 표준을 대체하는 로열티가 없는 오픈 소스 제품입니다.이 기술은 완전 무료이기 때문에 비즈니스 및 비상업적 목적 모두에 적합합니다.",
+    "Softwaresused": [
+        {
+            "platform": "리눅스",
+            "softwares": [
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "핸드 브레이크",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "모질라",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "오페라",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "Ffmpeg",
+                    "link": "http://ffmpeg.org/",
+                    "image": "/assets/fileimg/wAHKc6t.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "윈도우",
+            "softwares": [
+                {
+                    "name": "파일 뷰어 플러스 — 마이크로소프트에서 다운로드",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "마이크로소프트 윈도 미디어 플레이어",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "핸드 브레이크",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg"
+                },
+                {
+                    "name": "구글 크롬",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "맥",
+            "softwares": [
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "핸드 브레이크",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "엘티마 엘미디어 플레이어",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "셰드웍스 스마트 컨버터",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "무료 평가판"
+                },
+                {
+                    "name": "모질라",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "올림소프트 플레이어",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "유료"
+                },
+                {
+                    "name": "펜타루프 플레이어익스트림 미디어 플레이어",
+                    "link": "https://apps.apple.com/us/app/playerxtreme-media-player/id456584471?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/uoX9gqI.jpeg",
+                    "type": "부분 유료화"
+                }
+            ]
+        },
+        {
+            "platform": "기계적 인조 인간",
+            "softwares": [
+                {
+                    "name": "안드로이드용 파일 뷰어",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "부분 유료화"
+                }
+            ]
+        },
+        {
+            "platform": "크롬 OS",
+            "softwares": [
+                {
+                    "name": "구글 크롬",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "무료"
+                }
+            ]
+        }
+    ]
+}

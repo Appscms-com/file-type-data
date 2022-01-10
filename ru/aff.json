@@ -1,0 +1,66 @@
+{
+    "Format": "AFF",
+    "ShortName": "AFF",
+    "FullName": "Advanced Forensics Format",
+    "Category": "Файлы данных",
+    "Pros": "Открытая и расширяемая. Без патентов. Сжатый и доступный для поиска. Двухслойный. Гибкость.",
+    "Cons": "Не популярна. Отсутствие прозрачности. ",
+    "Createdby": "Симсон Гарфинкель и Базис Текнолоджи",
+    "CreatedbyLink": "https://www.basistech.com/",
+    "CreatedInYear": "2005-2006",
+    "BasicInformation": "Файл AFF - это файл словаря проверки орфографии, используемый бесплатными программами офисного пакета Kingsoft WPS Office и Apache OpenOffice. Он содержит информацию о файле словаря.dic для проверки орфографии, который поставляется вместе с ним.",
+    "DetailedInformation": "Файлы AFF и DIC используются для добавления новых словарей проверки орфографии в WPS Office для различных языков, включая итальянский и французский. Как правило, пользователи загружают файлы. Извлеките содержимое пакетов словарей ZIP, содержащих файлы AFF и DIC, а затем установите их в WPS Office.",
+    "Softwaresused": [
+        {
+            "platform": "Линукс",
+            "softwares": [
+                {
+                    "name": "Офис WPS Кингсофт",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "Фримиум"
+                },
+                {
+                    "name": "Открытый офис Apache",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Офис WPS Кингсофт",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "Фримиум"
+                },
+                {
+                    "name": "Открытый офис Apache",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        },
+        {
+            "platform": "Мак",
+            "softwares": [
+                {
+                    "name": "Офис WPS Кингсофт",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "Фримиум"
+                },
+                {
+                    "name": "Открытый офис Apache",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "Бесплатный"
+                }
+            ]
+        }
+    ]
+}

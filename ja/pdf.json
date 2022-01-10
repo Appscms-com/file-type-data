@@ -1,0 +1,212 @@
+{
+    "Format": "PDF",
+    "ShortName": "PDF",
+    "FullName": "Portable Document Format",
+    "Category": "ページレイアウトファイル/ドキュメント",
+    "Pros": "PDFは非常に一般的なファイル形式です。PDFは、作成されたのと同じように、どのオペレーティングシステムでもどのデバイスでも表示できます。とても見やすいです。PDFは多くの画像圧縮技術をサポートしているため、ハードドライブの容量は比較的少なくて済みます。セキュリティ設定は、印刷や編集を禁止するなど、ユーザーがカスタマイズできます。この形式では、電子署名を使用してドキュメントの真正性を検証できます。",
+    "Cons": "PDFファイルの編集は無料ではありません。他のファイル形式は PDF ファイルよりも編集が簡単で、専用のツールで変更する必要があります。PDF ファイル内のテキストは画像として解釈されるため、作業は困難です。",
+    "Createdby": "アドビシステムズ",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "1993",
+    "BasicInformation": "Adobe Systems は、ポータブルドキュメントフォーマットの略である PDF フォーマットを作成しました。PDF ファイルは、さまざまなプログラム、ハードウェア、およびオペレーティングシステムと互換性のある定義済みレイアウト (図と同様) でドキュメントを表示します。これにより、ユーザーは多くの画像、フォント、およびテキスト形式を単一の印刷可能なドキュメントにまとめて、どのデバイスからでも共有できます。",
+    "DetailedInformation": "PDF はオープンスタンダードなので、ライセンス料を支払うことなく PDF を読み書きできるアプリを誰でも作成できます。2004 年以降、3D アートワークがサポートされ、これらのファイルはパスワードによる保護、暗号化、および変更が可能です。Adobe Acrobat Reader（マルチプラットフォーム）や Adobe Acrobat（マルチプラットフォーム）など、PDF ファイルを編集できるさまざまなアプリケーションで PDF ファイルを開いて表示できます。Adobe Acrobat または任意の PDF アプリケーションでは、PDF ファイルが生成されます。これはマルチプラットフォームのドキュメントです。PDF形式は、さまざまなプラットフォームで表示できる共通の形式で文書や出版物を保存するために広く使用されています。多くの場合、PDF ファイルを最初から作成する代わりに、PDF ファイルは既存のドキュメントから作成されます。PDF ファイルは、ワードプロセッサ、画像エディタ、Adobe Acrobat などの PDF ファイルユーティリティなど、さまざまなツールを使用して作成できます。Windows および macOS では、「印刷」ダイアログを使用してドキュメントから PDF ファイルを作成することもできます。",
+    "Softwaresused": [
+        {
+            "platform": "リナックス",
+            "softwares": [
+                {
+                    "name": "Adobe アクロバットリーダー DC",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "グーグルクローム",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "エヴィンス",
+                    "link": "https://wiki.gnome.org/Apps/Evince",
+                    "image": "/assets/fileimg/diIDQ4M.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "LibreOffice",
+                    "link": "https://www.libreoffice.org/",
+                    "image": "/assets/fileimg/cPO8bqH.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "KDE オキュラー",
+                    "link": "https://okular.kde.org/",
+                    "image": "/assets/fileimg/PtakFU2.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Adobe アクロバットリーダー DC",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "グーグルクローム",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "LibreOffice",
+                    "link": "https://www.libreoffice.org/",
+                    "image": "/assets/fileimg/cPO8bqH.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "マイクロソフトエッジ",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "マック",
+            "softwares": [
+                {
+                    "name": "Adobe アクロバットリーダー DC",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "グーグルクローム",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "Apple プレビュー",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "LibreOffice",
+                    "link": "https://www.libreoffice.org/",
+                    "image": "/assets/fileimg/cPO8bqH.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "アップルブックス",
+                    "link": "https://www.apple.com/apple-books/",
+                    "image": "/assets/fileimg/5938cLE.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "アップルページ",
+                    "link": "https://apps.apple.com/us/app/pages/id361309726",
+                    "image": "/assets/fileimg/38SErjW.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "グーグル・ドライブ",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "Adobe アクロバットリーダー DC",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "フリートライアル"
+                },
+                {
+                    "name": "good.iware GoodReader",
+                    "link": "https://apps.apple.com/app/id777310222?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/mF1gtxb.jpeg",
+                    "type": "有料"
+                }
+            ]
+        },
+        {
+            "platform": "アンドロイド",
+            "softwares": [
+                {
+                    "name": "グーグル・ドライブ",
+                    "link": "https://www.apple.com/apple-books/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "Adobe アクロバットリーダー DC",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "アンドロイド用ファイルビューアー",
+                    "link": "https://play.google.com/store/apps/details?id=com.sharpened.androidfileviewer",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "マイクロソフト OneDrive",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "グーグルプレイブックス",
+                    "link": "https://play.google.com/store/apps/details?id=com.google.android.apps.books&hl=en",
+                    "image": "/assets/fileimg/rrCOBeO.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "グーグル・ドライブ",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "グーグルクローム",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "セジャ PDF エディター",
+                    "link": "https://www.sejda.com/pdf-editor",
+                    "image": "/assets/fileimg/8A6rYqw.jpeg",
+                    "type": "フリーミアム"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "Format": "FLV",
+    "ShortName": "FLV",
+    "FullName": "Flash Video File",
+    "Category": "विडियो फाइल",
+    "Pros": "फ़िल्में, ऑनलाइन प्रस्तुतियाँ, बैनर विज्ञापन, इंटरनेट एनिमेशन और फ़्लैश के अन्य उपयोग केवल कुछ उदाहरण हैं। 90% से अधिक वेबसाइट विज़िटर इसे देख पाएंगे। फ्लैश फाइलें अक्सर डाउनलोड करने के लिए छोटी और सीधी होती हैं। फ्लैश को ब्रॉडबैंड और डायल-अप कनेक्शन दोनों के साथ-साथ पुराने, धीमे सिस्टम पर भी देखा जा सकता है। वीडियो फ़ाइलों की एक विस्तृत श्रृंखला को आसानी से फ्लैश प्रारूप में परिवर्तित किया जा सकता है।",
+    "Cons": "फ्लैश सामग्री बनाने के लिए यह महंगा और समय लेने वाला हो सकता है। चूंकि खोज इंजन मकड़ियों फ्लैश फ़ाइलों की पहचान नहीं करते हैं, इसलिए वे साइट अनुकूलन में योगदान नहीं करते हैं। फ्लैश की विशेषता वाले वेब पेज तक पहुंचने पर, आगंतुकों को लंबे समय तक प्रतीक्षा समय का सामना करना पड़ सकता है, खासकर यदि वे डायल-अप कनेक्शन का उपयोग कर रहे हों।",
+    "Createdby": "एडोब सिस्टम्स",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "2003",
+    "BasicInformation": "Adobe Flash Video (FLV) कंटेनर प्रारूप में सहेजी गई वीडियो फ़ाइल को FLV फ़ाइल के रूप में जाना जाता है। एक छोटा हेडर, सिंक्रनाइज़ ऑडियो और वीडियो डेटा स्ट्रीम (मानक Flash.SWF प्रारूप में स्ट्रीम के समान एन्कोडेड), और मेटाडेटा पैकेट सभी संग्रहीत हैं।",
+    "DetailedInformation": "Adobe Systems 'Flash Video Format YouTube, Hulu, Vevo और कई अन्य स्ट्रीमिंग वीडियो सेवाओं जैसी साइटों पर ऑनलाइन वीडियो के लिए व्यापक रूप से उपयोग किया जाता है। Adobe Flash Player (ब्राउज़र प्लग-इन सहित) और तृतीय-पक्ष सॉफ़्टवेयर लगभग हर ऑपरेटिंग सिस्टम (iOS के अपवाद के साथ) पर FLV फ़ाइलों को पढ़ और देख सकते हैं। 2003 में एडोब फ्लैश प्लेयर 7 के रिलीज के साथ, एफएलवी प्रारूप लॉन्च किया गया था। Adobe Flash Player मुख्य रूप से फिल्मों और टीवी एपिसोड जैसी ऑनलाइन वीडियो सामग्री की पेशकश करने के लिए इसका उपयोग करता है। दूसरी ओर, FLV एक खुला प्रारूप है जो विभिन्न प्रकार के गैर-एडोब/मैक्रोमीडिया ऐप द्वारा समर्थित है। फ़्लैश वीडियो निर्यातक प्लग-इन (Adobe Animate के साथ उपलब्ध) या FLV फ़ाइलों का समर्थन करने वाले किसी भी प्रोग्राम का उपयोग फ़्लैश वीडियो सामग्री का उत्पादन करने और इसे FLV फ़ाइलों के रूप में निर्यात करने के लिए किया जा सकता है। एडोब मीडिया एनकोडर के साथ, उपयोगकर्ता अब विभिन्न वीडियो प्रारूपों जैसे कि क्विकटाइम या विंडोज मीडिया को एन्कोड कर सकते हैं। 2010 के दशक में ऑनलाइन तकनीकों को उन्नत करने के बाद, फ्लैश की खामियां, जिसमें प्रदर्शन और सुरक्षा कमजोरियां शामिल थीं, तेजी से स्पष्ट हो गईं। एडोब और कई ऑनलाइन ब्राउज़र निर्माताओं ने औपचारिक रूप से 31 दिसंबर, 2020 को फ्लैश के लिए समर्थन बंद कर दिया, क्योंकि फ्लैश प्लेयर और एफएलवी प्रारूप का उपयोग घट गया।",
+    "Softwaresused": [
+        {
+            "platform": "लिनक्स",
+            "softwares": [
+                {
+                    "name": "वीडियोलैन वीएलसी मीडिया प्लेयर",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "रियलनेटवर्क्स रियलप्लेयर क्लाउड",
+                    "link": "https://www.real.com/in",
+                    "image": "/assets/fileimg/FdqTl1x.jpeg",
+                    "type": "फ़्रीमियम"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "फ़ाइल व्यूअर प्लस - इसे Microsoft से प्राप्त करें",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "वीडियोलैन वीएलसी मीडिया प्लेयर",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "Xilisoft वीडियो कन्वर्टर अल्टीमेट",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "नलसॉफ्ट विनम्प",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "मीडिया प्लेयर क्लासिक",
+                    "link": "https://github.com/clsid2/mpc-hc/",
+                    "image": "/assets/fileimg/PLx4Opv.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "मैक",
+            "softwares": [
+                {
+                    "name": "एपल क्विकटाइम प्लेयर",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "एडोब एनिमेट सीसी 2019",
+                    "link": "https://www.adobe.com/products/animate.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/pqcWQ2F.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "एल्टिमा एल्मेडिया प्लेयर",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "वीडियोलैन वीएलसी मीडिया प्लेयर",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "आईओएस",
+            "softwares": [
+                {
+                    "name": "रियलनेटवर्क्स रियलटाइम्स: वीडियो मेकर",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "फ़्रीमियम"
+                }
+            ]
+        },
+        {
+            "platform": "एंड्रॉयड",
+            "softwares": [
+                {
+                    "name": "बीआईटी लैब्स सिंपल MP4 वीडियो प्लेयर",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "एंटवप्लेयर मीडिया कन्वर्टर",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "J2 इंटरएक्टिव MX प्लेयर",
+                    "link": "https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en",
+                    "image": "/assets/fileimg/Cjoa7OB.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "रियलनेटवर्क्स रियलटाइम्स वीडियो मेकर",
+                    "link": "https://play.google.com/store/apps/details?id=com.real.RealPlayerCloud",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "फ़्रीमियम"
+                }
+            ]
+        }
+    ]
+}

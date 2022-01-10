@@ -1,0 +1,159 @@
+{
+    "Format": "MKV",
+    "ShortName": "MKV",
+    "FullName": "Matroska Video File",
+    "Category": "비디오 파일",
+    "Pros": "매우 유연합니다.손실 및 무손실 옵션이 있습니다.잘 문서화되었습니다.비독점.메타데이터를 추가할 수 있습니다.",
+    "Cons": "현재 MKV 파일을 재생할 수 있는 독립형 하드웨어 플레이어가 없습니다.더 큰 파일 크기.아직 개발 중입니다. ",
+    "Createdby": "마트로스카",
+    "CreatedbyLink": "https://www.matroska.org/",
+    "CreatedInYear": "2002",
+    "BasicInformation": "Matroska 멀티미디어 컨테이너 형식으로 저장된 비디오 파일을 MKV 파일이라고합니다..SRT, .SSA, .USF (범용 자막 형식) 및 VobSub 자막을 포함한 다양한 오디오 및 비디오 코덱을 처리 할 수 있습니다.짧은 비디오 클립, TV 프로그램 및 영화는 일반적으로 MKV 파일로 저장됩니다.",
+    "DetailedInformation": "Matroska 멀티미디어 컨테이너 (MKV) 는 비디오 데이터 저장을 위한 개방적이고 자유로운 표준입니다.이 파일에는 오디오, 비디오, 이미지 및 자막 트랙을 무제한으로 포함 할 수 있으므로 영화, 전체 TV 프로그램 등을 편리하게 저장할 수 있습니다.사용자는 원시 형식의 모든 다른 데이터 트랙으로 이동할 수 있습니다.다양한 비디오, 오디오, 이미지 및 자막 트랙을 가질 수 있다는 점에서 the.AVI, .ASF, and.MOV 형식과 비슷합니다.Matroska 비디오 파일은 하나 이상의 비디오 트랙을 저장하기 위해 Matroska 컨테이너 형식을 사용하고 the.mkv 파일 확장자로 식별되는 멀티미디어 파일입니다.짧은 비디오 스 니펫, TV 시리즈 및 영화를 저장하는 데 일반적으로 사용되는 MKV 형식은 애니메이션 팬들 사이에서 인기를 얻고 있습니다.이러한 사용자 중 다수는 자막을 추가하며 MKV 형식은 여러 오디오 및 자막 트랙을 하나의 파일에 결합 할 수 있기 때문에 특히 편리합니다.",
+    "Softwaresused": [
+        {
+            "platform": "리눅스",
+            "softwares": [
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "핸드 브레이크",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "윈도우",
+            "softwares": [
+                {
+                    "name": "파일 뷰어 플러스 — 마이크로소프트에서 다운로드",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "핸드 브레이크",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "미디어 플레이어 클래식",
+                    "link": "https://github.com/clsid2/mpc-hc/",
+                    "image": "/assets/fileimg/PLx4Opv.jpeg"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "맥",
+            "softwares": [
+                {
+                    "name": "엘티마 엘미디어 플레이어",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "셰드웍스 스마트 컨버터",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "무료 평가판"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "핸드 브레이크",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "올림소프트 플레이어",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "유료"
+                },
+                {
+                    "name": "모바일용 비디오란 VLC",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "Oka 앱 옴니 플레이어",
+                    "link": "https://apps.apple.com/us/app/omni-player-mkv-video-player/id1470926410",
+                    "image": "/assets/fileimg/TmHdEAq.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "펜타루프 플레이어익스트림 미디어 플레이어",
+                    "link": "https://apps.apple.com/us/app/playerxtreme-media-player/id456584471?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/uoX9gqI.jpeg",
+                    "type": "부분 유료화"
+                }
+            ]
+        },
+        {
+            "platform": "기계적 인조 인간",
+            "softwares": [
+                {
+                    "name": "비트 랩스 심플 MP4 비디오 플레이어",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "안드로이드용 비디오랩 VLC",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "안드로이드용 파일 뷰어",
+                    "link": "https://play.google.com/store/apps/details?id=com.sharpened.androidfileviewer",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "부분 유료화"
+                }
+            ]
+        }
+    ]
+}

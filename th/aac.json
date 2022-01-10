@@ -1,0 +1,153 @@
+{
+    "Format": "AAC",
+    "ShortName": "AAC",
+    "FullName": "Advanced Audio Coding File",
+    "Category": "แฟ้มเสียง",
+    "Pros": "ปัจจุบันมีอุปกรณ์มากขึ้นตระหนักถึง AACขนาดไฟล์ที่เข้ารหัสจะน้อยกว่าเป้าหมายของมาตรฐานได้รับการตอบสนองคุณภาพเสียงเหนือกว่า MP3ผลิตภัณฑ์ที่มีอยู่อย่างกว้างขวางสตรีมมิ่งแบนด์วิดธ์มี จำกัดความเข้ากันได้กับอุปกรณ์ที่หลากหลายมีตัวเลือกการเข้ารหัสหลากหลายรูปแบบ",
+    "Cons": "ต้องใช้เวลานานในการเข้ารหัสในระหว่างกระบวนการเข้ารหัส CPU ถูกใช้อย่างมากในระหว่างการถอดรหัสการใช้งาน CPU จะสูงขึ้นเล็กน้อยองค์กรไฟล์ได้กลายเป็นความซับซ้อนมากขึ้นแม้ว่ามันจะน้อยกว่า แต่ก็ยังเป็นพวกขี้แพ้การสนับสนุนฮาร์ดแวร์มีจำกัดการติดแท็กแฟ้มไม่สามารถใช้งานร่วมกันได้เสมอมันอาจจะมีราคาแพงเกินไปที่จะเข้ารหัส AAC จากไฟล์ต้นฉบับ LosslessMP3 ถือว่ายังคง “มาตรฐาน” กว่า AAC",
+    "Createdby": "กลุ่มผู้เชี่ยวชาญด้านภาพเคลื่อนไหว",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "1997",
+    "BasicInformation": "สำหรับการเข้ารหัสเสียงที่อัตราบิตปานกลางถึงสูง AAC (Advanced Audio Coding) เป็นตัวสืบทอดตรรกะของ MP3 (ISO/MPEG Audio Layer-3) (ISO/MPEG Audio Layer-3)รูปแบบเสียงที่บีบอัดนี้เทียบได้กับไฟล์ MP3 แต่ก็มีข้อได้เปรียบด้านประสิทธิภาพไม่กี่ประสิทธิภาพการเข้ารหัสที่สูงขึ้นสำหรับทั้งสัญญาณที่มีเสถียรภาพและชั่วคราว, ธนาคารกรองที่มีขนาดเล็ก, และการจัดการที่ดีขึ้นของความถี่เกิน 16 kHz เป็นเพียงตัวอย่างบางส่วน",
+    "DetailedInformation": "Apple iTunes และ iTunes Music Store จะใช้การเข้ารหัสเสียงขั้นสูง (AAC) เป็นการเข้ารหัสเริ่มต้นแนวคิดของอัลกอริทึม AAC คือการใช้รูปแบบการเขียนโค้ดพื้นฐานสองแบบเพื่อลดปริมาณข้อมูลที่จำเป็นในการส่งสัญญาณเสียงดิจิตอลคุณภาพสูงไฟล์ AAC มีความถี่ตัวอย่างมากกว่าไฟล์ MP3 รวมถึงได้ถึง 48 ช่องการเข้ารหัสที่เหนือกว่าและกรองประสิทธิภาพของธนาคารและความแม่นยำในการเข้ารหัสสัญญาณชั่วคราวที่ดีกว่าไฟล์ AAC เช่นไฟล์ MP3 ให้ลบความถี่เสียงที่หูมนุษย์ไม่สามารถประมวลผลได้ ส่งผลให้ไฟล์มีขนาดเล็กลงและสามารถจัดการได้มากขึ้นไฟล์ AAC มีค่าน้อยกว่าไฟล์ MP3 ในแง่ของพื้นที่ไฟล์",
+    "Softwaresused": [
+        {
+            "platform": "ลินุกซ์",
+            "softwares": [
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "คลีเมนไทน์",
+                    "link": "https://www.clementine-player.org/about",
+                    "image": "/assets/fileimg/F87GDJM.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "XMMS",
+                    "link": "http://www.xmms.org/",
+                    "image": "/assets/fileimg/hodO9zz.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์พลัส — รับได้จากไมโครซอฟท์",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "อะโดบี ออดิชั่น CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "นัลล์ซอฟท์ วินแอมป์",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "แอปเปิ้ลไอทูนส์",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "อะโดบี ออดิชั่น CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ร็อกซิโอ ขนมปังปิ้ง 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "จ่ายแล้ว"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "โอลิมซอฟท์ โอเพลเยอร์",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "จ่ายแล้ว"
+                },
+                {
+                    "name": "RealNetworks เรียลไทม์: เครื่องมือสร้างวิดีโอ",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "ฟรีเมียม"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์สำหรับ Android",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "วีดีโอแลบ VLC สำหรับ Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "RealNetworks เรียลไทม์: เครื่องมือสร้างวิดีโอ",
+                    "link": "https://play.google.com/store/apps/details?id=com.real.RealPlayerCloud",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "ฟรีเมียม"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "Format": "FLAC",
+    "ShortName": "FLAC",
+    "FullName": "Free Lossless Audio Codec",
+    "Category": "Аудіофайл",
+    "Pros": "Відмінна якість звуку в крихітному розмірі файлу. Багато систем сумісні з ним. Вихідний код відкритий, а ліцензія безкоштовна. Доступна апаратна допомога (PhatBox, Kenwood MusicKeg, Rio Karma тощо). Підтримка потокового передавання. Розшифровка дійсно швидка. Підтримуються канали багатоканальної і високої роздільної здатності. Replay Gain підтримується. Підтримує використання кия листа (з деякими обмеженнями) Як заміна вкоротити, він набирає популярність.",
+    "Cons": "Інші видатні поточні компресори (Monkey's Audio, LPAC, OptimFROG) стискаються більш ефективно. Більш високі параметри стиснення є млявими і забезпечують мінімальне поліпшення в порівнянні з налаштуванням за замовчуванням.",
+    "Createdby": "Фонд Xiph.Org",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "2001",
+    "BasicInformation": "Абревіатура FLAC відноситься до Free Lossless аудіокодек. FLAC - це формат MP3 без втрат. FLAC найчастіше використовується в класичній музиці, де якість звуку є критичним. FLAC виросла досить популярною в результаті якості звуку. Файли FLAC тепер можна відтворювати у вашому улюбленому плеєрі (або у вашому транспортному засобі або домашньому стерео) точно так само, як MP3 файли.",
+    "DetailedInformation": "FLAC - це формат стиснення аудіо, розроблений членами Xiph.org. Стиснення без втрат, а це означає, що дані не втрачаються, а якість не жертвується. FLAC дозволяє користувачам зберігати файли в оригінальній якості носія, що робить його відмінним для резервного копіювання аудіоданих, оскільки відчутні копії аудіофайлів схильні до знищення. FLAC - це широко прийнятий формат, який зменшує розмір цифрового звуку приблизно на 60% і, як правило, підтримується на більшості основних платформ. Фонд Xiph.Org створив формат, який є відкритим вихідним кодом. Разом із файлом FLAC можна створити файл відбитків пальців FLAC, який містить інформацію про ім'я файлу та контрольну суму файлу FLAC. Файли FLAC часто використовуються для потокового передавання та декодування в режимі реального часу. Проект FLAC складається з декількох компонентів, включаючи формат потоку, формат контейнера, довідкову бібліотеку кодера та декодера, а також плагіни введення.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "ВідеоЛан VLC медіаплеєр",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Зухвалість",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "aTunes",
+                    "link": "http://www.atunes.org/",
+                    "image": "/assets/fileimg/U6hLUgu.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "Вікна",
+            "softwares": [
+                {
+                    "name": "Переглядач файлів плюс — Отримати його від Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "ВідеоЛан VLC медіаплеєр",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Зухвалість",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "ВідеоЛан VLC медіаплеєр",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Зухвалість",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "aTunes",
+                    "link": "http://www.atunes.org/",
+                    "image": "/assets/fileimg/U6hLUgu.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Відеолан VLC для мобільних пристроїв",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Золотий колос",
+                    "link": "https://apps.apple.com/us/app/golden-ear/id407945101?ign-mpt=uo%3D8",
+                    "image": "/assets/fileimg/upbts7y.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Моліплеєр",
+                    "link": "https://apps.apple.com/us/app/moli-player-hd-free-movie-music-player-for-network/id598886783?ign-mpt=uo%3D8",
+                    "image": "/assets/fileimg/FAo0QEL.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Переглядач файлів для Android",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Відеолаб VLC для Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "jetAudio",
+                    "link": "https://play.google.com/store/apps/details?id=com.jetappfactory.jetaudio",
+                    "image": "/assets/fileimg/jcTagMw.jpeg",
+                    "type": "Фреміум"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Бета-версія Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        }
+    ]
+}

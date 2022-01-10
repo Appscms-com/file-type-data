@@ -1,0 +1,48 @@
+{
+    "Format": "VMV",
+    "ShortName": "VMV",
+    "FullName": "VisualBoyAdvance Recording",
+    "Category": "ملفات اللعبة",
+    "Pros": "n/a",
+    "Cons": "n/a",
+    "Createdby": "فيسوالبوي أدفانس",
+    "CreatedbyLink": "https://visualboyadvance.en.softonic.com/",
+    "CreatedInYear": "N/A",
+    "BasicInformation": "VisualBoyAdvance, محاكي Gameboy Advance, إنشاء تسجيل لعبة يحفظ ضغطات المفاتيح والبيانات الأخرى التي تسمح بتشغيل التسجيل مرة أخرى على المحاكي. يتم حفظ التسجيل بتنسيق خاص لا يمكن تشغيله بواسطة مشغلات الفيديو القياسية.",
+    "DetailedInformation": "تنسيق VMV المستخدم من قبل VisualBoyAdvance غير متوافق مع تنسيق VMV المستخدم من قبل VirtuaNES.",
+    "Softwaresused": [
+        {
+            "platform": "لينكس",
+            "softwares": [
+                {
+                    "name": "فيسوالبوي أدفانس",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "شبابيك",
+            "softwares": [
+                {
+                    "name": "فيسوالبوي أدفانس",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "رفيق",
+            "softwares": [
+                {
+                    "name": "فيسوالبوي أدفانس",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        }
+    ]
+}

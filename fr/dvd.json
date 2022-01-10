@@ -1,0 +1,26 @@
+{
+    "Format": "DVD",
+    "ShortName": "DVD",
+    "FullName": "DOS Device Driver",
+    "Category": "Fichiers système",
+    "Pros": "La capacité de stockage est énorme. La qualité du son et de l'image est excellente. Parce qu'ils sont produits en série, ils sont peu coûteux. Les CD peuvent être lus par des lecteurs de DVD.",
+    "Cons": "Les DVD ne sont pas compatibles avec les lecteurs de CD. Il n'existe pas de norme DVD unique. Les casser ou les gratter est un moyen simple de les ruiner.",
+    "Createdby": "N/A",
+    "CreatedbyLink": "n/a",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "Les fichiers DVD sont utilisés comme pilotes pour les périphériques MS-DOS. Ces fichiers de pilotes permettent à un ordinateur ou à un autre périphérique de communiquer avec le système d'exploitation, en l'occurrence MS-DOS. Ils peuvent être préconfigurés avec Windows ou nécessiter l'installation à partir d'un DVD fourni avec le matériel.",
+    "DetailedInformation": "Les fichiers DVD sont fréquemment confondus avec les fichiers vidéo contenant une copie d'un film sur un disque. Les fichiers vidéo sont normalement enregistrés en tant que fichiers VOB, malgré le fait que le média porte le nom de DVD. Les pilotes et les fichiers DVD sont parfois déjà installés sur Windows. Cependant, les pilotes peuvent parfois avoir besoin d'être installés manuellement. Cela se fait généralement à l'aide d'un disque ou d'un autre support fourni avec l'appareil. Sur leurs sites Web, plusieurs entreprises proposent également des téléchargements de pilotes pour leurs produits.",
+    "Softwaresused": [
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Microsoft MS-DOS",
+                    "link": "https://www.microsoft.com/en-us/p/ms-dos-mobile/9nblgggxzdtw?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/XxsKREw.jpeg",
+                    "type": "Gratuit"
+                }
+            ]
+        }
+    ]
+}

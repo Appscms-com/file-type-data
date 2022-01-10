@@ -1,0 +1,152 @@
+{
+    "Format": "SVG",
+    "ShortName": "SVG",
+    "FullName": "Scalable Vector Graphics File",
+    "Category": "Vektör Resim dosyası",
+    "Pros": "Boyutu oldukça küçük. Esnektir, yani arka plan rengi veya logonun sayfadaki konumu gibi CSS kullanarak sitedeki grafik ayarlarını anında değiştirebilirsiniz. Ölçeklenebilirlik görüntü kalitesini bozmaz. Tarayıcı desteği sağlar.",
+    "Cons": "Nesne önemli sayıda küçük öğe içeriyorsa, dosya boyutu çok hızlı büyür. Bir grafik şeyin sadece bir bölümünü okumak imkansızdır, sizi yavaşlatan tüm nesneyi okumalısınız.",
+    "Createdby": "Adobe Sistemleri",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "2001",
+    "BasicInformation": "SVG veya Ölçeklenebilir Vektör Grafikleri, XML tabanlı iki boyutlu bir vektör grafik dosyası formatıdır. World Wide Web Konsorsiyumu (W3C), 1999'da internette vektör görüntüleri sunmak için standart bir format olarak tasarladı. Görüntüleri tanımlamak için XML tabanlı bir metin biçimi kullanır. SVG dosyaları vektör grafiklerini görüntülemek için bir web standardı olarak geliştirilmektedir.",
+    "DetailedInformation": "SVG formatı, Adobe önemli bir rol oynayan World Wide Web Consortium (W3C) tarafından oluşturulan açık bir standarttır. Illustrator ve GoLive gibi Adobe Creative Suite ürünleri SVG resimleri üretebilir ve dışa aktarabilir. SVG, kullanıcıların resimlerde arama, dizin, komut dosyası ve sıkıştırma olanağı sağlayarak etkileşim ve animasyon sağlar. SVG dosyaları XML dosyaları olduğundan, metin düzenleyicileri bunlara erişebilir, oluşturabilir ve düzenleyebilir, ancak çizim yazılımı bu dosya türünün en tipik yaratıcısıdır. SVG dosyaları ile kayıpsız veri sıkıştırma mümkündür. Metnin yanı sıra raster ve vektör grafiklerini de destekliyorlar. SVG, internet kullanımı için vektör tabanlı grafikleri tanımlayan bir XML standardıdır. Görüntü kalitesi yakınlaştırma ve yeniden boyutlandırma tarafından etkilenmez. SVG dosyaları tüm bileşenlerinde ve bölümlerinde animasyonlu olabilir. W3C standartları (DOM ve XSL dahil), W3C tarafından önerilen SVG dosyalarına dahildir. SVG dosya biçimine sahip olanlar gibi vektör resimleri, yakınlaştırıldığında ve ölçeklendirildiğinde daha net görüntüler sağlayan önceden belirlenmiş form kümelerinden oluşur.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "SAKAL",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Ücretsiz "
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Mürekkep Manzarası",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "KolourPaint",
+                    "link": "http://kolourpaint.sourceforge.net/",
+                    "image": "/assets/fileimg/3JbciOH.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Microsoft'tan edinin",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Mürekkep Manzarası",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "SAKAL",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Ücretsiz "
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg"
+                },
+                {
+                    "name": "Adobe Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Ücretsiz deneme"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Mürekkep Manzarası",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "SAKAL",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Ücretsiz "
+                },
+                {
+                    "name": "Adobe Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Ücretsiz deneme"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Android için dosya görüntüleyici",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        }
+    ]
+}

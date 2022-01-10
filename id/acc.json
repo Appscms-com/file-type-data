@@ -1,0 +1,26 @@
+{
+    "Format": "ACC",
+    "ShortName": "ACC",
+    "FullName": "Graphics Accounts Data File",
+    "Category": "Berkas Data",
+    "Pros": "n/a",
+    "Cons": "n/a",
+    "Createdby": "Perangkat Lunak FKJ",
+    "CreatedbyLink": "https://download.cnet.com/developer/fkj-software/i-6201467/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "File ACC adalah format file Data Akun Grafis. Untuk Akun Grafis, file ini berisi informasi akun keuangan. Ini adalah alat yang membantu Anda membuat dan mengelola anggaran pribadi. Ini bisa berisi informasi dari satu atau lebih rekening bank.",
+    "DetailedInformation": "File ACC berisi data akun keuangan untuk akun grafis. Mereka dapat dibuka bersamaan dengan anggaran (.BGT) file.",
+    "Softwaresused": [
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Akun Grafis Perangkat Lunak FKJ",
+                    "link": "https://download.cnet.com/developer/fkj-software/i-6201467/",
+                    "image": "https://image.flaticon.com/icons/png/512/1063/1063308.png",
+                    "type": "Gratis"
+                }
+            ]
+        }
+    ]
+}

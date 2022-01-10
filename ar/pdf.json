@@ -1,0 +1,212 @@
+{
+    "Format": "PDF",
+    "ShortName": "PDF",
+    "FullName": "Portable Document Format",
+    "Category": "ملف/مستند تخطيط الصفحة",
+    "Pros": "PDF هو تنسيق ملف شائع جدًا. بنفس الطريقة التي تم إنشاؤها بها، يمكن عرض PDF على أي جهاز مع أي نظام تشغيل. من السهل جدًا عرضها. نظرًا لأنه يدعم عددًا من تقنيات ضغط الصور، فإن PDF يأخذ مساحة ضئيلة نسبيًا على محرك الأقراص الثابتة. يمكن تخصيص إعدادات الأمان من قبل المستخدم، على سبيل المثال، حظر الطباعة أو التحرير. يسمح التنسيق باستخدام التوقيعات الإلكترونية للتحقق من صحة المستند.",
+    "Cons": "تحرير ملفات PDF ليس مجانيًا. تنسيقات الملفات الأخرى أسهل في التحرير من ملفات PDF، والتي يجب تعديلها باستخدام أدوات متخصصة. يعد العمل مع النص في ملفات PDF أمرًا صعبًا نظرًا لأنه يتم تفسيره على أنه صورة.",
+    "Createdby": "أنظمة أدوبي",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "1993",
+    "BasicInformation": "أنشأت Adobe Systems تنسيق PDF، والذي يرمز إلى تنسيق المستندات المحمولة. تعرض ملفات PDF مستندًا في تخطيط محدد (يشبه إلى حد كبير صورة) متوافق مع مجموعة واسعة من البرامج والأجهزة وأنظمة التشغيل. يسمح للمستخدم بدمج العديد من الصور والخطوط وتنسيقات النصوص في مستند واحد جاهز للطباعة يمكن مشاركته من أي جهاز.",
+    "DetailedInformation": "نظرًا لأن PDF هو معيار مفتوح، يمكن لأي شخص إنشاء تطبيقات يمكنها قراءة وكتابة ملفات PDF دون دفع رسوم ترخيص. منذ عام 2004، تم دعم العمل الفني ثلاثي الأبعاد، ويمكن تأمين هذه الملفات بكلمة مرور وتشفيرها وتغييرها. يمكن لمجموعة متنوعة من التطبيقات فتح وعرض ملفات PDF، بما في ذلك Adobe Acrobat Reader (متعدد المنصات) و Adobe Acrobat (متعدد المنصات)، والذي يمكنه أيضًا تحريرها. يقوم Adobe Acrobat أو أي تطبيق PDF بإنشاء ملف PDF. إنها وثيقة متعددة الأنظمة الأساسية. يستخدم تنسيق PDF على نطاق واسع لحفظ المستندات والمنشورات بتنسيق مشترك يمكن عرضه على مجموعة متنوعة من الأنظمة الأساسية. في كثير من الظروف، بدلاً من إنشاء ملفات PDF من البداية، يتم إنتاج ملفات PDF من المستندات الموجودة. يمكن إنشاء ملفات PDF باستخدام مجموعة متنوعة من الأدوات، بما في ذلك معالجات النصوص ومحرري الصور وأدوات ملفات PDF مثل Adobe Acrobat. في نظامي التشغيل Windows و macOS، يمكنك أيضًا إنشاء ملفات PDF من المستندات باستخدام حوار الطباعة.",
+    "Softwaresused": [
+        {
+            "platform": "لينكس",
+            "softwares": [
+                {
+                    "name": "أدوبي أكروبات ريدر",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "جوجل كروم",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "إيفينس",
+                    "link": "https://wiki.gnome.org/Apps/Evince",
+                    "image": "/assets/fileimg/diIDQ4M.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "ليبر أوفيس",
+                    "link": "https://www.libreoffice.org/",
+                    "image": "/assets/fileimg/cPO8bqH.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "كي دي أوكولار",
+                    "link": "https://okular.kde.org/",
+                    "image": "/assets/fileimg/PtakFU2.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "شبابيك",
+            "softwares": [
+                {
+                    "name": "أدوبي أكروبات ريدر",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "جوجل كروم",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "ليبر أوفيس",
+                    "link": "https://www.libreoffice.org/",
+                    "image": "/assets/fileimg/cPO8bqH.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "ميكروسوفت إيدج",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg"
+                },
+                {
+                    "name": "موزيلا فايرفوكس",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "رفيق",
+            "softwares": [
+                {
+                    "name": "أدوبي أكروبات ريدر",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "جوجل كروم",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "موزيلا فايرفوكس",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "معاينة أبل",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "ليبر أوفيس",
+                    "link": "https://www.libreoffice.org/",
+                    "image": "/assets/fileimg/cPO8bqH.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "كتب أبل",
+                    "link": "https://www.apple.com/apple-books/",
+                    "image": "/assets/fileimg/5938cLE.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "صفحات أبل",
+                    "link": "https://apps.apple.com/us/app/pages/id361309726",
+                    "image": "/assets/fileimg/38SErjW.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "محرك جوجل",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "أدوبي أكروبات ريدر",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "Good.iWare قارئ جيد",
+                    "link": "https://apps.apple.com/app/id777310222?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/mF1gtxb.jpeg",
+                    "type": "مدفوعة"
+                }
+            ]
+        },
+        {
+            "platform": "أندرويد",
+            "softwares": [
+                {
+                    "name": "محرك جوجل",
+                    "link": "https://www.apple.com/apple-books/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "أدوبي أكروبات ريدر",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "عارض الملفات لنظام Android",
+                    "link": "https://play.google.com/store/apps/details?id=com.sharpened.androidfileviewer",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "مايكروسوفت أوندريف",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "كتب جوجل بلاي",
+                    "link": "https://play.google.com/store/apps/details?id=com.google.android.apps.books&hl=en",
+                    "image": "/assets/fileimg/rrCOBeO.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "نظام كرومي أوس",
+            "softwares": [
+                {
+                    "name": "محرك جوجل",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "جوجل كروم",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "محرر Sedja PDF",
+                    "link": "https://www.sejda.com/pdf-editor",
+                    "image": "/assets/fileimg/8A6rYqw.jpeg",
+                    "type": "فريميوم"
+                }
+            ]
+        }
+    ]
+}

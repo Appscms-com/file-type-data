@@ -1,0 +1,88 @@
+{
+    "Format": "OPUS",
+    "ShortName": "OPUS",
+    "FullName": "Opus Audio File",
+    "Category": "Аудіофайл",
+    "Pros": "Дозволяє швидше передавати дані по декількох каналах. Тести якості звуку показують, що він більш ефективно відновлює оригінальний звук при різних бітрейтах і частоті дискретизації. Забезпечує стабільну роботу в різних ситуаціях. Орієнтована на майбутнє структура для численних телекомунікаційних послуг. Адаптивна під тип звукової інформації. Може частково компенсувати втрати якості під час передачі, дозволяючи безперервної живої передачі даних без перерв. ",
+    "Cons": "Не підтримується кількома додатками. Opus кодек є рідкістю.",
+    "Createdby": "Xiph.Org ",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "2012",
+    "BasicInformation": "Opus - це новий кодек, створений командою експертів з Фонду Xiph.Org (корпорація Mozilla) та Skype Technologies S.A. (Microsoft). Він має всі переваги MP3, мінімізуючи його недоліки. Opus поєднує в собі кодеки CELT і SILK.",
+    "DetailedInformation": "Файл OPUS - це аудіофайл із втратами, створений у форматі Opus (іноді відомий як «Ogg Opus»), який був розроблений для потокової передачі Інтернету. Він підтримує різні бітові швидкості від 6 кб/с до 510 кб/с і використовує як SILK (використовується Skype) і CELT (від Xiph.Org) кодеки. Передача голосу через IP (VoIP), відеоконференції та чат у грі використовують кодек Opus. IETF визначив формат Opus, який широко використовується. IETF стандартизував формат Opus, який підтримується Xiph.Org. Оскільки кодек Opus в основному використовується для потокової передачі, файли з розширенням.opus є рідкістю.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "ВідеоЛан VLC медіаплеєр",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "Вікна",
+            "softwares": [
+                {
+                    "name": "Переглядач файлів плюс — Отримати його від Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "ВідеоЛан VLC медіаплеєр",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "AIMP",
+                    "link": "http://www.aimp2.us/",
+                    "image": "/assets/fileimg/sOBpiyF.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Фубар2000",
+                    "link": "https://www.foobar2000.org/",
+                    "image": "/assets/fileimg/c2PuNRk.jpeg"
+                },
+                {
+                    "name": "Opus Інструменти",
+                    "link": "https://www.opus-codec.org/downloads/",
+                    "image": "/assets/fileimg/7xNWYRA.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "ВідеоЛан VLC медіаплеєр",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Переглядач файлів для Android",
+                    "link": "",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Opus Гравець",
+                    "link": "https://play.google.com/store/apps/details?id=com.littlepako.opusplayer3&hl=en_US&gl=US",
+                    "image": "/assets/fileimg/irCSU4s.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "Format": "AI",
+    "ShortName": "AI",
+    "FullName": "Adobe Illustrator File",
+    "Category": "矢量圖像文件",
+    "Pros": "支持圖層。可以包含文本元素。分辨率是無限的。提供透明度。它們的規模相對較小。",
+    "Cons": "它依賴於軟件。不適合使用像素。",
+    "Createdby": "Adobe 系統",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "2000",
+    "BasicInformation": "使用 Adobe Illustrator（矢量圖形編輯應用程序）生成的設計稱為 AI 文件。它不是位圖圖像數據，而是由點連接的路徑組成。AI 文件可以在不犧牲圖像質量的情況下調整大小，因為它們以矢量格式保存。",
+    "DetailedInformation": "Adobe 插圖作品 (AI) 文件是適合單個頁面的矢量圖形，由 Adobe 系統為 Adobe 插圖師創建。它們通常以 EPS 或 PDF 文件格式保存。圖形設計師通常使用 Illustrator 創建矢量圖稿，如圖標、徽標、標誌和模型。Illustrator 創建一個 AI 文件，用於在存儲數字圖稿時存儲其內容。您可以關閉文件，重新打開它，並在保存後繼續更改圖稿。Adobe Illustrator 會使用 AI 文件擴展名保存這些設計，如果這些設計已保存以供將來編輯。",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "免費 "
+                },
+                {
+                    "name": "SK1",
+                    "link": "https://github.com/sk1project/sk1-wx",
+                    "image": "/assets/fileimg/MX9qrvZ.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "墨跡景觀",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "視窗",
+            "softwares": [
+                {
+                    "name": "雜技演員",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "免費試用"
+                },
+                {
+                    "name": "墨跡景觀",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "圖片店",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "免費試用"
+                },
+                {
+                    "name": "圖畫家 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg"
+                },
+                {
+                    "name": "Ideamk 愛查看器",
+                    "link": "https://aiviewer.com/",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "蘋果預覽",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                },
+                {
+                    "name": "圖畫家 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "免費試用"
+                },
+                {
+                    "name": "雜技演員",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "免費試用"
+                },
+                {
+                    "name": "圖片店",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "免費試用"
+                },
+                {
+                    "name": "墨跡景觀",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "iOS版",
+            "softwares": [
+                {
+                    "name": "Adobe 插畫家繪畫",
+                    "link": "https://apps.apple.com/in/app/adobe-illustrator-draw/id911156590",
+                    "image": "/assets/fileimg/YaqCA2d.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "AI 查看器",
+                    "link": "https://apps.apple.com/us/app/ai-viewer/id1505083223",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "圖片店 ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "免費增值"
+                }
+            ]
+        },
+        {
+            "platform": "安卓",
+            "softwares": [
+                {
+                    "name": "AI 查看器",
+                    "link": "https://apps.apple.com/in/app/adobe-illustrator-draw/id911156590",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "圖片店快捷",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "Adobe 插畫家繪畫",
+                    "link": "https://adobe-illustrator-draw.en.uptodown.com/android#:~:text=Adobe%20Illustrator%20Draw%20is%20a,in%20a%20good%20drawing%20application.",
+                    "image": "/assets/fileimg/YaqCA2d.jpeg",
+                    "type": "免費增值"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "AI 查看器在線",
+                    "link": "https://aiviewer.com/onlineviewer.aspx",
+                    "image": "/assets/fileimg/A2QFJgs.jpeg",
+                    "type": "免費"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Format": "DVD",
+    "ShortName": "DVD",
+    "FullName": "DOS Device Driver",
+    "Category": "システムファイル",
+    "Pros": "ストレージ容量は膨大です。音質も画質も素晴らしいです。大量生産されているため、かなり安価です。CD は DVD ドライブで読み取ることができます。",
+    "Cons": "DVD は CD ドライブと互換性がありません。単一のDVD規格はありません。それらを壊したり傷つけたりすることは、それらを台無しにする簡単な方法です。",
+    "Createdby": "N/A",
+    "CreatedbyLink": "n/a",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "DVD ファイルは、MS-DOS ベースのデバイスのドライバとして使用されます。これらのドライバファイルにより、コンピュータまたは他のデバイスがオペレーティングシステム (この場合は MS-DOS) と通信できるようになります。Windows にあらかじめ構成されている場合もあれば、ハードウェアに付属の DVD からのインストールが必要になる場合もあります。",
+    "DetailedInformation": "DVD ファイルは、ディスクにムービーのコピーを含むビデオファイルと混同されることがよくあります。メディアにはDVDという名前が付けられていますが、ムービーファイルは通常VOBファイルとして保存されます。ドライバと DVD ファイルは、Windows に既にインストールされている場合があります。ただし、場合によっては、ドライバを手動でインストールする必要があります。これは通常、デバイスに付属のディスクまたはその他のメディアを使用して行われます。自社のWebサイトでは、いくつかの企業が自社製品のドライバーダウンロードも提供しています。",
+    "Softwaresused": [
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "マイクロソフト MS-DOS",
+                    "link": "https://www.microsoft.com/en-us/p/ms-dos-mobile/9nblgggxzdtw?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/XxsKREw.jpeg",
+                    "type": "無料"
+                }
+            ]
+        }
+    ]
+}

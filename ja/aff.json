@@ -1,0 +1,66 @@
+{
+    "Format": "AFF",
+    "ShortName": "AFF",
+    "FullName": "Advanced Forensics Format",
+    "Category": "データファイル",
+    "Pros": "オープンで拡張可能。特許なし。圧縮され、シーク可能。二層構造。フレキシブル。",
+    "Cons": "人気がない。透明性の欠如。 ",
+    "Createdby": "Simson ガーフィンケルとベーシステクノロジー",
+    "CreatedbyLink": "https://www.basistech.com/",
+    "CreatedInYear": "2005-2006",
+    "BasicInformation": "AFFファイルは、無料のOfficeスイートプログラムであるKingsoft WPS OfficeおよびApache OpenOfficeで使用されるスペルチェック辞書ファイルです。このファイルには、付属の.DIC スペルチェック辞書ファイルに関する情報が含まれています。",
+    "DetailedInformation": "AFF と DIC ファイルは、イタリア語やフランス語を含むさまざまな言語の新しいスペルチェック辞書を WPS Office に追加するために使用されます。通常、ユーザーはダウンロードします。AFF ファイルと DIC ファイルを含む ZIP ディクショナリパッケージの内容を抽出し、WPS Office にインストールします。",
+    "Softwaresused": [
+        {
+            "platform": "リナックス",
+            "softwares": [
+                {
+                    "name": "キングソフト WPS オフィス",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "Apache オープンオフィス",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "キングソフト WPS オフィス",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "Apache オープンオフィス",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "マック",
+            "softwares": [
+                {
+                    "name": "キングソフト WPS オフィス",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "Apache オープンオフィス",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "無料"
+                }
+            ]
+        }
+    ]
+}

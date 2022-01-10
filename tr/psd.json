@@ -1,0 +1,129 @@
+{
+    "Format": "PSD",
+    "ShortName": "PSD",
+    "FullName": "Adobe Photoshop Document",
+    "Category": "Raster Görüntü Dosyaları",
+    "Pros": "Photoshop'un özelliklerinden en iyi şekilde yararlanın. Sıkı bağlantı sayesinde Photoshop dosyasını Illustrator, InDesign ve diğer Adobe programlarına doğrudan içe aktarabilirsiniz. Kaydedilen dosyayı katmanlar modunda açın. Şeyleri şeffaf tutmanız gerekiyorsa, bu sahip olmak için iyi bir araçtır.",
+    "Cons": "Dosya oldukça büyük. Adobe, PSD formatına sahiptir. Sonuç olarak, diğer uygulamalar tarafından yaygın olarak kullanılmaz.",
+    "Createdby": "Adobe Sistemleri",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "PSD, dosyaları kaydetmek için Photoshop'un yerel dosya formatıdır. PDD olarak da bilinir. Genellikle PDD olarak bilinen PSD, yaygın olarak kullanılan bir dosya türüdür. PSD tüm görüntü modlarıyla uyumludur (Bitmap, Gri Tonlama, Çift Ton, Dizinlenmiş Renk, RGB, CMYK, Lab ve Çok Kanallı). Bu Adobe Photoshop tarafından yapılan bir resim dosyası, yaygın dijital fotoğrafları geliştirmek ve web grafikleri yapmak için kullanılan profesyonel bir görüntü düzenleme aracı.",
+    "DetailedInformation": "Görüntü katmanları, ayarlama katmanları, katman maskeleri, ek açıklamalar, dosya bilgileri, anahtar kelimeler ve Photoshop'a özgü diğer bileşenlerin tümü PSD dosyalarında bulunabilir. Genellikle grafik tasarımcıları tarafından yapılır ve paylaşılır. PSD dosyaları Photoshop araçları çeşitli açılabilir ve yükleme, gönderme ve kaydetmek için diğer görüntü formatlarına (örneğin PNG, JPEG ve GIF gibi) düzleştirilebilir. Tüm katmanlar PSD başka bir dosya türüne dönüştürüldükten sonra tek bir katman halinde birleştirildi. Katmanlar, PSD dosya uzantısıyla kaydedildiğinde depolanır, erişilebilir ve düzenlenebilir. Bu dosyalar, son görüntü üretimi ve teslimatı yerine, devam eden çalışma belgeleri olarak sıklıkla kullanılır. PSD katmanlarının yanı sıra fotoğraflar, şekiller, metin ve efektler gibi diğer unsurlar da değiştirilebilir. RGB, CMYK, gri tonlamalı, tek renkli, çift tonlu, endeksli renk, Lab rengi ve çok kanallı renk modlarının tümü PSD formatıyla desteklenir. PSD dosya uzantısına sahip Photoshop dosyaları, Adobe Photoshop ürünlerinde sayısız düzenleme seçeneğine izin verirken görüntüleri tutar. Maskeler, saydamlık, çift ton ayarları, degradeler, renk dengeleme, karıştırma ve kırpma yolları, mevcut düzenleme araçlarından sadece birkaçıdır.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "SAKAL",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Ücretsiz "
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Microsoft'tan edinin",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Ücretsiz deneme"
+                },
+                {
+                    "name": "Adobe Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Ücretsiz deneme"
+                },
+                {
+                    "name": "SAKAL",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg"
+                },
+                {
+                    "name": "CorelDRAW Grafik Takımı 2021",
+                    "link": "https://www.coreldraw.com/en/product/coreldraw/purchase.html?AID=10816204&PID=3081440&cjevent=51885051cce111eb80d1d3470a180510&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&x-vehicle=cj",
+                    "image": "/assets/fileimg/cfwD39J.jpeg",
+                    "type": "Ücretsiz deneme"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple Önizlemesi",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "Adobe Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Ücretsiz deneme"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Ücretsiz deneme"
+                },
+                {
+                    "name": "SAKAL",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Ücretsiz "
+                },
+                {
+                    "name": "Pixelmator",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id407963104?ign-mpt=uo%3D4&mt=12",
+                    "image": "/assets/fileimg/0RX6D8V.jpeg",
+                    "type": "Ücretli"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Pixelmator 2",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/HmizpGb.jpeg",
+                    "type": "Ücretli"
+                },
+                {
+                    "name": "Adobe Photoshop ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Android için dosya görüntüleyici",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Adobe Photoshop Express",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "Format": "OPUS",
+    "ShortName": "OPUS",
+    "FullName": "Opus Audio File",
+    "Category": "Audiobestand",
+    "Pros": "Zorgt voor snellere gegevensoverdracht via verschillende kanalen. Geluidskwaliteitstests laten zien dat het het originele geluid efficiënter herstelt bij verschillende bitsnelheden en samplesnelheden. Zorgt voor consistente prestaties in verschillende situaties. Een toekomstgerichte structuur voor tal van telecomdiensten. Aangepast aan het type geluidsinformatie. Kan kwaliteitsverliezen tijdens verzending gedeeltelijk compenseren, waardoor continue live gegevensoverdracht zonder onderbrekingen mogelijk is. ",
+    "Cons": "Wordt niet ondersteund door meerdere toepassingen. Opus-codec is ongebruikelijk.",
+    "Createdby": "Xiph.Org ",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "2012",
+    "BasicInformation": "Opus is een nieuwe codec geproduceerd door een team van experts van de Xiph.Org Foundation (Mozilla Corporation) en Skype Technologies S.A. (Microsoft). Het heeft alle voordelen van MP3 en minimaliseert de gebreken. Opus combineert de codecs CELT en SILK.",
+    "DetailedInformation": "Een OPUS-bestand is een audiobestand met verlies dat is gemaakt in het Opus-formaat (ook wel bekend als „Ogg Opus”), dat is ontworpen voor internetstreaming. Het ondersteunt verschillende bitsnelheden van 6 kb/s tot 510 kb/s en maakt gebruik van zowel SILK (gebruikt door Skype) als CELT (van Xiph.Org) codecs. Voice over IP (VoIP), videoconferenties en in-game chat maken allemaal gebruik van de Opus-codec. De IETF definieerde het Opus-formaat, dat veel wordt gebruikt. De IETF standaardiseerde het Opus-formaat, dat wordt onderhouden door Xiph.Org. Omdat de Opus-codec meestal wordt gebruikt voor streaming, zijn bestanden met de extensie.opus ongebruikelijk.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC-mediaspeler",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Ramen",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Download het van Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "VideoLan VLC-mediaspeler",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "DOEL",
+                    "link": "http://www.aimp2.us/",
+                    "image": "/assets/fileimg/sOBpiyF.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Foobar 2000",
+                    "link": "https://www.foobar2000.org/",
+                    "image": "/assets/fileimg/c2PuNRk.jpeg"
+                },
+                {
+                    "name": "Opus gereedschap",
+                    "link": "https://www.opus-codec.org/downloads/",
+                    "image": "/assets/fileimg/7xNWYRA.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC-mediaspeler",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Bestandsviewer voor Android",
+                    "link": "",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Opus-speler",
+                    "link": "https://play.google.com/store/apps/details?id=com.littlepako.opusplayer3&hl=en_US&gl=US",
+                    "image": "/assets/fileimg/irCSU4s.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Format": "DVD",
+    "ShortName": "DVD",
+    "FullName": "DOS Device Driver",
+    "Category": "Pliki systemowe",
+    "Pros": "Pojemność pamięci masowej jest ogromna. Zarówno jakość dźwięku, jak i obrazu są świetne. Ponieważ są produkowane masowo, są dość tanie. Dyski CD mogą być odczytywane przez napędy DVD.",
+    "Cons": "Dyski DVD nie są kompatybilne z napędami CD. Nie ma pojedynczego standardu DVD. Łamanie lub drapanie ich to prosty sposób na ich zrujnowanie.",
+    "Createdby": "N/D",
+    "CreatedbyLink": "n/a",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "Pliki DVD są używane jako sterowniki dla urządzeń z systemem MS-DOS. Te pliki sterowników pozwalają komputerowi lub innemu urządzeniu komunikować się z systemem operacyjnym, w tym przypadku MS-DOS. Mogą one być wstępnie skonfigurowane w systemie Windows lub wymagają instalacji z dysku DVD dołączonego do sprzętu.",
+    "DetailedInformation": "Pliki DVD są często mylone z plikami wideo zawierającymi kopię filmu na dysku. Pliki filmowe są zwykle zapisywane jako pliki VOB, mimo że nośnik nosi nazwę DVD. Sterowniki i pliki DVD są czasami instalowane w systemie Windows. Jednak sterowniki mogą wymagać ręcznego zainstalowania przy okazji. Zwykle odbywa się to za pomocą dysku lub innego nośnika dostarczonego z urządzeniem. Na swoich stronach internetowych kilka firm również udostępniają sterowniki do pobrania swoich produktów.",
+    "Softwaresused": [
+        {
+            "platform": "Okna",
+            "softwares": [
+                {
+                    "name": "Microsoft MS-DOS",
+                    "link": "https://www.microsoft.com/en-us/p/ms-dos-mobile/9nblgggxzdtw?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/XxsKREw.jpeg",
+                    "type": "Darmowy"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "Format": "M4A",
+    "ShortName": "M4A",
+    "FullName": "MPEG-4 Audio File",
+    "Category": "Tập tin âm thanh",
+    "Pros": "Mặc dù tệp M4A được nén, nhưng chất lượng vẫn không thay đổi. Thực tế là các tệp âm thanh M4A không được bảo vệ bởi Quản lý quyền kỹ thuật số (DRM) có nghĩa là chúng có thể được sửa đổi và truyền tải tự do hơn.",
+    "Cons": "M4A là một định dạng tệp nổi tiếng trong iTunes, iPod và các thiết bị khác của Apple. Tuy nhiên, so với các tệp MP3, phát lại âm thanh M4A có vấn đề do thiếu khả năng tương thích với các thiết bị khác.",
+    "Createdby": "Apple",
+    "CreatedbyLink": "https://developer.apple.com/",
+    "CreatedInYear": "2004",
+    "BasicInformation": "Tệp M4A là tệp âm thanh MPEG-4 đã được mã hóa bằng Mã hóa âm thanh nâng cao (AAC) hoặc Apple Lossless Audio Codec (ALAC). Nó có thể chứa một loạt các tập tin âm thanh, bao gồm các bài hát, podcast, và audiobook.",
+    "DetailedInformation": "MPEG-4 là một định dạng container đa phương tiện cho dữ liệu âm thanh và video được nén. Các tệp.MP4, lưu trữ dữ liệu âm thanh và video, sử dụng định dạng này. Hậu tố .m4a, viết tắt của “MPEG-4 Audio”, được tạo ra vì các tệp M4A độc quyền mang dữ liệu âm thanh. Thay đổi đặt tên này làm cho nó dễ dàng hơn để xác định sự khác biệt giữa MPEG-4 video MPEG-4 và MPEG-4 chỉ tập tin âm thanh. Có một tùy chọn nén mất dữ liệu, giống như với các loại tệp âm thanh khác và nó đạt được bằng cách sử dụng mã hóa AAC. Định dạng Apple Lossless cho phép nén không mất dữ liệu, không thể đạt được với các định dạng âm thanh khác.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "các cửa sổ",
+            "softwares": [
+                {
+                    "name": "Trình xem tệp Plus - Tải nó từ Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Trình phát phương tiện Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "Adobe Audition 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Dùng thử miễn phí"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple iTunes",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Máy nghe nhạc Apple QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Adobe Audition 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Dùng thử miễn phí"
+                },
+                {
+                    "name": "Trình phát Eltima Elmedia",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Videolan VLC cho điện thoại di động",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Trình xem tệp dành cho Android",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Videolabs VLC dành cho Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Free"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,212 @@
+{
+    "Format": "JPG",
+    "ShortName": "JPG",
+    "FullName": "Joint Photographics Expert Group",
+    "Category": "छवि फ़ाइल स्वरूप",
+    "Pros": "एक बहुत ही लोकप्रिय प्रारूप। एक उच्च, नियंत्रित स्तर पर संपीड़न जिसके परिणामस्वरूप एक छोटा फ़ाइल आकार होता है। प्रारूप संगत है और सभी कंप्यूटरों, टैबलेट और मोबाइल उपकरणों पर सभी ब्राउज़रों, पाठ और ग्राफिक्स प्रोग्रामों में सही ढंग से प्रदर्शित होता है। बहुत सारे रंग और कंट्रास्ट संक्रमण के साथ पूर्ण-रंग यथार्थवादी छवियों का समर्थन करता है। एक छोटी सी डिग्री के साथ छवि की उच्च गुणवत्ता।",
+    "Cons": "जब आप छवि को संपीड़ित करते हैं, तो यह अलग-अलग वर्गों में “अलग हो सकता है” - 808-पिक्सेल ब्लॉक। ऐसा इसलिए होता है क्योंकि संपीड़न एल्गोरिथ्म पड़ोसी पिक्सेल का विश्लेषण करता है। चिकनी रंग - संक्रमण कठोर हो सकते हैं या बस गायब हो सकते हैं। स्पष्ट सीमाओं के साथ पाठ या मोनोक्रोम ग्राफिक्स के साथ काम करने के लिए जेपीईजी कम उपयुक्त है। यह प्रारूप पारदर्शिता का समर्थन नहीं करता है, भले ही टेम्पलेट, लोगो और बटन बनाते समय इसकी आवश्यकता हो। प्रत्येक बाद के संपीड़न चरण के साथ छवि की गुणवत्ता में गिरावट आती है।",
+    "Createdby": "आईटीयू-टी और ज्वाइंट फोटोग्राफिक एक्सपर्ट ग्रुप",
+    "CreatedbyLink": "https://www.itu.int/en/ITU-T/studygroups/2009-2012/Pages/16/jpeg1x.aspx",
+    "CreatedInYear": "1992",
+    "BasicInformation": "JPG फ़ाइल संयुक्त फोटोग्राफिक विशेषज्ञ समूह के संपीड़ित छवि प्रारूप (JPEG) में सहेजी गई छवि है। यह डिजिटल तस्वीरों को संग्रहीत करने के लिए व्यापक रूप से उपयोग किया जाता है और अधिकांश डिजिटल कैमरों द्वारा समर्थित है। JPG फाइलें सबसे अधिक इस्तेमाल की जाने वाली छवि प्रारूपों में से हैं। फोटोग्राफी तस्वीरों को कंप्रेस करने के लिए यह एक सामान्य तकनीक है। JPEG फ़ाइल प्रारूप का नाम भी है जो इस प्रकार के संपीड़न का उपयोग करता है। हानिपूर्ण संपीड़न अपरिवर्तनीय है, और संपीड़न दर जितनी कम होगी, छवि उतनी ही तेज होगी।",
+    "DetailedInformation": "1980 के दशक की शुरुआत में कोई तकनीक नहीं थी जिसने लोगों को डिजिटल तस्वीरों को आसानी से संपीड़ित और विनिमय करने की अनुमति दी थी। 1982 में, जेपीईजी कार्यसमूह ने छवि फ़ाइलों के आकार को कम करने के लिए एक संपीड़न मानक विकसित करना शुरू किया, जबकि जितना संभव हो उतना गुणवत्ता बनाए रखा, जिससे उन्हें साझा करना आसान हो गया। JPEG फ़ाइल स्वरूप को 1992 में कार्यसमूह द्वारा डिज़ाइन किया गया था। JPEG फाइलें, जो आमतौर पर the.jpg or.JPEG एक्सटेंशन के साथ सहेजी जाती हैं, एक हानिपूर्ण संपीड़न प्रक्रिया का उपयोग करके उत्पन्न छवियां होती हैं जो स्रोत छवि फ़ाइल में कुछ डेटा को नष्ट कर देती हैं। हालांकि, यह डेटा हानि आमतौर पर नग्न आंखों के लिए अवांछनीय है। JPG फाइलें अंतिम उत्पादों के लिए आदर्श हैं, जबकि दोषरहित फाइलें संपादन के लिए सबसे अच्छी हैं। जेपीईजी मानक आज भी उपयोग में सबसे लोकप्रिय छवि संपीड़न प्रारूप है क्योंकि यह उपयोगकर्ताओं को साझा करने योग्य, उच्च-गुणवत्ता वाली छवि फ़ाइलों को बनाने की अनुमति देता है और क्योंकि यह फ़ोटो बनाने और विनिमय करने के लिए उपयोग की जाने वाली तकनीक में इतनी गहराई से एम्बेडेड है।",
+    "Softwaresused": [
+        {
+            "platform": "लिनक्स",
+            "softwares": [
+                {
+                    "name": "गूगल क्रोम",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट एज",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "जिम्प",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "मुफ़्त "
+                },
+                {
+                    "name": "शॉटवेल",
+                    "link": "https://wiki.gnome.org/Apps/Shotwell",
+                    "image": "/assets/fileimg/wJy7aoh.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "मोज़िला फ़ायरफ़ॉक्स",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "माइक्रोसॉफ्ट फोटोज",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट विंडोज फोटो व्यूअर",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट वनड्राइव",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट पेंट",
+                    "link": "https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9",
+                    "image": "/assets/fileimg/AuNqAKT.jpeg"
+                },
+                {
+                    "name": "गूगल क्रोम",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "मैक",
+            "softwares": [
+                {
+                    "name": "Apple प्रीव्यू",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "Apple फोटो",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "एडोब फोटोशॉप 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "मैक के लिए एसीडी सिस्टम्स ACDSee फोटो स्टूडियो",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-mac/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "गूगल क्रोम",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "आईओएस",
+            "softwares": [
+                {
+                    "name": "Apple फोटो",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "गूगल ड्राइव",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "गूगल फोटोज",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "मुफ़्त  "
+                },
+                {
+                    "name": "एडोब फोटोशॉप एक्सप्रेस",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop-express/id331975235?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट वनड्राइव",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "फ़्रीमियम"
+                }
+            ]
+        },
+        {
+            "platform": "एंड्रॉयड",
+            "softwares": [
+                {
+                    "name": "गूगल ड्राइव",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "गूगल फोटोज",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "मुफ़्त  "
+                },
+                {
+                    "name": "गूगल क्रोम",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट वनड्राइव",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "Android के लिए फ़ाइल व्यूअर",
+                    "link": "https://play.google.com/store/apps/details?id=com.sharpened.androidfileviewer",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "फ़्रीमियम"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "गूगल फोटोज",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "मुफ़्त  "
+                },
+                {
+                    "name": "गूगल क्रोम",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "क्रोम ओएस",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                }
+            ]
+        }
+    ]
+}

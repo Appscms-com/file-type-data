@@ -1,0 +1,66 @@
+{
+    "Format": "AFF",
+    "ShortName": "AFF",
+    "FullName": "Advanced Forensics Format",
+    "Category": "数据文件",
+    "Pros": "开放且可扩展。没有专利。压缩且可寻找。双层。灵活。",
+    "Cons": "不受欢迎。缺乏透明度。 ",
+    "Createdby": "Simson Garfinkel 和 Basis 技术",
+    "CreatedbyLink": "https://www.basistech.com/",
+    "CreatedInYear": "2005-2006",
+    "BasicInformation": "AFF 文件是免费 Office 套件程序 Kingsoft WPS Office 和 Apache OpenOffice 使用的拼写检查字典文件。它包含有关随附的.dic spellcheck 字典文件的信息。",
+    "DetailedInformation": "AFF 和 DIC 文件用于向 WPS Office 添加适用于包括意大利语和法语在内的各种语言的新拼写检查词典。通常，用户会下载。提取包含 AFF 和 DIC 文件的 ZIP 字典包的内容，然后将其安装在 WPS Office 中。",
+    "Softwaresused": [
+        {
+            "platform": "Linux的",
+            "softwares": [
+                {
+                    "name": "金山WPS办公室",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "免费增值"
+                },
+                {
+                    "name": "Apache 开放办公室",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "免费"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "金山WPS办公室",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "免费增值"
+                },
+                {
+                    "name": "Apache 开放办公室",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "免费"
+                }
+            ]
+        },
+        {
+            "platform": "苹果电脑",
+            "softwares": [
+                {
+                    "name": "金山WPS办公室",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "免费增值"
+                },
+                {
+                    "name": "Apache 开放办公室",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "免费"
+                }
+            ]
+        }
+    ]
+}

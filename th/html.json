@@ -1,0 +1,212 @@
+{
+    "Format": "HTML",
+    "ShortName": "HTML",
+    "FullName": "Hypertext Markup Language File",
+    "Category": "แฟ้มเว็บ",
+    "Pros": "HTML เป็นภาษาที่ใช้กันทั่วไปHTML ได้รับการสนับสนุนโดยเบราว์เซอร์ทั้งหมดมันง่ายที่จะเรียนรู้และใช้ประโยชน์HTML เป็นภาษาน้ำหนักเบาและรวดเร็วในการโหลดคุณไม่จำเป็นต้องซื้อซอฟต์แวร์ใด ๆ",
+    "Cons": "เพราะมันเป็นภาษาแบบคงมันไม่สามารถผลิตผลแบบไดนามิกได้ด้วยตัวเองโครงสร้างของเอกสาร HTML กลายเป็นเรื่องยากที่จะเข้าใจข้อผิดพลาดอาจมีราคาแพงมันใช้เวลานานHTML มีชุดที่ จำกัด ของมาตรการรักษาความปลอดภัย",
+    "Createdby": "ทิม เบอร์เนิร์ส ลี แอท เซิร์น",
+    "CreatedbyLink": "https://home.cern/",
+    "CreatedInYear": "1989",
+    "BasicInformation": "Hypertext Markup Language (HTML) เป็นภาษามาร์กอัปที่ใช้ในการจัดรูปแบบโครงสร้างของเว็บเพจจะถูกบันทึกในรูปแบบข้อความมาตรฐานและมีแท็กที่ระบุเค้าโครงและเนื้อหาของเว็บเพจ เช่น ข้อความ ตาราง รูปภาพ และการเชื่อมโยงหลายมิติไฟล์ HTML มักจะใช้บนอินเทอร์เน็ตและอาจดูได้ในเว็บเบราว์เซอร์",
+    "DetailedInformation": "มาตรฐานสำหรับการสร้างเว็บไซต์เป็น HTML (HyperText Markup Language)ทิม เบอร์เนิร์ส ลี (Tim Berners-Lee) นักฟิสิกส์ที่เซิร์นเสนอแนวคิดนี้ในปี ค.เว็บเบราว์เซอร์สามารถอ่านภาษานี้และแปลเป็นข้อความ สี รูปแบบ (หัวเรื่อง ย่อหน้า ใบเสนอราคา และความหมายอื่นๆ) การเชื่อมโยงหลายมิติ และการฝัง URL เพื่อแทรกรูปภาพหรือเสียงส่วนประกอบ HTML จะใช้ในการสร้างโครงสร้างของหน้าเว็บในภาษามาร์กอัปแต่ละองค์ประกอบมักจะมีแท็กเปิดล้อมรอบในวงเล็บมุม (แท็ก>) และแท็กปิดล้อมรอบในวงเล็บมุม แต่นำหน้าด้วยเครื่องหมายทับ (/tag>) .Users สามารถดูการเข้ารหัส HTML โดยไปที่เบราว์เซอร์ “ดูแหล่งที่มา” แท็บHTML สามารถนำมาใช้ในการจัดรูปแบบข้อความของเอกสารในการใช้งานอีเมลบางแม้ว่า HTML และ XHTML จะคล้ายกัน แต่ก็ไม่เหมือนกัน",
+    "Softwaresused": [
+        {
+            "platform": "ลินุกซ์",
+            "softwares": [
+                {
+                    "name": "มอซิลลา ไฟร์ฟอกซ์",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "โอเปร่า",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ดับเบิลยู3ซี อามายา",
+                    "link": "https://www.w3.org/Amaya/",
+                    "image": "/assets/fileimg/e9cgmZo.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "คอมพอเซอร์",
+                    "link": "https://sourceforge.net/projects/kompozer/",
+                    "image": "/assets/fileimg/8aN9yEj.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์พลัส — รับได้จากไมโครซอฟท์",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "แผ่นจดบันทึกไมโครซอฟท์",
+                    "link": "https://www.microsoft.com/en-us/p/windows-notepad/9msmlrh6lzf3#activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/82vepge.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ไมโครซอฟท์เวิร์ดแพด",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/word?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-xMQ4Sl1Ik8DLCMUAH94NdQ&epi=4LioSo.jxMc-xMQ4Sl1Ik8DLCMUAH94NdQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xurkqpvnupuk000%29%287593%29%281243925%29%284LioSo.jxMc-xMQ4Sl1Ik8DLCMUAH94NdQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xurkqpvnupuk000",
+                    "image": "/assets/fileimg/Kp0egqG.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "คอมพอเซอร์",
+                    "link": "https://sourceforge.net/projects/kompozer/",
+                    "image": "/assets/fileimg/8aN9yEj.jpeg"
+                },
+                {
+                    "name": "รหัสสตูดิโอภาพไมโครซอฟท์",
+                    "link": "https://code.visualstudio.com/",
+                    "image": "/assets/fileimg/51PJjGr.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "ดับเบิลยู3ซี อามายา",
+                    "link": "https://www.w3.org/Amaya/",
+                    "image": "/assets/fileimg/e9cgmZo.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "รหัสสตูดิโอภาพไมโครซอฟท์",
+                    "link": "https://code.visualstudio.com/",
+                    "image": "/assets/fileimg/51PJjGr.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "คอมพอเซอร์",
+                    "link": "https://sourceforge.net/projects/kompozer/",
+                    "image": "/assets/fileimg/8aN9yEj.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "มอซิลลา ไฟร์ฟอกซ์",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "มอซิลลา ไฟร์ฟอกซ์",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "โอเปร่า",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ฟอร์นาซ เอสเพรสโซ่ HTML",
+                    "link": "https://apps.apple.com/us/app/espresso-html/id487303069?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/t2WljZe.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "อเล็กซานเด Blach Textastic รหัสบรรณาธิการ",
+                    "link": "https://apps.apple.com/us/app/textastic-code-editor-6/id1049254261?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/d5byEov.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์สำหรับ Android",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "มอซิลลา ไฟร์ฟอกซ์",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "โอเปร่า",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "ข้อความของ Google Chrome",
+                    "link": "https://chrome.google.com/webstore/detail/text/mmfbcljfglbokpmkimbfghdkjmjhdgbg",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "มอซิลลา ไฟร์ฟอกซ์",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "โอเปร่า",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        }
+    ]
+}

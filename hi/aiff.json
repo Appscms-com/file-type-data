@@ -1,0 +1,141 @@
+{
+    "Format": "AIFF",
+    "ShortName": "AIFF",
+    "FullName": "Audio Interchange File Format",
+    "Category": "ऑडियो फाइल",
+    "Pros": "बहुत ही उच्च गुणवत्ता। ",
+    "Cons": "विशाल संग्रहण स्थान की आवश्यकता होती है। ",
+    "Createdby": "Apple",
+    "CreatedbyLink": "https://developer.apple.com/",
+    "CreatedInYear": "1998",
+    "BasicInformation": "एआईएफएफ (ऑडियो इंटरचेंज फाइल फॉर्मेट) एक्सटेंशन विभिन्न इलेक्ट्रॉनिक ऑडियो उपकरणों के लिए एक ध्वनि डेटा भंडारण मानक है। इसमें उच्च-रिज़ॉल्यूशन ऑडियो शामिल है जिसे एक असम्पीडित, दोषरहित प्रारूप में संरक्षित किया गया है। AIFF फ़ाइलों को प्रारूप में भी सहेजा जा सकता है। .aifc में समाप्त होने वाली फ़ाइलों को AIF फ़ाइलों के रूप में जाना जाता है (यदि वे संपीड़ित हैं)।",
+    "DetailedInformation": "Apple ने 1988 में इसका निर्माण करने के लिए इलेक्ट्रॉनिक आर्ट के इंटरचेंज फाइल फॉर्मेट का इस्तेमाल किया। (आईएफएफ)। एआईएफएफ फाइलें असम्पीडित (दोषरहित) हैं और लोकप्रिय एमपी 3 फ़ाइलों की तुलना में काफी बड़ी हैं, जो संकुचित और हानिपूर्ण हैं। AIFF फ़ाइलों में लूप जानकारी और ध्वनि नमूने दोनों संभव हैं। एआईएफएफ फाइलें मैक ओएस मशीनों पर व्यापक रूप से देखी जाती हैं। पेशेवर संगीतकार जो फाइलों की उच्च गुणवत्ता को महत्व देते हैं और भारी भंडारण आवश्यकताओं को संभाल सकते हैं, वे एआईएफएफ फाइलों के सबसे आम उपभोक्ता हैं। भंडारण तंत्र में मामूली अंतर और गुणवत्ता में थोड़ा अंतर होने के बावजूद, AIFF फ़ाइलों की कई किस्में अक्सर एक ही फ़ाइल एक्सटेंशन के तहत संग्रहीत की जाती हैं। AIFF फ़ाइलें, unlike.MP3 और कई अन्य सामान्य ऑडियो फ़ाइलें, असम्पीडित हैं। AIFF फ़ाइलों में अक्सर समकक्ष MP3 फ़ाइलों की तुलना में उच्च-गुणवत्ता वाले ऑडियो शामिल होते हैं क्योंकि उनका डेटा संपीड़ित नहीं होता है। हालाँकि, क्योंकि फ़ाइलों में अधिक डेटा होता है, इसलिए वे अधिक संग्रहण स्थान लेते हैं।",
+    "Softwaresused": [
+        {
+            "platform": "लिनक्स",
+            "softwares": [
+                {
+                    "name": "वीडियोलैन वीएलसी मीडिया प्लेयर",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "अमारॉक",
+                    "link": "https://amarok.kde.org/",
+                    "image": "/assets/fileimg/Dh0nFk6.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "ऑडेसिटी",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "फ़ाइल व्यूअर प्लस - इसे Microsoft से प्राप्त करें",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट विंडोज मीडिया प्लेयर",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "वीडियोलैन वीएलसी मीडिया प्लेयर",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "नलसॉफ्ट विनम्प",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "एडोब ऑडिशन सीसी 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                }
+            ]
+        },
+        {
+            "platform": "मैक",
+            "softwares": [
+                {
+                    "name": "एपल क्विकटाइम प्लेयर",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "वीडियोलैन वीएलसी मीडिया प्लेयर",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "एप्पल म्यूज़िक",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "ऑडेसिटी",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "एडोब ऑडिशन सीसी 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                }
+            ]
+        },
+        {
+            "platform": "आईओएस",
+            "softwares": [
+                {
+                    "name": "एप्पल म्यूज़िक",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "ओलिमसॉफ्ट ओप्लेयर",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "अदा"
+                },
+                {
+                    "name": "मोबाइल के लिए वीडियोलन VLC",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "एंड्रॉयड",
+            "softwares": [
+                {
+                    "name": "Android के लिए वीडियोलैब्स VLC",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        }
+    ]
+}

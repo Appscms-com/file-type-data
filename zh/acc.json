@@ -1,0 +1,26 @@
+{
+    "Format": "ACC",
+    "ShortName": "ACC",
+    "FullName": "Graphics Accounts Data File",
+    "Category": "数据文件",
+    "Pros": "n/a",
+    "Cons": "n/a",
+    "Createdby": "FKJ 软件",
+    "CreatedbyLink": "https://download.cnet.com/developer/fkj-software/i-6201467/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "ACC 文件是图形帐户数据文件格式。对于图形账户，此文件包含财务帐户信息。它是一种可帮助您创建和管理个人预算的工具。它可能包含来自一个或多个银行账户的信息。",
+    "DetailedInformation": "ACC 文件包含图形帐户的财务帐户数据。它们可以与预算 (.BGT) 文件一起打开。",
+    "Softwaresused": [
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "FKJ 软件图形账户",
+                    "link": "https://download.cnet.com/developer/fkj-software/i-6201467/",
+                    "image": "https://image.flaticon.com/icons/png/512/1063/1063308.png",
+                    "type": "免费"
+                }
+            ]
+        }
+    ]
+}

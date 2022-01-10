@@ -1,0 +1,164 @@
+{
+    "Format": "AVI",
+    "ShortName": "AVI",
+    "FullName": "Audio Video Interleave File",
+    "Category": "แฟ้มวิดีโอ",
+    "Pros": "ความจงรักภักดีคุณภาพเสียงที่ยอดเยี่ยมอย่างน่าทึ่งมีตัวแปลงสัญญาณจำนวนมากที่สามารถใช้ในการเข้าถึงอัตราส่วนที่เหมาะสมในขณะที่การบีบอัดไฟล์ออนไลน์เพราะมันถูกสร้างขึ้นโดยไมโครซอฟท์, มันสามารถเล่นบนทุกระบบปฏิบัติการที่สำคัญไมโครซอฟท์และที่ไม่ใช่ไมโครซอฟท์.แตกต่างจากรูปแบบเสียง/วิดีโออื่น, มาตรฐาน DV-AVI สามารถบีบอัดได้.มันไม่จำเป็นที่จะใช้ฮาร์ดแวร์หรือซอฟต์แวร์ใด ๆ ที่เฉพาะเจาะจงเนื่องจากความสามารถในการบีบอัดรูปแบบวิดีโอ AVI จึงมักใช้สำหรับการโปรโมตหนังสั้นและโฆษณาสำหรับไฟล์ต้นแบบคุณภาพที่เก็บไว้กับ AVI เป็นสิ่งที่ดี",
+    "Cons": "หลายคนรู้สึกผิดหวังเมื่อพวกเขาไม่สามารถหาตัวแปลงสัญญาณจากแหล่งที่เชื่อถือได้และมีชื่อเสียงผู้ใช้อาจพบการหยุดพักในประสบการณ์ของพวกเขาที่ไม่พึงประสงค์แม้ในขณะที่แหล่งที่มาเหล่านั้นที่มีอยู่เมื่อเทียบกับรูปแบบไฟล์อื่น ๆ ไฟล์ AVI อาจมีขนาดใหญ่มากหากไม่ได้บีบอัดเมื่อคุณบีบอัดไฟล์ AVI ออนไลน์เหนือขีด จำกัด เฉพาะคุณภาพของวิดีโอจะทนทุกข์ทรมานไม่รองรับการโต้ตอบของผู้ใช้ไม่ OT สนับสนุน softsubs.",
+    "Createdby": "ไมโครซอฟท์",
+    "CreatedbyLink": "https://developer.microsoft.com/en-us/",
+    "CreatedInYear": "1992",
+    "BasicInformation": "แฟ้ม AVI คือไฟล์วิดีโอที่เก็บไว้ในรูปแบบคอนเทนเนอร์มัลติมีเดียของ Microsoft ที่สร้างขึ้น Audio Video Interleave (AVI)มันถือไฟล์วิดีโอและเสียงเข้ารหัสในความหลากหลายของตัวแปลงสัญญาณ, รวมทั้ง DivX และ XviD.ไฟล์ AVI สามารถเล่นได้โดยใช้เครื่องเล่นวิดีโอที่หลากหลาย รวมถึง Microsoft Movies & TV, Windows Media Player, และ Apple QuickTime Player ซึ่งทั้งหมดนี้มาพร้อมระบบปฏิบัติการที่เกี่ยวข้อง",
+    "DetailedInformation": "รูปแบบ AVI จะขึ้นอยู่กับรูปแบบไฟล์ Resource Interchange (RIFF) ซึ่งเป็นรูปแบบคอนเทนเนอร์สำหรับจัดเก็บมัลติมีเดียที่เปิดตัวครั้งแรกในปี 1991ไมโครซอฟท์สร้างรูปแบบ AVI ในปีต่อมาในปี 1992, และมันยังคงใช้กันอย่างแพร่หลายในปัจจุบัน.มันได้รับการสนับสนุนจากความหลากหลายของผู้เล่นวิดีโอ แต่เพื่อให้วิดีโอที่จะเล่นประสบความสำเร็จผู้เล่นจะต้องสนับสนุนตัวแปลงสัญญาณที่ใช้ในการเข้ารหัสข้อมูลวิดีโอเพื่อสนับสนุนการเล่นพร้อมกัน AVI รวมเสียงและวิดีโอเป็นไฟล์เดียวในภาชนะทั่วไปประโยชน์ของมันคือสถาปัตยกรรมที่เรียบง่ายซึ่งจะช่วยให้การทำงานบนความหลากหลายของระบบปฏิบัติการรวมทั้ง Windows, Mac, Linux และ Unix และได้รับการสนับสนุนจากเว็บเบราเซอร์ที่สำคัญทั้งหมดมันสามารถเก็บวิดีโอที่มีคุณภาพสูงและเสียงและใช้การบีบอัดน้อยกว่ารูปแบบวิดีโออื่น ๆ like.MPEG and.MOV",
+    "Softwaresused": [
+        {
+            "platform": "ลินุกซ์",
+            "softwares": [
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ซีน",
+                    "link": "https://sourceforge.net/projects/xine/",
+                    "image": "/assets/fileimg/11To9CR.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "โคดี",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์พลัส — รับได้จากไมโครซอฟท์",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "โปรแกรมเล่นสื่อ Windows ของ Microsoft",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "ภาพยนตร์และทีวีของ Microsoft",
+                    "link": "https://www.microsoft.com/en-us/p/movies-tv/9wzdncrfj3p2?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/fVyIEs4.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "โคดี",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "โปรแกรมเล่น Apple QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "โคดี",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "อะโดบี พรีเมียร์ โปร 2020",
+                    "link": "https://www.adobe.com/products/premiere.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/RUVWLwB.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "เอลติมาเอลมีเดียเพลเยอร์",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "VLC Videolan สำหรับมือถือ",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "โอลิมซอฟท์ โอเพลเยอร์",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "จ่ายแล้ว"
+                },
+                {
+                    "name": "กูเกิลไดรฟ์",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "ฟรีเมียม"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "กูเกิลไดรฟ์",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "วีดีโอแลบ VLC สำหรับ Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "BIT Labs เครื่องเล่นวิดีโอ MP4 แบบง่าย",
+                    "link": "https://play.google.com/store/apps/details?id=air.br.com.bitlabs.VideoPlayer&hl=en",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "กูเกิลไดรฟ์",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "ฟรีเมียม"
+                }
+            ]
+        }
+    ]
+}

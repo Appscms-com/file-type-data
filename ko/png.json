@@ -1,0 +1,206 @@
+{
+    "Format": "PNG",
+    "ShortName": "PNG",
+    "FullName": "Portable Network Graphics",
+    "Category": "비트맵 이미지 그래픽 형식",
+    "Pros": "압축 손실은 최소한으로 유지됩니다.압축 비율은 이미지 품질에 영향을 주지 않습니다.이 형식은 이미지의 중간 버전을 저장하는 데 탁월합니다.이미지를 다시 저장해도 이미지의 품질은 손실되지 않습니다.PNG는 수많은 색상을 지원합니다.여러 수준의 투명성이 가능합니다.레이어 작업 기능.파일 메타데이터에 추가할 수 있는 기능입니다.파일 크기가 작습니다.",
+    "Cons": "풀 컬러 사진 작업에는 적합하지 않습니다.한 파일에 여러 이미지를 저장할 수 없습니다.애니메이션을 허용하지 않습니다.",
+    "Createdby": "PNG 개발 그룹",
+    "CreatedbyLink": "http://www.libpng.org/pub/png/",
+    "CreatedInYear": "1996",
+    "BasicInformation": "PNG (이동식 네트워크 그래픽) 형식으로 저장된 이미지 파일을 PNG 파일이라고 합니다..GIF 파일과 비슷한 무손실 압축 비트맵이 포함되어 있습니다.웹 그래픽, 디지털 사진 및 반투명 배경의 이미지는 일반적으로 PNG 파일로 저장됩니다.원래 PNG 이미지 형식은 둘 다 투명한 배경을 지원하기 때문에 GIF 이미지 형식을 대체하기 위한 것입니다.인덱스 색상과 무손실 압축의 사용은 둘 사이의 또 다른 유사점입니다.반면 PNG 파일에는 동일한 저작권 제한이 적용되지 않습니다.",
+    "DetailedInformation": "체크 무늬 배경 위에 8비트 투명도 레이어가 있는 PNG 이미지 (위) (아래) 가 오버레이됩니다.PNG는 특허받지 않은 무손실 데이터 압축 기술인 디플레이션을 사용합니다.PNG는 대부분의 경우 GIF보다 이미지를 더 효율적으로 압축할 수 있지만 일부 구현에서는 부적절한 필터 방법을 사용하므로 불필요하게 큰 PNG 파일이 생성됩니다.PNG 형식에는 세 가지 유형의 투명도가 있습니다. 하나는 색인화된 컬러 이미지용이고 다른 하나는 회색조 또는 트루컬러 이미지용입니다.감마 값, 배경색 및 텍스트 내용은 모두 PNG 파일에 기록할 수 있는 이미지 특성입니다.이 표준은 채널당 최대 16비트를 허용하지만 대부분의 고객은 채널당 8비트만 필요합니다.이미지 저장을 위해 PNG 형식이 특히 인터넷에서 널리 사용됩니다.인덱싱된 (팔레트 기반) 24비트 RGB 또는 32비트 RGBA (네 번째 알파 채널이 있는 RGB) 컬러 이미지를 처리할 수 있습니다.이 형식에서는 색인화되지 않은 풀 컬러 RGB 또는 RGBA 사진과 회색 음영 이미지가 지원됩니다.PNG 파일은 웹 사이트에서 이미지를 다운로드하거나 이메일에 첨부 된 디지털 사진을 받거나 스크린 샷을 찍는 등 다양한 컴퓨터 사용자가 볼 수 있습니다.웹 사용을 위해 그래픽 디자이너는 그래픽을 PNG 파일로 저장하는 경우가 많습니다.또한 PNG 파일을 사용하여 다른 그림 위에 오버레이 할 수있는 반투명 로고 또는 아이콘 모형을 저장합니다.",
+    "Softwaresused": [
+        {
+            "platform": "리눅스",
+            "softwares": [
+                {
+                    "name": "김프",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "무료 "
+                },
+                {
+                    "name": "구글 크롬",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "마이크로소프트 엣지",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "모질라",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "윈도우",
+            "softwares": [
+                {
+                    "name": "마이크로소프트 포토스",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "마이크로소프트 윈도 포토 뷰어",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "마이크로소프트 페인트",
+                    "link": "https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9",
+                    "image": "/assets/fileimg/AuNqAKT.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "마이크로소프트 페인트 3D",
+                    "link": "https://www.microsoft.com/en-us/p/paint-3d/9nblggh5fv99?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/7Z9sNdy.jpeg"
+                },
+                {
+                    "name": "CAD 시스템 CDSEE",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/acdsee.png",
+                    "type": "무료 평가판"
+                }
+            ]
+        },
+        {
+            "platform": "맥",
+            "softwares": [
+                {
+                    "name": "애플 프리뷰",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "애플 포토",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "애플 사파리",
+                    "link": "https://www.apple.com/safari/",
+                    "image": "/assets/fileimg/PePZ5cb.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "어도비 포토샵 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "무료 평가판"
+                },
+                {
+                    "name": "구글 크롬",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "구글 포토",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "무료  "
+                },
+                {
+                    "name": "구글 드라이브",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "마이크로소프트 원드라이브",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "무료 평가판"
+                },
+                {
+                    "name": "어도비 포토샵 익스프레스",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop-express/id331975235?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "무료 평가판"
+                },
+                {
+                    "name": "픽셀메이터 2",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/HmizpGb.jpeg",
+                    "type": "유료"
+                }
+            ]
+        },
+        {
+            "platform": "기계적 인조 인간",
+            "softwares": [
+                {
+                    "name": "안드로이드용 파일 뷰어",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "구글 드라이브",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "구글 포토",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "무료  "
+                },
+                {
+                    "name": "마이크로소프트 원드라이브",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "어도비 포토샵 익스프레스",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "크롬 OS",
+            "softwares": [
+                {
+                    "name": "구글 포토",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "무료  "
+                },
+                {
+                    "name": "구글 크롬",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "크롬 OS",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "무료, OS에 포함"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "Format": "MOV",
+    "ShortName": "MOV",
+    "FullName": "Apple QuickTime Movie",
+    "Category": "Tập tin video",
+    "Pros": "Có thể lưu trữ các tham chiếu dữ liệu trừu tượng cho dữ liệu phương tiện. Chúng có thể được sửa đổi dễ dàng mà không cần phải viết lại tất cả các dữ liệu phương tiện sau đó. Để chỉnh sửa video chuyên nghiệp, đây là tiêu chuẩn ngành.",
+    "Cons": "Chủ yếu được sử dụng để chỉnh sửa nhưng không phải là tiêu chuẩn được sử dụng cho mục đích thực tế. Trên các thiết bị thực tế, có mức độ chấp nhận thấp. ",
+    "Createdby": "Apple",
+    "CreatedbyLink": "https://developer.apple.com/",
+    "CreatedInYear": "1998",
+    "BasicInformation": "Tệp MOV là định dạng tệp chứa đa phương tiện lưu phim ở Định dạng tệp QuickTime (QTFF). Nó có một hoặc nhiều bản nhạc chứa nhiều loại dữ liệu phương tiện khác nhau, bao gồm video, âm thanh và văn bản (phụ đề). Phim và các tệp video khác thường được lưu dưới dạng tệp MOV.",
+    "DetailedInformation": "Apple phát triển và phát hành QTFF vào năm 1991. Định dạng container nhằm hỗ trợ nhiều định dạng phương tiện khác nhau để tạo điều kiện cho việc truyền tải đa phương tiện giữa các thiết bị, hệ điều hành và ứng dụng. Các tệp đa phương tiện QTFF thường được lưu trữ tệp as.mov, tuy nhiên chúng cũng có thể được lưu dưới dạng tệp.qt. Video, âm thanh, mã thời gian và các bản nhạc văn bản đều có thể được tìm thấy trong các tệp MOV, có thể được sử dụng để lưu trữ và đồng bộ hóa các dạng dữ liệu khác nhau. Một số codec thay thế có thể được sử dụng để mã hóa từng bản nhạc phương tiện. Codec MPEG-4 thường được sử dụng để nén các tệp MOV. Mỗi container tập tin có thể chứa một loạt các loại phương tiện truyền thông. Video, hiệu ứng video, văn bản, ảnh, phụ đề và âm thanh đều có thể được lưu trữ trong đó. Loại tệp này thường được sử dụng bởi các ứng dụng chỉnh sửa video. Các tệp MOV và QuickTime thường được sử dụng trong chỉnh sửa nhạc và video (hoặc hai tệp kết hợp).",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "các cửa sổ",
+            "softwares": [
+                {
+                    "name": "Trình xem tệp Plus - Tải nó từ Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Trình phát phương tiện Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "Xilisoft Video Converter",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg",
+                    "type": "Dùng thử miễn phí"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Máy nghe nhạc Apple QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Trình phát Eltima Elmedia",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Roxio Bánh mì nướng 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "Trả tiền"
+                },
+                {
+                    "name": "Adobe Premiere Rush",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "Dùng thử miễn phí"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Trả tiền"
+                },
+                {
+                    "name": "Videolan VLC cho điện thoại di động",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Adobe Premiere Rush",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "Dùng thử miễn phí"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Google Drive",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Adobe Premiere Rush",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "Dùng thử miễn phí"
+                },
+                {
+                    "name": "Videolabs VLC dành cho Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Free"
+                }
+            ]
+        }
+    ]
+}

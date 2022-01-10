@@ -1,0 +1,206 @@
+{
+    "Format": "PNG",
+    "ShortName": "PNG",
+    "FullName": "Portable Network Graphics",
+    "Category": "Định dạng đồ họa hình ảnh bit-map",
+    "Pros": "Tổn thất nén được giữ ở mức tối thiểu. Bất kỳ tỷ lệ nén nào cũng không ảnh hưởng đến chất lượng hình ảnh. Định dạng này là tuyệt vời để lưu trữ các phiên bản trung gian của hình ảnh. Chất lượng của một hình ảnh không bị mất khi nó được lưu lại. PNG hỗ trợ một số lượng lớn các màu sắc. Nó cho phép nhiều mức độ minh bạch. Khả năng làm việc với các lớp. Khả năng thêm vào tập tin meta data. Kích thước của các tập tin là nhỏ.",
+    "Cons": "Không phù hợp để làm việc với các bức ảnh đầy đủ màu sắc. Không thể lưu nhiều hình ảnh trong một tệp duy nhất. Không cho phép hoạt hình.",
+    "Createdby": "Nhóm phát triển PNG",
+    "CreatedbyLink": "http://www.libpng.org/pub/png/",
+    "CreatedInYear": "1996",
+    "BasicInformation": "Tệp hình ảnh được lưu ở định dạng Đồ họa mạng di động (PNG) được gọi là tệp PNG. Nó chứa một bitmap nén không mất dữ liệu, có thể so sánh với tệp .GIF. Đồ họa web, hình ảnh kỹ thuật số và hình ảnh có nền mờ thường được lưu dưới dạng tệp PNG. Ban đầu, định dạng hình ảnh PNG được dự định để thay thế định dạng hình ảnh GIF vì cả hai đều hỗ trợ nền trong suốt. Việc sử dụng các màu được lập chỉ mục và nén không mất dữ liệu là một điểm tương đồng khác giữa hai. Mặt khác, các tệp PNG không phải tuân theo các hạn chế bản quyền tương tự.",
+    "DetailedInformation": "Lớp phủ trên nền rô là hình ảnh PNG với lớp trong suốt 8 bit (trên cùng) (dưới cùng). PNG sử dụng giảm phát, một kỹ thuật nén dữ liệu không mất dữ liệu không được cấp bằng sáng chế. PNG có thể nén hình ảnh hiệu quả hơn GIF trong hầu hết các trường hợp, nhưng một số triển khai sử dụng các phương pháp lọc không đầy đủ, dẫn đến các tệp PNG khổng lồ không cần thiết. Có ba loại độ trong suốt ở định dạng PNG- một cho hình ảnh được lập chỉ mục, màu sắc và hai cho hình ảnh màu xám hoặc màu thật. Giá trị Gamma, màu nền và nội dung văn bản là tất cả các thuộc tính hình ảnh có thể được ghi lại trong tệp PNG. Tiêu chuẩn cho phép tối đa 16 bit cho mỗi kênh, tuy nhiên, hầu hết khách hàng chỉ cần 8 bit cho mỗi kênh. Để lưu hình ảnh, định dạng PNG được sử dụng rộng rãi, đặc biệt là trên internet. Nó có thể xử lý các hình ảnh màu RGB 24 bit hoặc RGBA 32 bit (RGB với kênh alpha thứ tư) được lập chỉ mục (dựa trên bảng màu). Ảnh RGB hoặc RGBA đầy đủ màu sắc, không được lập chỉ mục, cũng như hình ảnh thang màu xám, được hỗ trợ bởi định dạng. Các tệp PNG có thể gặp phải bởi nhiều người dùng máy tính, cho dù họ đang tải xuống hình ảnh từ trang web, nhận ảnh kỹ thuật số được đính kèm vào email hoặc chụp ảnh màn hình. Để sử dụng web, các nhà thiết kế đồ họa thường lưu đồ họa dưới dạng tệp PNG. Họ cũng sử dụng các tệp PNG để lưu logo mờ hoặc các mô hình biểu tượng có thể được phủ lên trên các hình ảnh khác.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Free "
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Microsoft Edge",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "các cửa sổ",
+            "softwares": [
+                {
+                    "name": "Microsoft Ảnh",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Trình xem ảnh Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Microsoft Paint",
+                    "link": "https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9",
+                    "image": "/assets/fileimg/AuNqAKT.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Microsoft Paint 3D",
+                    "link": "https://www.microsoft.com/en-us/p/paint-3d/9nblggh5fv99?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/7Z9sNdy.jpeg"
+                },
+                {
+                    "name": "Hệ thống ACD ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/acdsee.png",
+                    "type": "Dùng thử miễn phí"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple Xem trước",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Apple Hình ảnh",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Apple Safari",
+                    "link": "https://www.apple.com/safari/",
+                    "image": "/assets/fileimg/PePZ5cb.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Adobe Photoshop",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Dùng thử miễn phí"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Google Ảnh",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Free  "
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft OneDrive",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "Dùng thử miễn phí"
+                },
+                {
+                    "name": "Adobe Photoshop nhanh",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop-express/id331975235?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Dùng thử miễn phí"
+                },
+                {
+                    "name": "Pixelmator 2",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/HmizpGb.jpeg",
+                    "type": "Trả tiền"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Trình xem tệp dành cho Android",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Ảnh",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Free  "
+                },
+                {
+                    "name": "Microsoft OneDrive",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Adobe Photoshop nhanh",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Ảnh",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Free  "
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Hệ điều hành Chrome",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Format": "ACC",
+    "ShortName": "ACC",
+    "FullName": "Graphics Accounts Data File",
+    "Category": "Gegevensbestanden",
+    "Pros": "n/a",
+    "Cons": "n/a",
+    "Createdby": "FKJ-software",
+    "CreatedbyLink": "https://download.cnet.com/developer/fkj-software/i-6201467/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "ACC-bestand is bestandsindeling voor grafische accountgegevens. Voor grafische accounts bevat dit bestand informatie over financiële rekeningen. Het is een tool waarmee je persoonlijke budgetten kunt creëren en beheren. Het kan informatie bevatten van een of meer bankrekeningen.",
+    "DetailedInformation": "ACC-bestanden bevatten financiële accountgegevens voor grafische accounts. Ze kunnen worden geopend in combinatie met een budget bestand (.BGT).",
+    "Softwaresused": [
+        {
+            "platform": "Ramen",
+            "softwares": [
+                {
+                    "name": "Grafische accounts voor FKJ Software",
+                    "link": "https://download.cnet.com/developer/fkj-software/i-6201467/",
+                    "image": "https://image.flaticon.com/icons/png/512/1063/1063308.png",
+                    "type": "Gratis"
+                }
+            ]
+        }
+    ]
+}

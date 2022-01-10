@@ -1,0 +1,200 @@
+{
+    "Format": "MP4",
+    "ShortName": "MP4",
+    "FullName": "MPEG-4 Part 14",
+    "Category": "ملف فيديو",
+    "Pros": "تقدم دعمًا متعدد المنصات. سهل الاستخدام. قابل للتوزيع بسهولة. الضغط على مستوى عالٍ أثناء إنشاء ملفات أصغر، مما يجعله مثاليًا لبث الفيديو أو ضغط ملفات الصوت والفيديو عالية الدقة. يمكن بيانات تعريف المحتوى. يمكن دمجها مع رسومات ثلاثية الأبعاد وأدوات أخرى للتفاعل. بدعم من جميع المنصات. تنسيق ملف متعدد الاستخدامات.",
+    "Cons": "قد تتسبب صعوبات برنامج الترميز في خروج الصوت من المزامنة مع الفيديو. قد يتطلب التشغيل والتحرير قدرًا كبيرًا من الطاقة الحسابية. نظرًا لأنه تنسيق ضياع، فإن درجة أعلى من الضغط وحجم الملف الأصغر ستؤدي إلى تخفيضات في جودة الصوت والفيديو. بسبب شعبيتها، يمكن الآن توزيع الملفات المحمية بحقوق الطبع والنشر بشكل غير قانوني.",
+    "Createdby": "مجموعة خبراء الصور المتحركة",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "2001-2003",
+    "BasicInformation": "MPEG4 هو تنسيق ملف لتخزين أنواع الوسائط المحددة من قبل مجموعة خبراء الصور المتحركة ISO/IEC، بينما يمكنه أيضًا تخزين أنواع الوسائط الأخرى .mp4 هو الامتداد الأكثر شيوعًا لهذا النوع من الملفات. إنه نوع من ملفات الوسائط المتعددة المستخدمة لحفظ فيلم أو مقطع فيديو. يمكن أن يتضمن أيضًا رسومات أو ترجمات. MP4 هو اختصار لـ MPEG-4 الجزء 14 (MPEG-4)، وهو تنسيق حاوية يعتمد على تنسيق ملف QuickTime (QTFF)، والذي يتم استخدامه بواسطة ملفات.MOV و.QT.",
+    "DetailedInformation": "تستخدم ملفات MP4 معيار ضغط MPEG-4 التابع لمجموعة خبراء الصور المتحركة (MPEG). يتم ضغط مسارات الصوت والفيديو بشكل منفصل بهذا التنسيق. يتم ضغط الفيديو باستخدام ترميز الفيديو MPEG-4، ويتم ترميز الصوت باستخدام ضغط AAC، وهو نفس تلك المستخدمة في ملفات.AAC. تستخدم Apple وغيرها من الشركات المصنعة للأجهزة المحمولة هذا النوع من الملفات لتخزين الصوت أو الصور الثابتة أو الفيديو. الكتب الصوتية والأغاني والأفلام ومقاطع الفيديو والصور والبودكاست كلها أمثلة على ذلك. MPEG-4 هو تنسيق دفق فيديو شائع. يدعي العديد من مشغلات MP3 أنها قادرة على تشغيل ملفات MP4، مما يعني بشكل أساسي أنه يمكنهم تشغيل الموسيقى وبعض ملفات الفيديو (وإن لم تكن ملفات MP4 حقيقية دائمًا). يتيح لك ملحق MP4 تنزيل أو بث الأفلام ومقاطع الفيديو والملفات الصوتية.",
+    "Softwaresused": [
+        {
+            "platform": "لينكس",
+            "softwares": [
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "فرملة اليد",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "Mplayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "شبابيك",
+            "softwares": [
+                {
+                    "name": "عارض الملفات بلس - احصل عليه من Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "ميكروسوفت ويندوز ميديا بلاير",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "Mplayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "فرملة اليد",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "رفيق",
+            "softwares": [
+                {
+                    "name": "أبل كويك تايم بلاير",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "Mplayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "فرملة اليد",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "روكسيو توست 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "مدفوعة"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "أبل ميوزيك",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "صور أبل",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "محرك جوجل",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "أوليمسفت أوبلاير",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "مدفوعة"
+                }
+            ]
+        },
+        {
+            "platform": "أندرويد",
+            "softwares": [
+                {
+                    "name": "عارض الملفات لنظام Android",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "Videolabs VLC لالروبوت",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "أدوبي بريمير روش",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "محرك جوجل",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "BIT Labs بسيط مشغل فيديو MP4",
+                    "link": "https://play.google.com/store/apps/details?id=air.br.com.bitlabs.VideoPlayer&hl=en",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "نظام كرومي أوس",
+            "softwares": [
+                {
+                    "name": "محرك جوجل",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "نظام التشغيل كروم",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "جوجل كروم",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        }
+    ]
+}

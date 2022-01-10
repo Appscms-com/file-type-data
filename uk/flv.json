@@ -1,0 +1,135 @@
+{
+    "Format": "FLV",
+    "ShortName": "FLV",
+    "FullName": "Flash Video File",
+    "Category": "Відео файл",
+    "Pros": "Фільми, онлайн-презентації, банерна реклама, інтернет-анімація та інші види використання для Flash - це лише кілька прикладів. Більше 90% відвідувачів сайту зможуть побачити його. Flash-файли часто невеликі і зрозумілі для завантаження. Спалах можна побачити як на широкосмугових, так і на комутованих з'єднаннях, а також на старих, повільних системах. Широкий спектр відеофайлів може бути перетворений у формат Flash з легкістю.",
+    "Cons": "Створення Flash-контенту може бути дорогим і трудомістким. Оскільки павуки пошукових систем не ідентифікують Flash-файли, вони не сприяють оптимізації сайту. При доступі до веб-сторінки з Flash відвідувачі можуть зіткнутися з більш тривалим часом очікування, особливо якщо вони використовують комутованого з'єднання.",
+    "Createdby": "Системи Adobe",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "2003",
+    "BasicInformation": "Відеофайл, збережений у форматі контейнера Adobe Flash Video (FLV), відомий як файл FLV. Зберігається короткий заголовок, синхронізовані потоки аудіо та відеоданих (кодуються так само, як потоки у стандартному форматі Flash.SWF) та пакети метаданих.",
+    "DetailedInformation": "Формат Flash Video Systems широко використовується для онлайн-відео на таких сайтах, як YouTube, Hulu, Vevo та безліч інших сервісів потокового відео. Adobe Flash Player (включаючи плагіни браузера) і стороннє програмне забезпечення можуть читати і дивитися FLV файли майже на кожній операційній системі (за винятком iOS). З виходом Adobe Flash Player 7 в 2003 році був запущений формат FLV. Adobe Flash Player в першу чергу використовує його для пропонування онлайн-відеоконтенту, такого як фільми та телевізійні епізоди. FLV, з іншого боку, є відкритим форматом, який підтримується різними програмами, що не належать до Adobe/ Macromedia. Плагін Flash Video Exporter (доступний за допомогою Adobe Animate) або будь-яка програма, яка підтримує файли FLV, можна використовувати для створення вмісту Flash Video та експортувати його як файли FLV. За допомогою Adobe Media Encoder користувачі тепер можуть кодувати різні формати відео, такі як QuickTime або Windows Media. Оскільки онлайн-технології просунулися в 2010-х роках, недоліки Flash, які включали уразливості продуктивності та безпеки, ставали все більш очевидними. Adobe та численні виробники інтернет-браузерів офіційно припинили підтримку Flash 31 грудня 2020 року, оскільки використання Flash Player та формату FLV різко впало.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "ВідеоЛан VLC медіаплеєр",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "RealNetworks Хмара RealPlayer",
+                    "link": "https://www.real.com/in",
+                    "image": "/assets/fileimg/FdqTl1x.jpeg",
+                    "type": "Фреміум"
+                }
+            ]
+        },
+        {
+            "platform": "Вікна",
+            "softwares": [
+                {
+                    "name": "Переглядач файлів плюс — Отримати його від Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "ВідеоЛан VLC медіаплеєр",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Остаточний відео конвертер Xilisoft",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                },
+                {
+                    "name": "Нулсофт Вінамп",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "Медіаплеєр класичний",
+                    "link": "https://github.com/clsid2/mpc-hc/",
+                    "image": "/assets/fileimg/PLx4Opv.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Гравець Apple QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                },
+                {
+                    "name": "Adobe Анімація CC 2019",
+                    "link": "https://www.adobe.com/products/animate.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/pqcWQ2F.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                },
+                {
+                    "name": "Eltima Elmedia Плеєр",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "ВідеоЛан VLC медіаплеєр",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "RealNetwork RealTimes: Виробник відео",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "Фреміум"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "BIT Labs Простий MP4 відеоплеєр",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "мультимедіа конвертер",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "J2 Інтерактивний MX плеєр",
+                    "link": "https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en",
+                    "image": "/assets/fileimg/Cjoa7OB.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "RealNetwork RealTimes Виробник відео",
+                    "link": "https://play.google.com/store/apps/details?id=com.real.RealPlayerCloud",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "Фреміум"
+                }
+            ]
+        }
+    ]
+}

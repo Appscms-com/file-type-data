@@ -1,0 +1,212 @@
+{
+    "Format": "JPG",
+    "ShortName": "JPG",
+    "FullName": "Joint Photographics Expert Group",
+    "Category": "รูปแบบไฟล์รูปภาพ",
+    "Pros": "รูปแบบที่นิยมมากการบีบอัดในระดับสูงควบคุมส่งผลให้ขนาดไฟล์ขนาดเล็ก รูปแบบเข้ากันได้และแสดงผลได้อย่างถูกต้องในเบราว์เซอร์ ข้อความ และกราฟิกโปรแกรมทั้งหมดบนคอมพิวเตอร์ แท็บเล็ต และอุปกรณ์เคลื่อนที่ทุกเครื่องรองรับภาพที่สมจริงเต็มสีที่มีจำนวนมากของการเปลี่ยนสีและความคมชัดคุณภาพของภาพที่มีระดับความเชื่อมโยงกันเพียงเล็กน้อย",
+    "Cons": "เมื่อคุณบีบอัดภาพอาจจะ “กระจุย” ลงในสี่เหลี่ยมจัตุรัสแต่ละตัว - 808 พิกเซลนี้เกิดขึ้นเนื่องจากอัลกอริทึมการบีบอัดวิเคราะห์พิกเซลเพื่อนบ้าน. สีเรียบ — การเปลี่ยนอาจกลายเป็นรุนแรงหรือเพียงแค่หายไป.JPEG ไม่เหมาะสำหรับการทำงานกับข้อความหรือกราฟิกขาวดำที่มีขอบเขตชัดเจนรูปแบบนี้ไม่สนับสนุนความโปร่งใสแม้ว่าจะต้องใช้ในการสร้างเทมเพลต โลโก้ และปุ่มคุณภาพของภาพลดลงด้วยแต่ละขั้นตอนการบีบอัดที่ตามมา",
+    "Createdby": "ITU-T และกลุ่มผู้เชี่ยวชาญด้านการถ่ายภาพร่วม",
+    "CreatedbyLink": "https://www.itu.int/en/ITU-T/studygroups/2009-2012/Pages/16/jpeg1x.aspx",
+    "CreatedInYear": "1992",
+    "BasicInformation": "ไฟล์ JPG คือภาพที่บันทึกไว้ในรูปแบบภาพบีบอัดของกลุ่มผู้เชี่ยวชาญด้านการถ่ายภาพร่วม (JPEG)มันถูกใช้กันอย่างแพร่หลายสำหรับการจัดเก็บภาพถ่ายดิจิตอลและได้รับการสนับสนุนโดยกล้องดิจิตอลส่วนใหญ่ไฟล์ JPG เป็นหนึ่งในรูปแบบภาพที่ใช้กันมากที่สุดมันเป็นเทคนิคที่ใช้กันทั่วไปในการบีบอัดภาพถ่ายภาพถ่ายJPEG ยังเป็นชื่อของรูปแบบไฟล์ที่ใช้การบีบอัดประเภทนี้การบีบอัดแบบ Lossy ไม่สามารถย้อนกลับได้และอัตราการบีบอัดที่ต่ำลงจะทำให้ภาพคมชัดขึ้น",
+    "DetailedInformation": "ไม่มีเทคโนโลยีในช่วงต้นทศวรรษที่ 1980 ที่อนุญาตให้ผู้คนสามารถบีบอัดและแลกเปลี่ยนภาพถ่ายดิจิตอลได้อย่างง่ายดาย1982 เวิร์กกรุ๊ป JPEG เริ่มพัฒนามาตรฐานการบีบอัดเพื่อลดขนาดของไฟล์ภาพในขณะที่รักษาคุณภาพให้มากที่สุดเท่าที่จะเป็นไปได้ ทำให้ง่ายต่อการแบ่งปันรูปแบบไฟล์ JPEG ได้รับการออกแบบโดยเวิร์กกรุ๊ปในปี 1992ไฟล์ JPEG ซึ่งมักจะถูกบันทึกไว้ด้วยนามสกุล the.jpg or.JPEG เป็นภาพที่สร้างขึ้นโดยใช้กระบวนการบีบอัดแบบสูญเสียที่ทำลายข้อมูลบางส่วนในไฟล์ภาพแหล่งที่มาการสูญเสียข้อมูลนี้ แต่โดยทั่วไปไม่สามารถตรวจพบได้ด้วยตาเปล่าไฟล์ JPG เหมาะสำหรับผลิตภัณฑ์ขั้นสุดท้าย, ในขณะที่ไฟล์ที่ไม่สูญเสียจะดีที่สุดสำหรับการแก้ไข.มาตรฐาน JPEG ยังคงเป็นรูปแบบการบีบอัดภาพที่ได้รับความนิยมมากที่สุดในการใช้งานในปัจจุบันเนื่องจากช่วยให้ผู้ใช้สามารถสร้างไฟล์ภาพคุณภาพสูงที่สามารถแชร์ได้และเนื่องจากมีการฝังตัวอย่างลึกซึ้งในเทคโนโลยีที่ใช้ในการสร้างและแลกเปลี่ยนภาพถ่าย",
+    "Softwaresused": [
+        {
+            "platform": "ลินุกซ์",
+            "softwares": [
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ไมโครซอฟท์ เอดจ์",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "กิมป์",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "ฟรี "
+                },
+                {
+                    "name": "Shotwell",
+                    "link": "https://wiki.gnome.org/Apps/Shotwell",
+                    "image": "/assets/fileimg/wJy7aoh.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "มอซิลลา ไฟร์ฟอกซ์",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "รูปภาพของ Microsoft",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "โปรแกรมแสดงภาพถ่ายของ Microsoft Windows",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "ไมโครซอฟท์ วันไดรฟ์",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "ไมโครซอฟท์เพ้นท์",
+                    "link": "https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9",
+                    "image": "/assets/fileimg/AuNqAKT.jpeg"
+                },
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "ตัวอย่างแอปเปิ้ล",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "แอปเปิลรูปภาพ",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "อะโดบี โฟโตช็อป 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "ACD ระบบ ACDSee Photo Studio สำหรับ Mac",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-mac/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "แอปเปิลรูปภาพ",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "กูเกิลไดรฟ์",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "กูเกิ้ล รูปภาพ",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "ฟรี  "
+                },
+                {
+                    "name": "อะโดบี โฟโต้ช็อป",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop-express/id331975235?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "ไมโครซอฟท์ วันไดรฟ์",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "ฟรีเมียม"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "กูเกิลไดรฟ์",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "กูเกิ้ล รูปภาพ",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "ฟรี  "
+                },
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ไมโครซอฟท์ วันไดรฟ์",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "โปรแกรมดูไฟล์สำหรับ Android",
+                    "link": "https://play.google.com/store/apps/details?id=com.sharpened.androidfileviewer",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "ฟรีเมียม"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "กูเกิ้ล รูปภาพ",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "ฟรี  "
+                },
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "โครเมียม โอเอส",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                }
+            ]
+        }
+    ]
+}

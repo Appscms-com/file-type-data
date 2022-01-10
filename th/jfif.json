@@ -1,0 +1,95 @@
+{
+    "Format": "JFIF",
+    "ShortName": "JFIF",
+    "FullName": "JPEG File Interchange Format",
+    "Category": "ไฟล์รูปภาพแบบแรสเตอร์",
+    "Pros": "รูปแบบที่นิยมมากการบีบอัดในระดับสูงควบคุมส่งผลให้ขนาดไฟล์ขนาดเล็ก รูปแบบเข้ากันได้และแสดงผลได้อย่างถูกต้องในเบราว์เซอร์ ข้อความ และกราฟิกโปรแกรมทั้งหมดบนคอมพิวเตอร์ แท็บเล็ต และอุปกรณ์เคลื่อนที่ทุกเครื่องรองรับภาพที่สมจริงเต็มสีที่มีจำนวนมากของการเปลี่ยนสีและความคมชัดคุณภาพของภาพที่มีระดับความเชื่อมโยงกันเพียงเล็กน้อย",
+    "Cons": "เมื่อคุณบีบอัดภาพอาจจะ “กระจุย” ลงในสี่เหลี่ยมจัตุรัสแต่ละตัว - 808 พิกเซลนี้เกิดขึ้นเนื่องจากอัลกอริทึมการบีบอัดวิเคราะห์พิกเซลเพื่อนบ้าน. สีเรียบ — การเปลี่ยนอาจกลายเป็นรุนแรงหรือเพียงแค่หายไป.JPEG ไม่เหมาะสำหรับการทำงานกับข้อความหรือกราฟิกขาวดำที่มีขอบเขตชัดเจนรูปแบบนี้ไม่สนับสนุนความโปร่งใสแม้ว่าจะต้องใช้ในการสร้างเทมเพลต โลโก้ และปุ่มคุณภาพของภาพลดลงด้วยแต่ละขั้นตอนการบีบอัดที่ตามมา",
+    "Createdby": "C-Cube Microsystems และกลุ่มผู้เชี่ยวชาญด้านการถ่ายภาพร่วม",
+    "CreatedbyLink": "https://jpeg.org/",
+    "CreatedInYear": "2011",
+    "BasicInformation": "ไฟล์ JFIF เป็นกราฟิกบิตแมปที่บีบอัดด้วย JPEGมันถูกเก็บรักษาไว้ด้วยความแปรปรวนของมาตรฐานรูปแบบไฟล์ JPEG ถูกสร้างขึ้นโดยมีเป้าหมายในการจัดเก็บข้อมูลจำนวนน้อยและช่วยให้สามารถถ่ายโอนระหว่างแพลตฟอร์มและแอปได้อย่างง่ายดายJPEG รูปแบบการแลกเปลี่ยนไฟล์เป็นตัวย่อสำหรับ JPEG รูปแบบการแลกเปลี่ยนไฟล์",
+    "DetailedInformation": "รูปแบบ JFIF ระบุลักษณะที่หายไปจากรูปแบบ JPEG ต้นฉบับผู้ใช้สามารถบันทึกและแบ่งปันไฟล์โดยใช้การบีบอัด JPEG หลังจากกำหนดลักษณะเหล่านี้ ซึ่งรวมถึงหัวกระดาษมาตรฐาน ความละเอียดและอัตราส่วนภาพ และรุ่นสีกล้องดิจิตอลจำนวนมากที่ใช้ในการบันทึกรูปภาพในรูปแบบ JFIFอย่างไรก็ตามเนื่องจากรูปแบบ JPEG ดีขึ้นเมื่อเวลาผ่านไปมาตรฐาน JFIF กลายเป็นล้าสมัยส่วนใหญ่",
+    "Softwaresused": [
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "รูปภาพของ Microsoft",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "มอซิลลา ไฟร์ฟอกซ์",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "โอเปร่า",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg"
+                },
+                {
+                    "name": "ระบบ ACD ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "ตัวอย่างแอปเปิ้ล",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "มอซิลลา ไฟร์ฟอกซ์",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "โอเปร่า",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ระบบ ACD ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        }
+    ]
+}

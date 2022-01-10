@@ -1,0 +1,135 @@
+{
+    "Format": "FLV",
+    "ShortName": "FLV",
+    "FullName": "Flash Video File",
+    "Category": "Videofil",
+    "Pros": "Filmer, online-presentationer, bannerannonser, internetanimeringar och andra användningsområden för Flash är bara några exempel. Över 90% av webbplatsbesökarna kommer att kunna se den. Flash-filer är ofta små och enkla att ladda ner. Blixt kan ses både på bredband och uppringda anslutningar, liksom på äldre, långsammare system. Ett brett utbud av videofiler kan konverteras till Flash-formatet med lätthet.",
+    "Cons": "Det kan vara dyrt och tidskrävande att skapa Flash-innehåll. Eftersom sökmotorspindlar inte identifierar Flash-filer bidrar de inte till platsoptimering. När du öppnar en webbsida med Flash kan besökarna stöta på längre väntetider, särskilt om de använder en fjärranslutning.",
+    "Createdby": "Adobe-system",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "2003",
+    "BasicInformation": "En videofil som sparats i behållarformatet Adobe Flash Video (FLV) kallas FLV-fil. En kort rubrik, synkroniserade ljud- och videodataströmmar (kodade på samma sätt som strömmar i standardformatet Flash.SWF) och metadatapaket lagras.",
+    "DetailedInformation": "Adobe Systems Flash Video Format används ofta för onlinevideor på webbplatser som YouTube, Hulu, Vevo och en mängd andra streamingvideotjänster. Adobe Flash Player (inklusive plugin-program för webbläsare) och program från tredje part kan läsa och titta på FLV-filer på nästan alla operativsystem (med undantag för iOS). Med lanseringen av Adobe Flash Player 7 2003 lanserades FLV-formatet. Adobe Flash Player använder det främst för att erbjuda videoinnehåll online, till exempel filmer och TV-avsnitt. FLV är å andra sidan ett öppet format som stöds av en mängd olika appar som inte är Adobe/Macromedia. Plugin-programmet Flash Video Exporter (tillgängligt med Adobe Animate) eller något program som stöder FLV-filer kan användas för att producera Flash Video-innehåll och exportera det som FLV-filer. Med Adobe Media Encoder kan användare nu koda olika videoformat som QuickTime eller Windows Media. Allteftersom onlinetekniken utvecklades under 2010-talet blev Flashs brister, som inkluderade prestanda och säkerhetsproblem, allt tydligare. Adobe och många online-webbläsartillverkare stoppade formellt stödet för Flash den 31 december 2020, eftersom användningen av Flash Player och FLV-formatet rasade.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLAN VLC mediaspelare",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "RealNetworks Realplayer moln",
+                    "link": "https://www.real.com/in",
+                    "image": "/assets/fileimg/FdqTl1x.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Fönster",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Hämta det från Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "VideoLAN VLC mediaspelare",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Xilisoft Video Converter Ultimate",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg",
+                    "type": "Kostnadsfri provperiod"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "Media Player klassiskt",
+                    "link": "https://github.com/clsid2/mpc-hc/",
+                    "image": "/assets/fileimg/PLx4Opv.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple QuickTime-spelare",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Kostnadsfritt, ingår i OS"
+                },
+                {
+                    "name": "Adobe Animate CC 2019",
+                    "link": "https://www.adobe.com/products/animate.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/pqcWQ2F.jpeg",
+                    "type": "Kostnadsfri provperiod"
+                },
+                {
+                    "name": "Eltima Elmedia-spelare",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "VideoLAN VLC mediaspelare",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "RealNetworks RealTimes: Video Maker",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "BIT Labs Enkel MP4-videospelare",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "antvplayer Media Converter",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "J2 Interaktiv MX-spelare",
+                    "link": "https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en",
+                    "image": "/assets/fileimg/Cjoa7OB.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "RealNetworks RealTimes Video Maker",
+                    "link": "https://play.google.com/store/apps/details?id=com.real.RealPlayerCloud",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

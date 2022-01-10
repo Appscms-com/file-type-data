@@ -1,0 +1,164 @@
+{
+    "Format": "OGG",
+    "ShortName": "OGG",
+    "FullName": "Ogg Vorbis Audio File",
+    "Category": "ملف صوتي",
+    "Pros": "يمكن تخزين ما يصل إلى 255 قناة في ملف OGG. يتم تخزين الصوت المحيطي. تمكنك من حفظ كل من الصوت والفيديو. يحتوي تنسيق OGG على جودة أعلى. لدى OGG نظام وضع العلامات الفائق.",
+    "Cons": "غير مدعوم من قبل جميع الأجهزة أو التطبيقات. العديد من أنظمة التشغيل لا تدعم OGG. استهلاك البطارية أكبر.",
+    "Createdby": "Xiph.Org ",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "1997",
+    "BasicInformation": "ملف OGG هو ملف صوتي مضغوط يستخدم ضغط الصوت Ogg Vorbis، وهو مجاني وغير حاصل على براءة اختراع. يمكن مقارنته بملف MP3، إلا أنه يبدو أفضل من ملف MP3 ذي حجم متساوٍ، وقد يتضمن بيانات تعريف الأغنية مثل منشئ المحتوى ومعلومات المسار. العديد من مشغلات موسيقى البرامج، بالإضافة إلى بعض مشغلات الموسيقى المحمولة، تتعامل مع ملفات OGG.",
+    "DetailedInformation": "حاوية Ogg هي تنسيق ملف لتخزين البيانات الصوتية. يشير اسم «Vorbis» إلى تقنية ترميز طورتها Xiph.Org، وهي نفس الشركة التي أنشأت Ogg. قد تكون هناك طرق أخرى لضغط الصوت، مثل FLAC و Speex، في ملفات OGG. ومع ذلك، نظرًا لأنها تستخدم خوارزمية ضغط مختلفة، لا يمكن الإشارة إلى هذه الملفات قانونًا باسم ملفات «Vorbis». إنه يمكّن المستخدمين من عرض وتحرير ملفات الوسائط المتعددة الرقمية عالية الدقة. مصطلح «Ogg» يأتي من مصطلح المصطلحات «Ogging». في لعبة Netrek، يشير Ogging إلى تشغيل انتحاري يقتل الناقل. تم استخدام ملحق OGG مرة واحدة لوصف أي ملف يستخدم تنسيق حاوية OGG، ولكن تم استخدامه فقط لملفات الصوت Ogg Vorbis بعد عام 2007. يمكن استخدام ملحق OGG للإشارة إلى ملف صوتي، ولكن يمكن استخدامه أيضًا للإشارة إلى ملف حاوية.",
+    "Softwaresused": [
+        {
+            "platform": "لينكس",
+            "softwares": [
+                {
+                    "name": "زينف",
+                    "link": "http://www.zinf.org/",
+                    "image": "https://image.flaticon.com/icons/png/512/1063/1063308.png",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "أماروك",
+                    "link": "https://amarok.kde.org/",
+                    "image": "/assets/fileimg/Dh0nFk6.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "الجرأة",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "PCF ميرو",
+                    "link": "http://www.getmiro.com/",
+                    "image": "/assets/fileimg/JeFS57j.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "شبابيك",
+            "softwares": [
+                {
+                    "name": "عارض الملفات بلس - احصل عليه من Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "ميكروسوفت ويندوز ميديا بلاير",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "نولسوفت وينامب",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "الجرأة",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                }
+            ]
+        },
+        {
+            "platform": "رفيق",
+            "softwares": [
+                {
+                    "name": "أبل كويك تايم بلاير",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "فيديو لان VLC ميديا بلاير",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "الجرأة",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "PCF ميرو",
+                    "link": "http://www.getmiro.com/",
+                    "image": "/assets/fileimg/JeFS57j.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "أوليمسفت أوبلاير",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "مدفوعة"
+                },
+                {
+                    "name": "Videolan VLC للجوال",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "أندرويد",
+            "softwares": [
+                {
+                    "name": "عارض الملفات لنظام Android",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "محول وسائل الإعلام antvplayer",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "نظام كرومي أوس",
+            "softwares": [
+                {
+                    "name": "محرك جوجل",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "فريميوم"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "Format": "WEBP",
+    "ShortName": "WEBP",
+    "FullName": "Web Picture",
+    "Category": "ไฟล์รูปภาพแบบแรสเตอร์",
+    "Pros": "ขนาดไฟล์มีขนาดเล็กลงอัลกอริทึมการบีบอัดได้รับการปรับปรุงการไล่ระดับสีที่นุ่มนวลขึ้นกำบังช่องอัลฟ่า",
+    "Cons": "การสนับสนุนเบราว์เซอร์ขาด.อินเตอร์เฟซสำหรับการส่งออกไม่ดีสิ่งประดิษฐ์ดูเหมือนจะทำจากพลาสติก",
+    "Createdby": "กูเกิล",
+    "CreatedbyLink": "https://developers.google.com/",
+    "CreatedInYear": "2010",
+    "BasicInformation": "ไฟล์ WEBP เป็นรูปแบบภาพแรสเตอร์ที่พัฒนาโดยกูเกิลสำหรับเว็บกราฟิกที่เรียกว่า WebP (ออกเสียง “เวปปี้”)รูปแบบ WebP บีบอัดแฟ้มได้อย่างมีประสิทธิภาพมากกว่าการบีบอัด JPEG ทั่วไปในขณะที่รักษาคุณภาพของภาพที่เทียบเท่ากับหรือมากกว่า JPEGto.PNG ที่คล้ายกันจะช่วยให้การบีบอัดสูญเสียและ lossless และมีช่องอัลฟาเพื่อความโปร่งใส",
+    "DetailedInformation": "รูปแบบภาพ WEBP มาตรฐานแบบเปิดที่สร้างขึ้นโดย Google ในปี 2010 ช่วยให้ผู้ใช้สามารถบันทึกรูปภาพทั้งในการบีบอัดแบบ lossy และ losslessนักพัฒนาซอฟต์แวร์ของ Google ประสิทธิภาพการบีบอัดช่วยให้ภาพสามารถหดขนาดได้ถึง 34% น้อยกว่าภาพ JPEG และ PNG ในขณะที่รักษาคุณภาพที่ดีรูปแบบ WebP ใช้เทคโนโลยี On2 Technologies ซึ่งถูกซื้อโดยกูเกิลในปี 2009รูปแบบซึ่งได้รับการประกาศในปี 2010 ใช้คอนเทนเนอร์ตามรูปแบบไฟล์แลกเปลี่ยนทรัพยากร (RIFF)ยกเว้นแอปเปิลซาฟารีและ Microsoft Internet Explorer เว็บเบราว์เซอร์ส่วนใหญ่จะยอมรับไฟล์ WEBP ณ ปี 2019สมมติฐานคือ โดยการใช้เทคโนโลยีที่ใช้สร้างภาพ WEBP (สมมติว่ามีการยอมรับอย่างแพร่หลาย) ทำให้อินเทอร์เน็ตโดยรวมสามารถเร่งความเร็วขึ้นได้ เพราะภาพ WEBP ต้องการพื้นที่จัดเก็บน้อยลง ทำให้สามารถดูภาพจำนวนมากขึ้นพร้อมกันได้ด้วยความเร็วที่สูงขึ้นทั่วโลก",
+    "Softwaresused": [
+        {
+            "platform": "ลินุกซ์",
+            "softwares": [
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "มอซิลลา ไฟร์ฟอกซ์",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "โอเปร่า",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ตัวแปลงสัญญาณ WebP",
+                    "link": "https://developers.google.com/speed/webp/download",
+                    "image": "/assets/fileimg/NY9GTXm.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "อิมเมจิกก์",
+                    "link": "https://imagemagick.org/index.php",
+                    "image": "/assets/fileimg/hJWCII5.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์พลัส — รับได้จากไมโครซอฟท์",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "ไมโครซอฟท์ เอดจ์",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "มอซิลลา ไฟร์ฟอกซ์",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg"
+                },
+                {
+                    "name": "โอเปร่า",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "มอซิลลา ไฟร์ฟอกซ์",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "โอเปร่า",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ตัวแปลงสัญญาณ WebP",
+                    "link": "https://developers.google.com/speed/webp/download",
+                    "image": "/assets/fileimg/NY9GTXm.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "อิมเมจิกก์",
+                    "link": "https://imagemagick.org/index.php",
+                    "image": "/assets/fileimg/hJWCII5.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "กูเกิ้ล รูปภาพ",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "ฟรี  "
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์สำหรับ Android",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "กูเกิ้ล รูปภาพ",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "ฟรี  "
+                },
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "กูเกิ้ล รูปภาพ",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "ฟรี  "
+                },
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "โครเมียม โอเอส",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "Format": "HEIC",
+    "ShortName": "HEIC",
+    "FullName": "High Efficiency Image Format",
+    "Category": "Raster Görüntü Dosyaları",
+    "Pros": "Mükemmel görüntü kalitesi. Daha az depolama alanı kaplar. Birden fazla görüntüyü tek bir dosyada saklayabilir. Görüntü türevlerini alaso depolayabilir.",
+    "Cons": "Tüm sistemler ve cihazlarla uyumlu değildir. Pek popüler değil. Patenti ile ilgili sorunları var. ",
+    "Createdby": "Hareketli Resim Uzmanları Grubu",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "2001",
+    "BasicInformation": "Fotoğrafları iOS aygıtlarına kaydetmek için en çok kullanılan bir dosya formatı olan Yüksek Verimli Görüntü Biçimi'nde (HEIF) depolanan bir veya daha fazla fotoğraf, HEIC dosyasında bulunur. Büyük olasılıkla iPhone veya iPad'deki Kamera uygulaması kullanılarak oluşturulmuş her görüntüyü karakterize eden meta verilerden oluşan bir görüntü veya dizi görüntü içerir. HEIC dosyaları genellikle.heic dosyaları olarak kaydedilir, ancak bunlar alternatif.HEIF dosyaları olarak kaydedilir.",
+    "DetailedInformation": "HEIF veya H.265, daha yüksek kalitede ve daha düşük dosyalarda fotoğrafları tutan dijital resim depolama standardıdır. JPEG dijital bir görüntü formatıdır. Bu, fotoğrafların boyutunu azaltarak hafıza kartlarında ve mobil cihazlarda yerden tasarruf sağlar. Apple, 2017'de iOS 11'in piyasaya sürülmesiyle iOS cihazlar için varsayılan fotoğraf depolama formatını HEIF tanıttı. Bu ayarlamanın bir sonucu olarak, iPhone'lar ve iPad'ler kullanıcıların görüntülerini HEIC olarak kaydetmeye başladı. High Sierra'nın piyasaya sürülmesiyle Apple hem iOS hem de macOS ile HEIF uyumluluğunu etkinleştirdi. Google, 2018'de HEIF desteğini Android'e genişletti ve Microsoft 2018'de Windows'a HEIF desteği getirdi. Kullanıcılar, Microsoft uygulamalarında HEIC dosyalarını açmak için Microsoft Store'dan Microsoft HEIF Görüntü Uzantıları ve HEVC Video Uzantıları paketlerini açıkça yerleştirmelidir. iOS aygıtındaki Kamera uygulamasını kullanarak çekilen bir fotoğrafı iOS olmayan bir aygıta veya uygulamaya dışa aktardığınızda veya paylaştığınızda, genellikle HEIC biçiminden JPEG veya.JPG dosyasına dönüştürülür.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "SAKAL",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Ücretsiz "
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Microsoft'tan edinin",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "SAKAL",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Ücretsiz "
+                },
+                {
+                    "name": "Adobe Premiere Rush",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "Ücretsiz deneme"
+                },
+                {
+                    "name": "HEIF Görüntü Uzantıları ve HEVC Video Uzantıları paketleri yüklü Microsoft Windows Fotoğraflar",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab&ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-Tcw4tJawHA2VbfUU47cFuA&epi=4LioSo.jxMc-Tcw4tJawHA2VbfUU47cFuA&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xurhnaenupuk000%29%287593%29%281243925%29%284LioSo.jxMc-Tcw4tJawHA2VbfUU47cFuA%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xurhnaenupuk000",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg"
+                },
+                {
+                    "name": "TunesBro HEIC Dönüştürücü",
+                    "link": "https://www.tunesbro.com/heic-converter.html",
+                    "image": "/assets/fileimg/7eQehmc.jpeg",
+                    "type": "Ücretsiz deneme"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple Önizlemesi",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "Apple Fotoğrafları",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Ücretsiz deneme"
+                },
+                {
+                    "name": "SAKAL",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Ücretsiz "
+                },
+                {
+                    "name": "TunesBro HEIC Dönüştürücü",
+                    "link": "https://www.tunesbro.com/heic-converter.html",
+                    "image": "/assets/fileimg/7eQehmc.jpeg",
+                    "type": "Ücretsiz deneme"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Apple Fotoğrafları",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "Dropbox",
+                    "link": "https://www.dropbox.com/?landing=dbv2",
+                    "image": "/assets/fileimg/ovQYI78.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Fotoğraflar",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Ücretsiz  "
+                },
+                {
+                    "name": "Adobe Premiere Rush",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "Ücretsiz deneme"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Android için dosya görüntüleyici",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Fotoğraflar",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Ücretsiz  "
+                },
+                {
+                    "name": "Adobe Premiere Rush",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "Ücretsiz deneme"
+                },
+                {
+                    "name": "Dropbox",
+                    "link": "https://www.dropbox.com/?landing=dbv2",
+                    "image": "/assets/fileimg/ovQYI78.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Basit Yumuşak İttifak Luma: HEIF Görüntüleyici ve Dönüştürücü",
+                    "link": "https://play.google.com/store/apps/details?id=luma.hevc.heif.image.viewer.converter",
+                    "image": "/assets/fileimg/1o2rNBD.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Fotoğraflar",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Ücretsiz  "
+                },
+                {
+                    "name": "HEIC Görüntü Görüntüleyici Kod Çözücü",
+                    "link": "https://speedtesting.herokuapp.com/heicviewer/",
+                    "image": "/assets/fileimg/KXTzTK7.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        }
+    ]
+}

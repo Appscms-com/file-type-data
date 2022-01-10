@@ -1,0 +1,200 @@
+{
+    "Format": "MP4",
+    "ShortName": "MP4",
+    "FullName": "MPEG-4 Part 14",
+    "Category": "विडियो फाइल",
+    "Pros": "मल्टी-प्लेटफ़ॉर्म समर्थन प्रदान करता है। उपयोग करने में आसान। आसानी से वितरित करने योग्य। छोटी फ़ाइलों को बनाते समय उच्च स्तर पर संपीड़न, जो वीडियो स्ट्रीमिंग या उच्च-परिभाषा ऑडियो-वीडियो फ़ाइलों को संपीड़ित करने के लिए एकदम सही बनाता है। मेटाडेटा को कंटेंट कर सकते हैं। बातचीत करने के लिए 3 डी ग्राफिक्स और अन्य उपकरणों के साथ एकीकृत किया जा सकता है। सभी प्लेटफार्मों द्वारा समर्थित। एक बहुमुखी फ़ाइल स्वरूप।",
+    "Cons": "कोडेक कठिनाइयों के कारण वीडियो के साथ ऑडियो सिंक नहीं हो सकता है। प्लेबैक और संपादन के लिए कम्प्यूटेशनल शक्ति की एक महत्वपूर्ण मात्रा की आवश्यकता हो सकती है। क्योंकि यह एक हानिपूर्ण प्रारूप है, उच्च स्तर की संपीड़न और छोटे फ़ाइल आकार के परिणामस्वरूप ऑडियो और वीडियो की गुणवत्ता में कमी आएगी। इसकी लोकप्रियता के कारण, कॉपीराइट की गई फ़ाइलों को अब अवैध रूप से वितरित किया जा सकता है।",
+    "Createdby": "मूविंग पिक्चर एक्सपर्ट्स",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "2001-2003",
+    "BasicInformation": "MPEG4 ISO/IEC मूविंग पिक्चर एक्सपर्ट्स ग्रुप द्वारा परिभाषित मीडिया प्रकारों को संग्रहीत करने के लिए एक फ़ाइल प्रारूप है, जबकि यह अन्य मीडिया प्रकारों को भी संग्रहीत कर सकता है। .mp4 इस प्रकार की फ़ाइल के लिए सबसे आम एक्सटेंशन है। यह एक प्रकार की मल्टीमीडिया फ़ाइल है जिसका उपयोग मूवी या वीडियो क्लिप को सहेजने के लिए किया जाता है। इसमें ग्राफिक्स या उपशीर्षक भी शामिल हो सकते हैं। MP4 MPEG-4 भाग 14 (MPEG-4) के लिए एक संक्षिप्त नाम है, जो QuickTime फ़ाइल स्वरूप (QTFF) पर आधारित एक कंटेनर प्रारूप है, जिसका उपयोग by.MOV और.qt फ़ाइलों का उपयोग किया जाता है।",
+    "DetailedInformation": "MP4 फाइलें मूविंग पिक्चर एक्सपर्ट्स ग्रुप के MPEG-4 कम्प्रेशन स्टैंडर्ड (MPEG) को नियोजित करती हैं। ऑडियो और वीडियो ट्रैक इस प्रारूप में अलग से संकुचित होते हैं। वीडियो को MPEG-4 वीडियो एन्कोडिंग का उपयोग करके संपीड़ित किया गया है, और ऑडियो AAC संपीड़न का उपयोग करके एन्कोड किया गया है, जो.aac फ़ाइलों में उपयोग किए जाने वाले समान है। Apple और अन्य मोबाइल डिवाइस निर्माता अक्सर इस फ़ाइल प्रकार का उपयोग ऑडियो, स्थिर फ़ोटो या वीडियो संग्रहीत करने के लिए करते हैं। ऑडियो किताबें, गाने, फिल्में, वीडियो, चित्र और पॉडकास्ट सभी इसके उदाहरण हैं। MPEG-4 एक लोकप्रिय वीडियो स्ट्रीमिंग प्रारूप है। कई एमपी 3 प्लेयर MP4 फ़ाइलों को चलाने में सक्षम होने का दावा करते हैं, जिसका मूल रूप से अर्थ है कि वे संगीत और कुछ वीडियो फ़ाइलों को चला सकते हैं (यद्यपि हमेशा सही MP4 फ़ाइलें नहीं)। MP4 एक्सटेंशन आपको फिल्में, वीडियो और ऑडियो फ़ाइलों को डाउनलोड या स्ट्रीम करने की अनुमति देता है।",
+    "Softwaresused": [
+        {
+            "platform": "लिनक्स",
+            "softwares": [
+                {
+                    "name": "वीडियोलैन वीएलसी मीडिया प्लेयर",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "हैंडब्रेक",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "फ़ाइल व्यूअर प्लस - इसे Microsoft से प्राप्त करें",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट विंडोज मीडिया प्लेयर",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "वीडियोलैन वीएलसी मीडिया प्लेयर",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "हैंडब्रेक",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "मैक",
+            "softwares": [
+                {
+                    "name": "एपल क्विकटाइम प्लेयर",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "वीडियोलैन वीएलसी मीडिया प्लेयर",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "हैंडब्रेक",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "रोक्सियो टोस्ट 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "अदा"
+                }
+            ]
+        },
+        {
+            "platform": "आईओएस",
+            "softwares": [
+                {
+                    "name": "एप्पल म्यूज़िक",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "Apple फोटो",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "गूगल ड्राइव",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "वीडियोलैन वीएलसी मीडिया प्लेयर",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "ओलिमसॉफ्ट ओप्लेयर",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "अदा"
+                }
+            ]
+        },
+        {
+            "platform": "एंड्रॉयड",
+            "softwares": [
+                {
+                    "name": "Android के लिए फ़ाइल व्यूअर",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "Android के लिए वीडियोलैब्स VLC",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "एडोब प्रीमियर रश",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "गूगल ड्राइव",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "बीआईटी लैब्स सिंपल MP4 वीडियो प्लेयर",
+                    "link": "https://play.google.com/store/apps/details?id=air.br.com.bitlabs.VideoPlayer&hl=en",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "गूगल ड्राइव",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "क्रोम ओएस",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "गूगल क्रोम",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        }
+    ]
+}

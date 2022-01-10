@@ -1,0 +1,206 @@
+{
+    "Format": "PNG",
+    "ShortName": "PNG",
+    "FullName": "Portable Network Graphics",
+    "Category": "Bit-map görüntü grafik formatı",
+    "Pros": "Sıkıştırma kaybı en aza indirgenir. Herhangi bir sıkıştırma oranının görüntü kalitesi üzerinde etkisi yoktur. Biçim, görüntünün ara sürümlerini saklamak için mükemmeldir. Bir görüntünün kalitesi yeniden kaydedildiğinde kaybolmaz. PNG çok sayıda rengi destekler. Birden fazla şeffaflık düzeyine izin verir. Katmanlarla çalışma yeteneği. Dosya meta verilerine ekleme yeteneği. Dosyaların boyutu küçüktür.",
+    "Cons": "Tam renkli fotoğraflarla çalışmak için uygun değildir. Tek bir dosyaya çok sayıda görüntü kaydedemezsiniz. Animasyona izin vermiyor.",
+    "Createdby": "PNG Geliştirme Grubu",
+    "CreatedbyLink": "http://www.libpng.org/pub/png/",
+    "CreatedInYear": "1996",
+    "BasicInformation": "Taşınabilir Ağ Grafiği (PNG) biçiminde kaydedilen bir görüntü dosyası, PNG dosyası olarak bilinir. Bir .GIF dosyasınınkiyle karşılaştırılabilen kayıpsız sıkıştırılmış bir bitmap içerir. Yarı saydam arka planlara sahip web grafikleri, dijital resimler ve görüntüler genellikle PNG dosyaları olarak kaydedilir. Başlangıçta, PNG görüntü formatı, her ikisi de saydam arka planları desteklediğinden GIF görüntü formatının yerini alması amaçlanmıştır. Dizinlenmiş renklerin ve kayıpsız sıkıştırmanın kullanılması, ikisi arasındaki başka bir benzerliktir. Öte yandan PNG dosyaları aynı telif hakkı kısıtlamalarına tabi değildir.",
+    "DetailedInformation": "Damalı bir arka plan üzerine bindirilmiş, 8 bit saydamlık katmanı (üst) (alt) içeren bir PNG görüntüsüdür. PNG, patentli olmayan kayıpsız veri sıkıştırma tekniği olan deflasyon kullanır. PNG çoğu durumda görüntüleri GIF'den daha verimli bir şekilde sıkıştırabilir, ancak bazı uygulamalar yetersiz filtre yöntemleri kullanır ve bu da gereksiz yere büyük PNG dosyalarına neden olur. PNG formatında üç tür saydamlık vardır: biri dizine eklenmiş, renkli görüntüler için, gri tonlamalı veya gerçek renkli görüntüler için ikisi. Gama değerleri, arka plan rengi ve metinsel içerik, PNG dosyalarına kaydedilebilecek tüm görüntü nitelikleridir. Standart kanal başına 16 bit'e kadar izin verir, ancak çoğu müşterinin kanal başına yalnızca 8 bit gerekir. Görüntüleri kaydetmek için, PNG formatı özellikle internette yaygın olarak kullanılmaktadır. Dizine eklenmiş (palet tabanlı) 24 bit RGB veya 32 bit RGBA (dördüncü alfa kanalıyla RGB) renkli görüntüleri işleyebilir. Tam renkli, dizine eklenmemiş RGB veya RGBA fotoğraflarının yanı sıra gri tonlamalı görüntüler biçim tarafından desteklenir. PNG dosyaları, ister bir web sitesinden bir görüntü indiriyor, e-postaya eklenmiş dijital fotoğraf alıyor veya ekran görüntüsü alıyor olsun, çeşitli bilgisayar kullanıcıları tarafından karşılaşılabilir. Web kullanımı için grafik tasarımcıları genellikle grafikleri PNG dosyaları olarak kaydedebilir. Ayrıca diğer resimlerin üzerine yerleştirilebilen yarı saydam logo veya simge mockup'larını kaydetmek için PNG dosyalarını da kullanırlar.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "SAKAL",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Ücretsiz "
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Microsoft Edge",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Microsoft Fotoğrafları",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "Microsoft Windows Fotoğraf Görüntüleyicisi",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "Microsoft Paint",
+                    "link": "https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9",
+                    "image": "/assets/fileimg/AuNqAKT.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "Microsoft Paint 3D",
+                    "link": "https://www.microsoft.com/en-us/p/paint-3d/9nblggh5fv99?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/7Z9sNdy.jpeg"
+                },
+                {
+                    "name": "ACD Sistemleri ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/acdsee.png",
+                    "type": "Ücretsiz deneme"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple Önizlemesi",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "Apple Fotoğrafları",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "Apple Safari",
+                    "link": "https://www.apple.com/safari/",
+                    "image": "/assets/fileimg/PePZ5cb.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Ücretsiz deneme"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Google Fotoğraflar",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Ücretsiz  "
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft OneDrive",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "Ücretsiz deneme"
+                },
+                {
+                    "name": "Adobe Photoshop Express",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop-express/id331975235?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Ücretsiz deneme"
+                },
+                {
+                    "name": "Pixelmator 2",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/HmizpGb.jpeg",
+                    "type": "Ücretli"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Android için Dosya Görüntüleyici",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Fotoğraflar",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Ücretsiz  "
+                },
+                {
+                    "name": "Microsoft OneDrive",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Adobe Photoshop Express",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Fotoğraflar",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Ücretsiz  "
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Chrome OS",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                }
+            ]
+        }
+    ]
+}

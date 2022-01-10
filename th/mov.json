@@ -1,0 +1,147 @@
+{
+    "Format": "MOV",
+    "ShortName": "MOV",
+    "FullName": "Apple QuickTime Movie",
+    "Category": "แฟ้มวิดีโอ",
+    "Pros": "สามารถเก็บข้อมูลอ้างอิงข้อมูลที่เป็นนามธรรมสำหรับข้อมูลสื่อพวกเขาสามารถแก้ไขได้อย่างง่ายดายโดยไม่ต้องเขียนข้อมูลสื่อทั้งหมดหลังจากนั้นสำหรับการตัดต่อวิดีโอระดับมืออาชีพนี่เป็นมาตรฐานอุตสาหกรรม",
+    "Cons": "ส่วนใหญ่จะใช้สำหรับการแก้ไข แต่ไม่ได้มาตรฐานที่จะใช้เพื่อวัตถุประสงค์จริงบนอุปกรณ์จริงมีการยอมรับในระดับต่ำ ",
+    "Createdby": "แอปเปิ้ล",
+    "CreatedbyLink": "https://developer.apple.com/",
+    "CreatedInYear": "1998",
+    "BasicInformation": "ไฟล์ MOV เป็นรูปแบบไฟล์คอนเทนเนอร์มัลติมีเดียที่บันทึกภาพยนตร์ในรูปแบบ QuickTime File Format (QTFF)มันมีแทร็กอย่างน้อยหนึ่งเพลงที่มีข้อมูลสื่อประเภทต่าง ๆ รวมถึงวิดีโอเสียงและข้อความ (คำบรรยาย)โดยทั่วไปแล้ว ภาพยนตร์และไฟล์วิดีโออื่น ๆ จะถูกบันทึกเป็นไฟล์ MOV",
+    "DetailedInformation": "แอปเปิ้ลพัฒนาและปล่อยตัว QTFF ในปี 1991.รูปแบบคอนเทนเนอร์มีวัตถุประสงค์เพื่อรองรับรูปแบบสื่อที่หลากหลายเพื่ออำนวยความสะดวกในการส่งมัลติมีเดียระหว่างอุปกรณ์ ระบบปฏิบัติการ และแอพพลิเคชั่นไฟล์มัลติมีเดีย QTFF มักจะถูกจัดเก็บไฟล์ as.mov แต่พวกเขายังสามารถบันทึกเป็นไฟล์. qtวิดีโอ เสียง ไทม์โค้ด และแทร็กข้อความทั้งหมดสามารถพบได้ในไฟล์ MOV ซึ่งสามารถใช้ในการจัดเก็บและซิงโครไนซ์ข้อมูลในรูปแบบต่างๆตัวแปลงสัญญาณทางเลือกหลายตัวสามารถใช้ในการเข้ารหัสแต่ละแทร็กสื่อตัวแปลงสัญญาณ MPEG-4 มักใช้ในการบีบอัดไฟล์ MOVแต่ละภาชนะไฟล์สามารถถือความหลากหลายของชนิดของสื่อวิดีโอเอฟเฟ็กต์วิดีโอข้อความรูปภาพคำบรรยายและเสียงทั้งหมดสามารถเก็บไว้ในพวกเขาไฟล์ประเภทนี้มักใช้โดยแอปพลิเคชันตัดต่อวิดีโอไฟล์ MOV และ QuickTime มักใช้ในการตัดต่อเพลงและวิดีโอ (หรือทั้งสองแบบรวมกัน)",
+    "Softwaresused": [
+        {
+            "platform": "ลินุกซ์",
+            "softwares": [
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์พลัส — รับได้จากไมโครซอฟท์",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "โปรแกรมเล่นสื่อ Windows ของ Microsoft",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "นัลล์ซอฟท์ วินแอมป์",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "Xilisoft แปลงวิดีโอที่ดีที่สุด",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "โปรแกรมเล่น Apple QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "เอลติมาเอลมีเดียเพลเยอร์",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ร็อกซิโอ ขนมปังปิ้ง 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "จ่ายแล้ว"
+                },
+                {
+                    "name": "วิ่งรอบปฐมทัศน์ Adobe",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "โอลิมซอฟท์ โอเพลเยอร์",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "จ่ายแล้ว"
+                },
+                {
+                    "name": "VLC Videolan สำหรับมือถือ",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "กูเกิลไดรฟ์",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "วิ่งรอบปฐมทัศน์ Adobe",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "กูเกิลไดรฟ์",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "วิ่งรอบปฐมทัศน์ Adobe",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "วีดีโอแลบ VLC สำหรับ Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        }
+    ]
+}

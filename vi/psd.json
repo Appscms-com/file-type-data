@@ -1,0 +1,129 @@
+{
+    "Format": "PSD",
+    "ShortName": "PSD",
+    "FullName": "Adobe Photoshop Document",
+    "Category": "Tập tin ảnh Raster",
+    "Pros": "Tận dụng tối đa các tính năng của Photoshop. Bạn có thể nhập trực tiếp tệp Photoshop vào Illustrator, InDesign và các chương trình Adobe khác nhờ kết nối chặt chẽ. Mở tệp đã lưu ở chế độ lớp. Nếu bạn cần giữ mọi thứ trong suốt, đây là một công cụ tốt để có.",
+    "Cons": "Các tập tin là khá lớn. Adobe sở hữu định dạng PSD. Do đó, nó không được sử dụng rộng rãi bởi các ứng dụng khác.",
+    "Createdby": "Hệ thống Adobe",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "PSD là định dạng tập tin gốc của Photoshop để lưu tập tin. Nó còn được gọi là PDD. PSD, thường được gọi là PDD, là một loại tệp thường được sử dụng. PSD là tương thích với tất cả các chế độ hình ảnh (Bitmap, Grayscale, Duotone, Indexed Color, RGB, CMYK, Lab, và Multichannel). Đó là một tệp hình ảnh được tạo bởi Adobe Photoshop, một công cụ chỉnh sửa hình ảnh chuyên nghiệp thường được sử dụng để cải thiện ảnh kỹ thuật số và tạo đồ họa web.",
+    "DetailedInformation": "Các lớp hình ảnh, các lớp điều chỉnh, mặt nạ lớp, chú thích, thông tin tệp, từ khóa và các thành phần dành riêng cho Photoshop khác đều có thể được tìm thấy trong các tệp PSD. Chúng thường được thực hiện và chia sẻ bởi các nhà thiết kế đồ họa. Các tệp PSD có thể được mở bằng nhiều công cụ Photoshop và được làm phẳng thành các định dạng hình ảnh khác (chẳng hạn như PNG, JPEG và GIF) để tải lên, gửi và lưu. Tất cả các lớp được sáp nhập thành một lớp duy nhất sau khi được chuyển đổi từ PSD sang một loại tệp khác. Các lớp được lưu trữ, có thể truy cập và có thể chỉnh sửa khi được lưu với phần mở rộng tệp PSD. Các tệp này thường được sử dụng làm tài liệu đang tiến hành công việc, thay vì để sản xuất và phân phối hình ảnh cuối cùng. Các lớp PSD, cũng như các yếu tố khác như hình ảnh, hình dạng, văn bản và hiệu ứng, có thể được sửa đổi. RGB, CMYK, xám, đơn sắc, duotone, màu được lập chỉ mục, màu Lab và các chế độ màu đa kênh đều được hỗ trợ bởi định dạng PSD. Các tập tin Photoshop với phần mở rộng tập tin PSD giữ hình ảnh trong khi cho phép nhiều tùy chọn chỉnh sửa trên các sản phẩm Adobe Photoshop. Mặt nạ, độ trong suốt, cài đặt duotone, gradient, cân bằng màu, trộn và cắt đường chỉ là một vài trong số các công cụ chỉnh sửa có sẵn.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Free "
+                }
+            ]
+        },
+        {
+            "platform": "các cửa sổ",
+            "softwares": [
+                {
+                    "name": "Trình xem tệp Plus - Tải nó từ Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Adobe Photoshop",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Dùng thử miễn phí"
+                },
+                {
+                    "name": "Adobe Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Dùng thử miễn phí"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg"
+                },
+                {
+                    "name": "Bộ đồ họa CorelDRAW 2021",
+                    "link": "https://www.coreldraw.com/en/product/coreldraw/purchase.html?AID=10816204&PID=3081440&cjevent=51885051cce111eb80d1d3470a180510&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&x-vehicle=cj",
+                    "image": "/assets/fileimg/cfwD39J.jpeg",
+                    "type": "Dùng thử miễn phí"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple Xem trước",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Adobe Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Dùng thử miễn phí"
+                },
+                {
+                    "name": "Adobe Photoshop",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Dùng thử miễn phí"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Free "
+                },
+                {
+                    "name": "Pixelmator",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id407963104?ign-mpt=uo%3D4&mt=12",
+                    "image": "/assets/fileimg/0RX6D8V.jpeg",
+                    "type": "Trả tiền"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Pixelmator 2",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/HmizpGb.jpeg",
+                    "type": "Trả tiền"
+                },
+                {
+                    "name": "Adobe Photoshop ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Trình xem tệp dành cho Android",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Adobe Photoshop nhanh",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

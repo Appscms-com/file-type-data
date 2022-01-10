@@ -1,0 +1,100 @@
+{
+    "Format": "WMA",
+    "ShortName": "WMA",
+    "FullName": "Windows Media Audio File",
+    "Category": "音声ファイル",
+    "Pros": "マイクロソフトはこれまでに 8 つのエディションの WMA を公開しており、WMA 7 以降のエディションでは音楽の著作権を保護するために証明書の暗号化をサポートしており、ミュージシャンや音楽出版社が最も利益を得ている可能性があります。WMA では、オーディオをより高速に圧縮できるため、より少ないスペースで高品質のオーディオを保存できます。",
+    "Cons": "WMA コーデックでオーディオを圧縮すると、通常、ある程度の品質が低下します。WMAは音質を重視する消費者には完璧ではありませんが、代わりにFLAC（フリーロスレスオーディオコーデック）またはAPE（一般にモンキーズオーディオとして知られています）を選択できます。マイクロソフトは WMA 標準を所有しており、他の企業との共有を拒否しています。",
+    "Createdby": "マイクロソフト",
+    "CreatedbyLink": "https://developer.microsoft.com/en-us/",
+    "CreatedInYear": "1999",
+    "BasicInformation": "WMAファイルは、Microsoft独自のアドバンスドシステムフォーマット（ASF）形式で保存されたオーディオファイルです。これには、Windows Media Audio のほか、トラックのタイトル、アーティスト、アルバム、ジャンルなどのメタデータ要素が含まれます。WMAファイルは、通常、インターネット経由で音楽をストリーミングするために使用されるという点でMP3ファイルに似ています。",
+    "DetailedInformation": "このファイル形式は、よく知られたMP3およびRealAudio形式と競合するために作成されました。DVDプレーヤーでのビデオ再生や、PlaystationやNokiaのモバイル/ポータブルデバイスでのビデオ再生機能で使用するためのWMAファイルの人気が成功に貢献しました。ほとんどの WMA ファイルは非可逆ですが、一部の形式では可逆圧縮が可能です。ASF は、Microsoft が開発した独自のデジタル音楽およびビデオコンテナ形式です。Windows Media オーディオではなく Windows Media ビデオが含まれている場合は、を使用します。WMV はビデオフォーマットの拡張機能です。WMA ファイルと WMV ファイルは交換可能です。ただし、ASF ファイルはより頻繁に使用されます。 ",
+    "Softwaresused": [
+        {
+            "platform": "リナックス",
+            "softwares": [
+                {
+                    "name": "オーダシャス",
+                    "link": "https://audacious-media-player.org/",
+                    "image": "/assets/fileimg/6WTDOAw.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "ファイルビューアープラス — マイクロソフトから入手",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "マイクロソフトウィンドウズメディアプレーヤー",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "Xilisoft 動画変換究極",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg"
+                },
+                {
+                    "name": "Windows メディアプレーヤープラグイン搭載の Google クローム",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "マック",
+            "softwares": [
+                {
+                    "name": "Apple QuickTime プレイヤー",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "エルティマ・エルメディア・プレイヤー",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "Flip4Mac WMV プラグインでオペラ",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "ShedWorx スマートコンバーター",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "フリートライアル"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "有料"
+                }
+            ]
+        }
+    ]
+}

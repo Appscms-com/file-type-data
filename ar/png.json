@@ -1,0 +1,206 @@
+{
+    "Format": "PNG",
+    "ShortName": "PNG",
+    "FullName": "Portable Network Graphics",
+    "Category": "تنسيق رسومات صورة خريطة البت",
+    "Pros": "يتم الاحتفاظ بفقدان الضغط إلى الحد الأدنى. أي نسبة ضغط ليس لها تأثير على جودة الصورة. التنسيق ممتاز لتخزين الإصدارات الوسيطة من الصورة. لا تضيع جودة الصورة عند إعادة حفظها. PNG يدعم عددًا كبيرًا من الألوان. يسمح بمستويات متعددة من الشفافية. القدرة على العمل مع الطبقات. القدرة على الإضافة إلى البيانات الوصفية للملف. حجم الملفات صغير.",
+    "Cons": "غير مناسب للعمل مع الصور بالألوان الكاملة. لا يمكن حفظ العديد من الصور في ملف واحد. لا يسمح بالرسوم المتحركة.",
+    "Createdby": "مجموعة تطوير بابوا نيو غينيا",
+    "CreatedbyLink": "http://www.libpng.org/pub/png/",
+    "CreatedInYear": "1996",
+    "BasicInformation": "يُعرف ملف الصورة المحفوظ بتنسيق رسومات الشبكة المحمولة (PNG) باسم ملف PNG. يحتوي على صورة نقطية مضغوطة بدون فقدان، قابلة للمقارنة مع ملف.GIF. عادةً ما يتم حفظ رسومات الويب والصور الرقمية والصور ذات الخلفيات الشفافة كملفات PNG. في الأصل، كان الغرض من تنسيق صورة PNG هو استبدال تنسيق صورة GIF لأنهما يدعمان خلفيات شفافة. استخدام الألوان المفهرسة والضغط بدون فقدان هو تشابه آخر بين الاثنين. من ناحية أخرى، لا تخضع ملفات PNG لنفس قيود حقوق النشر.",
+    "DetailedInformation": "تراكب على خلفية متقلب صورة PNG مع طبقة شفافية 8 بت (أعلى) (أسفل). تستخدم PNG الانكماش، وهي تقنية ضغط بيانات غير حاصلة على براءة اختراع. يمكن لـ PNG ضغط الصور بشكل أكثر كفاءة من GIF في معظم الحالات، ولكن بعض التطبيقات تستخدم طرق تصفية غير كافية، مما يؤدي إلى ملفات PNG ضخمة بلا داع. هناك ثلاثة أنواع من الشفافية في تنسيق PNG - واحد للصور المفهرسة والألوان واثنان للصور الرمادية أو الألوان الحقيقية. قيم Gamma ولون الخلفية والمحتوى النصي كلها سمات صورة يمكن تسجيلها في ملفات PNG. يسمح المعيار بما يصل إلى 16 بت لكل قناة، ومع ذلك، يحتاج معظم العملاء فقط إلى 8 بت لكل قناة. لحفظ الصور، يتم استخدام تنسيق PNG على نطاق واسع، خاصة على الإنترنت. فإنه يمكن التعامل مع 24 بت RGB أو 32 بت RGBA (RGB مع قناة ألفا الرابعة) الصور الملونة التي يتم فهرستها (على أساس لوحة). يتم دعم صور RGB أو RGBA بالألوان الكاملة وغير المفهرسة، بالإضافة إلى الصور ذات الدرجات الرمادية، بالتنسيق. قد تصادف ملفات PNG مجموعة متنوعة من مستخدمي الكمبيوتر، سواء كانوا يقومون بتنزيل صورة من موقع ويب، أو تلقي صورة رقمية مرفقة بالبريد الإلكتروني، أو التقاط لقطة شاشة. لاستخدام الويب، يقوم مصممو الرسومات في كثير من الأحيان بحفظ الرسومات كملفات PNG. كما أنها تستخدم ملفات PNG لحفظ الشعار الشفاف أو نماذج الرموز التي يمكن أن تكون متراكبة على الصور الأخرى.",
+    "Softwaresused": [
+        {
+            "platform": "لينكس",
+            "softwares": [
+                {
+                    "name": "جيمب",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "مجاني "
+                },
+                {
+                    "name": "جوجل كروم",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "ميكروسوفت إيدج",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "موزيلا فايرفوكس",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "شبابيك",
+            "softwares": [
+                {
+                    "name": "صور ميكروسوفت",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "عارض صور مايكروسوفت ويندوز",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "مايكروسوفت بينت",
+                    "link": "https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9",
+                    "image": "/assets/fileimg/AuNqAKT.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "مايكروسوفت بينت 3D",
+                    "link": "https://www.microsoft.com/en-us/p/paint-3d/9nblggh5fv99?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/7Z9sNdy.jpeg"
+                },
+                {
+                    "name": "ACD Systems ACDSe",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/acdsee.png",
+                    "type": "نسخة تجريبية مجانية"
+                }
+            ]
+        },
+        {
+            "platform": "رفيق",
+            "softwares": [
+                {
+                    "name": "معاينة أبل",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "صور أبل",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "آبل سفاري",
+                    "link": "https://www.apple.com/safari/",
+                    "image": "/assets/fileimg/PePZ5cb.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "أدوبي فوتوشوب 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "جوجل كروم",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "صور جوجل",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "مجاني  "
+                },
+                {
+                    "name": "محرك جوجل",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "مايكروسوفت أوندريف",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "أدوبي فوتوشوب إكسبريس",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop-express/id331975235?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "بيكسلماتور 2",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/HmizpGb.jpeg",
+                    "type": "مدفوعة"
+                }
+            ]
+        },
+        {
+            "platform": "أندرويد",
+            "softwares": [
+                {
+                    "name": "عارض الملفات لنظام Android",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "محرك جوجل",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "صور جوجل",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "مجاني  "
+                },
+                {
+                    "name": "مايكروسوفت أوندريف",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "أدوبي فوتوشوب إكسبريس",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "نظام كرومي أوس",
+            "softwares": [
+                {
+                    "name": "صور جوجل",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "مجاني  "
+                },
+                {
+                    "name": "جوجل كروم",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "نظام التشغيل كروم",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                }
+            ]
+        }
+    ]
+}

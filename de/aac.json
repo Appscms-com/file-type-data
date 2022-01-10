@@ -1,0 +1,153 @@
+{
+    "Format": "AAC",
+    "ShortName": "AAC",
+    "FullName": "Advanced Audio Coding File",
+    "Category": "Audio-Datei",
+    "Pros": "Heutzutage kennen mehr Geräte AAC. Verschlüsselte Dateigrößen sind geringer. Das Ziel der Standardisierung wurde erreicht. Die Klangqualität ist MP3 überlegen. Das Produkt ist überall erhältlich. Streaming-Bandbreite ist begrenzt. Kompatibilität mit einer Vielzahl von Geräten. Eine Vielzahl von Codierungsoptionen ist verfügbar.",
+    "Cons": "Das Codieren dauert lange. Während des Codierungsprozesses wird die CPU stark beansprucht. Während der Dekodierung ist die CPU-Auslastung etwas höher. Die Dateiorganisation ist komplizierter geworden. Obwohl es weniger ist, ist es immer noch ein Verlierer. Der Hardwaresupport ist begrenzt. Das Markieren von Dateien ist nicht immer kompatibel. Es ist möglicherweise zu teuer, AAC aus verlustfreien Originaldateien zu codieren. MP3 gilt immer noch als „Standard“ als AAC.",
+    "Createdby": "Expertengruppe für bewegte Bilder",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "1997",
+    "BasicInformation": "Für die Audiocodierung bei mittleren bis hohen Bitraten ist AAC (Advanced Audio Coding) der logische Nachfolger von MP3 (ISO/MPEG Audio Layer-3) (ISO/MPEG Audio Layer-3). Dieses komprimierte Audioformat ist mit einer MP3-Datei vergleichbar, bietet jedoch einige Leistungsvorteile. Eine höhere Codiereffizienz sowohl für stabile als auch für transiente Signale, eine kleinere Filterbank und eine verbesserte Handhabung von Frequenzen jenseits von 16 kHz sind nur einige Beispiele.",
+    "DetailedInformation": "Apple iTunes und der iTunes Music Store verwenden Advanced Audio Coding (AAC) als Standardcodierung. Das Konzept des AAC-Algorithmus besteht darin, zwei grundlegende Codierungsschemata zu verwenden, um die Datenmenge, die für die Übertragung von hochwertigem digitalem Audio erforderlich ist, drastisch zu minimieren. AAC-Dateien haben mehr Abtastfrequenzen als MP3-Dateien sowie bis zu 48 Kanäle, eine überlegene Codierung und Filterbank-Effizienz sowie eine bessere Codierungsgenauigkeit für transiente Signale. AAC-Dateien wie MP3-Dateien entfernen Audiofrequenzen, die das menschliche Ohr nicht verarbeiten kann, was zu kleineren, besser handhabbaren Dateien führt. AAC-Dateien sind in Bezug auf den Dateispeicher wesentlich kleiner als MP3-Dateien.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLAN VLC Mediaplayer",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Clementine",
+                    "link": "https://www.clementine-player.org/about",
+                    "image": "/assets/fileimg/F87GDJM.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "XMMS",
+                    "link": "http://www.xmms.org/",
+                    "image": "/assets/fileimg/hodO9zz.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Holen Sie es sich von Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Adobe Vorsprechen CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Kostenlose Testversion"
+                },
+                {
+                    "name": "VideoLAN VLC Mediaplayer",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple iTunes",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "VideoLAN VLC Mediaplayer",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Adobe Vorsprechen CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Kostenlose Testversion"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Roxio Toast 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "Bezahlt"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Olimsoft-Spieler",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Bezahlt"
+                },
+                {
+                    "name": "RealNetworks RealTimes: Videomacher",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Dateibetrachter für Android",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Videolabs VLC für Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "RealNetworks RealTimes: Videomacher",
+                    "link": "https://play.google.com/store/apps/details?id=com.real.RealPlayerCloud",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

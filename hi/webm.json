@@ -1,0 +1,158 @@
+{
+    "Format": "WEBM",
+    "ShortName": "WEBM",
+    "FullName": "WebM Video File",
+    "Category": "विडियो फाइल",
+    "Pros": "उत्कृष्ट गुणवत्ता के वीडियो। इस कार्यक्रम में भाग लेने के लिए सभी का स्वागत है, जो जनता के लिए स्वतंत्र और खुला है। लोकप्रिय साइटों में YouTube, 4chan, Vimeo और अन्य शामिल हैं।",
+    "Cons": "केवल कुछ ब्राउज़रों और मीडिया प्लेयर समर्थित हैं। अधिकांश मोबाइल उपकरणों पर, आप खेल नहीं पाएंगे।",
+    "Createdby": "गूगल",
+    "CreatedbyLink": "https://developers.google.com/",
+    "CreatedInYear": "2010",
+    "BasicInformation": "WEBM फ़ाइल WebM प्रारूप में सहेजा गया एक वीडियो है, जो एक खुला, रॉयल्टी-मुक्त वीडियो साझाकरण मानक है। WebM Matroska (.MKV) वीडियो प्रारूप की तुलना में एक कंटेनर संरचना में ऑडियो और वीडियो डेटा दोनों रखता है। VP8 या VP9 वीडियो कोडेक्स का उपयोग वीडियो को संपीड़ित करने के लिए किया जाता है, और ऑडियो को संपीड़ित करने के लिए वोरबिस या ओपस ऑडियो कोडेक्स का उपयोग किया जाता है।",
+    "DetailedInformation": "WEBM फ़ाइल प्रकार HTML5 वीडियो में उपयोग के लिए अभिप्रेत हैं जो Matroska फ़ाइल कंटेनर को नियोजित करते हैं और रॉयल्टी-मुक्त होते हैं। WEBM वीडियो प्लेबैक मोज़िला फ़ायरफ़ॉक्स, ओपेरा और Google Chrome द्वारा समर्थित है, हालाँकि Internet Explorer 9 और Safari को आमतौर पर WEBM मीडिया चलाने के लिए तृतीय-पक्ष सहायता (जैसे क्विकटाइम) की आवश्यकता होती है। उनके HTML5 प्लेयर प्रयोग के हिस्से के रूप में, YouTube WEBM फ़ाइलों का उपयोग करता है। WebM मीडिया फ़ाइलों को चलाने के लिए, यदि आपका ब्राउज़र इसका समर्थन नहीं करता है (जैसे Safari या Internet Explorer), तो आपको एक WebM प्लग-इन डाउनलोड करना होगा। WebM पेटेंट H.264 और H.265 मानकों के लिए एक रॉयल्टी-मुक्त, ओपन-सोर्स प्रतिस्थापन है। प्रौद्योगिकी व्यापार और गैर-वाणिज्यिक दोनों उद्देश्यों के लिए अनुकूल है क्योंकि यह पूरी तरह से मुफ़्त है।",
+    "Softwaresused": [
+        {
+            "platform": "लिनक्स",
+            "softwares": [
+                {
+                    "name": "वीडियोलैन वीएलसी मीडिया प्लेयर",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "हैंडब्रेक",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "मोज़िला फ़ायरफ़ॉक्स",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "ओपेरा",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "Ffmpeg",
+                    "link": "http://ffmpeg.org/",
+                    "image": "/assets/fileimg/wAHKc6t.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "फ़ाइल व्यूअर प्लस - इसे Microsoft से प्राप्त करें",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट विंडोज मीडिया प्लेयर",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "वीडियोलैन वीएलसी मीडिया प्लेयर",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "हैंडब्रेक",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg"
+                },
+                {
+                    "name": "गूगल क्रोम",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "मैक",
+            "softwares": [
+                {
+                    "name": "वीडियोलैन वीएलसी मीडिया प्लेयर",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "हैंडब्रेक",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "एल्टिमा एल्मेडिया प्लेयर",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "शेडवॉर्क्स स्मार्ट कन्वर्टर",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "मोज़िला फ़ायरफ़ॉक्स",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "आईओएस",
+            "softwares": [
+                {
+                    "name": "ओलिमसॉफ्ट ओप्लेयर",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "अदा"
+                },
+                {
+                    "name": "पेंटालूप प्लेयरएक्सट्रीम मीडिया प्लेयर",
+                    "link": "https://apps.apple.com/us/app/playerxtreme-media-player/id456584471?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/uoX9gqI.jpeg",
+                    "type": "फ़्रीमियम"
+                }
+            ]
+        },
+        {
+            "platform": "एंड्रॉयड",
+            "softwares": [
+                {
+                    "name": "Android के लिए फ़ाइल व्यूअर",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "फ़्रीमियम"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "गूगल क्रोम",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        }
+    ]
+}

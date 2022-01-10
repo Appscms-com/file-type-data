@@ -1,0 +1,152 @@
+{
+    "Format": "SVG",
+    "ShortName": "SVG",
+    "FullName": "Scalable Vector Graphics File",
+    "Category": "ベクターイメージファイル",
+    "Pros": "サイズはかなり小さいです。これは柔軟性があり、背景色やページ上のロゴの位置など、CSSを使用してサイトのグラフィック設定を即座に変更できます。スケーラビリティによって画質が低下することはありません。ブラウザのサポートを提供します。",
+    "Cons": "オブジェクトに多数の小さな要素が含まれていると、ファイルサイズが非常に大きくなります。グラフィックの一部だけを読むことは不可能です。オブジェクト全体を読む必要があるため、速度が低下します。",
+    "Createdby": "アドビシステムズ",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "2001",
+    "BasicInformation": "SVG (スケーラブルベクターグラフィックス) は、XML に基づいた 2 次元のベクターグラフィックスファイル形式です。ワールド・ワイド・ウェブ・コンソーシアム（W3C）は、1999年にインターネット上でベクター画像を表示するための標準フォーマットとして設計されました。XML ベースのテキストフォーマットを使用してイメージを記述します。SVG ファイルは、ベクターグラフィックスを表示するための Web 標準として開発されています。",
+    "DetailedInformation": "SVG 形式は、ワールドワイドウェブコンソーシアム (W3C) が作成したオープンスタンダードで、アドビが重要な役割を果たしています。イラストレーターや GoLive などの Adobe Creative Suite 製品は、SVG 画像を生成およびエクスポートできますSVG を使用すると、ユーザーは画像の検索、インデックス作成、スクリプト作成、圧縮が可能になり、インタラクティブ性とアニメーションが可能になります。SVG ファイルは XML ファイルなので、テキストエディタはファイルへのアクセス、生成、編集が可能ですが、このファイルタイプの最も一般的な作成者は描画ソフトウェアです。SVG ファイルではロスレスデータ圧縮が可能です。テキストだけでなく、ラスターグラフィックやベクターグラフィックもサポートしています。SVG は、インターネットで使用するためのベクターベースのグラフィックスを定義する XML 標準です。ズームやサイズ変更による画質は影響を受けません。SVG ファイルは、そのすべてのコンポーネントとセクションでアニメートできます。W3C で推奨されている SVG ファイルには、W3C 標準 (DOM や XSL を含む) が含まれています。SVG ファイル形式の画像などのベクター画像は、あらかじめ決められた一連のフォームで構成され、ズームや拡大縮小時に画像が鮮明になります。",
+    "Softwaresused": [
+        {
+            "platform": "リナックス",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "無料 "
+                },
+                {
+                    "name": "グーグルクローム",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "Inkscape",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "KolourPaint",
+                    "link": "http://kolourpaint.sourceforge.net/",
+                    "image": "/assets/fileimg/3JbciOH.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "ファイルビューアープラス — マイクロソフトから入手",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "Inkscape",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "無料 "
+                },
+                {
+                    "name": "アドビフォトショップ 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg"
+                },
+                {
+                    "name": "アドビイラストレーター 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "フリートライアル"
+                }
+            ]
+        },
+        {
+            "platform": "マック",
+            "softwares": [
+                {
+                    "name": "Inkscape",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "無料 "
+                },
+                {
+                    "name": "アドビイラストレーター 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "フリートライアル"
+                },
+                {
+                    "name": "グーグルクローム",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "グーグルクローム",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "アンドロイド",
+            "softwares": [
+                {
+                    "name": "アンドロイド用ファイルビューア",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "フリーミアム"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "グーグルクローム",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "無料"
+                }
+            ]
+        }
+    ]
+}

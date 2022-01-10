@@ -1,0 +1,26 @@
+{
+    "Format": "DVD",
+    "ShortName": "DVD",
+    "FullName": "DOS Device Driver",
+    "Category": "Archivos del sistema",
+    "Pros": "La capacidad de almacenamiento es enorme. La calidad del sonido y la imagen son excelentes. Debido a que se producen en masa, son bastante económicos. Los CD se pueden leer en unidades de DVD.",
+    "Cons": "Los DVD no son compatibles con las unidades de CD. No existe un estándar de DVD único. Romperlas o rascarlas es una forma sencilla de arruinarlas.",
+    "Createdby": "N/D",
+    "CreatedbyLink": "n/a",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "Los archivos de DVD se utilizan como controladores para dispositivos basados en MS-DOS. Estos archivos de controlador permiten que una computadora u otro dispositivo se comunique con el sistema operativo, en este caso MS-DOS. Es posible que vengan preconfigurados con Windows o que requieran la instalación desde un DVD incluido con el hardware.",
+    "DetailedInformation": "Los archivos de DVD a menudo se confunden con archivos de vídeo que contienen una copia de una película en un disco. Los archivos de película normalmente se guardan como archivos VOB, a pesar de que los medios se denominan DVD. Los controladores y los archivos de DVD a veces ya están instalados en Windows. Sin embargo, es posible que los controladores deban instalarse manualmente en ocasiones. Por lo general, esto se hace con la ayuda de un disco u otro medio incluido con el dispositivo. En sus sitios web, varias compañías también ofrecen descargas de controladores para sus productos.",
+    "Softwaresused": [
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Microsoft MS-DOS",
+                    "link": "https://www.microsoft.com/en-us/p/ms-dos-mobile/9nblgggxzdtw?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/XxsKREw.jpeg",
+                    "type": "Libre"
+                }
+            ]
+        }
+    ]
+}

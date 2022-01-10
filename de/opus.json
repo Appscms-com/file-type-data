@@ -1,0 +1,88 @@
+{
+    "Format": "OPUS",
+    "ShortName": "OPUS",
+    "FullName": "Opus Audio File",
+    "Category": "Audio-Datei",
+    "Pros": "Ermöglicht eine schnellere Datenübertragung über mehrere Kanäle. Tests zur Klangqualität zeigen, dass der Originalton bei verschiedenen Bitraten und Abtastraten effizienter wiederhergestellt wird. Sorgt für gleichbleibende Leistung in einer Vielzahl von Situationen. Eine zukunftsweisende Struktur für zahlreiche Telekommunikationsdienste. Adaptiv an den Soundinformationstyp. Kann Qualitätsverluste während der Übertragung teilweise ausgleichen und ermöglicht eine kontinuierliche Live-Datenübertragung ohne Unterbrechungen. ",
+    "Cons": "Wird von mehreren Anwendungen nicht unterstützt. Opus-Codecs sind ungewöhnlich.",
+    "Createdby": "Xiph.Org ",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "2012",
+    "BasicInformation": "Opus ist ein neuer Codec, der von einem Expertenteam der Xiph.Org Foundation (Mozilla Corporation) und Skype Technologies S.A. (Microsoft) produziert wurde. Es bietet alle Vorteile von MP3 und minimiert gleichzeitig die Mängel. Opus kombiniert die Codecs CELT und SILK.",
+    "DetailedInformation": "Eine OPUS-Datei ist eine verlustbehaftete Audiodatei, die im Opus-Format (manchmal als „Ogg Opus“ bezeichnet) erstellt wurde und für das Internet-Streaming entwickelt wurde. Es unterstützt unterschiedliche Bitraten von 6 kb/s bis 510 kb/s und verwendet sowohl SILK-Codecs (von Skype verwendet) als auch CELT-Codecs (von Xiph.Org). Voice over IP (VoIP), Videokonferenzen und Chat im Spiel verwenden den Opus-Codec. Die IETF definierte das Opus-Format, das weit verbreitet ist. Die IETF standardisierte das Opus-Format, das von Xiph.Org verwaltet wird. Da der Opus-Codec hauptsächlich für das Streaming verwendet wird, sind Dateien mit der Erweiterung.opus ungewöhnlich.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLAN VLC Mediaplayer",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Holen Sie es sich von Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "VideoLAN VLC Mediaplayer",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "AIMP",
+                    "link": "http://www.aimp2.us/",
+                    "image": "/assets/fileimg/sOBpiyF.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Foobar 2000",
+                    "link": "https://www.foobar2000.org/",
+                    "image": "/assets/fileimg/c2PuNRk.jpeg"
+                },
+                {
+                    "name": "Opus-Werkzeuge",
+                    "link": "https://www.opus-codec.org/downloads/",
+                    "image": "/assets/fileimg/7xNWYRA.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "VideoLAN VLC Mediaplayer",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Dateibetrachter für Android",
+                    "link": "",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Opus-Spieler",
+                    "link": "https://play.google.com/store/apps/details?id=com.littlepako.opusplayer3&hl=en_US&gl=US",
+                    "image": "/assets/fileimg/irCSU4s.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        }
+    ]
+}

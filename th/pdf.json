@@ -1,0 +1,212 @@
+{
+    "Format": "PDF",
+    "ShortName": "PDF",
+    "FullName": "Portable Document Format",
+    "Category": "ไฟล์เค้าโครงหน้า/เอกสาร",
+    "Pros": "PDF เป็นรูปแบบไฟล์ยอดนิยมในลักษณะเดียวกับที่สร้างขึ้น PDF สามารถดูได้จากอุปกรณ์ใด ๆ ที่มีระบบปฏิบัติการใด ๆมันง่ายมากที่จะดูเนื่องจากสนับสนุนเทคโนโลยีการบีบอัดภาพจำนวนมาก, PDF ใช้พื้นที่ค่อนข้างน้อยในฮาร์ดไดรฟ์ของคุณ.การตั้งค่าความปลอดภัยสามารถปรับแต่งได้โดยผู้ใช้เช่นห้ามพิมพ์หรือแก้ไขรูปแบบอนุญาตให้ใช้ลายเซ็นอิเล็กทรอนิกส์เพื่อตรวจสอบความถูกต้องของเอกสาร",
+    "Cons": "การแก้ไขไฟล์ PDF ไม่ฟรีรูปแบบไฟล์อื่น ๆ สามารถแก้ไขได้ง่ายกว่าไฟล์ PDF ซึ่งต้องได้รับการแก้ไขด้วยเครื่องมือพิเศษการทำงานกับข้อความในไฟล์ PDF เป็นสิ่งที่ท้าทายเนื่องจากพวกเขาถูกตีความว่าเป็นรูปภาพ",
+    "Createdby": "Adobe ซิสเต็มส์",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "1993",
+    "BasicInformation": "Adobe Systems สร้างรูปแบบ PDF ซึ่งย่อมาจากรูปแบบเอกสารพกพาไฟล์ PDF จะแสดงเอกสารในรูปแบบที่กำหนดไว้ (เหมือนกับรูปภาพ) ที่เข้ากันได้กับโปรแกรม ฮาร์ดแวร์ และระบบปฏิบัติการที่หลากหลายจะช่วยให้ผู้ใช้สามารถรวมภาพหลายแบบอักษรและรูปแบบข้อความลงในเอกสารพิมพ์พร้อมเดียวที่สามารถใช้ร่วมกันจากอุปกรณ์ใด ๆ",
+    "DetailedInformation": "เนื่องจาก PDF เป็นมาตรฐานแบบเปิด ทุกคนสามารถสร้างแอปที่สามารถอ่านและเขียน PDF ได้โดยไม่ต้องเสียค่าธรรมเนียมใบอนุญาตตั้งแต่ปี 2004, อาร์ตเวิร์ก 3 มิติได้รับการสนับสนุน, และไฟล์เหล่านี้สามารถรักษาความปลอดภัยด้วยรหัสผ่าน, เข้ารหัส, และการเปลี่ยนแปลงได้.แอปต่าง ๆ สามารถเปิดและแสดงไฟล์ PDF รวมถึง Adobe Acrobat Reader (หลายแพลตฟอร์ม) และ Adobe Acrobat (หลายแพลตฟอร์ม) ซึ่งสามารถแก้ไขได้Adobe Acrobat หรือโปรแกรม PDF ใด ๆ สร้างไฟล์ PDFมันเป็นเอกสารหลายแพลตฟอร์มรูปแบบ PDF ใช้กันอย่างแพร่หลายในการบันทึกเอกสารและสิ่งพิมพ์ในรูปแบบทั่วไปที่สามารถดูได้บนแพลตฟอร์มที่หลากหลายในหลาย ๆ สถานการณ์แทนการสร้างไฟล์ PDF ตั้งแต่เริ่มต้นไฟล์ PDF จะถูกผลิตจากเอกสารที่มีอยู่ไฟล์ PDF สามารถสร้างได้ด้วยเครื่องมือที่หลากหลายรวมทั้งโปรแกรมประมวลผลคำ บรรณาธิการภาพ และยูทิลิตี้ไฟล์ PDF เช่น Adobe Acrobatใน Windows และ macOS คุณยังสามารถสร้างไฟล์ PDF จากเอกสารโดยใช้กล่องโต้ตอบการพิมพ์",
+    "Softwaresused": [
+        {
+            "platform": "ลินุกซ์",
+            "softwares": [
+                {
+                    "name": "โปรแกรมอ่าน Adobe Acrobat DC",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "อีวินซ์",
+                    "link": "https://wiki.gnome.org/Apps/Evince",
+                    "image": "/assets/fileimg/diIDQ4M.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "LibreOffice",
+                    "link": "https://www.libreoffice.org/",
+                    "image": "/assets/fileimg/cPO8bqH.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "KDE โอกูลาร์",
+                    "link": "https://okular.kde.org/",
+                    "image": "/assets/fileimg/PtakFU2.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "โปรแกรมอ่าน Adobe Acrobat DC",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "LibreOffice",
+                    "link": "https://www.libreoffice.org/",
+                    "image": "/assets/fileimg/cPO8bqH.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ไมโครซอฟท์ เอดจ์",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg"
+                },
+                {
+                    "name": "มอซิลลา ไฟร์ฟอกซ์",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "โปรแกรมอ่าน Adobe Acrobat DC",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "มอซิลลา ไฟร์ฟอกซ์",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ตัวอย่างแอปเปิ้ล",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "LibreOffice",
+                    "link": "https://www.libreoffice.org/",
+                    "image": "/assets/fileimg/cPO8bqH.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "แอปเปิลบุ๊ค",
+                    "link": "https://www.apple.com/apple-books/",
+                    "image": "/assets/fileimg/5938cLE.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "แอปเปิล เพจ",
+                    "link": "https://apps.apple.com/us/app/pages/id361309726",
+                    "image": "/assets/fileimg/38SErjW.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "กูเกิลไดรฟ์",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "โปรแกรมอ่าน Adobe Acrobat DC",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "กู๊ดไอแวร์ กู๊ดเรเดอร์",
+                    "link": "https://apps.apple.com/app/id777310222?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/mF1gtxb.jpeg",
+                    "type": "จ่ายแล้ว"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "กูเกิลไดรฟ์",
+                    "link": "https://www.apple.com/apple-books/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "โปรแกรมอ่าน Adobe Acrobat DC",
+                    "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/wK1B8lS.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "โปรแกรมดูไฟล์สำหรับ Android",
+                    "link": "https://play.google.com/store/apps/details?id=com.sharpened.androidfileviewer",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "ไมโครซอฟท์ วันไดรฟ์",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "กูเกิลเพลย์หนังสือ",
+                    "link": "https://play.google.com/store/apps/details?id=com.google.android.apps.books&hl=en",
+                    "image": "/assets/fileimg/rrCOBeO.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "กูเกิลไดรฟ์",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "เซดจา PDF บรรณาธิการ",
+                    "link": "https://www.sejda.com/pdf-editor",
+                    "image": "/assets/fileimg/8A6rYqw.jpeg",
+                    "type": "ฟรีเมียม"
+                }
+            ]
+        }
+    ]
+}

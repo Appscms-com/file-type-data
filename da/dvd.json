@@ -1,0 +1,26 @@
+{
+    "Format": "DVD",
+    "ShortName": "DVD",
+    "FullName": "DOS Device Driver",
+    "Category": "Systemfiler",
+    "Pros": "Lagerkapaciteten er enorm. Lyd- og billedkvaliteten er begge gode. Fordi de er masseproducerede, er de ret billige. Cd'er kan læses af dvd-drev.",
+    "Cons": "Dvd'er er ikke kompatible med cd-drev. Der er ingen enkelt DVD-standard. At bryde eller skrabe dem er en enkel måde at ødelægge dem på.",
+    "Createdby": "N/A",
+    "CreatedbyLink": "n/a",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "DVD-filer bruges som drivere til MS-DOS-baserede enheder. Disse driverfiler tillader en computer eller anden enhed til at kommunikere med operativsystemet, i dette tilfælde MS-DOS. De kan komme forudkonfigureret med Windows eller kræver installation fra en dvd, der følger med hardwaren.",
+    "DetailedInformation": "DVD-filer forveksles ofte med videofiler, der indeholder en kopi af en film på en disk. Filmfilerne gemmes normalt som VOB filer, trods det faktum, at medierne er opkaldt en DVD. Driverne og DVD-filerne er nogle gange allerede installeret på Windows. Driverne skal dog muligvis installeres manuelt ved lejlighed. Dette gøres normalt ved hjælp af en disk eller et andet medium, der fulgte med enheden. På deres hjemmesider giver flere virksomheder også driverdownloads til deres produkter.",
+    "Softwaresused": [
+        {
+            "platform": "vinduer",
+            "softwares": [
+                {
+                    "name": "Microsoft MS-DOS",
+                    "link": "https://www.microsoft.com/en-us/p/ms-dos-mobile/9nblgggxzdtw?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/XxsKREw.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "Format": "AFF",
+    "ShortName": "AFF",
+    "FullName": "Advanced Forensics Format",
+    "Category": "數據文件",
+    "Pros": "開放和可擴展。不含專利。壓縮和可查看。雙層靈活。",
+    "Cons": "不受歡迎缺乏透明度。 ",
+    "Createdby": "西姆森·加芬克爾和基礎技術",
+    "CreatedbyLink": "https://www.basistech.com/",
+    "CreatedInYear": "2005-2006",
+    "BasicInformation": "AFF 文件是一個拼寫檢查字典文件使用的免費辦公套件程序金軟件 WPS 辦公室和 Apache OpenOffice。它包含有關隨附的 .dic 拼寫檢查字典文件的信息。",
+    "DetailedInformation": "AFF 和 DIC 文件用於將新的拼寫檢查字典添加到 WPS Office 的各種語言，包括意大利語和法語。通常，用户將下載。解壓縮包含 AFF 和 DIC 文件的 ZIP 字典包的內容，然後在 WPS 辦公室中安裝它們。",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "金軟 WPS 辦公室",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "阿帕奇開放辦公室",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "視窗",
+            "softwares": [
+                {
+                    "name": "金軟 WPS 辦公室",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "阿帕奇開放辦公室",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "免費"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "金軟 WPS 辦公室",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "阿帕奇開放辦公室",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "免費"
+                }
+            ]
+        }
+    ]
+}

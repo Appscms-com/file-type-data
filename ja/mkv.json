@@ -1,0 +1,159 @@
+{
+    "Format": "MKV",
+    "ShortName": "MKV",
+    "FullName": "Matroska Video File",
+    "Category": "動画ファイル",
+    "Pros": "とても柔軟です。非可逆オプションと無損失オプションがあります。よく文書化されています。非独占的。メタデータの追加は許可されます。",
+    "Cons": "現在、MKV ファイルを再生できるスタンドアロンのハードウェアプレーヤーはありません。ファイルサイズが大きい。まだ開発中です。 ",
+    "Createdby": "マトロスカ",
+    "CreatedbyLink": "https://www.matroska.org/",
+    "CreatedInYear": "2002",
+    "BasicInformation": "Matroskaマルチメディアコンテナ形式で保存されたビデオファイルは、MKVファイルと呼ばれます。.SRT、.SSA、.USF (ユニバーサル字幕形式)、VobSub 字幕など、さまざまなオーディオおよびビデオコーデックを処理できます。短いビデオクリップ、テレビ番組、映画は、通常 MKV ファイルとして保存されます。",
+    "DetailedInformation": "Matroska マルチメディアコンテナ (MKV) は、オープンで自由なビデオデータストレージの標準です。このファイルには、オーディオ、ビデオ、画像、字幕のトラックを無制限に含めることができるため、映画、フルTV番組などを保存するのに便利です。ユーザーは、RAW 形式のさまざまなデータトラックすべてにジャンプできます。the.AVI、.ASF、and.MOV 形式に匹敵し、さまざまなビデオ、オーディオ、画像、字幕トラックを含めることができます。Matroska Video ファイルは、Matroska コンテナ形式を使用して 1 つ以上のビデオトラックを格納するマルチメディアファイルで、the.mkv ファイル拡張子で識別されます。短いビデオスニペット、TVシリーズ、映画の保存に一般的に使用されるMKV形式は、アニメファンの間で人気を博しています。これらのユーザーの多くは字幕を追加していますが、MKV形式は複数のオーディオトラックと字幕トラックを1つのファイルにまとめることができるため、特に便利です。",
+    "Softwaresused": [
+        {
+            "platform": "リナックス",
+            "softwares": [
+                {
+                    "name": "VideoLAN VLC メディアプレーヤー",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "ハンドブレーキ",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "ファイルビューアープラス — マイクロソフトから入手",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "VideoLAN VLC メディアプレーヤー",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "ハンドブレーキ",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "メディアプレーヤークラシック",
+                    "link": "https://github.com/clsid2/mpc-hc/",
+                    "image": "/assets/fileimg/PLx4Opv.jpeg"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "マック",
+            "softwares": [
+                {
+                    "name": "エルティマ・エルメディア・プレイヤー",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "ShedWorx スマートコンバーター",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "フリートライアル"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "ハンドブレーキ",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "VideoLAN VLC メディアプレーヤー",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "有料"
+                },
+                {
+                    "name": "Videolan モバイル用 VLC",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "Oka Apps オムニプレイヤー",
+                    "link": "https://apps.apple.com/us/app/omni-player-mkv-video-player/id1470926410",
+                    "image": "/assets/fileimg/TmHdEAq.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "Pentaloop PlayerXtreme メディアプレーヤー",
+                    "link": "https://apps.apple.com/us/app/playerxtreme-media-player/id456584471?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/uoX9gqI.jpeg",
+                    "type": "フリーミアム"
+                }
+            ]
+        },
+        {
+            "platform": "アンドロイド",
+            "softwares": [
+                {
+                    "name": "BIT Labs シンプル MP4 ビデオプレーヤー",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "Videolabs アンドロイド用 VLC",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "アンドロイド用ファイルビューア",
+                    "link": "https://play.google.com/store/apps/details?id=com.sharpened.androidfileviewer",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "フリーミアム"
+                }
+            ]
+        }
+    ]
+}

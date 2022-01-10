@@ -1,0 +1,26 @@
+{
+    "Format": "DVD",
+    "ShortName": "DVD",
+    "FullName": "DOS Device Driver",
+    "Category": "Tệp hệ thống",
+    "Pros": "Dung lượng lưu trữ là rất lớn. Chất lượng âm thanh và hình ảnh đều tuyệt vời. Bởi vì chúng được sản xuất hàng loạt, chúng khá rẻ tiền. Đĩa CD có thể được đọc bằng ổ đĩa DVD.",
+    "Cons": "DVD không tương thích với ổ đĩa CD. Không có tiêu chuẩn DVD duy nhất. Phá vỡ hoặc gãi chúng là một cách đơn giản để hủy hoại chúng.",
+    "Createdby": "N/A",
+    "CreatedbyLink": "n/a",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "Các tệp DVD được sử dụng làm trình điều khiển cho các thiết bị dựa trên MS-DOS. Các tệp trình điều khiển này cho phép máy tính hoặc thiết bị khác giao tiếp với hệ điều hành, trong trường hợp này MS-DOS. Chúng có thể được cấu hình sẵn với Windows hoặc yêu cầu cài đặt từ DVD đi kèm với phần cứng.",
+    "DetailedInformation": "Các tệp DVD thường bị nhầm lẫn với các tệp video có chứa bản sao của phim trên đĩa. Các tệp phim thường được lưu dưới dạng tệp VOB, mặc dù thực tế là phương tiện truyền thông được đặt tên là DVD. Các trình điều khiển và tệp DVD đôi khi đã được cài đặt trên Windows. Tuy nhiên, các trình điều khiển có thể cần phải được cài đặt thủ công vào dịp. Điều này thường được thực hiện với sự trợ giúp của đĩa hoặc phương tiện khác đi kèm với thiết bị. Trên trang web của họ, một số công ty cũng cung cấp tải xuống trình điều khiển cho các sản phẩm của họ.",
+    "Softwaresused": [
+        {
+            "platform": "các cửa sổ",
+            "softwares": [
+                {
+                    "name": "Microsoft MS-DOS",
+                    "link": "https://www.microsoft.com/en-us/p/ms-dos-mobile/9nblgggxzdtw?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/XxsKREw.jpeg",
+                    "type": "Free"
+                }
+            ]
+        }
+    ]
+}

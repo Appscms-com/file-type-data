@@ -1,0 +1,152 @@
+{
+    "Format": "SVG",
+    "ShortName": "SVG",
+    "FullName": "Scalable Vector Graphics File",
+    "Category": "File Gambar Vektor",
+    "Pros": "Ukurannya cukup kecil. Hal ini fleksibel yaitu Anda dapat langsung mengubah pengaturan grafis di situs menggunakan CSS, seperti warna latar belakang atau lokasi logo pada halaman. Skalabilitas tidak memburuk kualitas gambar. Menyediakan dukungan browser.",
+    "Cons": "Jika objek berisi sejumlah besar elemen kecil, ukuran file tumbuh sangat cepat. Tidak mungkin untuk membaca hanya sebagian dari hal grafis, Anda harus membaca objek lengkap, yang memperlambat Anda.",
+    "Createdby": "Sistem Adobe",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "2001",
+    "BasicInformation": "SVG, atau Scalable Vector Graphics, adalah format file grafis vektor dua dimensi berdasarkan XML. World Wide Web Consortium (W3C) merancangnya pada tahun 1999 sebagai format standar untuk menyajikan gambar vektor di Internet. Menggunakan format teks berbasis XML untuk menggambarkan gambar. File SVG sedang dikembangkan sebagai standar web untuk menampilkan grafik vektor.",
+    "DetailedInformation": "Format SVG adalah standar terbuka yang dibuat oleh World Wide Web Consortium (W3C), dengan Adobe memainkan peran kunci. Produk Adobe Creative Suite seperti Illustrator dan GoLive dapat menghasilkan dan mengekspor gambar SVG. SVG memungkinkan pengguna untuk mencari, indeks, skrip, dan kompres gambar, memungkinkan untuk interaktivitas dan animasi. Karena file SVG adalah file XML, editor teks dapat mengakses, menghasilkan, dan mengeditnya, namun menggambar perangkat lunak adalah pencipta yang paling khas dari jenis file ini. Kompresi data lossless dimungkinkan dengan file SVG. Mereka mendukung teks serta grafis raster dan vektor. SVG adalah standar XML yang mendefinisikan grafis berbasis vektor untuk penggunaan internet. Kualitas gambar tidak terpengaruh oleh zoom dan mengubah ukuran. File SVG dapat dianimasikan di semua komponen dan bagiannya. Standar W3C (termasuk DOM dan XSL) disertakan dengan file SVG yang direkomendasikan oleh W3C. Gambar vektor, seperti yang memiliki format file SVG, terdiri dari set formulir yang telah ditentukan, yang memungkinkan gambar yang lebih tajam saat diperbesar dan diskalakan.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Gratis "
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Inkscape",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "KolourCat",
+                    "link": "http://kolourpaint.sourceforge.net/",
+                    "image": "/assets/fileimg/3JbciOH.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Dapatkan dari Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Inkscape",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Gratis "
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg"
+                },
+                {
+                    "name": "Adobe Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Uji coba gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Inkscape",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Gratis "
+                },
+                {
+                    "name": "Adobe Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Uji coba gratis"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Penampil file untuk Android",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Format": "DVD",
+    "ShortName": "DVD",
+    "FullName": "DOS Device Driver",
+    "Category": "Sistem dosyaları",
+    "Pros": "Depolama kapasitesi çok büyük. Ses ve görüntü kalitesi hem de harika. Sütle üretildikleri için oldukça ucuzdurlar. CD'ler DVD sürücüleri tarafından okunabilir.",
+    "Cons": "DVD'ler CD sürücüleriyle uyumlu değildir. Tek bir DVD standardı yoktur. Onları kırmak veya çizmek, onları mahvetmenin basit bir yoludur.",
+    "Createdby": "N/A",
+    "CreatedbyLink": "n/a",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "DVD dosyaları MS-DOS tabanlı aygıtlar için sürücü olarak kullanılır. Bu sürücü dosyaları, bir bilgisayarın veya başka bir aygıtın işletim sistemiyle iletişim kurmasına izin verir, bu örnekte MS-DOS. Windows ile önceden yapılandırılmış olarak gelebilir veya donanımla birlikte gelen bir DVD'den yükleme gerektirebilirler.",
+    "DetailedInformation": "DVD dosyaları genellikle diskteki bir filmin kopyasını içeren video dosyalarıyla karıştırılır. Medya bir DVD olarak adlandırılmasına rağmen, film dosyaları normalde VOB dosyaları olarak kaydedilir. Sürücüler ve DVD dosyaları bazen Windows'ta zaten yüklüdür. Ancak, sürücülerin vesilesiyle el ile yüklenmesi gerekebilir. Bu genellikle cihazla birlikte gelen bir disk veya başka bir ortam yardımıyla yapılır. Web sitelerinde, birkaç şirket de ürünleri için sürücü indirmeleri sağlar.",
+    "Softwaresused": [
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Microsoft MS-DOS",
+                    "link": "https://www.microsoft.com/en-us/p/ms-dos-mobile/9nblgggxzdtw?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/XxsKREw.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        }
+    ]
+}

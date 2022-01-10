@@ -1,0 +1,95 @@
+{
+    "Format": "JFIF",
+    "ShortName": "JFIF",
+    "FullName": "JPEG File Interchange Format",
+    "Category": "Файли растрових зображень",
+    "Pros": "Дуже популярний формат. Стиснення на високому контрольованому рівні, що призводить до невеликого розміру файлу. формат сумісний і коректно відображається у всіх браузерах, текстових і графічних програмах, на всіх комп'ютерах, планшетах і мобільних пристроях. Підтримує повнокольорові реалістичні зображення з великою кількістю кольорових і контрастних переходів. Висока якість зображення з невеликим ступенем узгодженості.",
+    "Cons": "При стисненні зображення воно може «розвалюватися» на окремі квадрати - 808-піксельні блоки. Це відбувається тому, що алгоритм стиснення аналізує сусідні пікселі. плавний колір — переходи можуть стати суворими або просто зникнути. JPEG менш підходить для роботи з текстом або монохромною графікою з чіткими межами. Цей формат не підтримує прозорість, хоча це потрібно при створенні шаблонів, логотипів та кнопок. Якість зображення знижується з кожним наступним кроком стиснення.",
+    "Createdby": "C-Cube Мікросистеми та спільні фотографічні експерти групи",
+    "CreatedbyLink": "https://jpeg.org/",
+    "CreatedInYear": "2011",
+    "BasicInformation": "Файл JFIF - це растрова графіка, стиснута за допомогою JPEG. Вона збереглася з варіантом стандарту. Формат файлу JPEG був створений з метою зберігання невеликої кількості даних та забезпечення легкої передачі між платформами та додатками. Формат обміну файлами JPEG є абревіатурою для формату обміну файлами JPEG.",
+    "DetailedInformation": "Формат JFIF визначає безліч характеристик, яких не вистачало в оригінальному форматі JPEG. Користувачі змогли зберігати та обмінюватися файлами за допомогою стиснення JPEG після визначення цих характеристик, які включали стандартний заголовок, роздільну здатність та співвідношення сторін, а також колірну модель. Багато цифрових камер використовуються для збереження зображень у форматі JFIF. Однак у міру вдосконалення формату JPEG з часом стандарт JFIF став значною мірою застарілим.",
+    "Softwaresused": [
+        {
+            "platform": "Вікна",
+            "softwares": [
+                {
+                    "name": "Фотографії Майкрософт",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Опера",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Гугл Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg"
+                },
+                {
+                    "name": "ACD Системи ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Попередній перегляд Apple",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Безкоштовно, в комплекті з ОС"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Опера",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "Гугл Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Безкоштовно"
+                },
+                {
+                    "name": "ACD Системи ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "Безкоштовна пробна версія"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Гугл Хром",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        }
+    ]
+}

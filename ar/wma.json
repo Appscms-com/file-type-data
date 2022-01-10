@@ -1,0 +1,100 @@
+{
+    "Format": "WMA",
+    "ShortName": "WMA",
+    "FullName": "Windows Media Audio File",
+    "Category": "ملف صوتي",
+    "Pros": "حتى الآن, نشرت Microsoft ثمانية إصدارات من WMA, مع إصدارات تتبع WMA 7 دعم تشفير الشهادة من أجل حماية حقوق التأليف والنشر للموسيقى, التي قد يستفيد منها الموسيقيون وناشرو الموسيقى أكثر من غيرهم. قد يقوم WMA بضغط الصوت بمعدل أكبر، مما يسمح له بتخزين صوت عالي الجودة أثناء استخدام مساحة أقل.",
+    "Cons": "عند ضغط الصوت باستخدام برنامج ترميز WMA، عادة ما تفقد بعض الجودة. WMA أبعد ما يكون عن الكمال للمستهلكين الذين يهتمون بجودة الصوت، ولكن يمكنهم اختيار FLAC (برنامج ترميز الصوت بدون فقدان مجاني) أو APE (المعروف باسم صوت القرد) بدلاً من ذلك. تمتلك Microsoft معيار WMA وترفض مشاركته مع شركات أخرى.",
+    "Createdby": "مايكروسوفت",
+    "CreatedbyLink": "https://developer.microsoft.com/en-us/",
+    "CreatedInYear": "1999",
+    "BasicInformation": "ملف WMA هو ملف صوتي تم حفظه بتنسيق تنسيق الأنظمة المتقدمة (ASF) الخاص بـ Microsoft. يتضمن Windows Media Audio بالإضافة إلى عناصر البيانات الوصفية مثل عنوان المسار والفنان والألبوم والنوع. تتشابه ملفات WMA مع ملفات MP3 من حيث أنها تستخدم عادةً لبث الموسيقى عبر الإنترنت.",
+    "DetailedInformation": "تم إنشاء تنسيق الملف هذا للتنافس مع تنسيقات MP3 و RealAudio المعروفة. ساهمت شعبية ملفات WMA للاستخدام مع تشغيل الفيديو على مشغلات DVD بالإضافة إلى ميزات تشغيل الفيديو على الأجهزة المحمولة/المحمولة لـ Playstation و Nokia في نجاحها. على الرغم من أن معظم ملفات WMA ضياع، إلا أن بعض التنسيقات تسمح بالضغط بدون فقدان. ASF هو تنسيق حاوية موسيقى رقمية وفيديو تم تطويره بواسطة Microsoft. يستخدم إذا كان يحتوي على Windows Media Video بدلاً من Windows Media Audio. WMV هو امتداد تنسيق الفيديو. ملفات WMA و WMV قابلة للتبديل. ومع ذلك، يتم استخدام ملفات ASF في كثير من الأحيان. ",
+    "Softwaresused": [
+        {
+            "platform": "لينكس",
+            "softwares": [
+                {
+                    "name": "جرأة",
+                    "link": "https://audacious-media-player.org/",
+                    "image": "/assets/fileimg/6WTDOAw.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "شبابيك",
+            "softwares": [
+                {
+                    "name": "عارض الملفات بلس - احصل عليه من Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "ميكروسوفت ويندوز ميديا بلاير",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "نولسوفت وينامب",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "محول فيديو Xilisoft في نهاية المطاف",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg"
+                },
+                {
+                    "name": "جوجل كروم مع ويندوز ميديا بلاير البرنامج المساعد",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "رفيق",
+            "softwares": [
+                {
+                    "name": "أبل كويك تايم بلاير",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "مشغل ألتيما الميديا",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "أوبرا مع البرنامج المساعد Flip4Mac WMV",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "مجاني"
+                },
+                {
+                    "name": "محول ShedWorx الذكي",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "أوليمسفت أوبلاير",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "مدفوعة"
+                }
+            ]
+        }
+    ]
+}

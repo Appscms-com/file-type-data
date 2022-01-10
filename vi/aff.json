@@ -1,0 +1,66 @@
+{
+    "Format": "AFF",
+    "ShortName": "AFF",
+    "FullName": "Advanced Forensics Format",
+    "Category": "Tập tin dữ liệu",
+    "Pros": "Mở và mở rộng. Không có bằng sáng chế. Nén và có thể tìm thấy. Đôi lớp. Linh hoạt.",
+    "Cons": "Không phổ biến. Thiếu tính minh bạch. ",
+    "Createdby": "Simson Garfinkel và Công nghệ cơ bản",
+    "CreatedbyLink": "https://www.basistech.com/",
+    "CreatedInYear": "2005-2006",
+    "BasicInformation": "Một tập tin AFF là một tập tin từ điển kiểm tra chính tả được sử dụng bởi các chương trình bộ Office miễn phí Kingsoft WPS Office và Apache OpenOffice. Nó chứa thông tin về tệp từ điển kiểm tra chính tả.DIC đi kèm với nó.",
+    "DetailedInformation": "Các tệp AFF và DIC được sử dụng để thêm từ điển kiểm tra chính tả mới vào Văn phòng WPS cho nhiều ngôn ngữ khác nhau, bao gồm cả tiếng Ý và tiếng Pháp. Thông thường, người dùng sẽ tải xuống. Trích xuất nội dung của các gói từ điển ZIP có chứa các tệp AFF và DIC, sau đó cài đặt chúng trong WPS Office.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Văn phòng Kingsoft WPS",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Apache OpenOffice",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "các cửa sổ",
+            "softwares": [
+                {
+                    "name": "Văn phòng Kingsoft WPS",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Apache OpenOffice",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Văn phòng Kingsoft WPS",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Apache OpenOffice",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "Free"
+                }
+            ]
+        }
+    ]
+}

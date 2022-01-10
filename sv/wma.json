@@ -1,0 +1,100 @@
+{
+    "Format": "WMA",
+    "ShortName": "WMA",
+    "FullName": "Windows Media Audio File",
+    "Category": "Ljudfil",
+    "Pros": "Hittills har Microsoft publicerat åtta utgåvor av WMA, med utgåvor efter WMA 7 som stöder certifikatkryptering för att skydda musikupphovsrätt, som musiker och musikförläggare kan tjäna mest på. WMA kan komprimera ljud med en högre hastighet, vilket gör det möjligt att lagra högkvalitativt ljud samtidigt som mindre utrymme används.",
+    "Cons": "När du komprimerar ljud med WMA-codec förlorar du vanligtvis viss kvalitet. WMA är långt ifrån perfekt för konsumenter som bryr sig om ljudkvalitet, men de kan välja FLAC (Free Lossless Audio Codec) eller APE (allmänt känt som apans ljud) istället. Microsoft äger WMA-standarden och vägrar att dela den med andra företag.",
+    "Createdby": "Microsoft",
+    "CreatedbyLink": "https://developer.microsoft.com/en-us/",
+    "CreatedInYear": "1999",
+    "BasicInformation": "En WMA-fil är en ljudfil som sparas i Microsofts egna ASF-format (Advanced Systems Format). Den innehåller Windows Media Audio samt metadataelement som spårets titel, artist, album och genre. WMA-filer liknar MP3-filer eftersom de vanligtvis används för att strömma musik via internet.",
+    "DetailedInformation": "Detta filformat skapades för att konkurrera med de välkända MP3- och RealAudio-formaten. Populariteten hos WMA-filer för användning med videouppspelning på DVD-spelare samt videouppspelningsfunktioner på mobila/bärbara enheter för Playstation och Nokia bidrog till deras framgång. Även om de flesta WMA-filer är förstörande tillåter vissa format förlustfri komprimering. ASF är ett patentskyddat digitalt musik- och videobehållarformat som utvecklats av Microsoft. Den använder om det innehåller Windows Media Video i stället för Windows Media Audio. WMV är ett videoformat tillägg. WMA- och WMV-filer är utbytbara. ASF-filer används dock oftare. ",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "djärv",
+                    "link": "https://audacious-media-player.org/",
+                    "image": "/assets/fileimg/6WTDOAw.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Fönster",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Hämta det från Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft Windows Media Player",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Kostnadsfritt, ingår i OS"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Xilisoft Video Converter Ultimate",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg"
+                },
+                {
+                    "name": "Google Chrome med Windows Media Player Plugin",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple QuickTime-spelare",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Kostnadsfritt, ingår i OS"
+                },
+                {
+                    "name": "Eltima Elmedia-spelare",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Opera med Flip4Mac WMV-insticksprogrammet",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "ShedWorx Smart Converter",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "Kostnadsfri provperiod"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Betald"
+                }
+            ]
+        }
+    ]
+}

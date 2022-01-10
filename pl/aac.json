@@ -1,0 +1,153 @@
+{
+    "Format": "AAC",
+    "ShortName": "AAC",
+    "FullName": "Advanced Audio Coding File",
+    "Category": "Plik audio",
+    "Pros": "W dzisiejszych czasach więcej urządzeń zdaje sobie sprawę z AAC. Zaszyfrowane rozmiary plików są mniejsze. Cel normalizacji został osiągnięty. Jakość dźwięku jest lepsza od MP3. Produkt jest szeroko dostępny. Przepustowość przesyłania strumieniowego jest ograniczona. Kompatybilność z szeroką gamą urządzeń. Dostępna jest szeroka gama opcji kodowania.",
+    "Cons": "Kodowanie zajmuje dużo czasu. Podczas procesu kodowania procesor jest mocno wykorzystywany. Podczas dekodowania użycie procesora jest nieco wyższe. Organizacja plików stała się bardziej skomplikowana. Mimo, że jest mniej, to wciąż jest przegrany. Obsługa sprzętu jest ograniczona. Tagowanie plików nie zawsze jest zgodne. Kodowanie AAC z bezstratnych oryginalnych plików może być zbyt drogie. MP3 jest nadal uważane za bardziej „standardowe” niż AAC.",
+    "Createdby": "Grupa Ekspertów ds. Obrazów",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "1997",
+    "BasicInformation": "AAC (Advanced Audio Coding) jest logicznym następcą MP3 (ISO/MPEG Audio Layer-3) (ISO/MPEG Audio Layer-3) (ISO/MPEG Audio Layer-3). Ten skompresowany format audio jest porównywalny z plikiem MP3, jednak ma kilka zalet wydajności. Wyższa wydajność kodowania zarówno dla sygnałów stabilnych, jak i przejściowych, mniejszy bank filtrów oraz lepsza obsługa częstotliwości przekraczających 16 kHz to tylko kilka przykładów.",
+    "DetailedInformation": "Apple iTunes i iTunes Music Store stosują jako domyślne kodowanie zaawansowane Audio Coding (AAC). Algorytm AAC polega na wykorzystaniu dwóch podstawowych schematów kodowania, aby drastycznie zminimalizować ilość danych potrzebnych do przesyłania wysokiej jakości dźwięku cyfrowego. Pliki AAC mają więcej częstotliwości przykładowych niż pliki MP3, a także do 48 kanałów, doskonałą wydajność kodowania i filtrowania banku oraz lepszą dokładność kodowania sygnału przejściowego. Pliki AAC, takie jak pliki MP3, usuwają częstotliwości audio, których ludzkie ucho nie może przetworzyć, co powoduje mniejsze, bardziej zarządzalne pliki. Pliki AAC są znacznie mniejsze niż pliki MP3 pod względem przestrzeni plików.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Odtwarzacz multimedialny VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Klementyna",
+                    "link": "https://www.clementine-player.org/about",
+                    "image": "/assets/fileimg/F87GDJM.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "XMMS",
+                    "link": "http://www.xmms.org/",
+                    "image": "/assets/fileimg/hodO9zz.jpeg",
+                    "type": "Darmowy"
+                }
+            ]
+        },
+        {
+            "platform": "Okna",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Pobierz go od firmy Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Bezpłatne wersje próbne"
+                },
+                {
+                    "name": "Odtwarzacz multimedialny VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "Darmowy"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple iTunes",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Odtwarzacz multimedialny VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Bezpłatne wersje próbne"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Roxio Toast 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "Płatne"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "olimsoft Olayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Płatne"
+                },
+                {
+                    "name": "RealNetworks RealTimes: Maker",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Przeglądarka plików dla Androida",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Videolabs VLC dla Androida",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "RealNetworks RealTimes: Maker",
+                    "link": "https://play.google.com/store/apps/details?id=com.real.RealPlayerCloud",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

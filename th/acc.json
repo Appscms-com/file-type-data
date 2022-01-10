@@ -1,0 +1,26 @@
+{
+    "Format": "ACC",
+    "ShortName": "ACC",
+    "FullName": "Graphics Accounts Data File",
+    "Category": "แฟ้มข้อมูล",
+    "Pros": "n/a",
+    "Cons": "n/a",
+    "Createdby": "ซอฟต์แวร์ FKJ",
+    "CreatedbyLink": "https://download.cnet.com/developer/fkj-software/i-6201467/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "ไฟล์ ACC เป็นรูปแบบไฟล์ข้อมูลบัญชีกราฟิกสำหรับบัญชีกราฟิก ไฟล์นี้มีข้อมูลบัญชีการเงินเป็นเครื่องมือที่ช่วยให้คุณสร้างและจัดการงบประมาณส่วนบุคคลมันอาจมีข้อมูลจากบัญชีธนาคารอย่างน้อยหนึ่งบัญชี",
+    "DetailedInformation": "ไฟล์ ACC ประกอบด้วยข้อมูลบัญชีทางการเงินสำหรับบัญชีกราฟิกพวกเขาสามารถเปิดร่วมกับไฟล์งบประมาณ (.BGT)",
+    "Softwaresused": [
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "บัญชีกราฟิกซอฟต์แวร์ FKJ",
+                    "link": "https://download.cnet.com/developer/fkj-software/i-6201467/",
+                    "image": "https://image.flaticon.com/icons/png/512/1063/1063308.png",
+                    "type": "ฟรี"
+                }
+            ]
+        }
+    ]
+}

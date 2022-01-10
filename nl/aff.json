@@ -1,0 +1,66 @@
+{
+    "Format": "AFF",
+    "ShortName": "AFF",
+    "FullName": "Advanced Forensics Format",
+    "Category": "Gegevensbestanden",
+    "Pros": "Open en uitbreidbaar. Vrij van patenten. Gecomprimeerd en zoekbaar. Dubbellaags. Flexibel.",
+    "Cons": "Niet populair. Gebrek aan transparantie. ",
+    "Createdby": "Simson Garfinkel en basistechnologie",
+    "CreatedbyLink": "https://www.basistech.com/",
+    "CreatedInYear": "2005-2006",
+    "BasicInformation": "Een AFF-bestand is een woordenboekbestand voor spellingcontrole dat wordt gebruikt door de gratis Office-suite programma's Kingsoft WPS Office en Apache OpenOffice. Het bevat informatie over het.DIC spellcheck woordenboekbestand dat ermee wordt meegeleverd.",
+    "DetailedInformation": "De AFF- en DIC-bestanden worden gebruikt om nieuwe woordenboeken voor spellingcontrole toe te voegen aan WPS Office voor verschillende talen, waaronder Italiaans en Frans. Gebruikers zullen meestal downloaden. Pak de inhoud uit van ZIP-woordenboekpakketten die de AFF- en DIC-bestanden bevatten en installeer ze vervolgens in WPS Office.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Kingsoft WPS-kantoor",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Apache OpenOffice",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Ramen",
+            "softwares": [
+                {
+                    "name": "Kingsoft WPS-kantoor",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Apache OpenOffice",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Kingsoft WPS-kantoor",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Apache OpenOffice",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "Format": "NEF",
+    "ShortName": "NEF",
+    "FullName": "Nikon Electronic Format RAW Image",
+    "Category": "카메라 Raw 파일",
+    "Pros": "휴먼 컴퓨터 처리가 필요한 경우 NEF 파일이 더 유용합니다.이는 JPEG 파일에서는 불가능한 이미지 품질을 향상시킬 수 있는 많은 가능성을 열어줍니다.원본 픽셀 데이터는 NEF 파일에 보존되므로 이미지 품질이 훨씬 좋습니다.무손실 기술을 사용하여 압축되거나 전혀 압축되지 않습니다.JPEG 및 TIFF 사진은 NEF 이미지보다 톤 범위와 색상 정밀도가 좁습니다.",
+    "Cons": "NEF 파일은 JPEG 파일보다 훨씬 크기 때문에 카드에 저장할 수 있는 파일의 수가 적습니다.RAW 파일을 메모리 카드에 저장하는 데 Nikon 카메라가 더 오래 걸리는 이유이기도합니다.수많은 RAW 파일 형식이 있으며 전문가들은 통합 RAW 파일 표준을 정의하는 데 어려움을 겪고 있습니다.Nikon은 또한 이미지 품질을 저하시키는 것으로 밝혀진 노이즈 감소를 채택한 것에 대해 징계를 받았습니다.",
+    "Createdby": "니콘",
+    "CreatedbyLink": "https://www.nikon.co.in/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "Nikon 디지털 카메라로 촬영한 Raw 사진은 NEF 파일로 저장됩니다.Nikon 전자 형식 (NEF) 으로 저장되며 CCD와 동일한 압축되지 않은 형식으로 데이터를 저장합니다.사용된 카메라 ID 및 렌즈와 같은 이미지 메타데이터도 NEF 파일에 포함됩니다.메타데이터에는 렌즈, 설정, 카메라 등에 대한 세부 정보가 포함됩니다.",
+    "DetailedInformation": "NEF 파일은 니콘 슈팅 게임에서 가장 일반적으로 사용됩니다.이러한 사진 작가는 Nikon 카메라를 사용하여 사진을 캡처하고 원시 데이터를 NEF 파일로 저장하는 전문가 또는 아마추어 일 수 있습니다.Raw 파일은 비트맵 그래픽 편집기로 아직 처리, 인쇄 또는 편집되지 않은 사진입니다.Raw 파일은 조명, 강도 및 색상을 포함하여 최대한 장면을 복제하려고 시도합니다.카메라 센서에서 캡처한 데이터는 원시 데이터 사진에 기록됩니다.NEF 파일은 카메라 메모리 카드에 비압축 또는 무손실 압축 형식으로 저장할 수 있습니다.NEF 파일은 “디지털 네거티브”와 유사합니다.NEF 파일의 이미지 품질에 대한 논쟁이 없다는 사실에도 불구하고 소프트웨어 개발자는 공통 표준이 없기 때문에이 형식을 선택하지 않습니다.",
+    "Softwaresused": [
+        {
+            "platform": "리눅스",
+            "softwares": [
+                {
+                    "name": "코렐 애프터 샷 프로 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "무료 평가판"
+                }
+            ]
+        },
+        {
+            "platform": "윈도우",
+            "softwares": [
+                {
+                    "name": "파일 뷰어 플러스 — 마이크로소프트에서 다운로드",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "마이크로소프트 포토스",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "어도비 포토샵 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "무료 평가판"
+                },
+                {
+                    "name": "니콘 뷰 NX2",
+                    "link": "https://imaging.nikon.com/lineup/software/viewnx2/",
+                    "image": "/assets/fileimg/pgXaxjb.jpeg"
+                },
+                {
+                    "name": "코렐 애프터 샷 프로 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "무료 평가판"
+                }
+            ]
+        },
+        {
+            "platform": "맥",
+            "softwares": [
+                {
+                    "name": "애플 프리뷰",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "애플 포토",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "어도비 포토샵 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "무료 평가판"
+                },
+                {
+                    "name": "니콘 뷰 NX2",
+                    "link": "https://imaging.nikon.com/lineup/software/viewnx2/",
+                    "image": "/assets/fileimg/pgXaxjb.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "코렐 애프터 샷 프로 3",
+                    "link": "https://www.aftershotpro.com/en/?x-clickref=1011lhbytYH4&utm_source=pz&utm_medium=affiliate&utm_campaign=1100l45633&x-vehicle=pz",
+                    "image": "/assets/fileimg/mSrHgSp.jpeg",
+                    "type": "무료 평가판"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "애플 포토",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "어도비 포토샵 ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "구글 포토",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "무료  "
+                },
+                {
+                    "name": "구글 스냅시드",
+                    "link": "https://apps.apple.com/us/app/snapseed/id439438619?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/p5rWIzT.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "기계적 인조 인간",
+            "softwares": [
+                {
+                    "name": "안드로이드용 파일 뷰어",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "어도비 포토샵 익스프레스",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "구글 포토",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "무료  "
+                },
+                {
+                    "name": "구글 스냅시드",
+                    "link": "https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en_US",
+                    "image": "/assets/fileimg/p5rWIzT.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "크롬 OS",
+            "softwares": [
+                {
+                    "name": "구글 포토",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "무료  "
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "Format": "WMA",
+    "ShortName": "WMA",
+    "FullName": "Windows Media Audio File",
+    "Category": "音频文件",
+    "Pros": "到目前为止，微软已经发布了八个版本的WMA，其中WMA 7之后的版本支持证书加密，以保护音乐版权，音乐家和音乐发行商可能从中获益最大。WMA可能会以更快的速度压缩音频，从而在占用更少空间的同时存储高质量的音频。",
+    "Cons": "使用WMA编解码器压缩音频时，通常会失去一些质量。对于关心音质的消费者来说，WMA远非完美，但他们可以选择FLAC（免费无损音频编解码器）或APE（通常称为猴子音频）。微软拥有WMA标准，并拒绝与其他公司共享。",
+    "Createdby": "微软",
+    "CreatedbyLink": "https://developer.microsoft.com/en-us/",
+    "CreatedInYear": "1999",
+    "BasicInformation": "WMA文件是以微软专有的高级系统格式（ASF）格式保存的音频文件。它包括 Windows Media Audio 以及元数据元素，例如曲目的标题、艺术家、专辑和流派。WMA文件与MP3文件相似，因为它们通常用于通过互联网流式传输音乐。",
+    "DetailedInformation": "创建此文件格式是为了与众所周知的 MP3 和 RealAudio 格式竞争。WMA文件在DVD播放器上播放视频以及Playstation和诺基亚的移动/便携式设备上的视频播放功能的普及为其成功做出了贡献。尽管大多数 WMA 文件都是有损的，但某些格式允许无损压缩。ASF是微软开发的专有数字音乐和视频容器格式。如果它包含 Windows Media Video 而不是 Windows 媒体音频，它会使用。WMV是一种视频格式扩展。WMA 和 WMV 文件是可以互换的。但是，ASF文件的使用频率更高。 ",
+    "Softwaresused": [
+        {
+            "platform": "Linux的",
+            "softwares": [
+                {
+                    "name": "大胆",
+                    "link": "https://audacious-media-player.org/",
+                    "image": "/assets/fileimg/6WTDOAw.jpeg",
+                    "type": "免费"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — 从微软获取",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "免费增值"
+                },
+                {
+                    "name": "微软 Windows 媒体播放器",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "免费，包含在操作系统中"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "Xilisoft 视频转换器旗舰版",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg"
+                },
+                {
+                    "name": "谷歌浏览器与Windows媒体播放器插件",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "免费"
+                }
+            ]
+        },
+        {
+            "platform": "苹果电脑",
+            "softwares": [
+                {
+                    "name": "苹果 QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "免费，包含在操作系统中"
+                },
+                {
+                    "name": "Eltima Elmedia 播放器",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "Opera 使用 theFlip4Mac WMV 插件",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "ShedWorx 智能转换器",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "免费试用"
+                }
+            ]
+        },
+        {
+            "platform": "iOS系统",
+            "softwares": [
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "已付"
+                }
+            ]
+        }
+    ]
+}

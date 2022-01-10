@@ -1,0 +1,66 @@
+{
+    "Format": "AFF",
+    "ShortName": "AFF",
+    "FullName": "Advanced Forensics Format",
+    "Category": "ملفات البيانات",
+    "Pros": "مفتوح وقابل للتوسيع. خالية من براءات الاختراع. مضغوط وقابل للاطّلاع. طبقة مزدوجة. مرن.",
+    "Cons": "لا تحظى بشعبية. عدم الشفافية. ",
+    "Createdby": "سيمسون غارفينكل وتقنية باساس",
+    "CreatedbyLink": "https://www.basistech.com/",
+    "CreatedInYear": "2005-2006",
+    "BasicInformation": "ملف AFF هو ملف قاموس التدقيق الإملائي يستخدمه برامج مجموعة Office المجانية Kingsoft WPS Office و Apache OpenOffice. يحتوي على معلومات حول ملف القاموس .DIC spellcheck الذي يأتي معه.",
+    "DetailedInformation": "تُستخدم ملفات AFF و DIC لإضافة قواميس تدقيق إملائي جديدة إلى مكتب WPS لمجموعة متنوعة من اللغات، بما في ذلك الإيطالية والفرنسية. عادة، سيتم تنزيل المستخدمين. استخراج محتويات حزم قاموس ZIP التي تحتوي على ملفات AFF و DIC، ثم قم بتثبيتها في WPS Office.",
+    "Softwaresused": [
+        {
+            "platform": "لينكس",
+            "softwares": [
+                {
+                    "name": "مكتب كينجسوفت دبليو بي إس",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "أباتشي أوبن أو",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "شبابيك",
+            "softwares": [
+                {
+                    "name": "مكتب كينجسوفت دبليو بي إس",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "أباتشي أوبن أو",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        },
+        {
+            "platform": "رفيق",
+            "softwares": [
+                {
+                    "name": "مكتب كينجسوفت دبليو بي إس",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "أباتشي أوبن أو",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "مجاني"
+                }
+            ]
+        }
+    ]
+}

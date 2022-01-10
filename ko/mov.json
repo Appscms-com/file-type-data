@@ -1,0 +1,147 @@
+{
+    "Format": "MOV",
+    "ShortName": "MOV",
+    "FullName": "Apple QuickTime Movie",
+    "Category": "비디오 파일",
+    "Pros": "미디어 데이터에 대한 추상 데이터 참조를 저장할 수 있습니다.나중에 모든 미디어 데이터를 다시 쓸 필요 없이 쉽게 수정할 수 있습니다.전문적인 비디오 편집의 경우 업계 표준입니다.",
+    "Cons": "주로 편집에 사용되지만 실제 용도로 사용되는 표준은 아닙니다.실제 기기에서는 수용 수준이 낮습니다. ",
+    "Createdby": "사과",
+    "CreatedbyLink": "https://developer.apple.com/",
+    "CreatedInYear": "1998",
+    "BasicInformation": "MOV 파일은 동영상을 퀵타임 파일 형식 (QTFF) 으로 저장하는 멀티미디어 컨테이너 파일 형식입니다.여기에는 비디오, 오디오 및 텍스트 (자막) 를 포함하여 다양한 종류의 미디어 데이터가 포함 된 하나 이상의 트랙이 있습니다.동영상 및 기타 비디오 파일은 일반적으로 MOV 파일로 저장됩니다.",
+    "DetailedInformation": "애플은 1991년에 QTFF를 개발 및 출시했다.컨테이너 형식은 장치, 운영 체제 및 응용 프로그램 간의 멀티미디어 전송을 용이하게 하기 위해 다양한 미디어 형식을 지원하기 위한 것입니다.QTFF 멀티미디어 파일은 as.mov 파일로 저장되는 경우가 많지만, .qt 파일로 저장할 수도 있습니다.비디오, 오디오, 시간 코드 및 텍스트 트랙은 모두 MOV 파일에서 찾을 수 있으며 다양한 형태의 데이터를 저장하고 동기화하는 데 사용할 수 있습니다.여러 대체 코덱을 사용하여 각 미디어 트랙을 인코딩할 수 있습니다.MPEG-4 코덱은 종종 MOV 파일을 압축하는 데 사용됩니다.각 파일 컨테이너에는 다양한 종류의 미디어를 저장할 수 있습니다.비디오, 비디오 효과, 텍스트, 사진, 자막 및 오디오를 모두 저장할 수 있습니다.이 파일 형식은 비디오 편집 응용 프로그램에서 자주 사용됩니다.MOV 및 QuickTime 파일은 음악 및 비디오 편집 (또는 두 파일 결합) 에 자주 사용됩니다.",
+    "Softwaresused": [
+        {
+            "platform": "리눅스",
+            "softwares": [
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "무료"
+                }
+            ]
+        },
+        {
+            "platform": "윈도우",
+            "softwares": [
+                {
+                    "name": "파일 뷰어 플러스 — 마이크로소프트에서 다운로드",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "마이크로소프트 윈도 미디어 플레이어",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "널소프트 윈앰프",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "자일 소프트 비디오 컨버터 얼티밋",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg",
+                    "type": "무료 평가판"
+                }
+            ]
+        },
+        {
+            "platform": "맥",
+            "softwares": [
+                {
+                    "name": "애플 퀵타임 플레이어",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "무료, OS에 포함"
+                },
+                {
+                    "name": "엘티마 엘미디어 플레이어",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "비디오란 VLC 미디어 플레이어",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "록시오 토스트 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "유료"
+                },
+                {
+                    "name": "어도비 프리미어 러쉬",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "무료 평가판"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "올림소프트 플레이어",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "유료"
+                },
+                {
+                    "name": "모바일용 비디오란 VLC",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "무료"
+                },
+                {
+                    "name": "구글 드라이브",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "어도비 프리미어 러쉬",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "무료 평가판"
+                }
+            ]
+        },
+        {
+            "platform": "기계적 인조 인간",
+            "softwares": [
+                {
+                    "name": "구글 드라이브",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "부분 유료화"
+                },
+                {
+                    "name": "어도비 프리미어 러쉬",
+                    "link": "https://www.adobe.com/products/premiere-rush.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/WBNj13N.jpeg",
+                    "type": "무료 평가판"
+                },
+                {
+                    "name": "안드로이드용 비디오랩 VLC",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "무료"
+                }
+            ]
+        }
+    ]
+}

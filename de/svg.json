@@ -1,0 +1,152 @@
+{
+    "Format": "SVG",
+    "ShortName": "SVG",
+    "FullName": "Scalable Vector Graphics File",
+    "Category": "Vektorbild-Datei",
+    "Pros": "Die Größe ist ziemlich klein. Es ist flexibel, dh Sie können die Grafikeinstellungen auf der Website mithilfe von CSS sofort ändern, z. B. die Hintergrundfarbe oder die Position des Logos auf der Seite. Die Skalierbarkeit verschlechtert die Bildqualität nicht. Bietet Browserunterstützung.",
+    "Cons": "Wenn das Objekt eine erhebliche Anzahl kleiner Elemente enthält, wächst die Dateigröße sehr schnell. Es ist unmöglich, nur einen Teil einer grafischen Sache zu lesen, Sie müssen das gesamte Objekt lesen, was Sie verlangsamt.",
+    "Createdby": "Adobe-Systeme",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "2001",
+    "BasicInformation": "SVG oder Scalable Vector Graphics ist ein zweidimensionales Dateiformat für Vektorgrafiken, das auf XML basiert. Das World Wide Web Consortium (W3C) entwarf es 1999 als Standardformat für die Präsentation von Vektorbildern im Internet. Es verwendet ein XML-basiertes Textformat, um Bilder zu beschreiben. SVG-Dateien werden als Webstandard für die Anzeige von Vektorgrafiken entwickelt.",
+    "DetailedInformation": "Das SVG-Format ist ein offener Standard, der vom World Wide Web Consortium (W3C) entwickelt wurde, wobei Adobe eine Schlüsselrolle spielt. Adobe Creative Suite-Produkte wie Illustrator und GoLive können SVG-Bilder produzieren und exportieren. SVG ermöglicht es Benutzern, Bilder zu suchen, zu indizieren, zu skripten und zu komprimieren, was Interaktivität und Animation ermöglicht. Da SVG-Dateien XML-Dateien sind, können Texteditoren auf sie zugreifen, sie generieren und bearbeiten. Zeichensoftware ist jedoch der typischste Ersteller dieses Dateityps. Eine verlustfreie Datenkomprimierung ist mit SVG-Dateien möglich. Sie unterstützen Text sowie Raster- und Vektorgrafiken. SVG ist ein XML-Standard, der vektorbasierte Grafiken für die Internetnutzung definiert. Die Bildqualität wird durch das Zoomen und die Größenänderung nicht beeinträchtigt. SVG-Dateien können in all ihren Komponenten und Abschnitten animiert werden. W3C-Standards (einschließlich DOM und XSL) sind in SVG-Dateien enthalten, die von W3C empfohlen werden. Vektorbilder, z. B. solche mit dem SVG-Dateiformat, bestehen aus vorgegebenen Formularsätzen, die beim Zoomen und Skalieren schärfere Bilder ermöglichen.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Kostenlos "
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Inkscape",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Kolour-Lackierung",
+                    "link": "http://kolourpaint.sourceforge.net/",
+                    "image": "/assets/fileimg/3JbciOH.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Holen Sie es sich von Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Inkscape",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Kostenlos "
+                },
+                {
+                    "name": "Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg"
+                },
+                {
+                    "name": "Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Kostenlose Testversion"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Inkscape",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Kostenlos "
+                },
+                {
+                    "name": "Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Kostenlose Testversion"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Dateibetrachter für Android",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "Format": "FLAC",
+    "ShortName": "FLAC",
+    "FullName": "Free Lossless Audio Codec",
+    "Category": "Tập tin âm thanh",
+    "Pros": "Chất lượng âm thanh tuyệt vời trong một kích thước tệp nhỏ. Nhiều hệ thống tương thích với nó. Mã nguồn là mở và giấy phép là miễn phí. Hỗ trợ phần cứng (PhatBox, Kenwood MusicKeg, Rio Karma, vv) có sẵn. Hỗ trợ phát trực tuyến. Giải mã thực sự nhanh chóng. Nguồn cấp dữ liệu đa kênh và độ phân giải cao được hỗ trợ. Phát lại Gain được hỗ trợ. Hỗ trợ việc sử dụng một bảng cue (với một số hạn chế) Là một sự thay thế để Rút ngắn, nó đang trở nên phổ biến.",
+    "Cons": "Các máy nén dòng nổi bật khác (Âm thanh của Monkey, LPAC, OptimFROG) nén hiệu quả hơn. Các tùy chọn nén cao hơn chậm chạp và cung cấp cải thiện tối thiểu so với cài đặt mặc định.",
+    "Createdby": "Quỹ Xiph.Org",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "2001",
+    "BasicInformation": "Từ viết tắt FLAC đề cập đến Codec âm thanh Lossless miễn phí. FLAC là một định dạng MP3 lossless. FLAC được sử dụng phổ biến nhất trong âm nhạc cổ điển, nơi chất lượng âm thanh là rất quan trọng. FLAC đã phát triển khá phổ biến do chất lượng âm thanh của nó. Các tệp FLAC giờ đây có thể được phát trong trình phát yêu thích của bạn (hoặc trong xe hoặc âm thanh nổi gia đình của bạn) giống hệt như các tệp MP3.",
+    "DetailedInformation": "FLAC là một định dạng nén âm thanh được phát triển bởi các thành viên của Xiph.org. Việc nén là không mất dữ liệu, có nghĩa là không có dữ liệu nào bị mất và không có chất lượng nào bị hy sinh. FLAC cho phép người dùng lưu tệp ở chất lượng phương tiện gốc, làm cho nó trở nên tuyệt vời để sao lưu dữ liệu âm thanh vì các bản sao hữu hình của các tệp âm thanh dễ bị phá hủy. FLAC là một định dạng được áp dụng rộng rãi giúp giảm kích thước âm thanh kỹ thuật số khoảng 60% và thường được hỗ trợ trên các nền tảng chính nhất. Nền tảng Xiph.Org đã tạo định dạng, là mã nguồn mở. Cùng với tệp FLAC, một tệp vân tay FLAC, bao gồm tên tệp và thông tin tổng kiểm tra cho tệp FLAC, có thể được tạo ra. Các tệp FLAC thường được sử dụng để phát trực tuyến và giải mã thời gian thực. Dự án FLAC được tạo thành từ một số thành phần, bao gồm định dạng luồng, định dạng vùng chứa, thư viện tham chiếu bộ mã hóa và giải mã và plugin đầu vào.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Audacity (Táo bạo)",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "aTunes",
+                    "link": "http://www.atunes.org/",
+                    "image": "/assets/fileimg/U6hLUgu.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "các cửa sổ",
+            "softwares": [
+                {
+                    "name": "Trình xem tệp Plus - Tải nó từ Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Audacity (Táo bạo)",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg"
+                },
+                {
+                    "name": "Adobe Audition 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Dùng thử miễn phí"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Audacity (Táo bạo)",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "aTunes",
+                    "link": "http://www.atunes.org/",
+                    "image": "/assets/fileimg/U6hLUgu.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Adobe Audition 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Dùng thử miễn phí"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Videolan VLC cho điện thoại di động",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Tai vàng",
+                    "link": "https://apps.apple.com/us/app/golden-ear/id407945101?ign-mpt=uo%3D8",
+                    "image": "/assets/fileimg/upbts7y.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Người chơi Moliplayer",
+                    "link": "https://apps.apple.com/us/app/moli-player-hd-free-movie-music-player-for-network/id598886783?ign-mpt=uo%3D8",
+                    "image": "/assets/fileimg/FAo0QEL.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Trình xem tệp dành cho Android",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Videolabs VLC dành cho Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "jetAudio",
+                    "link": "https://play.google.com/store/apps/details?id=com.jetappfactory.jetaudio",
+                    "image": "/assets/fileimg/jcTagMw.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Phiên bản Chrome Beta",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "Free"
+                }
+            ]
+        }
+    ]
+}

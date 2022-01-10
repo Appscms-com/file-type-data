@@ -1,0 +1,129 @@
+{
+    "Format": "PSD",
+    "ShortName": "PSD",
+    "FullName": "Adobe Photoshop Document",
+    "Category": "ملفات الصور النقطية",
+    "Pros": "حقق أقصى استفادة من ميزات Photoshop. يمكنك استيراد ملف Photoshop مباشرة إلى Illustrator و InDesign وبرامج Adobe الأخرى بفضل الاتصال الضيق. افتح الملف المحفوظ في وضع الطبقات. إذا كنت بحاجة إلى الحفاظ على شفافية الأمور، فهذه أداة جيدة لامتلاكها.",
+    "Cons": "الملف كبير جدًا. تمتلك Adobe تنسيق PSD. ونتيجة لذلك، لا يتم استخدامه على نطاق واسع من قبل التطبيقات الأخرى.",
+    "Createdby": "أنظمة أدوبي",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "PSD هو تنسيق ملف فوتوشوب الأصلي لحفظ الملفات. يُعرف أيضًا باسم PDD. PSD، المعروف غالبًا باسم PDD، هو نوع ملف شائع الاستخدام. PSD متوافق مع جميع أوضاع الصورة (الصورة النقطية، الرمادي، ثنائي اللون، اللون المفهرس، RGB، CMYK، مختبر، ومتعدد القنوات). إنه ملف صور تم إنشاؤه بواسطة Adobe Photoshop، وهي أداة احترافية لتحرير الصور تُستخدم بشكل شائع لتحسين الصور الرقمية وإنشاء رسومات الويب.",
+    "DetailedInformation": "يمكن العثور على طبقات الصور وطبقات الضبط وأقنعة الطبقة والتعليقات التوضيحية ومعلومات الملف والكلمات الرئيسية والمكونات الأخرى الخاصة بـ Photoshop في ملفات PSD. يتم تصنيعها ومشاركتها بشكل متكرر من قبل مصممي الجرافيك. يمكن فتح ملفات PSD مع مجموعة متنوعة من أدوات فوتوشوب ومسطحة في تنسيقات الصور الأخرى (مثل PNG، JPEG، و GIF) لتحميل وإرسال وحفظ. جميع الطبقات دمجها في طبقة واحدة بعد تحويلها من PSD إلى نوع ملف آخر. يتم تخزين الطبقات، ويمكن الوصول إليها، وقابلة للتحرير عند حفظها باستخدام ملحق ملف PSD. تُستخدم هذه الملفات بشكل متكرر كوثائق عمل قيد التقدم، بدلاً من إنتاج الصور النهائية وتسليمها. يمكن تعديل طبقات PSD، بالإضافة إلى عناصر أخرى مثل الصور والأشكال والنص والتأثيرات. RGB، CMYK، الرمادي، أحادية اللون، ثنائي اللون، اللون المفهرس، لون المختبر، وسائط الألوان متعددة القنوات كلها مدعومة بتنسيق PSD. تحتوي ملفات Photoshop مع ملحق ملف PSD على الصور مع السماح بالعديد من خيارات التحرير عبر منتجات Adobe Photoshop. الأقنعة والشفافية وإعدادات الألوان المزدوجة والتدرجات وموازنة الألوان والخلط ومسارات القطع ليست سوى عدد قليل من أدوات التحرير المتاحة.",
+    "Softwaresused": [
+        {
+            "platform": "لينكس",
+            "softwares": [
+                {
+                    "name": "جيمب",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "مجاني "
+                }
+            ]
+        },
+        {
+            "platform": "شبابيك",
+            "softwares": [
+                {
+                    "name": "عارض الملفات بلس - احصل عليه من Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "أدوبي فوتوشوب 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "أدوبي إيلوستراتور 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "جيمب",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg"
+                },
+                {
+                    "name": "مجموعة رسومات CorelDRAW 2021",
+                    "link": "https://www.coreldraw.com/en/product/coreldraw/purchase.html?AID=10816204&PID=3081440&cjevent=51885051cce111eb80d1d3470a180510&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&x-vehicle=cj",
+                    "image": "/assets/fileimg/cfwD39J.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                }
+            ]
+        },
+        {
+            "platform": "رفيق",
+            "softwares": [
+                {
+                    "name": "معاينة أبل",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "مجاني، متضمن مع نظام التشغيل"
+                },
+                {
+                    "name": "أدوبي إيلوستراتور 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "أدوبي فوتوشوب 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "نسخة تجريبية مجانية"
+                },
+                {
+                    "name": "جيمب",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "مجاني "
+                },
+                {
+                    "name": "بيكسلماتور",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id407963104?ign-mpt=uo%3D4&mt=12",
+                    "image": "/assets/fileimg/0RX6D8V.jpeg",
+                    "type": "مدفوعة"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "بيكسلماتور 2",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/HmizpGb.jpeg",
+                    "type": "مدفوعة"
+                },
+                {
+                    "name": "أدوبي فوتوشوب ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "فريميوم"
+                }
+            ]
+        },
+        {
+            "platform": "أندرويد",
+            "softwares": [
+                {
+                    "name": "عارض الملفات لنظام Android",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "فريميوم"
+                },
+                {
+                    "name": "أدوبي فوتوشوب إكسبريس",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "فريميوم"
+                }
+            ]
+        }
+    ]
+}

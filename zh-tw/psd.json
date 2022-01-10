@@ -1,0 +1,129 @@
+{
+    "Format": "PSD",
+    "ShortName": "PSD",
+    "FullName": "Adobe Photoshop Document",
+    "Category": "光柵圖像文件",
+    "Pros": "充分利用 Photoshop 的功能。由於緊密的連接，您可以直接將 Photoshop 文件導入到插畫家、InDesign 和其他 Adobe 程序。在圖層模式下打開保存的文件。如果你需要保持透明，這是一個很好的工具。",
+    "Cons": "該文件非常大。Adobe 擁有私營部門司格式。因此，它沒有被其他應用廣泛使用。",
+    "Createdby": "Adobe 系統",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "PSD 是用於保存文件的本機文件格式。它也被稱為 PDD。PSD，通常稱為 PDD，是一種常用的文件類型。PSD 兼容所有圖像模式（位圖、灰度、雙色調、索引顏色、RGB、CMYK、實驗室和多通道）。這是一個圖片文件由 Adobe Photoshop，一個專業的圖像編輯工具，通常用於改進數碼照片和製作網絡圖形。",
+    "DetailedInformation": "圖像圖層、調整圖層、圖層蒙版、註釋、文件信息、關鍵字以及其他特定於 Photoshop 的組件都可以在 PSD 文件中找到。它們經常由平面設計師製作和共享。PSD 文件可以使用各種 Photoshop 工具打開，並將其拼合成其他圖像格式（如 PNG、JPEG 和 GIF）以上傳、發送和保存。所有圖層從 PSD 轉換為另一個文件類型後合併為一個單一圖層。當使用 PSD 文件擴展名保存時，圖層可以存儲、訪問和編輯。這些文件通常用作進行中的文檔，而不是用於最終的圖像製作和交付。PSD 圖層以及其他元素（如照片、形狀、文本和效果）可以進行修改。PSD 格式支持 RGB、CMYK、灰度、單色、雙色調、索引顏色、實驗室顏色和多通道顏色模式。PSD 文件擴展名的 Photoshop 文件保存圖像，同時允許多編輯選項跨 Photoshop 產品。蒙版、透明度、雙色調設置、漸變、色彩平衡、混合和剪切路徑只是可用的編輯工具中的一部分。",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "免費 "
+                }
+            ]
+        },
+        {
+            "platform": "視窗",
+            "softwares": [
+                {
+                    "name": "文件查看器加 — 從微軟獲取",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "圖片店",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "免費試用"
+                },
+                {
+                    "name": "圖畫家 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "免費試用"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg"
+                },
+                {
+                    "name": "科雷爾繪圖圖形套件 2021",
+                    "link": "https://www.coreldraw.com/en/product/coreldraw/purchase.html?AID=10816204&PID=3081440&cjevent=51885051cce111eb80d1d3470a180510&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&x-vehicle=cj",
+                    "image": "/assets/fileimg/cfwD39J.jpeg",
+                    "type": "免費試用"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "蘋果預覽",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                },
+                {
+                    "name": "圖畫家 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "免費試用"
+                },
+                {
+                    "name": "圖片店",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "免費試用"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "免費 "
+                },
+                {
+                    "name": "像素製作者",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id407963104?ign-mpt=uo%3D4&mt=12",
+                    "image": "/assets/fileimg/0RX6D8V.jpeg",
+                    "type": "已付費"
+                }
+            ]
+        },
+        {
+            "platform": "iOS版",
+            "softwares": [
+                {
+                    "name": "像素標器 2",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/HmizpGb.jpeg",
+                    "type": "已付費"
+                },
+                {
+                    "name": "圖片店 ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "免費增值"
+                }
+            ]
+        },
+        {
+            "platform": "安卓",
+            "softwares": [
+                {
+                    "name": "安卓文件查看器",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "免費增值"
+                },
+                {
+                    "name": "圖片店快捷",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "免費增值"
+                }
+            ]
+        }
+    ]
+}

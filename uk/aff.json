@@ -1,0 +1,66 @@
+{
+    "Format": "AFF",
+    "ShortName": "AFF",
+    "FullName": "Advanced Forensics Format",
+    "Category": "Файли даних",
+    "Pros": "Відкриті і розтяжні. Без патентів. Стиснутий і придатний для перегляду. Двошаровий. Гнучкий.",
+    "Cons": "Чи не популярні. Відсутність прозорості. ",
+    "Createdby": "Сімсон Гарфінкель та технологія основи",
+    "CreatedbyLink": "https://www.basistech.com/",
+    "CreatedInYear": "2005-2006",
+    "BasicInformation": "AFF файл є файл словника правопису, який використовується безкоштовно Office Suite програм Kingsoft WPS Office і Apache OpenOffice. Він містить інформацію про файл.DIC орфографії словника, який постачається разом з ним.",
+    "DetailedInformation": "Файли AFF та DIC використовуються для додавання нових словників перевірки орфографії до WPS Office для різних мов, включаючи італійську та французьку. Як правило, користувачі завантажують. Витягніть вміст пакетів словників ZIP, які містять файли AFF та DIC, а потім встановіть їх у WPS Office.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Кінгсофт WPS Офіс",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Apache OpenOffice",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "Вікна",
+            "softwares": [
+                {
+                    "name": "Кінгсофт WPS Офіс",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Apache OpenOffice",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Кінгсофт WPS Офіс",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "Фреміум"
+                },
+                {
+                    "name": "Apache OpenOffice",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "Безкоштовно"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "Format": "AVI",
+    "ShortName": "AVI",
+    "FullName": "Audio Video Interleave File",
+    "Category": "動画ファイル",
+    "Pros": "非常に優れた音質忠実度。ファイルをオンラインで圧縮する際に適切な比率に到達するために使用できるコーデックは数多くあります。Microsoftによって作成されたため、MicrosoftおよびMicrosoft以外のすべての主要なオペレーティングシステムで再生できます。他のオーディオ/ビデオ形式とは異なり、DV-AVI 規格は圧縮できます。特定のハードウェアやソフトウェアを使用する必要はありません。圧縮機能があるため、AVIビデオ形式はプロモーション、ショートフィルム、広告で最も頻繁に使用されます。マスターファイルの場合、AVI で保持される品質は良好です。",
+    "Cons": "安全で信頼できるソースからコーデックを見つけることができないと、多くの人が不満を感じます。これらのソースが利用可能であっても、ユーザーはエクスペリエンスの中断を望ましくないと感じるかもしれません。他のファイル形式と比較すると、AVIファイルは圧縮されていないと非常に大きくなる可能性があります。特定の制限を超えてオンラインでAVIファイルを圧縮すると、ビデオの品質が低下します。ユーザーインタラクションはサポートされていません。softsubs はサポートしていません。",
+    "Createdby": "マイクロソフト",
+    "CreatedbyLink": "https://developer.microsoft.com/en-us/",
+    "CreatedInYear": "1992",
+    "BasicInformation": "AVI ファイルは、Microsoft が作成したオーディオビデオインターリーブ (AVI) マルチメディアコンテナ形式で保存されたビデオファイルです。DivX や XviD を含むさまざまなコーデックでエンコードされたビデオおよびオーディオファイルを保持します。AVIファイルは、Microsoftムービー＆テレビ、Windows Media Player、Apple QuickTime Playerなど、さまざまなビデオプレーヤーを使用して再生できます。これらはすべて、それぞれのオペレーティングシステムがプリインストールされています。",
+    "DetailedInformation": "AVI 形式は、1991 年に初めてリリースされたマルチメディアを格納するためのコンテナ形式であるリソース交換ファイル形式 (RIFF) に基づいています。マイクロソフトは1年後の1992年にAVI形式を作成し、現在でも広く使用されています。さまざまなビデオプレーヤーでサポートされていますが、ビデオを正常に再生するには、プレーヤーがビデオデータのエンコードに使用されるコーデックをサポートしている必要があります。同時再生をサポートするために、AVI はオーディオとビデオを共通のコンテナ内の 1 つのファイルに結合します。その利点は、Windows、Mac、Linux、Unix などのさまざまなオペレーティングシステムで機能できるシンプルなアーキテクチャであり、すべての主要な Web ブラウザでサポートされています。高品質のビデオとオーディオを保存でき、他のビデオ形式よりも圧縮率が低い like.MPEG and.MOV。",
+    "Softwaresused": [
+        {
+            "platform": "リナックス",
+            "softwares": [
+                {
+                    "name": "VideoLAN VLC メディアプレーヤー",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "Xine",
+                    "link": "https://sourceforge.net/projects/xine/",
+                    "image": "/assets/fileimg/11To9CR.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "Kodi",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "ファイルビューアープラス — マイクロソフトから入手",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "マイクロソフトウィンドウズメディアプレーヤー",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "マイクロソフトの映画とテレビ番組",
+                    "link": "https://www.microsoft.com/en-us/p/movies-tv/9wzdncrfj3p2?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/fVyIEs4.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "VideoLAN VLC メディアプレーヤー",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "Kodi",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "マック",
+            "softwares": [
+                {
+                    "name": "Apple QuickTime プレイヤー",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "無料、OSに付属"
+                },
+                {
+                    "name": "VideoLAN VLC メディアプレーヤー",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "Kodi",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "アドビプレミアプロ 2020",
+                    "link": "https://www.adobe.com/products/premiere.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/RUVWLwB.jpeg",
+                    "type": "フリートライアル"
+                },
+                {
+                    "name": "エルティマ・エルメディア・プレイヤー",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Videolan モバイル用 VLC",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "有料"
+                },
+                {
+                    "name": "グーグル・ドライブ",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "フリーミアム"
+                }
+            ]
+        },
+        {
+            "platform": "アンドロイド",
+            "softwares": [
+                {
+                    "name": "グーグル・ドライブ",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "フリーミアム"
+                },
+                {
+                    "name": "Videolabs アンドロイド用 VLC",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "無料"
+                },
+                {
+                    "name": "BIT Labs シンプル MP4 ビデオプレーヤー",
+                    "link": "https://play.google.com/store/apps/details?id=air.br.com.bitlabs.VideoPlayer&hl=en",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "無料"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "グーグル・ドライブ",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "フリーミアム"
+                }
+            ]
+        }
+    ]
+}

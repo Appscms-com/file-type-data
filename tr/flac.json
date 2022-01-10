@@ -1,0 +1,170 @@
+{
+    "Format": "FLAC",
+    "ShortName": "FLAC",
+    "FullName": "Free Lossless Audio Codec",
+    "Category": "Ses dosyası",
+    "Pros": "Küçük bir dosya boyutunda mükemmel ses kalitesi. Birçok sistem onunla uyumludur. Kaynak kodu açık ve lisans ücretsizdir. Donanım yardımı (PhatBox, Kenwood MusicKeg, Rio Karma, vb.) Mevcut. Akış desteği. Kod çözme çok hızlı. Çok kanallı ve yüksek çözünürlüklü akışlar desteklenir. Replay Gain desteklenir. Bir işaret levhasının kullanımını destekler (bazı sınırlamalarla) Kısaltılmış bir değiştirme olarak popülerlik kazanıyor.",
+    "Cons": "Diğer önemli akım kompresörleri (Monkey's Audio, LPAC, OptimFROG) daha verimli sıkıştırır. Daha yüksek sıkıştırma seçenekleri yavaştır ve varsayılan ayara göre minimum iyileştirme sağlar.",
+    "Createdby": "Xiph.Org Vakfı",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "2001",
+    "BasicInformation": "FLAC kısaltması, Free Lossless Audio Codec bileşenini ifade eder. FLAC kayıpsız bir MP3 formatıdır. FLAC en çok ses kalitesinin kritik olduğu klasik müzikte kullanılır. FLAC, ses kalitesinin bir sonucu olarak oldukça popüler hale geldi. FLAC dosyaları artık en sevdiğiniz oynatıcılarda (veya aracınızın veya ev stereo sisteminizde) tam olarak MP3 dosyaları gibi çalınabilir.",
+    "DetailedInformation": "FLAC, Xiph.org üyeleri tarafından geliştirilen bir ses sıkıştırma formatıdır. Sıkıştırma kayıpsızdır, bu da hiçbir veri kaybolmaz ve kaliteden ödün verilmez. FLAC, kullanıcıların orijinal medya kalitesinde dosyaları kaydetmelerine olanak tanır ve ses dosyalarının somut kopyaları imha eğilimli olduğundan ses verilerini yedeklemek için mükemmel hale getirir. FLAC, dijital ses boyutunu yaklaşık% 60 azaltan ve genellikle en büyük platformlarda desteklenen yaygın olarak benimsenen bir formattır. Xiph.Org Vakfı açık kaynak biçimi oluşturdu. FLAC dosyasıyla birlikte, FLAC dosyasının dosya adı ve sağlama toplamı bilgilerini içeren bir FLAC Parmak İzi dosyası oluşturulabilir. FLAC dosyaları, gerçek zamanlı akış ve kod çözme için sıklıkla kullanılır. FLAC projesi, akış biçimi, bir konteyner formatı, bir kodlayıcı ve kod çözücü referans kütüphanesi ve giriş eklentileri de dahil olmak üzere çeşitli bileşenlerden oluşur.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC Medya Oynatıcı",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Audacity",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "aTunes",
+                    "link": "http://www.atunes.org/",
+                    "image": "/assets/fileimg/U6hLUgu.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Microsoft'tan edinin",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "VideoLan VLC Medya Oynatıcı",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Audacity",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Ücretsiz deneme"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC Medya Oynatıcı",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Audacity",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "aTunes",
+                    "link": "http://www.atunes.org/",
+                    "image": "/assets/fileimg/U6hLUgu.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Ücretsiz deneme"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Mobil cihazlar için Videolan VLC",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Altın Kulak",
+                    "link": "https://apps.apple.com/us/app/golden-ear/id407945101?ign-mpt=uo%3D8",
+                    "image": "/assets/fileimg/upbts7y.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Moliplayer",
+                    "link": "https://apps.apple.com/us/app/moli-player-hd-free-movie-music-player-for-network/id598886783?ign-mpt=uo%3D8",
+                    "image": "/assets/fileimg/FAo0QEL.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Android için dosya görüntüleyici",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Android için Videolabs VLC",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "jetAudio",
+                    "link": "https://play.google.com/store/apps/details?id=com.jetappfactory.jetaudio",
+                    "image": "/assets/fileimg/jcTagMw.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Chrome Beta sürümü",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        }
+    ]
+}

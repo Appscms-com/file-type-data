@@ -1,0 +1,88 @@
+{
+    "Format": "OPUS",
+    "ShortName": "OPUS",
+    "FullName": "Opus Audio File",
+    "Category": "Lyd-fil",
+    "Pros": "Giver mulighed for hurtigere datatransmission via flere kanaler. Lydkvalitetstest viser, at den gendanner den oprindelige lyd mere effektivt ved forskellige bitrates og samplinghastigheder. Sikrer ensartet ydeevne i forskellige situationer. En fremtidsorienteret struktur for talrige telekommunikationstjenester. Adaptive til lydinformationstypen. Kan delvist kompensere for kvalitetstab under transmission, hvilket giver mulighed for kontinuerlig live dataoverførsel uden afbrydelser. ",
+    "Cons": "Understøttes ikke af flere programmer. Opus codec er ualmindelige.",
+    "Createdby": "Xiph.Org ",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "2012",
+    "BasicInformation": "Opus er en ny codec produceret af et team af eksperter fra Xiph.Org Foundation (Mozilla Corporation) og Skype Technologies S.A. (Microsoft). Det har alle fordelene ved MP3 samtidig minimere sine fejl. Opus kombinerer codecs CELT og SILK.",
+    "DetailedInformation": "En OPUS-fil er en lossy lydfil oprettet i Opus-format (undertiden kendt som „Ogg Opus“), som er designet til internetstreaming. Det understøtter varierende bithastigheder fra 6 kb/s til 510 kb/s og beskæftiger både SILK (brugt af Skype) og CELT (fra Xiph.Org) codecs. Voice over IP (VoIP), videokonferencer og chat i spillet anvender alle Opus-codec. IETF definerede Opus-formatet, som er meget udbredt. IETF standardiserede Opus-formatet, som vedligeholdes af Xiph.Org. Fordi Opus codec er mest brugt til streaming, filer med.opus udvidelse er ualmindelige.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLAN VLC medieafspiller",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "vinduer",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Hent det fra Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "VideoLAN VLC medieafspiller",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "FORMÅLSPROGRAM",
+                    "link": "http://www.aimp2.us/",
+                    "image": "/assets/fileimg/sOBpiyF.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Foobar2000",
+                    "link": "https://www.foobar2000.org/",
+                    "image": "/assets/fileimg/c2PuNRk.jpeg"
+                },
+                {
+                    "name": "Opus Værktøjer",
+                    "link": "https://www.opus-codec.org/downloads/",
+                    "image": "/assets/fileimg/7xNWYRA.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "VideoLAN VLC medieafspiller",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Filfremviser til Android",
+                    "link": "",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Opus Player",
+                    "link": "https://play.google.com/store/apps/details?id=com.littlepako.opusplayer3&hl=en_US&gl=US",
+                    "image": "/assets/fileimg/irCSU4s.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        }
+    ]
+}

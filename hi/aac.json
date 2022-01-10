@@ -1,0 +1,153 @@
+{
+    "Format": "AAC",
+    "ShortName": "AAC",
+    "FullName": "Advanced Audio Coding File",
+    "Category": "ऑडियो फाइल",
+    "Pros": "आजकल, अधिक डिवाइस AAC के बारे में जानते हैं। एन्कोडेड फ़ाइल आकार कम होते हैं। मानकीकरण का लक्ष्य पूरा हो गया है। साउंड क्वालिटी MP3 से बेहतर है। उत्पाद व्यापक रूप से उपलब्ध है। स्ट्रीमिंग बैंडविड्थ सीमित है। उपकरणों की एक विस्तृत श्रृंखला के साथ संगतता। एन्कोडिंग विकल्पों की एक विस्तृत श्रृंखला उपलब्ध है।",
+    "Cons": "एन्कोड करने में काफी समय लगता है। एन्कोडिंग प्रक्रिया के दौरान, CPU का भारी उपयोग किया जाता है। डिकोडिंग के दौरान, CPU उपयोग थोड़ा अधिक होता है। फ़ाइल संगठन अधिक जटिल हो गया है। भले ही यह कम है, फिर भी यह एक हारा हुआ है। हार्डवेयर सपोर्ट सीमित है। फ़ाइलों को टैग करना हमेशा संगत नहीं होता है। यह दोषरहित मूल फ़ाइलों से AAC को एनकोड करने के लिए बहुत महंगा हो सकता है। एमपी 3 को अभी भी AAC की तुलना में अधिक “मानक” माना जाता है।",
+    "Createdby": "मूविंग पिक्चर एक्सपर्ट्स",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "1997",
+    "BasicInformation": "मध्यम से उच्च बिट दरों पर ऑडियो कोडिंग के लिए, एएसी (उन्नत ऑडियो कोडिंग) एमपी 3 (आईएसओ/एमपीईजी ऑडियो लेयर -3) (आईएसओ/एमपीईजी ऑडियो लेयर -3) का तार्किक उत्तराधिकारी है। यह संपीड़ित ऑडियो प्रारूप MP3 फ़ाइल के बराबर है, हालाँकि इसके कुछ प्रदर्शन लाभ हैं। स्थिर और क्षणिक संकेतों दोनों के लिए उच्च कोडिंग दक्षता, एक छोटा फिल्टर बैंक, और 16 kHz से अधिक आवृत्तियों की बेहतर हैंडलिंग केवल कुछ उदाहरण हैं।",
+    "DetailedInformation": "Apple iTunes और iTunes Music Store एडवांस्ड ऑडियो कोडिंग (AAC) को डिफ़ॉल्ट एन्कोडिंग के रूप में नियोजित करते हैं। एएसी एल्गोरिथ्म की अवधारणा उच्च गुणवत्ता वाले डिजिटल ऑडियो को प्रसारित करने के लिए आवश्यक डेटा की मात्रा को कम करने के लिए दो बुनियादी कोडिंग योजनाओं का उपयोग करना है। AAC फ़ाइलों में MP3 फ़ाइलों की तुलना में अधिक नमूना आवृत्तियाँ होती हैं, साथ ही साथ 48 चैनल, बेहतर कोडिंग और फ़िल्टर बैंक दक्षता और बेहतर क्षणिक सिग्नल कोडिंग सटीकता होती है। एएसी फाइलें, एमपी 3 फाइलों की तरह, ऑडियो आवृत्तियों को हटा देती हैं जिन्हें मानव कान संसाधित नहीं कर सकता है, जिसके परिणामस्वरूप छोटी, अधिक प्रबंधनीय फाइलें होती हैं। फ़ाइल स्थान के संदर्भ में AAC फ़ाइलें MP3 फ़ाइलों की तुलना में काफी कम हैं।",
+    "Softwaresused": [
+        {
+            "platform": "लिनक्स",
+            "softwares": [
+                {
+                    "name": "वीडियोलैन वीएलसी मीडिया प्लेयर",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "क्लेमेंटाइन",
+                    "link": "https://www.clementine-player.org/about",
+                    "image": "/assets/fileimg/F87GDJM.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "XMMS",
+                    "link": "http://www.xmms.org/",
+                    "image": "/assets/fileimg/hodO9zz.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "फ़ाइल व्यूअर प्लस - इसे Microsoft से प्राप्त करें",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "एडोब ऑडिशन सीसी 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "वीडियोलैन वीएलसी मीडिया प्लेयर",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "नलसॉफ्ट विनम्प",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "मैक",
+            "softwares": [
+                {
+                    "name": "एप्पल आईट्यून्स",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "वीडियोलैन वीएलसी मीडिया प्लेयर",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "एडोब ऑडिशन सीसी 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "रोक्सियो टोस्ट 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "अदा"
+                }
+            ]
+        },
+        {
+            "platform": "आईओएस",
+            "softwares": [
+                {
+                    "name": "ओलिमसॉफ्ट ओप्लेयर",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "अदा"
+                },
+                {
+                    "name": "रियलनेटवर्क्स रियलटाइम्स: वीडियो मेकर",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "फ़्रीमियम"
+                }
+            ]
+        },
+        {
+            "platform": "एंड्रॉयड",
+            "softwares": [
+                {
+                    "name": "Android के लिए फ़ाइल व्यूअर",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "Android के लिए वीडियोलैब्स VLC",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "रियलनेटवर्क्स रियलटाइम्स: वीडियो मेकर",
+                    "link": "https://play.google.com/store/apps/details?id=com.real.RealPlayerCloud",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "फ़्रीमियम"
+                }
+            ]
+        }
+    ]
+}

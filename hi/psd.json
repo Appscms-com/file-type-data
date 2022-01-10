@@ -1,0 +1,129 @@
+{
+    "Format": "PSD",
+    "ShortName": "PSD",
+    "FullName": "Adobe Photoshop Document",
+    "Category": "रेखापुंज छवि फ़ाइलें",
+    "Pros": "फ़ोटोशॉप की विशेषताओं का अधिकतम लाभ उठाएं। आप तंग कनेक्टिविटी के लिए सीधे फ़ोटोशॉप फ़ाइल को इलस्ट्रेटर, इनडिज़ाइन और अन्य Adobe प्रोग्राम में आयात कर सकते हैं। सहेजी गई फ़ाइल को परत मोड में खोलें। यदि आपको चीजों को पारदर्शी रखने की आवश्यकता है, तो यह एक अच्छा उपकरण है।",
+    "Cons": "फाइल काफी बड़ी है। एडोब PSD प्रारूप का मालिक है। परिणामस्वरूप, यह अन्य ऐप्स द्वारा बड़े पैमाने पर उपयोग नहीं किया जाता है।",
+    "Createdby": "एडोब सिस्टम्स",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "PSD फ़ाइलों को सहेजने के लिए फ़ोटोशॉप का मूल फ़ाइल स्वरूप है। इसे PDD के नाम से भी जाना जाता है। PSD, जिसे अक्सर PDD के रूप में जाना जाता है, आमतौर पर उपयोग की जाने वाली फ़ाइल प्रकार है। PSD के सभी छवि मोड (बिटमैप, स्केल, Duotone, अनुक्रमित रंग, आरजीबी, सीएमवाइके, लैब, और मल्टीचैनल) के साथ संगत है। यह Adobe Photoshop द्वारा बनाई गई एक तस्वीर फ़ाइल है, जो एक पेशेवर छवि-संपादन उपकरण है जिसका उपयोग आमतौर पर डिजिटल फ़ोटो को बेहतर बनाने और वेब ग्राफिक्स बनाने के लिए किया जाता है।",
+    "DetailedInformation": "इमेज लेयर्स, एडजस्टमेंट लेयर्स, लेयर मास्क, एनोटेशन, फ़ाइल जानकारी, कीवर्ड और अन्य फ़ोटोशॉप-विशिष्ट घटक सभी PSD फ़ाइलों में पाए जा सकते हैं। वे अक्सर ग्राफिक डिजाइनरों द्वारा बनाए और साझा किए जाते हैं। PSD फ़ाइलों को विभिन्न प्रकार के फ़ोटोशॉप टूल के साथ खोला जा सकता है और अपलोड करने, भेजने और सहेजने के लिए अन्य छवि प्रारूपों (जैसे पीएनजी, जेपीईजी, और जीआईएफ) में चपटा किया जा सकता है। सभी परतें PSD से दूसरी फ़ाइल में परिवर्तित होने के बाद एक परत में विलय हो जाती हैं प्रकार। PSD फ़ाइल एक्सटेंशन के साथ सहेजे जाने पर परतें संग्रहीत, सुलभ और संपादन योग्य होती हैं। इन फ़ाइलों का उपयोग अक्सर अंतिम छवि उत्पादन और वितरण के बजाय कार्य-प्रगति दस्तावेज़ों के रूप में किया जाता है। PSD परतों, साथ ही फोटो, आकार, पाठ और प्रभाव जैसे अन्य तत्वों को संशोधित किया जा सकता है। RGB, CMYK, ग्रेस्केल, मोनोक्रोम, डुओटोन, इंडेक्स्ड कलर, लैब कलर और मल्टीचैनल कलर मोड सभी PSD फॉर्मेट द्वारा समर्थित हैं। PSD फ़ाइल एक्सटेंशन के साथ फ़ोटोशॉप फाइलें एडोब फोटोशॉप उत्पादों में कई संपादन विकल्पों की अनुमति देते हुए छवियों को पकड़ती हैं। मास्क, ट्रांसपेरेंसी, डुओटोन सेटिंग्स, ग्रेडिएंट, कलर बैलेंसिंग, मिक्सिंग और क्लिपिंग पाथ कुछ ही एडिटिंग टूल्स उपलब्ध हैं।",
+    "Softwaresused": [
+        {
+            "platform": "लिनक्स",
+            "softwares": [
+                {
+                    "name": "जिम्प",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "मुफ़्त "
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "फ़ाइल व्यूअर प्लस - इसे Microsoft से प्राप्त करें",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "एडोब फोटोशॉप 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "एडोब इलस्ट्रेटर 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "जिम्प",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg"
+                },
+                {
+                    "name": "कोरलड्रा ग्राफिक्स सुइट 2021",
+                    "link": "https://www.coreldraw.com/en/product/coreldraw/purchase.html?AID=10816204&PID=3081440&cjevent=51885051cce111eb80d1d3470a180510&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&x-vehicle=cj",
+                    "image": "/assets/fileimg/cfwD39J.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                }
+            ]
+        },
+        {
+            "platform": "मैक",
+            "softwares": [
+                {
+                    "name": "Apple प्रीव्यू",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "एडोब इलस्ट्रेटर 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "एडोब फोटोशॉप 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "जिम्प",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "मुफ़्त "
+                },
+                {
+                    "name": "पिक्सेलमेटर",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id407963104?ign-mpt=uo%3D4&mt=12",
+                    "image": "/assets/fileimg/0RX6D8V.jpeg",
+                    "type": "अदा"
+                }
+            ]
+        },
+        {
+            "platform": "आईओएस",
+            "softwares": [
+                {
+                    "name": "पिक्सेलमेटर 2",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/HmizpGb.jpeg",
+                    "type": "अदा"
+                },
+                {
+                    "name": "एडोब फोटोशॉप ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "फ़्रीमियम"
+                }
+            ]
+        },
+        {
+            "platform": "एंड्रॉयड",
+            "softwares": [
+                {
+                    "name": "Android के लिए फ़ाइल व्यूअर",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "एडोब फोटोशॉप एक्सप्रेस",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "फ़्रीमियम"
+                }
+            ]
+        }
+    ]
+}

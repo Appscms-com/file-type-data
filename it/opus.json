@@ -1,0 +1,88 @@
+{
+    "Format": "OPUS",
+    "ShortName": "OPUS",
+    "FullName": "Opus Audio File",
+    "Category": "File audio",
+    "Pros": "Consente una trasmissione più rapida dei dati tramite diversi canali. I test sulla qualità del suono rivelano che ripristina il suono originale in modo più efficiente a vari bitrate e frequenze di campionamento. Garantisce prestazioni costanti in una varietà di situazioni. Una struttura orientata al futuro per numerosi servizi di telecomunicazione. Adattabile al tipo di informazione sonora. Può compensare parzialmente le perdite di qualità durante la trasmissione, consentendo un trasferimento continuo dei dati in tempo reale senza interruzioni. ",
+    "Cons": "Non supportato da più applicazioni. I codec Opus sono rari.",
+    "Createdby": "Xiph.Org ",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "2012",
+    "BasicInformation": "Opus è un nuovo codec prodotto da un team di esperti della Xiph.Org Foundation (Mozilla Corporation) e Skype Technologies S.A. (Microsoft). Ha tutti i vantaggi dell'MP3 riducendo al minimo i suoi difetti. Opus combina i codec CELT e SILK.",
+    "DetailedInformation": "Un file OPUS è un file audio con perdita creato nel formato Opus (a volte noto come «Ogg Opus»), progettato per lo streaming su Internet. Supporta velocità in bit variabili da 6 kb/s a 510 kb/s e impiega sia i codec SILK (usato da Skype) che CELT (da Xiph.Org). Voice over IP (VoIP), videoconferenze e chat in-game utilizzano tutti il codec Opus. L'IETF ha definito il formato Opus, che è ampiamente utilizzato. L'IETF ha standardizzato il formato Opus, che è mantenuto da Xiph.Org. Poiché il codec Opus viene utilizzato principalmente per lo streaming, i file con estensione.opus sono rari.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Lettore multimediale VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratuito"
+                }
+            ]
+        },
+        {
+            "platform": "finestre",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Scaricalo da Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Lettore multimediale VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratuito"
+                },
+                {
+                    "name": "MIRINO",
+                    "link": "http://www.aimp2.us/",
+                    "image": "/assets/fileimg/sOBpiyF.jpeg",
+                    "type": "Gratuito"
+                },
+                {
+                    "name": "Foobar 2000",
+                    "link": "https://www.foobar2000.org/",
+                    "image": "/assets/fileimg/c2PuNRk.jpeg"
+                },
+                {
+                    "name": "Strumenti Opus",
+                    "link": "https://www.opus-codec.org/downloads/",
+                    "image": "/assets/fileimg/7xNWYRA.jpeg",
+                    "type": "Gratuito"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Lettore multimediale VideoLAN VLC",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratuito"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Visualizzatore di file per Android",
+                    "link": "",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Lettore Opus",
+                    "link": "https://play.google.com/store/apps/details?id=com.littlepako.opusplayer3&hl=en_US&gl=US",
+                    "image": "/assets/fileimg/irCSU4s.jpeg",
+                    "type": "Gratuito"
+                }
+            ]
+        }
+    ]
+}

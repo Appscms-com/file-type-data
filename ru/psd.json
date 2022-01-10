@@ -1,0 +1,129 @@
+{
+    "Format": "PSD",
+    "ShortName": "PSD",
+    "FullName": "Adobe Photoshop Document",
+    "Category": "Файлы растровых изображений",
+    "Pros": "Используйте все возможности Photoshop по максимуму. Благодаря тесным возможностям подключения файл Photoshop можно напрямую импортировать в Illustrator, InDesign и другие программы Adobe. Откройте сохраненный файл в режиме слоев. Если вам нужно, чтобы все было прозрачно, это хороший инструмент.",
+    "Cons": "Файл довольно большой. Adobe владеет форматом PSD. В результате он не широко используется другими приложениями.",
+    "Createdby": "Адоб Системс",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "PSD — это собственный формат файлов Photoshop для сохранения файлов. Он также известен как PDD. PSD, часто известный как PDD, является широко используемым типом файлов. PSD совместим со всеми режимами изображения (растровое изображение, оттенки серого, двухцветный, индексированный цвет, RGB, CMYK, лабораторный и многоканальный). Это файл изображения, созданный Adobe Photoshop, профессиональным инструментом для редактирования изображений, который обычно используется для улучшения цифровых фотографий и создания веб-графики.",
+    "DetailedInformation": "Слои изображений, корректирующие слои, маски слоев, аннотации, информацию о файлах, ключевые слова и другие компоненты, специфичные для Photoshop, можно найти в файлах PSD. Они часто создаются и распространяются графическими дизайнерами. Файлы PSD можно открывать с помощью различных инструментов Photoshop и преобразовывать их в другие форматы изображений (например, PNG, JPEG и GIF) для загрузки, отправки и сохранения. Все слои объединены в один слой после преобразования из PSD в другой тип файла. Слои сохраняются, доступны и редактируются при сохранении с расширением файла PSD. Эти файлы часто используются в качестве незавершенных документов, а не для производства и доставки окончательных изображений. Слои PSD, а также другие элементы, такие как фотографии, фигуры, текст и эффекты, можно изменять. Формат PSD поддерживает режимы RGB, CMYK, оттенки серого, монохромный, двухцветный, индексированный цвет, цветовой режим Lab и многоканальный цветовой режим. Файлы Photoshop с расширением PSD-файла содержат изображения, обеспечивая при этом множество опций редактирования в продуктах Adobe Photoshop. Маски, прозрачность, настройки дуотонов, градиенты, балансировка цвета, смешивание и обрезка — это лишь некоторые из доступных инструментов редактирования.",
+    "Softwaresused": [
+        {
+            "platform": "Линукс",
+            "softwares": [
+                {
+                    "name": "КАНИТЕЛЬ",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Бесплатный "
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Просмотрщик файлов Plus — получите его от корпорации Майкрософт",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Фримиум"
+                },
+                {
+                    "name": "Адоб Фотошоп",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Бесплатная пробная версия"
+                },
+                {
+                    "name": "Адобе Иллюстратор 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Бесплатная пробная версия"
+                },
+                {
+                    "name": "КАНИТЕЛЬ",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg"
+                },
+                {
+                    "name": "Графический пакет CorelDRAW 2021",
+                    "link": "https://www.coreldraw.com/en/product/coreldraw/purchase.html?AID=10816204&PID=3081440&cjevent=51885051cce111eb80d1d3470a180510&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&x-vehicle=cj",
+                    "image": "/assets/fileimg/cfwD39J.jpeg",
+                    "type": "Бесплатная пробная версия"
+                }
+            ]
+        },
+        {
+            "platform": "Мак",
+            "softwares": [
+                {
+                    "name": "Предварительный просмотр Apple",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Бесплатно, в комплекте с ОС"
+                },
+                {
+                    "name": "Адобе Иллюстратор 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Бесплатная пробная версия"
+                },
+                {
+                    "name": "Адоб Фотошоп",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Бесплатная пробная версия"
+                },
+                {
+                    "name": "КАНИТЕЛЬ",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Бесплатный "
+                },
+                {
+                    "name": "Пиксельматор",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id407963104?ign-mpt=uo%3D4&mt=12",
+                    "image": "/assets/fileimg/0RX6D8V.jpeg",
+                    "type": "Оплаченный"
+                }
+            ]
+        },
+        {
+            "platform": "IOS",
+            "softwares": [
+                {
+                    "name": "Пиксельматор 2",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/HmizpGb.jpeg",
+                    "type": "Оплаченный"
+                },
+                {
+                    "name": "Adobe Фотошо ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "Фримиум"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Просмотрщик файлов для Android",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Фримиум"
+                },
+                {
+                    "name": "Adobe Фотошоп",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Фримиум"
+                }
+            ]
+        }
+    ]
+}

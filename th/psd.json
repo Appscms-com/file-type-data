@@ -1,0 +1,129 @@
+{
+    "Format": "PSD",
+    "ShortName": "PSD",
+    "FullName": "Adobe Photoshop Document",
+    "Category": "ไฟล์รูปภาพแบบแรสเตอร์",
+    "Pros": "ใช้ประโยชน์สูงสุดของคุณสมบัติของ Photoshopคุณสามารถนำเข้าไฟล์ Photoshop ไปยัง Illustrator, InDesign และโปรแกรม Adobe อื่นๆ ได้โดยตรงด้วยการเชื่อมต่อที่รัดกุมเปิดไฟล์ที่บันทึกไว้ในโหมดเลเยอร์ถ้าคุณต้องการเก็บสิ่งที่โปร่งใส, นี้เป็นเครื่องมือที่ดีที่จะมี.",
+    "Cons": "ไฟล์มีขนาดค่อนข้างใหญ่Adobe เป็นเจ้าของรูปแบบ PSDด้วยเหตุนี้แอปอื่นจึงไม่ได้ใช้งานอย่างกว้างขวาง",
+    "Createdby": "Adobe ซิสเต็มส์",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "PSD เป็นรูปแบบไฟล์ดั้งเดิมของ Photoshop สำหรับการบันทึกไฟล์มันเป็นที่รู้จักกันในชื่อ PDDPSD หรือที่มักเรียกว่า PDD เป็นประเภทไฟล์ที่ใช้กันทั่วไปPSD เข้ากันได้กับโหมดภาพทั้งหมด (บิตแมป, สีเทา, Duotone, Indexed Color, RGB, CMYK, Lab และ Multichannel)เป็นไฟล์รูปภาพที่ทำโดย Adobe Photoshop ซึ่งเป็นเครื่องมือแก้ไขภาพระดับมืออาชีพซึ่งมักใช้ในการปรับปรุงภาพถ่ายดิจิทัลและสร้างเว็บกราฟิก",
+    "DetailedInformation": "เลเยอร์ภาพเลเยอร์การปรับแต่งมาสก์เลเยอร์คำอธิบายประกอบข้อมูลไฟล์คำหลักและส่วนประกอบเฉพาะอื่น ๆ ของ Photoshop สามารถพบได้ในไฟล์ PSDพวกเขาจะทำบ่อยและใช้ร่วมกันโดยนักออกแบบกราฟิกไฟล์ PSD สามารถเปิดได้ด้วยเครื่องมือ Photoshop ที่หลากหลายและแบนเป็นรูปแบบภาพอื่น ๆ (เช่น PNG, JPEG และ GIF) สำหรับการอัพโหลด ส่ง และบันทึกเลเยอร์ทั้งหมดรวมเป็นเลเยอร์เดียวหลังจากแปลงจาก PSD เป็นไฟล์ประเภทอื่นเลเยอร์จะถูกจัดเก็บสามารถเข้าถึงและแก้ไขได้เมื่อบันทึกด้วยนามสกุลไฟล์ PSDแฟ้มเหล่านี้มักถูกใช้เป็นเอกสารที่ทำงานในความคืบหน้า มากกว่าสำหรับการผลิตภาพขั้นสุดท้ายและการจัดส่งเลเยอร์ PSD รวมถึงองค์ประกอบอื่น ๆ เช่นภาพถ่ายรูปร่างข้อความและเอฟเฟ็กต์สามารถแก้ไขได้RGB, CMYK, สีเทา, ขาวดำ, ดูโอโทน, สีที่จัดทำดัชนีไว้, สีแล็บ และโหมดสีหลายช่องได้รับการสนับสนุนโดยรูปแบบ PSDไฟล์ Photoshop ที่มีนามสกุลไฟล์ PSD ถือภาพในขณะที่อนุญาตให้มีตัวเลือกการแก้ไขมากมายทั่วทั้งผลิตภัณฑ์ Adobe Photoshopมาสก์ ความโปร่งใส การตั้งค่าดูโอโทน การไล่ระดับสี การปรับสมดุลสี การผสม และเส้นทางการตัดภาพเป็นเพียงเครื่องมือแก้ไขบางส่วนที่มีให้ใช้งาน",
+    "Softwaresused": [
+        {
+            "platform": "ลินุกซ์",
+            "softwares": [
+                {
+                    "name": "กิมป์",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "ฟรี "
+                }
+            ]
+        },
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์พลัส — รับได้จากไมโครซอฟท์",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "อะโดบี โฟโตช็อป 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "อะโดบี วาดภาพประกอบ 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "กิมป์",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg"
+                },
+                {
+                    "name": "ชุดกราฟิก CorelDRAW 2021",
+                    "link": "https://www.coreldraw.com/en/product/coreldraw/purchase.html?AID=10816204&PID=3081440&cjevent=51885051cce111eb80d1d3470a180510&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&x-vehicle=cj",
+                    "image": "/assets/fileimg/cfwD39J.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "ตัวอย่างแอปเปิ้ล",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "อะโดบี วาดภาพประกอบ 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "อะโดบี โฟโตช็อป 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "กิมป์",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "ฟรี "
+                },
+                {
+                    "name": "พิกเซลมาเตอร์",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id407963104?ign-mpt=uo%3D4&mt=12",
+                    "image": "/assets/fileimg/0RX6D8V.jpeg",
+                    "type": "จ่ายแล้ว"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "พิกเซลมาเตอร์ 2",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/HmizpGb.jpeg",
+                    "type": "จ่ายแล้ว"
+                },
+                {
+                    "name": "อะโดบี โฟโตช็อ ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "ฟรีเมียม"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์สำหรับ Android",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "อะโดบี โฟโต้ช็อป",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "ฟรีเมียม"
+                }
+            ]
+        }
+    ]
+}

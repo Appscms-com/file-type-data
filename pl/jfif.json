@@ -1,0 +1,95 @@
+{
+    "Format": "JFIF",
+    "ShortName": "JFIF",
+    "FullName": "JPEG File Interchange Format",
+    "Category": "Pliki obrazów rastrowych",
+    "Pros": "Bardzo popularny format. Kompresja na wysokim, kontrolowanym poziomie, w wyniku niewielkiego rozmiaru pliku. Format jest kompatybilny i wyświetla się poprawnie we wszystkich przeglądarkach, tekstach i programach graficznych, na wszystkich komputerach, tabletach i urządzeniach mobilnych. Obsługuje pełnokolorowe realistyczne obrazy z dużą ilością przejść kolorów i kontrastu. Wysoka jakość obrazu z niewielkim stopniem spójności.",
+    "Cons": "Podczas kompresowania obrazu może on „rozpaść się” na poszczególne kwadraty - bloki 808 pikseli. Dzieje się tak, ponieważ algorytm kompresji analizuje sąsiednie piksele. Płynny kolor — przejścia mogą stać się trudne lub po prostu zniknąć. JPEG jest mniej odpowiedni do pracy z tekstem lub grafiką monochromatyczną z wyraźnymi granicami. Ten format nie obsługuje przezroczystości, nawet jeśli jest to wymagane podczas tworzenia szablonów, logo i przycisków. Jakość obrazu maleje z każdym kolejnym etapem kompresji.",
+    "Createdby": "C-Cube Microsystems i Wspólna Grupa Ekspertów Fotograficznych",
+    "CreatedbyLink": "https://jpeg.org/",
+    "CreatedInYear": "2011",
+    "BasicInformation": "Plik JFIF jest grafiką bitmapową skompresowaną za pomocą JPEG. Jest zachowany z wariantem standardu. Format pliku JPEG został stworzony z myślą o przechowywaniu niewielkiej ilości danych i umożliwieniu łatwego przesyłania między platformami i aplikacjami. Format wymiany plików JPEG jest skrótem formatu wymiany plików JPEG.",
+    "DetailedInformation": "Format JFIF określa wiele cech, których brakowało w oryginalnym formacie JPEG. Użytkownicy mogli zapisywać i udostępniać pliki za pomocą kompresji JPEG po zdefiniowaniu tych cech, które obejmowały standardowy nagłówek, rozdzielczość i proporcje oraz model kolorów. Wiele aparatów cyfrowych używanych do zapisywania obrazów w formacie JFIF. Jednak w miarę poprawy formatu JPEG w miarę upływu czasu standard JFIF stał się w dużej mierze przestarzały.",
+    "Softwaresused": [
+        {
+            "platform": "Okna",
+            "softwares": [
+                {
+                    "name": "Zdjęcia firmy Microsoft",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Bezpłatny, dołączony do systemu operacyjnego"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg"
+                },
+                {
+                    "name": "Systemy ACD ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "Bezpłatne wersje próbne"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Podgląd Apple",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Bezpłatny, dołączony do systemu operacyjnego"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Darmowy"
+                },
+                {
+                    "name": "Systemy ACD ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "Bezpłatne wersje próbne"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Darmowy"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Format": "ACC",
+    "ShortName": "ACC",
+    "FullName": "Graphics Accounts Data File",
+    "Category": "ملفات البيانات",
+    "Pros": "n/a",
+    "Cons": "n/a",
+    "Createdby": "برنامج FKJ",
+    "CreatedbyLink": "https://download.cnet.com/developer/fkj-software/i-6201467/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "ملف ACC هو تنسيق ملف بيانات حساب الرسومات. بالنسبة للحسابات الرسومية، يحتوي هذا الملف على معلومات الحساب المالي. إنها أداة تساعدك على إنشاء الميزانيات الشخصية وإدارتها. يمكن أن تحتوي على معلومات من حساب مصرفي واحد أو أكثر.",
+    "DetailedInformation": "تحتوي ملفات ACC على بيانات الحساب المالي لحسابات الرسومات. يمكن فتحها بالتزامن مع ملف الميزانية (.BGT).",
+    "Softwaresused": [
+        {
+            "platform": "شبابيك",
+            "softwares": [
+                {
+                    "name": "حسابات الرسوم البيانية لبرنامج FKJ",
+                    "link": "https://download.cnet.com/developer/fkj-software/i-6201467/",
+                    "image": "https://image.flaticon.com/icons/png/512/1063/1063308.png",
+                    "type": "مجاني"
+                }
+            ]
+        }
+    ]
+}

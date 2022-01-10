@@ -1,0 +1,170 @@
+{
+    "Format": "CR2",
+    "ShortName": "CR2",
+    "FullName": "Canon Raw Image File",
+    "Category": "कैमरा रॉ फाइल्स",
+    "Pros": "असाधारण गुणवत्ता की तस्वीर। छवि प्रारूप जो आमतौर पर उपयोग किया जाता है। मौलिकता को बनाए रखा गया था। ब्रैंड का नाम और फ़ाइल फ़ॉर्मेट जिस पर आप भरोसा कर सकते हैं।",
+    "Cons": "बड़े फ़ाइल आकार जिन्हें संपादित करना मुश्किल है। स्टोरेज शेयरिंग के बारे में चिंताएं एक मुश्किल काम है।",
+    "Createdby": "कैनन",
+    "CreatedbyLink": "https://in.canon/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "विभिन्न कैनन डिजिटल कैमरों द्वारा बनाई गई एक कच्ची कैमरा छवि को CR2 फ़ाइल के रूप में जाना जाता है। यह असम्पीडित चित्र डेटा को सीसीडी के समान प्रारूप में सहेजता है। CR2 फ़ाइलों का उपयोग आमतौर पर पेशेवर फ़ोटोग्राफ़रों द्वारा किया जाता है क्योंकि वे उच्च-गुणवत्ता वाली फ़ोटो संग्रहीत करते हैं।",
+    "DetailedInformation": "कैनन रॉ संस्करण 2 प्रारूप, जो टीआईएफएफ विनिर्देश पर आधारित है, का उपयोग सीआर 2 फ़ाइलों को सहेजने के लिए किया जाता है। CR2 तस्वीरें विभिन्न प्रकार के कैनन डिजिटल कैमरा प्रकारों द्वारा बनाई जा सकती हैं, जिनमें EOS 1D मार्क IV, EOS 450D और EOS विद्रोही T3 शामिल हैं। यह सेंसर से स्टोरेज डिवाइस पर सीधे डेटा ट्रांसफर करता है। इसे उसी तरह से नहीं देखा जा सकता है जैसे JPG या PNG कर सकता है। जब तस्वीरों को रॉ प्रारूप में सहेजा जाता है, तो उन्हें न्यूनतम गुणवत्ता हानि के साथ पोस्ट-प्रोडक्शन में काफी अधिक विस्तार से हेरफेर किया जा सकता है। JPG या अन्य छवि स्वरूपों का उपयोग करते समय, गुणवत्ता काफी कम हो जाती है। CR2 छवियां अभी तक मुद्रण के लिए तैयार नहीं हैं, और उन्हें बिटमैप संपादक के साथ संशोधित नहीं किया जा सकता है। कच्ची तस्वीरें डिजिटल रूप में फिल्म नकारात्मक के अनुरूप हैं।",
+    "Softwaresused": [
+        {
+            "platform": "लिनक्स",
+            "softwares": [
+                {
+                    "name": "जिम्प",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "मुफ़्त "
+                },
+                {
+                    "name": "फोटो 2",
+                    "link": "https://gphoto.sourceforge.io/",
+                    "image": "https://image.flaticon.com/icons/png/512/1063/1063308.png",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "अंगूठा",
+                    "link": "https://wiki.gnome.org/Apps/Gthumb",
+                    "image": "/assets/fileimg/lWFl5mc.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "एट्रिल दस्तावेज़ व्यूअर के साथ मेट",
+                    "link": "https://mate-desktop.org/",
+                    "image": "/assets/fileimg/p64BUbi.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "फ़ाइल व्यूअर प्लस - इसे Microsoft से प्राप्त करें",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट फोटोज",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "एडोब फोटोशॉप 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "जिम्प",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg"
+                },
+                {
+                    "name": "फास्टस्टोन इमेज व्यूअर",
+                    "link": "https://www.faststone.org/FSViewerDetail.htm",
+                    "image": "/assets/fileimg/6z9n45v.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "मैक",
+            "softwares": [
+                {
+                    "name": "Apple प्रीव्यू",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "Apple फोटो",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "एडोब फोटोशॉप 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "जिम्प",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "मुफ़्त "
+                },
+                {
+                    "name": "स्नैप कन्वर्टर",
+                    "link": "https://snapconverter.com/",
+                    "image": "/assets/fileimg/EuFgmVh.jpeg",
+                    "type": "अदा"
+                }
+            ]
+        },
+        {
+            "platform": "आईओएस",
+            "softwares": [
+                {
+                    "name": "Apple फोटो",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "एडोब फोटोशॉप ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "गूगल फोटोज",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "मुफ़्त  "
+                }
+            ]
+        },
+        {
+            "platform": "एंड्रॉयड",
+            "softwares": [
+                {
+                    "name": "Android के लिए फ़ाइल व्यूअर",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "एडोब फोटोशॉप एक्सप्रेस",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "गूगल फोटोज",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "मुफ़्त  "
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "गूगल फोटोज",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "मुफ़्त  "
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "Format": "AVI",
+    "ShortName": "AVI",
+    "FullName": "Audio Video Interleave File",
+    "Category": "Berkas video",
+    "Pros": "Kesetiaan kualitas audio yang luar biasa sangat baik. Ada banyak codec yang dapat digunakan untuk mencapai rasio yang sesuai saat mengompresi file secara online. Karena diciptakan oleh Microsoft, dapat dimainkan pada semua sistem operasi Microsoft dan non-Microsoft utama. Tidak seperti format audio/video lainnya, standar DV-AVI dapat dikompresi. Ini tidak mengharuskan penggunaan perangkat keras atau perangkat lunak tertentu. Karena kemampuan mengompresi, format video AVI adalah yang paling sering digunakan untuk promo, film pendek, dan iklan. Untuk file master, kualitas dipertahankan dengan AVI bagus.",
+    "Cons": "Banyak orang menjadi frustrasi ketika mereka tidak dapat menemukan codec dari sumber yang aman dan terkemuka. Pengguna mungkin menemukan jeda dalam pengalaman mereka tidak diinginkan bahkan ketika sumber-sumber tersebut tersedia. Bila dibandingkan dengan format file lainnya, file AVI bisa sangat besar jika tidak dikompresi. Ketika Anda memampatkan file AVI secara online di atas batas tertentu, kualitas video akan menderita. Interaksi pengguna tidak didukung. Apakah ot mendukung softsubs.",
+    "Createdby": "Microsoft",
+    "CreatedbyLink": "https://developer.microsoft.com/en-us/",
+    "CreatedInYear": "1992",
+    "BasicInformation": "File AVI adalah file video yang tersimpan dalam format wadah multimedia Audio Video Interleave (AVI) yang dibuat oleh Microsoft. Ini memegang file video dan audio yang dikodekan dalam berbagai codec, termasuk DivX dan XviD. File AVI dapat diputar menggunakan berbagai pemutar video, termasuk Microsoft Movies & TV, Windows Media Player, dan Apple QuickTime Player, yang semuanya datang pra-instal dengan sistem operasi masing-masing.",
+    "DetailedInformation": "Format AVI didasarkan pada Resource Interchange File Format (RIFF), format kontainer untuk menyimpan multimedia yang pertama kali dirilis pada tahun 1991. Microsoft membuat format AVI setahun kemudian pada tahun 1992, dan masih banyak digunakan saat ini. Hal ini didukung oleh berbagai pemutar video, namun agar video dapat diputar dengan sukses, pemain harus mendukung codec yang digunakan untuk mengkodekan data video.Untuk mendukung pemutaran simultan, AVI menggabungkan audio dan video ke dalam satu file dalam wadah umum. Keuntungannya adalah arsitektur sederhana, yang memungkinkan untuk berfungsi pada berbagai sistem operasi, termasuk Windows, Mac, Linux, dan Unix, dan didukung oleh semua browser web utama.Ini dapat menyimpan video berkualitas tinggi dan audio dan menggunakan kompresi kurang dari format video lainnya like.MPEG and.MOV.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Pemutar Media VLC VideoLAN",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Xine",
+                    "link": "https://sourceforge.net/projects/xine/",
+                    "image": "/assets/fileimg/11To9CR.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Kodi",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Dapatkan dari Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft Windows Media Player",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                },
+                {
+                    "name": "Film dan TV Microsoft",
+                    "link": "https://www.microsoft.com/en-us/p/movies-tv/9wzdncrfj3p2?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/fVyIEs4.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                },
+                {
+                    "name": "Pemutar Media VLC VideoLAN",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "Kodi",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple QuickTime Pemain",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                },
+                {
+                    "name": "Pemutar Media VLC VideoLAN",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Kodi",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Adobe Premiere Pro 2020",
+                    "link": "https://www.adobe.com/products/premiere.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/RUVWLwB.jpeg",
+                    "type": "Uji coba gratis"
+                },
+                {
+                    "name": "Eltima Elmedia Pemain",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Videolan VLC untuk ponsel",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Dibayar"
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Google Drive",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Videolabs VLC untuk Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "BIT Labs Pemutar Video MP4 Sederhana",
+                    "link": "https://play.google.com/store/apps/details?id=air.br.com.bitlabs.VideoPlayer&hl=en",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

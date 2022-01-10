@@ -1,0 +1,153 @@
+{
+    "Format": "AAC",
+    "ShortName": "AAC",
+    "FullName": "Advanced Audio Coding File",
+    "Category": "Tập tin âm thanh",
+    "Pros": "Ngày nay, nhiều thiết bị nhận thức được AAC. Kích thước tệp được mã hóa ít hơn. Mục tiêu tiêu chuẩn hóa đã được đáp ứng. Chất lượng âm thanh vượt trội so với MP3. Sản phẩm có sẵn rộng rãi. Streaming Bandwidth là giới hạn. Khả năng tương thích với một loạt các thiết bị. Một loạt các tùy chọn mã hóa có sẵn.",
+    "Cons": "Phải mất một thời gian dài để mã hóa. Trong quá trình mã hóa, CPU được sử dụng nhiều. Trong quá trình giải mã, việc sử dụng CPU cao hơn một chút. Tổ chức tệp đã trở nên phức tạp hơn. Mặc dù nó ít hơn, nó vẫn là một kẻ thua cuộc. Hỗ trợ phần cứng bị hạn chế. Gắn thẻ tệp không phải lúc nào cũng tương thích. Nó có thể là quá đắt để mã hóa AAC từ Lossless Original Files. MP3 vẫn được coi là “tiêu chuẩn” hơn AAC.",
+    "Createdby": "Nhóm chuyên gia hình ảnh di chuyển",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "1997",
+    "BasicInformation": "Đối với mã hóa âm thanh ở tốc độ bit trung bình đến cao, AAC (Advanced Audio Coding) là sự kế thừa logic cho MP3 (ISO/MPEG Audio Layer-3) (ISO/MPEG Audio Layer-3). Định dạng âm thanh nén này có thể so sánh với tệp MP3, tuy nhiên nó có một vài lợi thế về hiệu suất. Hiệu quả mã hóa cao hơn cho cả tín hiệu ổn định và thoáng qua, ngân hàng bộ lọc nhỏ hơn và cải thiện khả năng xử lý tần số vượt quá 16 kHz chỉ là một vài ví dụ.",
+    "DetailedInformation": "Apple iTunes và iTunes Music Store sử dụng Mã hóa âm thanh nâng cao (AAC) làm mã hóa mặc định. Khái niệm của thuật toán AAC là sử dụng hai sơ đồ mã hóa cơ bản để giảm thiểu đáng kể lượng dữ liệu cần thiết để truyền âm thanh kỹ thuật số chất lượng cao. Các tệp AAC có nhiều tần số mẫu hơn các tệp MP3, cũng như lên đến 48 kênh, hiệu quả mã hóa và lọc ngân hàng vượt trội và độ chính xác mã hóa tín hiệu thoáng qua tốt hơn. Các tệp AAC, như tệp MP3, loại bỏ tần số âm thanh mà tai người không thể xử lý, dẫn đến các tệp nhỏ hơn, dễ quản lý hơn. Các tệp AAC ít hơn đáng kể so với tệp MP3 về dung lượng tệp.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Clementine",
+                    "link": "https://www.clementine-player.org/about",
+                    "image": "/assets/fileimg/F87GDJM.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "XMMS",
+                    "link": "http://www.xmms.org/",
+                    "image": "/assets/fileimg/hodO9zz.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "các cửa sổ",
+            "softwares": [
+                {
+                    "name": "Trình xem tệp Plus - Tải nó từ Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Adobe Audition 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Dùng thử miễn phí"
+                },
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple iTunes",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Adobe Audition 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Dùng thử miễn phí"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Roxio Bánh mì nướng 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "Trả tiền"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Trả tiền"
+                },
+                {
+                    "name": "RealNetworks RealTimes: Trình tạo video",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Trình xem tệp dành cho Android",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Videolabs VLC dành cho Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "RealNetworks RealTimes: Trình tạo video",
+                    "link": "https://play.google.com/store/apps/details?id=com.real.RealPlayerCloud",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

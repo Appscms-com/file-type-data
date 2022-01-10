@@ -1,0 +1,95 @@
+{
+    "Format": "JFIF",
+    "ShortName": "JFIF",
+    "FullName": "JPEG File Interchange Format",
+    "Category": "File Gambar Raster",
+    "Pros": "Format yang sangat populer. Kompresi pada tingkat tinggi yang terkontrol menghasilkan ukuran file kecil. format kompatibel dan menampilkan dengan benar di semua browser, teks, dan program grafis, pada semua komputer, tablet, dan perangkat mobile. Mendukung gambar realistis penuh warna dengan banyak transisi warna dan kontras. Kualitas gambar tinggi dengan tingkat koherensi yang kecil.",
+    "Cons": "Saat Anda memampatkan gambar, mungkin “berantakan” ke dalam kotak individu - blok 808 piksel. Hal ini terjadi karena algoritma kompresi menganalisis piksel tetangga. warna halus - transisi dapat menjadi keras atau hanya lenyap. JPEG kurang cocok untuk bekerja dengan teks atau grafik monokrom dengan batas yang jelas. Format ini tidak mendukung transparansi meskipun diperlukan saat membuat template, logo, dan tombol. Kualitas gambar menurun dengan setiap langkah kompresi berikutnya.",
+    "Createdby": "C-cube Microsystems dan Joint Photographic Experts Group",
+    "CreatedbyLink": "https://jpeg.org/",
+    "CreatedInYear": "2011",
+    "BasicInformation": "File JFIF adalah grafis bitmap yang dikompresi dengan JPEG. Ini diawetkan dengan varian standar. Format file JPEG dibuat dengan tujuan menyimpan sedikit jumlah data dan memungkinkan transfer mudah antara platform dan aplikasi. JPEG File Interchange Format adalah akronim untuk JPEG File Interchange Format.",
+    "DetailedInformation": "Format JFIF menentukan banyak karakteristik yang hilang dari format JPEG asli. Pengguna dapat menyimpan dan berbagi file menggunakan kompresi JPEG setelah mendefinisikan karakteristik ini, yang termasuk header standar, resolusi dan rasio aspek, dan model warna. Banyak kamera digital digunakan untuk menyimpan gambar dalam format JFIF. Namun, karena format JPEG meningkat dari waktu ke waktu, standar JFIF menjadi sebagian besar usang.",
+    "Softwaresused": [
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Foto Microsoft",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg"
+                },
+                {
+                    "name": "ACD Sistem ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "Uji coba gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Pratinjau Apel",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Gratis, disertakan dengan OS"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "ACD Sistem ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "Uji coba gratis"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        }
+    ]
+}

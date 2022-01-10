@@ -1,0 +1,188 @@
+{
+    "Format": "MP3",
+    "ShortName": "MP3",
+    "FullName": "MPEG-1 Audio Layer III or MPEG-2 Audio Layer III",
+    "Category": "แฟ้มเสียง",
+    "Pros": "ได้รับการยอมรับอย่างกว้างขวางโดยทั้งหมดจวนเครื่องเล่นเสียงฮาร์ดแวร์และแกดเจ็ตทั้งหมดสนับสนุนมันอัตราการบีบอัดที่สูงมากที่นำเสนอสามารถถอดรหัสได้อย่างรวดเร็วสวยและในลักษณะที่ซับซ้อนมากขึ้นมาตรฐาน ISO ที่เป็นส่วนหนึ่งของข้อกำหนด MPEGทุกคนสามารถใส่รุ่นของตัวเองพร้อมกับแหล่งสาธิตที่มีอยู่.ข้อกำหนดการออกใบอนุญาตจะผ่อนคลาย.จะให้การสนับสนุนไฟล์หลายช่อง ",
+    "Cons": "ประสิทธิภาพและประสิทธิภาพต่ำกว่าตัวแปลงสัญญาณปัจจุบันบิตเรตสูงสุด (320kbps) ไม่พอเสมอไป ยังไม่มีการใช้งานแบบหลายช่องให้ใช้งานเข้ากันไม่ได้กับเสียงความละเอียดสูง (อัตราการสุ่มตัวอย่างสูงกว่า 48kHz)ทำให้เกิดการละเมิดลิขสิทธิ์เพลงเพิ่มขึ้นเนื่องจากความพร้อมใช้งานมากขึ้นและใช้งานง่าย",
+    "Createdby": "กลุ่มผู้เชี่ยวชาญด้านภาพเคลื่อนไหว",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "1987",
+    "BasicInformation": "ฟอร์แมทไฟล์ MP3 เป็นไฟล์เสียงที่ถูกบีบอัดซึ่งใช้การบีบอัดเสียง “Layer 3\"มันถูกผลิตโดยกลุ่มผู้เชี่ยวชาญด้านภาพเคลื่อนไหว (MPEG) (MP3)การบันทึกเสียง พอดคาสต์ ซาวด์แทร็ค เทศนา หนังสือเสียง การบรรยาย ฯลฯ ทั้งหมดจะถูกจัดเก็บไว้อย่างกว้างขวางเป็นไฟล์ MP3",
+    "DetailedInformation": "MPEG เปิดตัวรูปแบบ MP3 ในปี 1993 หลังจากพัฒนามันในช่วงต้นทศวรรษ 1990มันสามารถรวมเสียงเป็นเศษส่วนของขนาดของชนิดแฟ้มเสียงทั่วไปอื่น ๆ ในเวลานั้น (ประมาณ 1/10 ขนาดของแฟ้ม uncompressed.WAV or.AIF)ดังนั้นรูปแบบนี้จึงกลายเป็นมาตรฐานสำหรับการจัดเก็บเพลงและเพิ่มขึ้นเหนือสิ่งอื่นที่มีอยู่ในเวลานั้นคอมพิวเตอร์ให้พื้นที่เก็บข้อมูลน้อยมากดังนั้น deveopment ของรูปแบบ MP3 เป็นเหตุการณ์ที่สำคัญมากปัจจุบัน MP3 เป็นรูปแบบไฟล์เสียงที่ใช้มากที่สุดขนาดไฟล์ของไฟล์มัลติมีเดียสามารถลดลงอย่างมากด้วยการบีบอัด MPEG โดยมีการสูญเสียคุณภาพที่ตรวจพบได้น้อยที่สุดนี้จะช่วยเพิ่มประสิทธิภาพของการถ่ายโอนไฟล์ผ่านทางอินเทอร์เน็ตในช่วงทศวรรษที่ 1990 และ 2000 เทคโนโลยี MP3 ปฏิวัติแนวคิดการสตรีมเพลงที่บันทึกไว้ โดยช่วยให้ผู้คนสามารถดาวน์โหลดเพลงจากอินเทอร์เน็ตได้ง่ายขึ้นและรวดเร็วยิ่งขึ้น",
+    "Softwaresused": [
+        {
+            "platform": "ลินุกซ์",
+            "softwares": [
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "XMMS",
+                    "link": "http://www.xmms.org/",
+                    "image": "/assets/fileimg/hodO9zz.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "แอมอะร็อก",
+                    "link": "https://amarok.kde.org/",
+                    "image": "/assets/fileimg/Dh0nFk6.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ความกล้าราว",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "คลีเมนไทน์",
+                    "link": "https://www.clementine-player.org/about",
+                    "image": "/assets/fileimg/F87GDJM.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "โปรแกรมเล่นสื่อ Windows ของ Microsoft",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "ความกล้าราว",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "โปรแกรมดูไฟล์พลัส — รับได้จากไมโครซอฟท์",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg"
+                },
+                {
+                    "name": "แอปเปิ้ลไอทูนส์",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "อะโดบี ออดิชั่น CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                },
+                {
+                    "name": "แอปเปิ้ลมิวสิก",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "ความกล้าราว",
+                    "link": "https://www.audacityteam.org/",
+                    "image": "/assets/fileimg/c5Zl0O1.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "ขนมปังปิ้งร็อกซิโอ",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/vyEg9wb.jpeg",
+                    "type": "จ่ายแล้ว"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "แอปเปิ้ลมิวสิก",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "เครื่องเล่นมีเดีย วีแอลซี วีแอลซี",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "โอลิมซอฟท์ โอเพลเยอร์",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "จ่ายแล้ว"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์สำหรับ Android",
+                    "link": "https://www.apple.com/apple-music/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "ตัวแปลงสื่อ antvplayer",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "กูเกิลไดรฟ์",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "ฟรีเมียม"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "กูเกิลไดรฟ์",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "โครเมียม โอเอส",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "กูเกิล โครม",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        }
+    ]
+}

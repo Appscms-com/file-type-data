@@ -1,0 +1,48 @@
+{
+    "Format": "VMV",
+    "ShortName": "VMV",
+    "FullName": "VisualBoyAdvance Recording",
+    "Category": "Tập tin trò chơi",
+    "Pros": "n/a",
+    "Cons": "n/a",
+    "Createdby": "VisualBoyAdvance",
+    "CreatedbyLink": "https://visualboyadvance.en.softonic.com/",
+    "CreatedInYear": "N/A",
+    "BasicInformation": "VisualBoyAdvance, một trình giả lập Gameboy Advance, đã tạo ra một bản ghi trò chơi lưu tổ hợp phím và các dữ liệu khác cho phép ghi lại trên trình giả lập. Bản ghi được lưu ở định dạng độc quyền mà trình phát video tiêu chuẩn không thể phát được.",
+    "DetailedInformation": "Định dạng VMV được VisualBoyAdvance sử dụng không tương thích với định dạng VMV được sử dụng bởi VirtuaNES.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VisualBoyAdvance",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "các cửa sổ",
+            "softwares": [
+                {
+                    "name": "VisualBoyAdvance",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "VisualBoyAdvance",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "Free"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Format": "DVD",
+    "ShortName": "DVD",
+    "FullName": "DOS Device Driver",
+    "Category": "File di sistema",
+    "Pros": "La capacità di archiviazione è enorme. La qualità del suono e dell'immagine sono entrambe ottime. Poiché sono prodotti in serie, sono piuttosto economici. I CD possono essere letti da unità DVD.",
+    "Cons": "I DVD non sono compatibili con le unità CD. Non esiste uno standard DVD singolo. Romperli o graffiarli è un modo semplice per rovinarli.",
+    "Createdby": "N/A",
+    "CreatedbyLink": "n/a",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "I file DVD vengono utilizzati come driver per dispositivi basati su MS-DOS. Questi file driver consentono a un computer o altro dispositivo di comunicare con il sistema operativo, in questo caso MS-DOS. Possono essere preconfigurati con Windows o richiedere l'installazione da un DVD incluso nell'hardware.",
+    "DetailedInformation": "I file DVD vengono spesso confusi con i file video che contengono una copia di un film su un disco. I file video vengono normalmente salvati come file VOB, nonostante il supporto sia denominato DVD. I driver e i file DVD a volte sono già installati su Windows. Tuttavia, potrebbe essere necessario installare manualmente i driver in alcune occasioni. Questa operazione viene solitamente eseguita con l'aiuto di un disco o di un altro supporto fornito con il dispositivo. Sui loro siti Web, diverse aziende forniscono anche download di driver per i loro prodotti.",
+    "Softwaresused": [
+        {
+            "platform": "finestre",
+            "softwares": [
+                {
+                    "name": "Microsoft MS-DOS",
+                    "link": "https://www.microsoft.com/en-us/p/ms-dos-mobile/9nblgggxzdtw?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/XxsKREw.jpeg",
+                    "type": "Gratuito"
+                }
+            ]
+        }
+    ]
+}

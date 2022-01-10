@@ -1,0 +1,100 @@
+{
+    "Format": "WMA",
+    "ShortName": "WMA",
+    "FullName": "Windows Media Audio File",
+    "Category": "แฟ้มเสียง",
+    "Pros": "จนถึงขณะนี้ไมโครซอฟท์ได้เผยแพร่ WMA แปดฉบับ, กับรุ่นต่อไปนี้ WMA 7 สนับสนุนการเข้ารหัสใบรับรองเพื่อปกป้องลิขสิทธิ์เพลง, ซึ่งนักดนตรีและผู้เผยแพร่เพลงอาจมีกำไรมากที่สุดจาก.WMA อาจบีบอัดเสียงในอัตราที่สูงขึ้น, ทำให้สามารถเก็บเสียงคุณภาพสูงในขณะที่ใช้พื้นที่น้อยลง.",
+    "Cons": "เมื่อคุณบีบอัดเสียงด้วยตัวแปลงสัญญาณ WMA คุณมักจะสูญเสียคุณภาพบางอย่างWMA อยู่ไกลจากที่สมบูรณ์แบบสำหรับผู้บริโภคที่สนใจเกี่ยวกับคุณภาพเสียง, แต่พวกเขาสามารถเลือก FLAC (ฟรี Lossless Audio Codec) หรือ APE (ที่รู้จักกันทั่วไปว่าเป็นเสียงของลิง) แทน.ไมโครซอฟท์เป็นเจ้าของมาตรฐาน WMA และปฏิเสธที่จะแบ่งปันกับ บริษัท อื่น",
+    "Createdby": "ไมโครซอฟท์",
+    "CreatedbyLink": "https://developer.microsoft.com/en-us/",
+    "CreatedInYear": "1999",
+    "BasicInformation": "แฟ้ม WMA คือไฟล์เสียงที่บันทึกไว้ในรูปแบบ Advanced Systems Format (ASF) ที่เป็นกรรมสิทธิ์ของ Microsoftซึ่งรวมถึง Windows Media Audio รวมถึงองค์ประกอบข้อมูลเมตา เช่น ชื่อเพลง ศิลปิน อัลบั้ม และประเภทไฟล์ WMA มีความคล้ายคลึงกับไฟล์ MP3 ในการที่พวกเขามักจะใช้ในการสตรีมเพลงผ่านทางอินเทอร์เน็ต",
+    "DetailedInformation": "รูปแบบไฟล์นี้ถูกสร้างขึ้นเพื่อแข่งขันกับรูปแบบ MP3 และ RealAudio ที่รู้จักกันดีความนิยมของไฟล์ WMA สำหรับการใช้งานกับการเล่นวิดีโอบนเครื่องเล่นดีวีดีเช่นเดียวกับคุณสมบัติการเล่นวิดีโอบนโทรศัพท์มือถือ/อุปกรณ์พกพาสำหรับ Playstation และ Nokia มีส่วนทำให้เกิดความสำเร็จของพวกเขาแม้ว่าไฟล์ WMA ส่วนใหญ่จะสูญเสียไป แต่บางรูปแบบอนุญาตให้มีการบีบอัดแบบไม่สูญเสียข้อมูลASF เป็นรูปแบบคอนเทนเนอร์เพลงและวิดีโอดิจิตอลที่เป็นกรรมสิทธิ์ที่พัฒนาโดยไมโครซอฟท์มันใช้ถ้ามันมี Windows Media Video มากกว่า Windows Media AudioWMV เป็นส่วนขยายรูปแบบวิดีโอแฟ้ม WMA และ WMV สามารถใช้แทนกันได้อย่างไรก็ตาม ไฟล์ ASF จะถูกใช้บ่อยขึ้น ",
+    "Softwaresused": [
+        {
+            "platform": "ลินุกซ์",
+            "softwares": [
+                {
+                    "name": "หวงแหน",
+                    "link": "https://audacious-media-player.org/",
+                    "image": "/assets/fileimg/6WTDOAw.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "วินโดวส์",
+            "softwares": [
+                {
+                    "name": "โปรแกรมดูไฟล์พลัส — รับได้จากไมโครซอฟท์",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "ฟรีเมียม"
+                },
+                {
+                    "name": "โปรแกรมเล่นสื่อ Windows ของ Microsoft",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "นัลล์ซอฟท์ วินแอมป์",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "Xilisoft แปลงวิดีโอที่ดีที่สุด",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg"
+                },
+                {
+                    "name": "Google Chrome พร้อมปลั๊กอิน Windows Media Player",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "โปรแกรมเล่น Apple QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "ฟรีที่มาพร้อมกับ OS"
+                },
+                {
+                    "name": "เอลติมาเอลมีเดียเพลเยอร์",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "โอเปร่ากับปลั๊กอิน TheFlip4Mac WMV",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "ฟรี"
+                },
+                {
+                    "name": "แปลงสมาร์ท ShedWorx",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "ทดลองใช้ฟรี"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "โอลิมซอฟท์ โอเพลเยอร์",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "จ่ายแล้ว"
+                }
+            ]
+        }
+    ]
+}

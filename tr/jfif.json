@@ -1,0 +1,95 @@
+{
+    "Format": "JFIF",
+    "ShortName": "JFIF",
+    "FullName": "JPEG File Interchange Format",
+    "Category": "Raster Görüntü Dosyaları",
+    "Pros": "Çok popüler bir format. Sıkıştırma, küçük bir dosya boyutu ile sonuçlanan yüksek, kontrollü bir seviyede. Biçim uyumludur ve tüm tarayıcılarda, metin ve grafik programlarında, tüm bilgisayarlarda, tabletlerde ve mobil cihazlarda doğru şekilde görüntülenir. Çok sayıda renk ve kontrast geçişiyle tam renkli gerçekçi görüntüleri destekler. Küçük bir tutarlılık derecesine sahip yüksek kaliteli görüntü.",
+    "Cons": "Görüntüyü sıkıştırdığınızda, tek tek karelere “ayrılabilir” - 808 piksel bloklar. Bu, sıkıştırma algoritmasının komşu pikselleri analiz etmesi nedeniyle oluşur. pürüzsüz renk — geçişler sertleşebilir veya basitçe kaybolabilir. JPEG, net sınırlara sahip metin veya tek renkli grafiklerle çalışmak için daha az uygundur. Şablonlar, logolar ve düğmeler oluştururken gerekli olsa da bu biçim saydamlığı desteklemez. Görüntünün kalitesi, sonraki her sıkıştırma adımında düşer.",
+    "Createdby": "C-cube Mikrosistemler ve Ortak Fotoğraf Uzmanları Grubu",
+    "CreatedbyLink": "https://jpeg.org/",
+    "CreatedInYear": "2011",
+    "BasicInformation": "JFIF dosyası JPEG ile sıkıştırılmış bir bitmap grafiğidir. Standardın bir varyantı ile korunmuş. JPEG dosya formatı, az miktarda veri depolamak ve platformlar ve uygulamalar arasında kolay aktarım sağlamak amacıyla oluşturuldu. JPEG Dosya Değişim Biçimi, JPEG Dosya Değişim Formatı için kısaltmadır.",
+    "DetailedInformation": "JFIF biçimi, orijinal JPEG formatında eksik olan birçok özelliği belirtir. Kullanıcılar, standart üstbilgi, çözünürlük ve en boy oranı ve renk modeli içeren bu özellikleri tanımladıktan sonra JPEG sıkıştırmasını kullanarak dosyaları kaydedip paylaşabildiler. Görüntüleri JFIF formatında kaydetmek için kullanılan birçok dijital kamera. Bununla birlikte, JPEG formatı zamanla geliştikçe, JFIF standardı büyük ölçüde eskimiş hale geldi.",
+    "Softwaresused": [
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Microsoft Fotoğrafları",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg"
+                },
+                {
+                    "name": "ACD Sistemleri ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "Ücretsiz deneme"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple Önizlemesi",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Ücretsiz, işletim sistemi ile birlikte"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "ACD Sistemleri ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "Ücretsiz deneme"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        }
+    ]
+}

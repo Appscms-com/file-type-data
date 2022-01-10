@@ -1,0 +1,95 @@
+{
+    "Format": "JFIF",
+    "ShortName": "JFIF",
+    "FullName": "JPEG File Interchange Format",
+    "Category": "光柵圖像文件",
+    "Pros": "一個非常受歡迎的格式。在高、受控級別進行壓縮，導致文件大小較小。格式兼容並在所有瀏覽器、文本和圖形程序、所有計算機、平板電腦和移動設備上正確顯示。支持具有大量色彩和對比度過渡的全綵色逼真圖像。高質量的圖像，具有較小程度的一致性。",
+    "Cons": "當你壓縮圖像時，它可能會「崩潰」成單個正方塊-808 像素塊。出現這種情況的原因是壓縮算法分析相鄰像素。平滑的顏色 — 過渡可能變得苛刻或簡單地消失。JPEG 不太適合處理具有清晰邊界的文本或單色圖形。此格式不支持透明度，即使在創建模板、徽標和按鈕時是必需的。隨着每個後續壓縮步驟，圖像的質量都會下降。",
+    "Createdby": "C-立方微系統和聯合攝影專家組",
+    "CreatedbyLink": "https://jpeg.org/",
+    "CreatedInYear": "2011",
+    "BasicInformation": "JFIF 文件是使用 JPEG 壓縮的位圖圖形。它用標準的變體保留。創建 JPEG 文件格式的目的是存儲少量數據，並允許在平台和應用之間輕鬆傳輸。JPEG 文件交換格式是 JPEG 文件交換格式的縮寫。",
+    "DetailedInformation": "JFIF 格式指定了原始 JPEG 格式中缺少的許多特徵。在定義了這些特性後，用户能夠使用 JPEG 壓縮來保存和共享文件，其中包括標準標題、分辨率和縱橫比以及顏色模型。許多數碼相機用於保存 JFIF 格式的圖像。然而，隨着 JPEG 格式隨着時間的推移而改進，JFIF 標準基本上已經過時。",
+    "Softwaresused": [
+        {
+            "platform": "視窗",
+            "softwares": [
+                {
+                    "name": "微軟照片",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                },
+                {
+                    "name": "莫茲拉火狐",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "歌劇",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "谷歌瀏覽器",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg"
+                },
+                {
+                    "name": "ACD 系統參見",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "免費試用"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "蘋果預覽",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "免費，隨操作系統一起提供"
+                },
+                {
+                    "name": "莫茲拉火狐",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "歌劇",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "谷歌瀏覽器",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "免費"
+                },
+                {
+                    "name": "ACD 系統參見",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "免費試用"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "谷歌瀏覽器",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "免費"
+                }
+            ]
+        }
+    ]
+}

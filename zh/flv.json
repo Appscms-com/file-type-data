@@ -1,0 +1,135 @@
+{
+    "Format": "FLV",
+    "ShortName": "FLV",
+    "FullName": "Flash Video File",
+    "Category": "视频文件",
+    "Pros": "电影、在线演示、横幅广告、互联网动画以及Flash的其他用途只是其中的几个例子。超过90％的网站访问者将能够看到它。Flash 文件通常很小，下载起来很简单。在宽带和拨号连接以及较旧、速度较慢的系统上都可以看到闪存。可以轻松地将各种视频文件转换为Flash格式。",
+    "Cons": "创建 Flash 内容既昂贵又耗时。由于搜索引擎蜘蛛无法识别 Flash 文件，因此它们不会有助于网站优化。访问包含 Flash 的网页时，访问者可能会遇到更长的等待时间，尤其是在使用拨号连接的情况下。",
+    "Createdby": "Adobe 系统",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "2003",
+    "BasicInformation": "以 Adobe Flash 视频 (FLV) 容器格式保存的视频文件称为 FLV 文件。短报头、同步的音频和视频数据流（以与标准 Flash.SWF 格式的流相同的方式编码）和元数据包都会被存储。",
+    "DetailedInformation": "Adobe Systems 的 Flash 视频格式广泛用于 YouTube、Hulu、Vevo 等网站上的在线视频以及其他各种流媒体视频服务。Adobe Flash Player（包括浏览器插件）和第三方软件几乎可以在所有操作系统（iOS 除外）上读取和观看 FLV 文件。随着 2003 年 Adobe Flash Player 7 的发布，FLV 格式得以推出。Adobe Flash Player 主要使用它来提供在线视频内容，例如电影和电视剧集。另一方面，FLV 是一种开放格式，受到各种非 Adobe/Macromedia 应用程序的支持。Flash 视频导出器插件（与 Adobe Animate 一起提供）或任何支持 FLV 文件的程序都可以用来制作 Flash 视频内容并将其导出为 FLV 文件。使用 Adobe Media Encoder，用户现在可以对各种视频格式进行编码，例如 QuickTime 或 Windows Media。随着 2010 年代在线技术的进步，Flash 的缺陷（包括性能和安全漏洞）变得越来越明显。由于 Flash Player 和 FLV 格式的使用直线下降，Adobe 和众多在线浏览器制造商于 2020 年 12 月 31 日正式停止对 Flash 的支持。",
+    "Softwaresused": [
+        {
+            "platform": "Linux的",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC 媒体播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "RealNetworks",
+                    "link": "https://www.real.com/in",
+                    "image": "/assets/fileimg/FdqTl1x.jpeg",
+                    "type": "免费增值"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — 从微软获取",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "免费增值"
+                },
+                {
+                    "name": "VideoLan VLC 媒体播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "Xilisoft 视频转换器旗舰版",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg",
+                    "type": "免费试用"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "媒体播放器经典",
+                    "link": "https://github.com/clsid2/mpc-hc/",
+                    "image": "/assets/fileimg/PLx4Opv.jpeg",
+                    "type": "免费"
+                }
+            ]
+        },
+        {
+            "platform": "苹果电脑",
+            "softwares": [
+                {
+                    "name": "苹果 QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "免费，包含在操作系统中"
+                },
+                {
+                    "name": "Adobe Animate CC 2019",
+                    "link": "https://www.adobe.com/products/animate.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/pqcWQ2F.jpeg",
+                    "type": "免费试用"
+                },
+                {
+                    "name": "Eltima Elmedia 播放器",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "VideoLan VLC 媒体播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免费"
+                }
+            ]
+        },
+        {
+            "platform": "iOS系统",
+            "softwares": [
+                {
+                    "name": "RealNetworks 实时：视频制作者",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "免费增值"
+                }
+            ]
+        },
+        {
+            "platform": "安卓",
+            "softwares": [
+                {
+                    "name": "BIT Labs 简单 MP4 视频播放器",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "antvPlayer 媒体转换器",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "J2 交互式 MX 播放器",
+                    "link": "https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en",
+                    "image": "/assets/fileimg/Cjoa7OB.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "RealNetworks 实时视频制作器",
+                    "link": "https://play.google.com/store/apps/details?id=com.real.RealPlayerCloud",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "免费增值"
+                }
+            ]
+        }
+    ]
+}

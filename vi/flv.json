@@ -1,0 +1,135 @@
+{
+    "Format": "FLV",
+    "ShortName": "FLV",
+    "FullName": "Flash Video File",
+    "Category": "Tập tin video",
+    "Pros": "Phim, bài thuyết trình trực tuyến, quảng cáo biểu ngữ, hoạt hình Internet và các mục đích sử dụng khác cho Flash chỉ là một vài ví dụ. Hơn 90% khách truy cập trang web sẽ có thể nhìn thấy nó. Các tệp Flash thường nhỏ và đơn giản để tải xuống. Flash có thể được nhìn thấy trên cả kết nối băng thông rộng và quay số, cũng như trên các hệ thống cũ hơn, chậm hơn. Một loạt các tệp video có thể được chuyển đổi sang định dạng Flash một cách dễ dàng.",
+    "Cons": "Có thể tốn kém và tốn thời gian để tạo nội dung Flash. Bởi vì nhện công cụ tìm kiếm không xác định các tệp Flash, chúng không góp phần tối ưu hóa trang web. Khi truy cập một trang web có tính năng Flash, khách truy cập có thể gặp phải thời gian chờ dài hơn, đặc biệt nếu họ đang sử dụng kết nối quay số.",
+    "Createdby": "Hệ thống Adobe",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "2003",
+    "BasicInformation": "Tệp video được lưu ở định dạng vùng chứa Adobe Flash Video (FLV) được gọi là tệp FLV. Một tiêu đề ngắn, luồng dữ liệu âm thanh và video được đồng bộ hóa (được mã hóa giống như các luồng ở định dạng Flash.SWF tiêu chuẩn) và các gói siêu dữ liệu đều được lưu trữ.",
+    "DetailedInformation": "Định dạng video Flash của Adobe Systems được sử dụng rộng rãi cho các video trực tuyến trên các trang web như YouTube, Hulu, Vevo và một loạt các dịch vụ video trực tuyến khác. Adobe Flash Player (bao gồm cả trình cắm trình duyệt) và phần mềm của bên thứ ba có thể đọc và xem các tệp FLV trên hầu hết mọi hệ điều hành (ngoại trừ iOS). Với việc phát hành Adobe Flash Player 7 vào năm 2003, định dạng FLV đã được ra mắt. Adobe Flash Player chủ yếu sử dụng nó để cung cấp nội dung video trực tuyến như phim và các tập phim truyền hình. Mặt khác, FLV là một định dạng mở được hỗ trợ bởi nhiều ứng dụng không phải Adobe/Macromedia. Trình cắm Flash Video Exporter (có sẵn với Adobe Animate) hoặc bất kỳ chương trình nào hỗ trợ tệp FLV có thể được sử dụng để sản xuất nội dung Flash Video và xuất nó dưới dạng tệp FLV. Với Adobe Media Encoder, giờ đây người dùng có thể mã hóa các định dạng video khác nhau như QuickTime hoặc Windows Media. Khi các công nghệ trực tuyến tiên tiến trong những năm 2010, các sai sót của Flash, bao gồm các lỗ hổng hiệu suất và bảo mật, ngày càng trở nên rõ ràng. Adobe và nhiều nhà sản xuất trình duyệt trực tuyến chính thức ngừng hỗ trợ Flash vào ngày 31 tháng 12 năm 2020, khi việc sử dụng Flash Player và định dạng FLV giảm mạnh.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "RealNetworks RealPlayer đám mây",
+                    "link": "https://www.real.com/in",
+                    "image": "/assets/fileimg/FdqTl1x.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "các cửa sổ",
+            "softwares": [
+                {
+                    "name": "Trình xem tệp Plus - Tải nó từ Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Xilisoft Video Converter",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg",
+                    "type": "Dùng thử miễn phí"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg"
+                },
+                {
+                    "name": "Media Player cổ điển",
+                    "link": "https://github.com/clsid2/mpc-hc/",
+                    "image": "/assets/fileimg/PLx4Opv.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Máy nghe nhạc Apple QuickTime",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Miễn phí, đi kèm với hệ điều hành"
+                },
+                {
+                    "name": "Adobe Animate 2019",
+                    "link": "https://www.adobe.com/products/animate.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/pqcWQ2F.jpeg",
+                    "type": "Dùng thử miễn phí"
+                },
+                {
+                    "name": "Trình phát Eltima Elmedia",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "RealNetworks RealTimes: Trình tạo video",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "BIT Labs Trình phát video MP4 đơn giản",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "antvplayer Media Converter",
+                    "link": "https://play.google.com/store/apps/details?id=com.AndroidA.MediaConverter&hl=en",
+                    "image": "/assets/fileimg/qwnEy06.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Trình phát MX tương tác J2",
+                    "link": "https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en",
+                    "image": "/assets/fileimg/Cjoa7OB.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Trình tạo video RealNetworks RealTimes",
+                    "link": "https://play.google.com/store/apps/details?id=com.real.RealPlayerCloud",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

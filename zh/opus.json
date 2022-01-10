@@ -1,0 +1,88 @@
+{
+    "Format": "OPUS",
+    "ShortName": "OPUS",
+    "FullName": "Opus Audio File",
+    "Category": "音频文件",
+    "Pros": "允许通过多个通道更快地传输数据。声音质量测试表明，它可以在不同的比特率和采样率下更有效地恢复原始声音。确保在各种情况下都能保持一致的性能。面向未来的架构，适用于众多电信服务。适应声音信息类型。可以部分补偿传输过程中的质量损失，从而实现连续的实时数据传输，不会中断。 ",
+    "Cons": "多个应用程序不支持。Opus 编解码器并不常见。",
+    "Createdby": "Xiph.ORG ",
+    "CreatedbyLink": "https://www.xiph.org/",
+    "CreatedInYear": "2012",
+    "BasicInformation": "Opus 是由来自 Xiph.org 基金会（Mozilla 公司）和 Skype Technologies S.A.（微软）的专家团队制作的新编解码器。它具有MP3的所有优点，同时最大程度地减少了缺陷。Opus 结合了 CELT 和 SILK 的编解码器。",
+    "DetailedInformation": "OPUS文件是以Opus格式（有时称为 “Ogg Opus”）创建的有损音频文件，专为互联网流媒体而设计。它支持从 6 kb/s 到 510 kb/s 的不同比特率，并同时使用 SILK（由 Skype 使用）和 CELT（来自 Xiph.org）编解码器。IP语音（VoIP）、视频会议和游戏内聊天均采用Opus编解码器。IETF定义了广泛使用的Opus格式。IETF 标准化了由 Xiph.org 维护的 Opus 格式。由于 Opus 编解码器主要用于流式传输，因此扩展名为.opus 的文件并不常见。",
+    "Softwaresused": [
+        {
+            "platform": "Linux的",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC 媒体播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免费"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — 从微软获取",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "免费增值"
+                },
+                {
+                    "name": "VideoLan VLC 媒体播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "AIMP",
+                    "link": "http://www.aimp2.us/",
+                    "image": "/assets/fileimg/sOBpiyF.jpeg",
+                    "type": "免费"
+                },
+                {
+                    "name": "Foobar2000",
+                    "link": "https://www.foobar2000.org/",
+                    "image": "/assets/fileimg/c2PuNRk.jpeg"
+                },
+                {
+                    "name": "Opus 工具",
+                    "link": "https://www.opus-codec.org/downloads/",
+                    "image": "/assets/fileimg/7xNWYRA.jpeg",
+                    "type": "免费"
+                }
+            ]
+        },
+        {
+            "platform": "苹果电脑",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC 媒体播放器",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "免费"
+                }
+            ]
+        },
+        {
+            "platform": "安卓",
+            "softwares": [
+                {
+                    "name": "安卓版文件查看器",
+                    "link": "",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "免费增值"
+                },
+                {
+                    "name": "Opus Player",
+                    "link": "https://play.google.com/store/apps/details?id=com.littlepako.opusplayer3&hl=en_US&gl=US",
+                    "image": "/assets/fileimg/irCSU4s.jpeg",
+                    "type": "免费"
+                }
+            ]
+        }
+    ]
+}

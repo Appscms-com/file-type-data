@@ -1,0 +1,206 @@
+{
+    "Format": "PNG",
+    "ShortName": "PNG",
+    "FullName": "Portable Network Graphics",
+    "Category": "Bitmap-Bildgrafikformat",
+    "Pros": "Der Kompressionsverlust wird auf ein Minimum beschränkt. Jedes Kompressionsverhältnis hat keinen Einfluss auf die Bildqualität. Das Format eignet sich hervorragend zum Speichern von Zwischenversionen des Images. Die Qualität eines Bilds geht nicht verloren, wenn es erneut gespeichert wird. PNG unterstützt eine Vielzahl von Farben. Es ermöglicht mehrere Transparenzstufen. Die Fähigkeit, mit Schichten zu arbeiten. Die Möglichkeit, der Datei Metadaten hinzuzufügen. Die Größe der Dateien ist klein.",
+    "Cons": "Ungeeignet für die Arbeit mit Vollfarbfotos. Es können nicht viele Bilder in einer einzigen Datei gespeichert werden. Erlaubt keine Animation.",
+    "Createdby": "Gruppe PNG-Entwicklung",
+    "CreatedbyLink": "http://www.libpng.org/pub/png/",
+    "CreatedInYear": "1996",
+    "BasicInformation": "Eine Bilddatei, die im Format Portable Network Graphic (PNG) gespeichert ist, wird als PNG-Datei bezeichnet. Es enthält eine verlustfreie komprimierte Bitmap, vergleichbar mit der einer GIF-Datei. Webgrafiken, digitale Bilder und Bilder mit durchscheinendem Hintergrund werden normalerweise als PNG-Dateien gespeichert. Ursprünglich sollte das PNG-Bildformat das GIF-Bildformat ersetzen, da beide transparente Hintergründe unterstützen. Die Verwendung indizierter Farben und die verlustfreie Kompression sind eine weitere Ähnlichkeit zwischen den beiden. PNG-Dateien hingegen unterliegen nicht denselben urheberrechtlichen Beschränkungen.",
+    "DetailedInformation": "Auf einem karierten Hintergrund wird ein PNG-Bild mit einer 8-Bit-Transparenzebene (oben) (unten) überlagert. PNG verwendet Deflation, eine nicht patentierte verlustfreie Datenkomprimierungstechnik. PNG kann Bilder in den meisten Fällen effizienter komprimieren als GIF, aber einige Implementierungen verwenden unzureichende Filtermethoden, was zu unnötig großen PNG-Dateien führt. Es gibt drei Arten von Transparenz im PNG-Format: eine für indizierte Farbbilder und zwei für Graustufen- oder Echtfarbenbilder. Gammawerte, Hintergrundfarbe und Textinhalt sind Bildattribute, die in PNG-Dateien aufgezeichnet werden können. Der Standard erlaubt bis zu 16 Bit pro Kanal, die meisten Kunden benötigen jedoch nur 8 Bit pro Kanal. Zum Speichern von Bildern ist das PNG-Format weit verbreitet, insbesondere im Internet. Es kann 24-Bit-RGB- oder 32-Bit-RGBA-Farbbilder (RGB mit einem vierten Alphakanal) verarbeiten, die indiziert sind (palettenbasiert). Vollfarbige, nicht indizierte RGB- oder RGBA-Fotos sowie Graustufenbilder werden vom Format unterstützt. PNG-Dateien können von einer Vielzahl von Computerbenutzern angetroffen werden, unabhängig davon, ob sie ein Bild von einer Website herunterladen, ein an eine E-Mail angehängtes digitales Foto erhalten oder einen Screenshot machen. Für die Verwendung im Internet speichern Grafikdesigner Grafiken häufig als PNG-Dateien. Sie verwenden auch PNG-Dateien, um durchscheinende Logo- oder Icon-Mockups zu speichern, die über andere Bilder gelegt werden können.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Kostenlos "
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Edge-Technologie",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Microsoft-Fotos",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Kostenlos, im Betriebssystem enthalten"
+                },
+                {
+                    "name": "Microsoft Windows Foto-Viewer",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "Kostenlos, im Betriebssystem enthalten"
+                },
+                {
+                    "name": "Microsoft Paint",
+                    "link": "https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9",
+                    "image": "/assets/fileimg/AuNqAKT.jpeg",
+                    "type": "Kostenlos, im Betriebssystem enthalten"
+                },
+                {
+                    "name": "Microsoft Paint",
+                    "link": "https://www.microsoft.com/en-us/p/paint-3d/9nblggh5fv99?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/7Z9sNdy.jpeg"
+                },
+                {
+                    "name": "ACD-Systeme | ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/acdsee.png",
+                    "type": "Kostenlose Testversion"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple-Vorschau",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Kostenlos, im Betriebssystem enthalten"
+                },
+                {
+                    "name": "Apple Fotos",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "Kostenlos, im Betriebssystem enthalten"
+                },
+                {
+                    "name": "Apfel-Safari",
+                    "link": "https://www.apple.com/safari/",
+                    "image": "/assets/fileimg/PePZ5cb.jpeg",
+                    "type": "Kostenlos, im Betriebssystem enthalten"
+                },
+                {
+                    "name": "Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Kostenlose Testversion"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Google Fotos",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Kostenlos  "
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft OneDrive",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "Kostenlose Testversion"
+                },
+                {
+                    "name": "Photoshop Express",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop-express/id331975235?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Kostenlose Testversion"
+                },
+                {
+                    "name": "Pixelmator 2",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/HmizpGb.jpeg",
+                    "type": "Bezahlt"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Dateibetrachter für Android",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Google Fotos",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Kostenlos  "
+                },
+                {
+                    "name": "Microsoft OneDrive",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Photoshop Express",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Kostenlos"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Fotos",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "Kostenlos  "
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Kostenlos"
+                },
+                {
+                    "name": "Chrome OS",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "Kostenlos, im Betriebssystem enthalten"
+                }
+            ]
+        }
+    ]
+}

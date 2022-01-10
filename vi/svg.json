@@ -1,0 +1,152 @@
+{
+    "Format": "SVG",
+    "ShortName": "SVG",
+    "FullName": "Scalable Vector Graphics File",
+    "Category": "Tập tin hình ảnh vector",
+    "Pros": "Kích thước là khá nhỏ. Nó là linh hoạt tức là bạn có thể ngay lập tức thay đổi các thiết lập đồ họa trên trang web bằng cách sử dụng CSS, chẳng hạn như màu nền hoặc vị trí của logo trên trang. Khả năng mở rộng không làm giảm chất lượng hình ảnh. Cung cấp hỗ trợ trình duyệt.",
+    "Cons": "Nếu đối tượng chứa một số lượng đáng kể các yếu tố nhỏ, kích thước tệp sẽ phát triển rất nhanh. Không thể đọc chỉ là một phần của một thứ đồ họa, bạn phải đọc đối tượng hoàn chỉnh, làm chậm bạn.",
+    "Createdby": "Hệ thống Adobe",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "2001",
+    "BasicInformation": "SVG, hay Scalable Vector Graphics, là một định dạng tệp đồ họa vector hai chiều dựa trên XML. World Wide Web Consortium (W3C) đã thiết kế nó vào năm 1999 như một định dạng tiêu chuẩn để trình bày hình ảnh vector trên Internet. Nó sử dụng một định dạng văn bản dựa trên XML để mô tả hình ảnh. Các tệp SVG đang được phát triển như một tiêu chuẩn web để hiển thị đồ họa vector.",
+    "DetailedInformation": "Định dạng SVG là một tiêu chuẩn mở được tạo bởi World Wide Web Consortium (W3C), với Adobe đóng một vai trò quan trọng. Các sản phẩm Adobe Creative Suite như Illustrator và GoLive có thể sản xuất và xuất hình ảnh SVG. SVG cho phép người dùng tìm kiếm, lập chỉ mục, kịch bản và nén hình ảnh, cho phép tương tác và hoạt hình. Bởi vì các tệp SVG là tệp XML, các trình soạn thảo văn bản có thể truy cập, tạo và chỉnh sửa chúng, tuy nhiên phần mềm vẽ là trình tạo điển hình nhất của loại tệp này. Có thể nén dữ liệu lossless với các tệp SVG. Chúng hỗ trợ văn bản cũng như đồ họa raster và vector. SVG là một tiêu chuẩn XML xác định đồ họa dựa trên vectơ để sử dụng internet. Chất lượng hình ảnh không bị ảnh hưởng bởi phóng to và thay đổi kích thước. Các tệp SVG có thể được hoạt hình trong tất cả các thành phần và phần của nó. Tiêu chuẩn W3C (bao gồm DOM và XSL) được bao gồm trong các tập tin SVG được khuyến nghị bởi W3C. Hình ảnh vector, chẳng hạn như hình ảnh có định dạng tệp SVG, được tạo thành từ các bộ biểu mẫu được xác định trước, cho phép hình ảnh sắc nét hơn khi phóng to và thu nhỏ.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Free "
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Inkscape",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "KolourPaint",
+                    "link": "http://kolourpaint.sourceforge.net/",
+                    "image": "/assets/fileimg/3JbciOH.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "các cửa sổ",
+            "softwares": [
+                {
+                    "name": "Trình xem tệp Plus - Tải nó từ Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Inkscape",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Free "
+                },
+                {
+                    "name": "Adobe Photoshop",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg"
+                },
+                {
+                    "name": "Adobe Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Dùng thử miễn phí"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Inkscape",
+                    "link": "https://inkscape.org/",
+                    "image": "/assets/fileimg/69oMRM0.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Free "
+                },
+                {
+                    "name": "Adobe Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Dùng thử miễn phí"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Trình xem tệp dành cho Android",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Free"
+                }
+            ]
+        }
+    ]
+}

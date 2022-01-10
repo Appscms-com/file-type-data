@@ -1,0 +1,206 @@
+{
+    "Format": "PNG",
+    "ShortName": "PNG",
+    "FullName": "Portable Network Graphics",
+    "Category": "बिट-मैप इमेज ग्राफ़िक्स फॉर्मेट",
+    "Pros": "संपीड़न हानि को नंगे न्यूनतम पर रखा जाता है। किसी भी संपीड़न अनुपात का छवि गुणवत्ता पर कोई प्रभाव नहीं पड़ता है। प्रारूप छवि के मध्यवर्ती संस्करणों को संग्रहीत करने के लिए उत्कृष्ट है। छवि की गुणवत्ता फिर से सहेजे जाने पर खो नहीं जाती है। PNG भारी संख्या में रंगों का समर्थन करता है। यह पारदर्शिता के कई स्तरों की अनुमति देता है। परतों के साथ काम करने की क्षमता। फ़ाइल मेटा-डेटा में जोड़ने की क्षमता। फाइलों का आकार छोटा है।",
+    "Cons": "पूर्ण-रंगीन तस्वीरों के साथ काम करने के लिए अनुपयुक्त। एक फ़ाइल में कई छवियों को सहेज नहीं सकते। एनीमेशन की अनुमति नहीं देता है।",
+    "Createdby": "पीएनजी डेवलपमेंट ग्रुप",
+    "CreatedbyLink": "http://www.libpng.org/pub/png/",
+    "CreatedInYear": "1996",
+    "BasicInformation": "पोर्टेबल नेटवर्क ग्राफ़िक (PNG) प्रारूप में सहेजी गई छवि फ़ाइल को PNG फ़ाइल के रूप में जाना जाता है। इसमें एक दोषरहित संपीड़ित बिटमैप होता है, जो कि.GIF फ़ाइल की तुलना में होता है। वेब ग्राफिक्स, डिजिटल चित्र और पारभासी पृष्ठभूमि वाली छवियां आमतौर पर PNG फ़ाइलों के रूप में सहेजी जाती हैं। मूल रूप से, PNG छवि प्रारूप का उद्देश्य GIF छवि प्रारूप को बदलना था क्योंकि वे दोनों पारदर्शी पृष्ठभूमि का समर्थन करते हैं। अनुक्रमित रंगों और दोषरहित संपीड़न का उपयोग दोनों के बीच एक और समानता है। दूसरी ओर, PNG फ़ाइलें समान कॉपीराइट प्रतिबंधों के अधीन नहीं हैं।",
+    "DetailedInformation": "चेकर्ड बैकग्राउंड पर ओवरले किया गया एक पीएनजी इमेज है जिसमें 8-बिट ट्रांसपेरेंसी लेयर (टॉप) (बॉटम) होती है। पीएनजी अपस्फीति को नियोजित करता है, एक गैर-पेटेंट दोषरहित डेटा संपीड़न तकनीक। पीएनजी ज्यादातर मामलों में जीआईएफ की तुलना में छवियों को अधिक कुशलता से संपीड़ित कर सकता है, लेकिन कुछ कार्यान्वयन अपर्याप्त फ़िल्टर विधियों का उपयोग करते हैं, जिसके परिणामस्वरूप अनावश्यक रूप से बड़ी पीएनजी फाइलें होती हैं। PNG प्रारूप में तीन प्रकार की पारदर्शिता होती है- एक अनुक्रमित, रंगीन छवियों के लिए, और दो ग्रेस्केल या ट्रू-कलर छवियों के लिए। गामा मान, पृष्ठभूमि का रंग, और पाठ्य सामग्री सभी छवि विशेषताएँ हैं जिन्हें PNG फ़ाइलों में रिकॉर्ड किया जा सकता है। मानक प्रति चैनल 16 बिट तक की अनुमति देता है, हालांकि, अधिकांश ग्राहकों को प्रति चैनल केवल 8 बिट्स की आवश्यकता होती है। छवियों को सहेजने के लिए, पीएनजी प्रारूप का व्यापक रूप से उपयोग किया जाता है, खासकर इंटरनेट पर। यह 24-बिट आरजीबी या 32-बिट आरजीबीए (चौथे अल्फा चैनल के साथ आरजीबी) रंगीन छवियों को संभाल सकता है जो अनुक्रमित (पैलेट-आधारित) हैं। पूर्ण-रंग, गैर-अनुक्रमित आरजीबी या आरजीबीए फोटो, साथ ही ग्रेस्केल छवियां, प्रारूप द्वारा समर्थित हैं। PNG फ़ाइलों का सामना विभिन्न प्रकार के कंप्यूटर उपयोगकर्ताओं द्वारा किया जा सकता है, चाहे वे किसी वेबसाइट से एक छवि डाउनलोड कर रहे हों, एक ईमेल से जुड़ी डिजिटल फोटो प्राप्त कर रहे हों, या स्क्रीनशॉट ले रहे हों। वेब उपयोग के लिए, ग्राफिक डिजाइनर अक्सर ग्राफिक्स को PNG फ़ाइलों के रूप में सहेजते हैं। वे पारभासी लोगो या आइकन मॉकअप को बचाने के लिए पीएनजी फाइलों को भी नियोजित करते हैं जिन्हें अन्य चित्रों पर मढ़ा जा सकता है।",
+    "Softwaresused": [
+        {
+            "platform": "लिनक्स",
+            "softwares": [
+                {
+                    "name": "जिम्प",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "मुफ़्त "
+                },
+                {
+                    "name": "गूगल क्रोम",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट एज",
+                    "link": "https://www.microsoft.com/en-us/edge?ranMID=24542&ranEAID=4LioSo*jxMc&ranSiteID=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&epi=4LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200%29%287593%29%281243925%29%284LioSo.jxMc-8cApDvsVIlYVzCtlYhBrpQ%29%28%29&irclickid=_ubj0vvercgkfqjqvkk0sohzzz32xuukxg3nupsf200",
+                    "image": "/assets/fileimg/2DVHHaP.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "मोज़िला फ़ायरफ़ॉक्स",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "माइक्रोसॉफ्ट फोटोज",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट विंडोज फोटो व्यूअर",
+                    "link": "https://support.microsoft.com/en-us/windows/photo-viewer-for-windows-10-ff861e89-d4a7-146d-19d0-1b117b94ffc2",
+                    "image": "/assets/fileimg/FSHZ7pW.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट पेंट",
+                    "link": "https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9",
+                    "image": "/assets/fileimg/AuNqAKT.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट पेंट 3D",
+                    "link": "https://www.microsoft.com/en-us/p/paint-3d/9nblggh5fv99?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/7Z9sNdy.jpeg"
+                },
+                {
+                    "name": "एसीडी सिस्टम्स एसीडीएसई",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/acdsee.png",
+                    "type": "निःशुल्क आज़माइश"
+                }
+            ]
+        },
+        {
+            "platform": "मैक",
+            "softwares": [
+                {
+                    "name": "Apple प्रीव्यू",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "Apple फोटो",
+                    "link": "https://www.apple.com/macos/photos/",
+                    "image": "/assets/fileimg/b18tt3b.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "एपल सफारी",
+                    "link": "https://www.apple.com/safari/",
+                    "image": "/assets/fileimg/PePZ5cb.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                },
+                {
+                    "name": "एडोब फोटोशॉप 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "गूगल क्रोम",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "आईओएस",
+            "softwares": [
+                {
+                    "name": "गूगल फोटोज",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "मुफ़्त  "
+                },
+                {
+                    "name": "गूगल ड्राइव",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट वनड्राइव",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "एडोब फोटोशॉप एक्सप्रेस",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop-express/id331975235?ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "निःशुल्क आज़माइश"
+                },
+                {
+                    "name": "पिक्सेलमेटर 2",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/HmizpGb.jpeg",
+                    "type": "अदा"
+                }
+            ]
+        },
+        {
+            "platform": "एंड्रॉयड",
+            "softwares": [
+                {
+                    "name": "Android के लिए फ़ाइल व्यूअर",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "गूगल ड्राइव",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "गूगल फोटोज",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "मुफ़्त  "
+                },
+                {
+                    "name": "माइक्रोसॉफ्ट वनड्राइव",
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage",
+                    "image": "/assets/fileimg/BV8ML15.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "एडोब फोटोशॉप एक्सप्रेस",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "गूगल फोटोज",
+                    "link": "https://www.google.com/photos/about/",
+                    "image": "/assets/fileimg/xbfyrdU.jpeg",
+                    "type": "मुफ़्त  "
+                },
+                {
+                    "name": "गूगल क्रोम",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "मुफ़्त"
+                },
+                {
+                    "name": "क्रोम ओएस",
+                    "link": "https://www.google.com/chromebook/chrome-os/",
+                    "image": "/assets/fileimg/ZTI2NTv.jpeg",
+                    "type": "नि: शुल्क, OS के साथ शामिल"
+                }
+            ]
+        }
+    ]
+}

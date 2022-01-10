@@ -1,0 +1,164 @@
+{
+    "Format": "AVI",
+    "ShortName": "AVI",
+    "FullName": "Audio Video Interleave File",
+    "Category": "Videobestand",
+    "Pros": "Opmerkelijk uitstekende geluidskwaliteit. Er zijn talloze codecs die kunnen worden gebruikt om de juiste verhouding te bereiken tijdens het online comprimeren van bestanden. Omdat het door Microsoft is gemaakt, kan het worden afgespeeld op alle belangrijke Microsoft- en niet-Microsoft-besturingssystemen. In tegenstelling tot andere audio/videoformaten kan de DV-AVI-standaard worden gecomprimeerd. Het vereist geen specifieke hardware of software. Vanwege de compressiecapaciteit wordt het AVI-videoformaat het meest gebruikt voor promo's, korte films en reclame. Voor masterbestanden is de kwaliteit die behouden blijft bij AVI goed.",
+    "Cons": "Veel mensen raken gefrustreerd als ze de codec niet kunnen vinden van een veilige, gerenommeerde bron. Gebruikers kunnen de onderbreking van hun ervaring ongewenst vinden, zelfs als die bronnen beschikbaar zijn. In vergelijking met andere bestandsindelingen kunnen AVI-bestanden behoorlijk groot zijn als ze niet worden gecomprimeerd. Wanneer u een AVI-bestand online comprimeert boven specifieke limieten, lijdt de videokwaliteit eronder. Gebruikersinteractie wordt niet ondersteund. Ondersteunt geen softsubs.",
+    "Createdby": "Microsoft",
+    "CreatedbyLink": "https://developer.microsoft.com/en-us/",
+    "CreatedInYear": "1992",
+    "BasicInformation": "Een AVI-bestand is een videobestand dat is opgeslagen in het door Microsoft gemaakte Audio Video Interleave (AVI) multimediacontainerformaat. Het bevat video- en audiobestanden die zijn gecodeerd in verschillende codecs, waaronder DivX en Xvid. AVI-bestanden kunnen worden afgespeeld met verschillende videospelers, waaronder Microsoft Movies & TV, Windows Media Player en Apple QuickTime Player, die allemaal vooraf zijn geïnstalleerd met hun respectieve besturingssystemen.",
+    "DetailedInformation": "Het AVI-formaat is gebaseerd op het Resource Interchange File Format (RIFF), een containerformaat voor het opslaan van multimedia dat voor het eerst werd uitgebracht in 1991. Microsoft creëerde het AVI-formaat een jaar later in 1992 en het wordt nog steeds veel gebruikt. Het wordt ondersteund door een breed scala aan videospelers, maar om de video succesvol te laten afspelen, moet de speler de codec ondersteunen die wordt gebruikt om de videogegevens te coderen. Om gelijktijdig afspelen te ondersteunen, combineert AVI audio en video in een enkel bestand in een gemeenschappelijke container. Het voordeel is de eenvoudige architectuur, die het mogelijk maakt om te functioneren op verschillende besturingssystemen, waaronder Windows, Macs, Linux en Unix, en wordt ondersteund door alle grote webbrowsers.Het kan video en audio van hoge kwaliteit opslaan en maakt gebruik van minder compressie dan andere videoformaten zoals.MPEG en.MOV.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC-mediaspeler",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Xine",
+                    "link": "https://sourceforge.net/projects/xine/",
+                    "image": "/assets/fileimg/11To9CR.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Kodi",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Ramen",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Download het van Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft Windows mediaspeler",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "Microsoft Films en tv",
+                    "link": "https://www.microsoft.com/en-us/p/movies-tv/9wzdncrfj3p2?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/fVyIEs4.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "VideoLan VLC-mediaspeler",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "Kodi",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple QuickTime-speler",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "VideoLan VLC-mediaspeler",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Kodi",
+                    "link": "https://kodi.tv/",
+                    "image": "/assets/fileimg/XLdMM90.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Adobe Premiere Pro 2020",
+                    "link": "https://www.adobe.com/products/premiere.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/RUVWLwB.jpeg",
+                    "type": "Gratis proefversie"
+                },
+                {
+                    "name": "Eltima Elmedia-speler",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Videolan VLC voor mobiel",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "olimsoft speler",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Betaald"
+                },
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Google Drive",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Videolabs VLC voor Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "BIT Labs eenvoudige MP4-videospeler",
+                    "link": "https://play.google.com/store/apps/details?id=air.br.com.bitlabs.VideoPlayer&hl=en",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Drive",
+                    "link": "https://www.google.com/drive/",
+                    "image": "/assets/fileimg/bC8ZzSs.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

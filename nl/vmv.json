@@ -1,0 +1,48 @@
+{
+    "Format": "VMV",
+    "ShortName": "VMV",
+    "FullName": "VisualBoyAdvance Recording",
+    "Category": "Game-bestanden",
+    "Pros": "n/a",
+    "Cons": "n/a",
+    "Createdby": "Visual Boy Advance",
+    "CreatedbyLink": "https://visualboyadvance.en.softonic.com/",
+    "CreatedInYear": "N/A",
+    "BasicInformation": "VisualBoyAdvance, een Gameboy Advance-emulator, heeft een game-opname gemaakt die toetsaanslagen en andere gegevens opslaat waarmee de opname opnieuw op de emulator kan worden afgespeeld. De opname wordt opgeslagen in een eigen formaat dat niet kan worden afgespeeld door standaard videospelers.",
+    "DetailedInformation": "Het VMV-formaat dat door VisualBoyAdvance wordt gebruikt, is niet compatibel met het VMV-formaat dat wordt gebruikt door VirtuaNES.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Visual Boy Advance",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Ramen",
+            "softwares": [
+                {
+                    "name": "Visual Boy Advance",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Visual Boy Advance",
+                    "link": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+                    "image": "/assets/fileimg/YmBdG16.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        }
+    ]
+}

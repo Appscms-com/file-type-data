@@ -1,0 +1,66 @@
+{
+    "Format": "AFF",
+    "ShortName": "AFF",
+    "FullName": "Advanced Forensics Format",
+    "Category": "डाटा फाइल्स",
+    "Pros": "खुला और एक्स्टेंसिबल। पेटेंट से मुक्त। संकुचित और तलाश करने योग्य। डबल लेयर्ड। फ्लेक्सिबल।",
+    "Cons": "लोकप्रिय नहीं है। पारदर्शिता का अभाव। ",
+    "Createdby": "सिमसन गारफिंकेल और बेसिस टेक्नोलॉजी",
+    "CreatedbyLink": "https://www.basistech.com/",
+    "CreatedInYear": "2005-2006",
+    "BasicInformation": "एएफएफ फ़ाइल एक स्पेलचेक डिक्शनरी फ़ाइल है जिसका उपयोग फ्री ऑफिस सूट प्रोग्राम किंग्सॉफ्ट डब्ल्यूपीएस ऑफिस और अपाचे ओपनऑफिस द्वारा किया जाता है। इसमें.dic spellcheck शब्दकोश फ़ाइल के बारे में जानकारी है जो इसके साथ आती है।",
+    "DetailedInformation": "AFF और DIC फ़ाइलों का उपयोग इतालवी और फ्रेंच सहित विभिन्न भाषाओं के लिए WPS कार्यालय में नए वर्तनी जाँच शब्दकोशों को जोड़ने के लिए किया जाता है। आमतौर पर, उपयोगकर्ता डाउनलोड करेंगे। ज़िप शब्दकोश पैकेजों की सामग्री निकालें जिसमें AFF और DIC फ़ाइलें हैं, फिर उन्हें WPS Office में स्थापित करें।",
+    "Softwaresused": [
+        {
+            "platform": "लिनक्स",
+            "softwares": [
+                {
+                    "name": "किंग्सॉफ्ट डब्ल्यूपीएस ऑफिस",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "अपाचे ओपनऑफिस",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "किंग्सॉफ्ट डब्ल्यूपीएस ऑफिस",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "अपाचे ओपनऑफिस",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        },
+        {
+            "platform": "मैक",
+            "softwares": [
+                {
+                    "name": "किंग्सॉफ्ट डब्ल्यूपीएस ऑफिस",
+                    "link": "https://www.wps.com/office/",
+                    "image": "/assets/fileimg/FYEygcW.jpeg",
+                    "type": "फ़्रीमियम"
+                },
+                {
+                    "name": "अपाचे ओपनऑफिस",
+                    "link": "http://www.openoffice.org/",
+                    "image": "/assets/fileimg/JEuwwVE.jpeg",
+                    "type": "मुफ़्त"
+                }
+            ]
+        }
+    ]
+}

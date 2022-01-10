@@ -1,0 +1,153 @@
+{
+    "Format": "AAC",
+    "ShortName": "AAC",
+    "FullName": "Advanced Audio Coding File",
+    "Category": "Ses dosyası",
+    "Pros": "Günümüzde, daha fazla cihaz AAC'den haberdardır. Kodlanmış dosya boyutları daha azdır. Standardizasyonun amacı yerine getirildi. Ses kalitesi MP3'den üstündür. Ürün yaygın olarak mevcuttur. Akış Bant Genişliği Sınırlıdır. Çok çeşitli cihazlarla uyumluluk. Çok çeşitli kodlama seçenekleri mevcuttur.",
+    "Cons": "Kodlamak uzun zaman alıyor. Kodlama işlemi sırasında CPU yoğun olarak kullanılır. Kod çözme sırasında CPU kullanımı biraz daha yüksektir. Dosya Organizasyonu Daha Karmaşık hale geldi. Daha az olsa bile, yine de kaybeden. Donanım Desteği sınırlıdır. Dosyaları Etiketleme Her Zaman Uyumlu Değildir. Kayıpsız Orijinal Dosyalardan AAC Kodlamak için Çok Pahalı Olabilir. MP3 hala AAC'den daha “standart” olarak kabul edilir.",
+    "Createdby": "Hareketli Resim Uzmanları Grubu",
+    "CreatedbyLink": "https://mpeg.chiariglione.org/",
+    "CreatedInYear": "1997",
+    "BasicInformation": "Orta ila yüksek bit hızlarında ses kodlaması için AAC (Gelişmiş Ses Kodlama), MP3 (ISO/MPEG Ses Katmanı-3) (ISO/MPEG Ses Katmanı-3) 'nin mantıksal halefidir. Bu sıkıştırılmış ses formatı bir MP3 dosyasıyla karşılaştırılabilir, ancak birkaç performans avantajı vardır. Hem kararlı hem de geçici sinyaller için daha yüksek kodlama verimliliği, daha küçük bir filtre bankası ve 16 kHz'in ötesinde frekansların daha iyi kullanımı sadece birkaç örnektir.",
+    "DetailedInformation": "Apple iTunes ve iTunes Music Store varsayılan kodlama olarak Gelişmiş Ses Kodlaması (AAC) kullanır. AAC algoritmasının konsepti, yüksek kaliteli dijital ses iletmek için gereken veri miktarını büyük ölçüde en aza indirmek için iki temel kodlama şeması kullanmaktır. AAC dosyaları MP3 dosyalarından daha fazla örnek frekansının yanı sıra 48 kanala kadar, üstün kodlama ve filtre bankası verimliliği ve daha iyi geçici sinyal kodlama doğruluğuna sahiptir. MP3 dosyaları gibi AAC dosyaları, insan kulağının işleyemediği ses frekanslarını kaldırarak daha küçük ve daha yönetilebilir dosyalar elde edilir. AAC dosyaları, dosya alanı açısından MP3 dosyalarından büyük ölçüde daha azdır.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC Medya Oynatıcı",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Clementine",
+                    "link": "https://www.clementine-player.org/about",
+                    "image": "/assets/fileimg/F87GDJM.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "XMMS",
+                    "link": "http://www.xmms.org/",
+                    "image": "/assets/fileimg/hodO9zz.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Microsoft'tan edinin",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Ücretsiz deneme"
+                },
+                {
+                    "name": "VideoLan VLC Medya Oynatıcı",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "Ücretsiz"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple itunes",
+                    "link": "https://www.apple.com/itunes/",
+                    "image": "/assets/fileimg/rElyIoV.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "VideoLan VLC Medya Oynatıcı",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Adobe Audition CC 2021",
+                    "link": "https://www.adobe.com/products/audition.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/SJ29L8A.jpeg",
+                    "type": "Ücretsiz deneme"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "Roxio Tost 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "Ücretli"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Ücretli"
+                },
+                {
+                    "name": "RealNetworks RealTimes: Video Oluşturucu",
+                    "link": "https://apps.apple.com/us/app/realplayer-cloud-watch-video/id666575946",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "Android için dosya görüntüleyici",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Android için Videolabs VLC",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Ücretsiz"
+                },
+                {
+                    "name": "RealNetworks RealTimes: Video Oluşturucu",
+                    "link": "https://play.google.com/store/apps/details?id=com.real.RealPlayerCloud",
+                    "image": "/assets/fileimg/HAhjqEA.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

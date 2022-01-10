@@ -1,0 +1,100 @@
+{
+    "Format": "WMA",
+    "ShortName": "WMA",
+    "FullName": "Windows Media Audio File",
+    "Category": "Audiobestand",
+    "Pros": "Tot nu toe heeft Microsoft acht edities van WMA gepubliceerd, met edities na WMA 7 die certificaatversleuteling ondersteunen om muziekauteursrechten te beschermen, waar muzikanten en muziekuitgevers het meeste van kunnen profiteren. WMA kan audio met een hogere snelheid comprimeren, waardoor het audio van hoge kwaliteit kan opslaan terwijl er minder ruimte wordt gebruikt.",
+    "Cons": "Wanneer u audio comprimeert met de WMA-codec, verliest u meestal wat kwaliteit. WMA is verre van perfect voor consumenten die om geluidskwaliteit geven, maar ze kunnen in plaats daarvan kiezen voor FLAC (Free Lossless Audio Codec) of APE (algemeen bekend als monkey's audio). Microsoft is eigenaar van de WMA-standaard en weigert deze te delen met andere bedrijven.",
+    "Createdby": "Microsoft",
+    "CreatedbyLink": "https://developer.microsoft.com/en-us/",
+    "CreatedInYear": "1999",
+    "BasicInformation": "Een WMA-bestand is een audiobestand dat is opgeslagen in het eigen Advanced Systems Format (ASF) -formaat van Microsoft. Het bevat Windows Media Audio en metagegevenselementen zoals de titel, artiest, album en genre van de track. WMA-bestanden zijn vergelijkbaar met MP3-bestanden omdat ze meestal worden gebruikt om muziek via internet te streamen.",
+    "DetailedInformation": "Dit bestandsformaat is gemaakt om te concurreren met de bekende MP3- en RealAudio-formaten. De populariteit van WMA-bestanden voor gebruik met videoweergave op dvd-spelers en functies voor het afspelen van video's op mobiele/draagbare apparaten voor Playstation en Nokia hebben bijgedragen aan hun succes. Hoewel de meeste WMA-bestanden verliesloos zijn, maken sommige formaten compressie zonder verlies mogelijk. ASF is een eigen digitaal muziek- en videocontainerformaat ontwikkeld door Microsoft. Het maakt gebruik van de of het Windows Media Video bevat in plaats van Windows Media Audio. WMV is een extensie voor videoformaat. WMA- en WMV-bestanden zijn uitwisselbaar. ASF-bestanden worden echter vaker gebruikt. ",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "Gedurfd",
+                    "link": "https://audacious-media-player.org/",
+                    "image": "/assets/fileimg/6WTDOAw.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Ramen",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus — Download het van Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft Windows mediaspeler",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "Nullsoft Winamp",
+                    "link": "http://www.winamp.com/",
+                    "image": "/assets/fileimg/38J4iOl.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Xilisoft Video Converter Ultimate",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg"
+                },
+                {
+                    "name": "Google Chrome met Windows Media Player-plug-in",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Gratis"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple QuickTime-speler",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Gratis, inbegrepen bij OS"
+                },
+                {
+                    "name": "Eltima Elmedia-speler",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "Opera met de Flip4Mac WMV-plug-in",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Gratis"
+                },
+                {
+                    "name": "ShedWorx slimme converter",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "Gratis proefversie"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "olimsoft speler",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Betaald"
+                }
+            ]
+        }
+    ]
+}
